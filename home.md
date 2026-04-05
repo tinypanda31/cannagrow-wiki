@@ -1,7 +1,11 @@
 ---
 title: Home
 description: Welcome to CannaGrow — a free, neutral, and comprehensive educational encyclopedia about cannabis.
-tags: home, welcome, navigation
+published: true
+date: 2026-04-05T22:23:06.219Z
+tags: home, navigation, welcome
+editor: markdown
+dateCreated: 2026-04-05T06:52:30.689Z
 ---
 
 # Welcome to CannaGrow
@@ -92,7 +96,7 @@ All contributions are reviewed before publication. See our [Editorial Guidelines
 
 > [!TIP]
 > Use the **search bar** at the top of any page to find specific topics. Try searching for terms like "THC," "terpenes," "indoor growing," or "decriminalization."
-
+![gemini-svg.svg](/gemini-svg.svg)
 ---
 
 *Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*

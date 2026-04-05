@@ -1,7 +1,7 @@
 ---
 title: Bubble Gum
 description: Legendary hybrid strain of Indiana origin, known for sweet bubblegum and fruity aroma, balanced uplifting and relaxing effects, and mysterious genetics that spawned an entire strain family.
-tags: [hybrid, myrcene, caryophyllene, limonene, sweet, bubblegum, fruity, uplifting, legendary, balanced]
+tags: hybrid, myrcene, caryophyllene, limonene, sweet, bubblegum, fruity, uplifting, legendary, balanced
 ---
 
 # Bubble Gum

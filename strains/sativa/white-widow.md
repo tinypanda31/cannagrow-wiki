@@ -1,7 +1,7 @@
 ---
 title: White Widow
 description: Balanced sativa-leaning hybrid of Brazilian sativa x South Indian indica with THC 18-25%, myrcene-dominant profile, earthy-woody-pine aroma, and legendary white trichome coverage. Classic 1990s strain by Green House Seeds.
-tags: [balanced-hybrid, sativa-leaning, myrcene, pinene, caryophyllene, earthy, woody, pine, resinous, legendary, green-house-seeds, 1990s]
+tags: balanced-hybrid, sativa-leaning, myrcene, pinene, caryophyllene, earthy, woody, pine, resinous, legendary, green-house-seeds, 1990s
 ---
 
 # White Widow

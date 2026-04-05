@@ -1,7 +1,7 @@
 ---
 title: Toad
 description: Hybrid strain of unknown original Toad genetics, delivering fuel, earthy, and sweet aromatics with balanced effects transitioning to body-heavy relaxation. Foundational Toad genetics.
-tags: [hybrid, caryophyllene, myrcene, limonene, fuel, earthy, sweet, balanced, toad, foundational]
+tags: hybrid, caryophyllene, myrcene, limonene, fuel, earthy, sweet, balanced, toad, foundational
 ---
 
 # Toad

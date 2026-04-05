@@ -1,7 +1,7 @@
 ---
 title: Breath Mint
 description: Hybrid strain crossing Mints with Gelato Breath, delivering mint, sweet, and fuel aromatics with balanced euphoric and body effects.
-tags: [hybrid, caryophyllene, myrcene, limonene, mint, sweet, fuel, euphoric, balanced, mints]
+tags: hybrid, caryophyllene, myrcene, limonene, mint, sweet, fuel, euphoric, balanced, mints
 ---
 
 # Breath Mint

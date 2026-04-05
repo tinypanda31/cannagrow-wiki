@@ -1,7 +1,7 @@
 ---
 title: Rodelizer
 description: Sativa-dominant hybrid strain with unknown genetics and ruderalis influence, delivering sweet, earthy, and floral aromatics with energetic and creative effects.
-tags: [hybrid, sativa-dominant, terpinolene, caryophyllene, myrcene, sweet, earthy, floral, energetic, creative, ruderalis]
+tags: hybrid, sativa-dominant, terpinolene, caryophyllene, myrcene, sweet, earthy, floral, energetic, creative, ruderalis
 ---
 
 # Rodelizer

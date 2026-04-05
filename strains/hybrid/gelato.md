@@ -1,7 +1,7 @@
 ---
 title: Gelato
 description: Influential Bay Area hybrid of Sunset Sherbet and Thin Mint GSC, known for high potency, sweet-fruity-lavender dessert-like flavor, and balanced euphoric-body effects.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, fruity, euphoric, balanced]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, fruity, euphoric, balanced
 ---
 
 # Gelato

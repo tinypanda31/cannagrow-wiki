@@ -1,7 +1,7 @@
 ---
 title: Thin Mint Cookies
 description: Indica-leaning hybrid phenotype of Girl Scout Cookies lineage, known for its mint sweet profile with euphoric body relaxation effects.
-tags: [hybrid, indica-leaning, caryophyllene, myrcene, limonene, mint, sweet, earthy, euphoric]
+tags: hybrid, indica-leaning, caryophyllene, myrcene, limonene, mint, sweet, earthy, euphoric
 ---
 
 # Thin Mint Cookies

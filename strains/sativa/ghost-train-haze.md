@@ -1,7 +1,7 @@
 ---
 title: Ghost Train Haze
 description: Sativa-dominant cross of Ghost OG and Neville's Wreck, one of the most potent sativa strains available with THC reaching 28%, known for citrus-sour-pine aroma and extremely intense cerebral effects.
-tags: [sativa, terpinolene, myrcene, caryophyllene, potent, cerebral, citrus]
+tags: sativa, terpinolene, myrcene, caryophyllene, potent, cerebral, citrus
 ---
 
 # Ghost Train Haze

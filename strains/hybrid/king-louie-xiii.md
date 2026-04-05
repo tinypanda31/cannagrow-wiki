@@ -1,7 +1,7 @@
 ---
 title: King Louie XIII
 description: Hybrid strain of Alien Tech lineage, delivering earthy, tropical, and sweet aromatics with balanced effects bridging mental engagement and body relaxation.
-tags: [hybrid, caryophyllene, myrcene, limonene, earthy, tropical, sweet, balanced, alien-tech, euphoric]
+tags: hybrid, caryophyllene, myrcene, limonene, earthy, tropical, sweet, balanced, alien-tech, euphoric
 ---
 
 # King Louie XIII

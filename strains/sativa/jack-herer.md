@@ -1,7 +1,7 @@
 ---
 title: Jack Herer
 description: Sativa-dominant hybrid named after the legendary cannabis activist, a cross involving Haze, Northern Lights #5, and Shiva Skunk, with multiple Cannabis Cup wins.
-tags: [sativa-dominant, caryophyllene, terpinolene, pinene, creative, uplifting, cannabis-cup]
+tags: sativa-dominant, caryophyllene, terpinolene, pinene, creative, uplifting, cannabis-cup
 ---
 
 # Jack Herer

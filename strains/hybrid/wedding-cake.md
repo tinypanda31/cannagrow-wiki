@@ -1,7 +1,7 @@
 ---
 title: Wedding Cake
 description: Indica-dominant hybrid also known as Pink Cookies, a cross of Girl Scout Cookies and Cherry Pie, known for sweet-vanilla-earthy flavor, relaxing euphoric effects, and Cookies family genetics.
-tags: [hybrid, indica-dominant, limonene, myrcene, caryophyllene, sweet, vanilla, relaxing]
+tags: hybrid, indica-dominant, limonene, myrcene, caryophyllene, sweet, vanilla, relaxing
 ---
 
 # Wedding Cake (Pink Cookies)

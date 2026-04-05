@@ -1,7 +1,7 @@
 ---
 title: Northern Lights
 description: Pure indica landrace-derived strain from the Pacific Northwest, one of the most famous cannabis cultivars ever developed.
-tags: [indica, myrcene, relaxing, easy-grow, classic]
+tags: indica, myrcene, relaxing, easy-grow, classic
 ---
 
 # Northern Lights

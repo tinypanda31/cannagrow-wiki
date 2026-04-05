@@ -1,7 +1,7 @@
 ---
 title: Lemon OG
 description: Hybrid crossing OG Kush with Lemon Skunk, known for intense lemon-fuel-earthy aroma, balanced cerebral-body effects, and moderate growing profile.
-tags: [hybrid, limonene, myrcene, caryophyllene, lemon, fuel, earthy, balanced, cerebral, citrus]
+tags: hybrid, limonene, myrcene, caryophyllene, lemon, fuel, earthy, balanced, cerebral, citrus
 ---
 
 # Lemon OG

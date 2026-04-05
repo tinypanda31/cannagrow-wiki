@@ -1,7 +1,7 @@
 ---
 title: Blue Dream Haze
 description: Sativa cultivar created by crossing Blue Dream with Haze genetics, producing berry-citrus-herbal flavors and creative, energetic cerebral effects.
-tags: [sativa, terpinolene, pinene, caryophyllene, creative, energetic, berry]
+tags: sativa, terpinolene, pinene, caryophyllene, creative, energetic, berry
 ---
 
 # Blue Dream Haze

@@ -1,7 +1,7 @@
 ---
 title: Mendo Breath
 description: Indica-dominant hybrid crossing Mendo Purp with OG Kush Breath, known for grape-vanilla-earthy aroma, heavy body relaxation effects, and moderate growing difficulty.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, limonene, grape, vanilla, earthy, heavy-body, sedating, Mendo]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, limonene, grape, vanilla, earthy, heavy-body, sedating, Mendo
 ---
 
 # Mendo Breath

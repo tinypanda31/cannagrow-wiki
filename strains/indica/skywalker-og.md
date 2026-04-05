@@ -1,7 +1,7 @@
 ---
 title: Skywalker OG
 description: Indica-dominant hybrid cross of Skywalker and OG Kush, known for its high potency, spicy herbal jet fuel aroma, and deeply relaxing effects.
-tags: [indica-dominant, myrcene, limonene, caryophyllene, potent, og-kush]
+tags: indica-dominant, myrcene, limonene, caryophyllene, potent, og-kush
 ---
 
 # Skywalker OG

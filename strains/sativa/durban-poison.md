@@ -1,7 +1,7 @@
 ---
 title: Durban Poison
 description: Pure sativa landrace from Durban, South Africa, known as the 'coffee of cannabis' for its energizing effects, sweet anise aroma, and terpinolene-dominant profile.
-tags: [sativa, terpinolene, ocimene, energizing, landrace, focus, coffee-of-cannabis]
+tags: sativa, terpinolene, ocimene, energizing, landrace, focus, coffee-of-cannabis
 ---
 
 # Durban Poison

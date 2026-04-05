@@ -1,7 +1,7 @@
 ---
 title: Hypno
 description: Potent hybrid strain of unknown heavy genetics, delivering fuel, earthy, and sweet aromatics with sedating body effects best suited for evening use.
-tags: [hybrid, myrcene, caryophyllene, limonene, fuel, earthy, sweet, sedating, potent, heavy]
+tags: hybrid, myrcene, caryophyllene, limonene, fuel, earthy, sweet, sedating, potent, heavy
 ---
 
 # Hypno

@@ -1,7 +1,7 @@
 ---
 title: Gelato #33 (Larry Bird)
 description: Legendary hybrid strain created by Sherbinski, crossing Sunset Sherbet with Thin Mint GSC. Known for sweet, fruity, and lavender aromatics with balanced euphoric and body effects.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, fruity, lavender, euphoric, sherbinski, gelato]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, fruity, lavender, euphoric, sherbinski, gelato
 ---
 
 # Gelato #33 (Larry Bird)

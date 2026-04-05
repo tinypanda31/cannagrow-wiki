@@ -1,7 +1,7 @@
 ---
 title: Purple Train Wreck
 description: Sativa-dominant hybrid crossing Trainwreck with Mendocino Purps, delivering energetic and creative effects with spicy-grape-lemon aroma, THC 16-21%.
-tags: [sativa-dominant, trainwreck, mendocino-purps, terpinolene, caryophyllene, myrcene, spicy, grape, lemon, energetic, creative]
+tags: sativa-dominant, trainwreck, mendocino-purps, terpinolene, caryophyllene, myrcene, spicy, grape, lemon, energetic, creative
 ---
 
 # Purple Train Wreck

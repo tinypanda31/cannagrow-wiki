@@ -1,7 +1,7 @@
 ---
 title: Huck Finn
 description: Sativa-dominant hybrid with unknown genetics, known for pine-earthy-citrus aroma, energetic and creative effects, and moderate potency suited for daytime use.
-tags: [hybrid, sativa-dominant, terpinolene, caryophyllene, pinene, pine, earthy, citrus, energetic, creative, daytime]
+tags: hybrid, sativa-dominant, terpinolene, caryophyllene, pinene, pine, earthy, citrus, energetic, creative, daytime
 ---
 
 # Huck Finn

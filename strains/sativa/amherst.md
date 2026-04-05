@@ -1,7 +1,7 @@
 ---
 title: Amherst
 description: Sativa-dominant hybrid derived from Northern Lights #5 with THC 16-21%, terpinolene-forward terpene profile, and pine-sweet aroma. Energetic and focused effects.
-tags: [sativa-dominant, terpinolene, pinene, caryophyllene, pine, energetic, focused, northern-lights]
+tags: sativa-dominant, terpinolene, pinene, caryophyllene, pine, energetic, focused, northern-lights
 ---
 
 # Amherst

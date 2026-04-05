@@ -1,7 +1,7 @@
 ---
 title: OG Skunk
 description: Sativa-dominant hybrid crossing OG Kush with Skunk #1, delivering energetic and euphoric effects with fuel-skunky-earthy aroma, THC 16-21%.
-tags: [sativa-dominant, og-kush, skunk, myrcene, terpinolene, caryophyllene, fuel, skunky, earthy, energetic, euphoric]
+tags: sativa-dominant, og-kush, skunk, myrcene, terpinolene, caryophyllene, fuel, skunky, earthy, energetic, euphoric
 ---
 
 # OG Skunk

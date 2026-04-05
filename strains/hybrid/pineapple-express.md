@@ -1,7 +1,7 @@
 ---
 title: Pineapple Express
 description: Sativa-dominant hybrid cross of Trainwreck and Hawaiian, known for pineapple-tropical-citrus flavor, energetic euphoric effects, and fame from the 2008 film of the same name.
-tags: [hybrid, sativa-dominant, caryophyllene, myrcene, pineapple, tropical, energetic, euphoric]
+tags: hybrid, sativa-dominant, caryophyllene, myrcene, pineapple, tropical, energetic, euphoric
 ---
 
 # Pineapple Express

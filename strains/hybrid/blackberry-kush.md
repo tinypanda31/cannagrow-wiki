@@ -1,7 +1,7 @@
 ---
 title: Blackberry Kush
 description: Indica-dominant hybrid crossing Afghani with Blackberry genetics, known for berry-sweet flavor, deeply relaxing body effects, and classic indica growing profile.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, limonene, berry, sweet, relaxing, indica]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, limonene, berry, sweet, relaxing, indica
 ---
 
 # Blackberry Kush

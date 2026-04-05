@@ -1,7 +1,7 @@
 ---
 title: Magic Melon
 description: Indica-dominant cultivar of unknown genetics, delivering melon sweet fruity aromatics with relaxing body effects.
-tags: [indica-dominant, myrcene, caryophyllene, limonene, melon, sweet, fruity, relaxing]
+tags: indica-dominant, myrcene, caryophyllene, limonene, melon, sweet, fruity, relaxing
 ---
 
 # Magic Melon

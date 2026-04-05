@@ -1,7 +1,7 @@
 ---
 title: Silver Pearl
 description: Sativa-dominant hybrid crossing Northern Lights x Haze with unknown genetics, delivering energetic and focused effects with sweet-earthy-pine aroma, THC 16-21%.
-tags: [sativa-dominant, northern-lights, haze, terpinolene, caryophyllene, pinene, sweet, earthy, pine, energetic, focused]
+tags: sativa-dominant, northern-lights, haze, terpinolene, caryophyllene, pinene, sweet, earthy, pine, energetic, focused
 ---
 
 # Silver Pearl

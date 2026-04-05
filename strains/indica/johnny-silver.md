@@ -1,7 +1,7 @@
 ---
 title: Johnny Silver
 description: Indica-dominant strain of unknown genetics from the Pacific Northwest, known for its pine and diesel profile with potent body effects.
-tags: [indica-dominant, myrcene, pinene, caryophyllene, pine, earthy, diesel, potent]
+tags: indica-dominant, myrcene, pinene, caryophyllene, pine, earthy, diesel, potent
 ---
 
 # Johnny Silver

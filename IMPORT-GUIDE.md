@@ -308,7 +308,7 @@ Ensure all front matter follows this format:
 ---
 title: "Page Title"
 description: "Page description"
-tags: [tag1, tag2, tag3]
+tags: tag1, tag2, tag3
 ---
 ```
 

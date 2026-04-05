@@ -1,7 +1,7 @@
 ---
 title: Tangie
 description: Sativa-dominant cross of California Orange and Skunk-1, a second-generation descendant of Tangerine Dream, known for intense tangerine citrus aroma and uplifting creative effects.
-tags: [sativa, terpinolene, myrcene, limonene, tangerine, citrus, uplifting, creative]
+tags: sativa, terpinolene, myrcene, limonene, tangerine, citrus, uplifting, creative
 ---
 
 # Tangie

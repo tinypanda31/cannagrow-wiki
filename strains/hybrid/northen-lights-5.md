@@ -1,7 +1,7 @@
 ---
 title: Northern Lights #5
 description: Indica-dominant hybrid from Sensi Seeds' famous Afghani indica phenotype selection, known for sweet-earthy-spicy aroma, deeply relaxing effects, and legendary status as one of the most influential cannabis cultivars.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, pinene, sweet, earthy, spicy, relaxing, legendary, Sensi-Seeds]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, pinene, sweet, earthy, spicy, relaxing, legendary, Sensi-Seeds
 ---
 
 # Northern Lights #5

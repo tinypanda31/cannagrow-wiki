@@ -1,7 +1,7 @@
 ---
 title: Watermelon Zkittlez
 description: Indica-dominant hybrid crossing Zkittlez with Watermelon, delivering fruity, candy, and watermelon aromatics with calming body effects and dessert-forward character.
-tags: [hybrid, indica-dominant, humulene, caryophyllene, limonene, fruity, candy, watermelon, calming, zkittlez]
+tags: hybrid, indica-dominant, humulene, caryophyllene, limonene, fruity, candy, watermelon, calming, zkittlez
 ---
 
 # Watermelon Zkittlez

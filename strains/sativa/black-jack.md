@@ -1,7 +1,7 @@
 ---
 title: Black Jack
 description: Sativa-dominant hybrid crossing Black Domina with Jack Herer, combining heavy indica resin with creative sativa cerebral effects, THC 15-20% with caryophyllene-pinene dominance.
-tags: [sativa-dominant, caryophyllene, pinene, terpinolene, creative, energetic, earthy, pine]
+tags: sativa-dominant, caryophyllene, pinene, terpinolene, creative, energetic, earthy, pine
 ---
 
 # Black Jack

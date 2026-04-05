@@ -1,7 +1,7 @@
 ---
 title: Purple Mango
 description: Indica-dominant cross of Mango and Purple lineage, delivering tropical grape sweet aromatics with relaxing body effects.
-tags: [indica-dominant, myrcene, caryophyllene, limonene, tropical, grape, sweet, relaxing, mango, purple]
+tags: indica-dominant, myrcene, caryophyllene, limonene, tropical, grape, sweet, relaxing, mango, purple
 ---
 
 # Purple Mango

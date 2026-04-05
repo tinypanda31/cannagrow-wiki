@@ -1,7 +1,7 @@
 ---
 title: Tangie Sherbet
 description: Balanced hybrid crossing Tangie with Sherbert, known for citrus-sweet-berry aroma, uplifting then relaxing effects, and manageable indoor growing profile.
-tags: [hybrid, limonene, caryophyllene, myrcene, citrus, sweet, berry, uplifting, balanced]
+tags: hybrid, limonene, caryophyllene, myrcene, citrus, sweet, berry, uplifting, balanced
 ---
 
 # Tangie Sherbet

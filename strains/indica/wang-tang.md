@@ -1,7 +1,7 @@
 ---
 title: Wang Tang
 description: Rare indica cross of Afghani landrace genetics, known for its earthy hash profile and deeply relaxing effects.
-tags: [indica, myrcene, caryophyllene, earthy, hash, sweet, relaxing, rare, landrace]
+tags: indica, myrcene, caryophyllene, earthy, hash, sweet, relaxing, rare, landrace
 ---
 
 # Wang Tang

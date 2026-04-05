@@ -1,7 +1,7 @@
 ---
 title: God's Gift
 description: Heavy indica cross of Granddaddy Purple and OG Kush, known for its grape-citrus aroma and deeply sedating effects.
-tags: [indica, myrcene, pinene, caryophyllene, grape, sedating, potent]
+tags: indica, myrcene, pinene, caryophyllene, grape, sedating, potent
 ---
 
 # God's Gift

@@ -1,7 +1,7 @@
 ---
 title: Marker
 description: Indica-dominant cultivar from Seed Junky genetics crossing OG Kush, Afghani, and Skunk, delivering fuel and earthy aromatics with heavy body relaxation.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, fuel, earthy, citrus, relaxing, seed-junky, og-kush]
+tags: indica-dominant, caryophyllene, myrcene, limonene, fuel, earthy, citrus, relaxing, seed-junky, og-kush
 ---
 
 # Marker

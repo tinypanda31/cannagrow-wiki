@@ -1,7 +1,7 @@
 ---
 title: Super Silver Haze
 description: Sativa-dominant three-way cross of Skunk, Northern Lights, and Haze, three-time consecutive Cannabis Cup winner (1997-1999), known for energizing euphoric effects.
-tags: [sativa, terpinolene, caryophyllene, energizing, euphoric, haze, cannabis-cup]
+tags: sativa, terpinolene, caryophyllene, energizing, euphoric, haze, cannabis-cup
 ---
 
 # Super Silver Haze

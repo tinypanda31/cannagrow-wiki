@@ -1,7 +1,7 @@
 ---
 title: Blue Dream
 description: Extremely popular sativa-dominant hybrid of Blueberry and Haze from the West Coast, known for balanced full-body and head effects, berry-sweet aroma, and easy high-yield growing.
-tags: [hybrid, sativa-dominant, myrcene, caryophyllene, pinene, berry, balanced, easy-grow, high-yield]
+tags: hybrid, sativa-dominant, myrcene, caryophyllene, pinene, berry, balanced, easy-grow, high-yield
 ---
 
 # Blue Dream

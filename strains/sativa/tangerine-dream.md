@@ -1,7 +1,7 @@
 ---
 title: Tangerine Dream
 description: Sativa-dominant hybrid created by Barney's Farm crossing G13, Afghan Neville's A5 Haze, and Tangerine genetics, delivering energetic and creative effects with tangerine-citrus-earthy aroma, THC 15-20%.
-tags: [sativa-dominant, barneys-farm, g13, haze, tangerine, terpinolene, limonene, caryophyllene, tangerine, citrus, earthy, energetic, creative]
+tags: sativa-dominant, barneys-farm, g13, haze, tangerine, terpinolene, limonene, caryophyllene, tangerine, citrus, earthy, energetic, creative
 ---
 
 # Tangerine Dream

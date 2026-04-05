@@ -1,7 +1,7 @@
 ---
 title: "Genetics & Breeding"
 description: "Explore the genetic foundations of cannabis — from basic genetics and inheritance to breeding techniques, seed types, and the science behind autoflowering and photoperiod strains."
-tags: [genetics, breeding, seeds, autoflowering, photoperiod, phenotype, genotype, overview]
+tags: genetics, breeding, seeds, autoflowering, photoperiod, phenotype, genotype, overview
 ---
 
 > ⚠️ **Disclaimer:** This section is provided for educational purposes only. Cannabis cultivation and breeding may be illegal in your jurisdiction. Always verify and comply with local laws. This content does not constitute legal advice.

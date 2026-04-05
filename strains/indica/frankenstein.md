@@ -1,7 +1,7 @@
 ---
 title: Frankenstein (Funky Charms)
 description: Heavy indica strain of unknown genetics, known for its fuel-forward pungent aroma and deeply sedating effects.
-tags: [indica, myrcene, caryophyllene, fuel, earthy, pungent, sedating]
+tags: indica, myrcene, caryophyllene, fuel, earthy, pungent, sedating
 ---
 
 # Frankenstein (Funky Charms)

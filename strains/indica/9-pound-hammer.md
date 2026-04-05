@@ -1,7 +1,7 @@
 ---
 title: 9 Pound Hammer
 description: Heavy indica cross of Gooberry, Snipe, and Sweet Skunk, known for its grape candy sweetness and powerful sedating effects.
-tags: [indica, myrcene, caryophyllene, limonene, grape, sedating, easy-grow]
+tags: indica, myrcene, caryophyllene, limonene, grape, sedating, easy-grow
 ---
 
 # 9 Pound Hammer

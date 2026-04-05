@@ -1,7 +1,7 @@
 ---
 title: Amnesia Haze
 description: Sativa-dominant Haze variety with Jamaican, Laotian, Hawaiian, and Afghani genetics, a European favorite with long flowering time and uplifting creative effects.
-tags: [sativa, terpinolene, caryophyllene, myrcene, uplifting, creative, haze, long-flower]
+tags: sativa, terpinolene, caryophyllene, myrcene, uplifting, creative, haze, long-flower
 ---
 
 # Amnesia Haze

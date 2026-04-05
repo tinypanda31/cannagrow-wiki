@@ -1,7 +1,7 @@
 ---
 title: "Cannabis Genetics Basics"
 description: "A comprehensive guide to the fundamentals of cannabis genetics, including genotype vs. phenotype, subspecies classification, landraces, chemotypes, and modern genetic testing methods."
-tags: [genetics, genotype, phenotype, subspecies, landrace, chemotype, inheritance, indica, sativa, ruderalis]
+tags: genetics, genotype, phenotype, subspecies, landrace, chemotype, inheritance, indica, sativa, ruderalis
 ---
 
 # Cannabis Genetics Basics

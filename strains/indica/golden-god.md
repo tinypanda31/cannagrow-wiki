@@ -1,7 +1,7 @@
 ---
 title: Golden God
 description: Classic indica with Afghan landrace lineage, known for its sweet earthy hash aroma and deeply relaxing effects.
-tags: [indica, myrcene, caryophyllene, hash, relaxing, traditional]
+tags: indica, myrcene, caryophyllene, hash, relaxing, traditional
 ---
 
 # Golden God

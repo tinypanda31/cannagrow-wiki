@@ -1,7 +1,7 @@
 ---
 title: Lemon Haze
 description: Sativa-dominant hybrid of Lemon Skunk x Super Silver Haze with bright lemon-citrus-herbal aroma, delivering energetic, creative, and uplifting effects.
-tags: [hybrid, sativa-dominant, terpinolene, limonene, caryophyllene, lemon, citrus, energizing, creative]
+tags: hybrid, sativa-dominant, terpinolene, limonene, caryophyllene, lemon, citrus, energizing, creative
 ---
 
 # Lemon Haze

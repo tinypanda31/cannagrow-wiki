@@ -1,7 +1,7 @@
 ---
 title: Mimosa
 description: Sativa-dominant hybrid of Clementine x Purple Punch with bright citrus-orange-berry aroma, delivering uplifting cerebral effects followed by gentle body relaxation.
-tags: [hybrid, sativa-dominant, myrcene, caryophyllene, limonene, citrus, uplifting, energizing]
+tags: hybrid, sativa-dominant, myrcene, caryophyllene, limonene, citrus, uplifting, energizing
 ---
 
 # Mimosa

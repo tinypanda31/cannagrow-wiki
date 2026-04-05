@@ -1,7 +1,7 @@
 ---
 title: Runtz Muffin
 description: Hybrid crossing Zkittlez with Wedding Cake, known for sweet-fruity-candy aroma, balanced euphoric-body effects, and moderate growing difficulty.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, fruity, candy, euphoric, balanced, Zkittlez, Wedding-Cake]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, fruity, candy, euphoric, balanced, Zkittlez, Wedding-Cake
 ---
 
 # Runtz Muffin

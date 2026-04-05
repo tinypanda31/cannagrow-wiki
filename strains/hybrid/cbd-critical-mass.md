@@ -1,7 +1,7 @@
 ---
 title: CBD Critical Mass
 description: High-CBD indica-dominant hybrid bred for therapeutic relief, with CBD:THC balance, earthy-sweet-herbal aroma, and clear-headed effects designed for daytime medical use.
-tags: [hybrid, indica-dominant, high-CBD, caryophyllene, humulene, myrcene, earthy, sweet, herbal, clear-headed, medical, CBD-rich, balanced-ratio]
+tags: hybrid, indica-dominant, high-CBD, caryophyllene, humulene, myrcene, earthy, sweet, herbal, clear-headed, medical, CBD-rich, balanced-ratio
 ---
 
 # CBD Critical Mass

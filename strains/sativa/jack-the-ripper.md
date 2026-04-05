@@ -1,7 +1,7 @@
 ---
 title: Jack the Ripper
 description: Sativa-dominant hybrid created by TGA Subcool, also known as JTR (Jack's Cleaner x Vortex), delivering fast-acting cerebral effects with citrus-pine aroma, THC 16-21%.
-tags: [sativa-dominant, terpinolene, pinene, caryophyllene, citrus, pine, cerebral, fast-acting, tga-subcool]
+tags: sativa-dominant, terpinolene, pinene, caryophyllene, citrus, pine, cerebral, fast-acting, tga-subcool
 ---
 
 # Jack the Ripper (JTR)

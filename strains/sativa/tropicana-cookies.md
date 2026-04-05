@@ -1,7 +1,7 @@
 ---
 title: Tropicana Cookies
 description: Sativa-dominant cross of Girl Scout Cookies and Tangie, known for intense orange-citrus-sweet aroma, uplifting creative energetic effects, and THC up to 24%.
-tags: [sativa-dominant, limonene, caryophyllene, myrcene, orange, citrus, creative, energetic]
+tags: sativa-dominant, limonene, caryophyllene, myrcene, orange, citrus, creative, energetic
 ---
 
 # Tropicana Cookies

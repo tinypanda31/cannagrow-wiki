@@ -1,7 +1,7 @@
 ---
 title: UK Cheese
 description: Indica-dominant Skunk #1 phenotype from the UK, known for its sharp cheese earthy skunky aroma and uplifting then relaxing effects.
-tags: [indica-dominant, caryophyllene, humulene, myrcene, cheese, skunky, uplifting]
+tags: indica-dominant, caryophyllene, humulene, myrcene, cheese, skunky, uplifting
 ---
 
 # UK Cheese

@@ -1,7 +1,7 @@
 ---
 title: Cherry Gas
 description: Indica-dominant cross of Cherry Pie and gas-forward genetics, delivering cherry fuel sweet aromatics with euphoric then body-heavy effects.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, cherry, fuel, sweet, euphoric, cherry-pie]
+tags: indica-dominant, caryophyllene, myrcene, limonene, cherry, fuel, sweet, euphoric, cherry-pie
 ---
 
 # Cherry Gas

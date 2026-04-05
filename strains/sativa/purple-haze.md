@@ -1,7 +1,7 @@
 ---
 title: Purple Haze
 description: Sativa crossing Purple Thai with Haze, delivering creative and energetic effects with sweet-berry-earthy aroma, THC 15-20%, legendary strain name immortalized in popular culture.
-tags: [sativa, terpinolene, caryophyllene, myrcene, sweet, berry, earthy, creative, energetic, purple, legendary]
+tags: sativa, terpinolene, caryophyllene, myrcene, sweet, berry, earthy, creative, energetic, purple, legendary
 ---
 
 # Purple Haze

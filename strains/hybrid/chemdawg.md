@@ -1,7 +1,7 @@
 ---
 title: Chemdawg
 description: Legendary hybrid of mysterious origin, parent of Sour Diesel and OG Kush. Known for fuel-diesel aroma, potent cerebral effects, and foundational role in modern cannabis breeding.
-tags: [hybrid, caryophyllene, myrcene, limonene, fuel, diesel, euphoric, potent, legendary]
+tags: hybrid, caryophyllene, myrcene, limonene, fuel, diesel, euphoric, potent, legendary
 ---
 
 # Chemdawg

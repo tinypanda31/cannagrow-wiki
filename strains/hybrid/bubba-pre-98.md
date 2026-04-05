@@ -1,7 +1,7 @@
 ---
 title: Bubba Pre-98
 description: Indica-dominant hybrid representing a Pre-98 Bubba Kush phenotype, known for deeply sedating effects, coffee-earthy-sweet aroma, and classic old-school Kush character.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, limonene, coffee, earthy, sweet, sedating, heavy-body]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, limonene, coffee, earthy, sweet, sedating, heavy-body
 ---
 
 # Bubba Pre-98

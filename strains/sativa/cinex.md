@@ -1,7 +1,7 @@
 ---
 title: Cinex
 description: Sativa-dominant hybrid created by TGA Subcool, crossing Cinderella 99 with Vortex, known for energizing and focused effects with bright citrus-orange aroma, THC 15-22%.
-tags: [sativa-dominant, terpinolene, limonene, pinene, citrus, orange, energetic, focused, tga-subcool]
+tags: sativa-dominant, terpinolene, limonene, pinene, citrus, orange, energetic, focused, tga-subcool
 ---
 
 # Cinex

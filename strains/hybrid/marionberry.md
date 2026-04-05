@@ -1,7 +1,7 @@
 ---
 title: Marionberry
 description: Indica-dominant hybrid of Oregon origin with unknown genetics, known for berry-sweet-earthy aroma, relaxing body effects, and Pacific Northwest regional character.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, limonene, berry, sweet, earthy, relaxing, Oregon]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, limonene, berry, sweet, earthy, relaxing, Oregon
 ---
 
 # Marionberry

@@ -1,7 +1,7 @@
 ---
 title: Dutch Dragon
 description: Sativa-dominant hybrid of unknown Northern European origin, delivering energetic and creative effects with pine-earthy-spicy aroma, THC 16-21%.
-tags: [sativa-dominant, northern-european, terpinolene, caryophyllene, pinene, pine, earthy, spicy, energetic, creative]
+tags: sativa-dominant, northern-european, terpinolene, caryophyllene, pinene, pine, earthy, spicy, energetic, creative
 ---
 
 # Dutch Dragon

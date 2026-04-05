@@ -1,7 +1,7 @@
 ---
 title: Bubba Kush x Haze
 description: Sativa-dominant hybrid crossing Bubba Kush with Haze genetics, THC 16-21%, terpinolene-dominant profile with sweet, earthy, and spicy notes. Energetic onset followed by relaxing body finish.
-tags: [sativa-dominant, terpinolene, caryophyllene, myrcene, sweet, earthy, spicy, energetic, relaxing, haze]
+tags: sativa-dominant, terpinolene, caryophyllene, myrcene, sweet, earthy, spicy, energetic, relaxing, haze
 ---
 
 # Bubba Kush x Haze

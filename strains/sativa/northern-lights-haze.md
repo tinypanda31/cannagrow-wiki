@@ -1,7 +1,7 @@
 ---
 title: Northern Lights #5 x Haze
 description: Sativa-dominant hybrid created by Sensi Seeds crossing Northern Lights #5 with Haze, delivering energetic and creative effects with sweet-earthy-pine aroma, THC 16-21%.
-tags: [sativa-dominant, sensi-seeds, northern-lights, haze, terpinolene, caryophyllene, pinene, sweet, earthy, pine, energetic, creative]
+tags: sativa-dominant, sensi-seeds, northern-lights, haze, terpinolene, caryophyllene, pinene, sweet, earthy, pine, energetic, creative
 ---
 
 # Northern Lights #5 x Haze

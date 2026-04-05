@@ -1,7 +1,7 @@
 ---
 title: Grape Ape
 description: Indica cultivar by Apothecary Genetics crossing Mendocino Purps, Skunk, and Afghani, known for grape-berry aroma and heavy body relaxation.
-tags: [indica, myrcene, caryophyllene, limonene, grape, berry, purple, relaxing]
+tags: indica, myrcene, caryophyllene, limonene, grape, berry, purple, relaxing
 ---
 
 # Grape Ape

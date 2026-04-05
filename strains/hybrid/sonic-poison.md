@@ -1,7 +1,7 @@
 ---
 title: Sonic Poison
 description: Sativa-dominant hybrid of unknown genetics, delivering citrus, sweet, and spicy aromatics with energetic and focused effects ideal for daytime use.
-tags: [hybrid, sativa-dominant, terpinolene, caryophyllene, limonene, citrus, sweet, spicy, energetic, focused]
+tags: hybrid, sativa-dominant, terpinolene, caryophyllene, limonene, citrus, sweet, spicy, energetic, focused
 ---
 
 # Sonic Poison

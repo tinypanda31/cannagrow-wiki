@@ -1,7 +1,7 @@
 ---
 title: Critical Kush
 description: Indica cross of Critical Mass and OG Kush created by Barney's Farm, known for its earthy citrus profile and heavy body relaxation.
-tags: [indica, myrcene, caryophyllene, limonene, earthy, sweet, citrus, relaxing, easy-grow]
+tags: indica, myrcene, caryophyllene, limonene, earthy, sweet, citrus, relaxing, easy-grow
 ---
 
 # Critical Kush

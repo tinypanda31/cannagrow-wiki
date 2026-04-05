@@ -1,7 +1,7 @@
 ---
 title: Pineapple Haze
 description: Sativa-dominant hybrid of Pineapple x Haze lineage with THC 16-21%, terpinolene-dominant profile, tropical-pine-sweet aroma, and energetic, creative effects.
-tags: [sativa-dominant, terpinolene, myrcene, caryophyllene, tropical, pine, sweet, energetic, creative, haze]
+tags: sativa-dominant, terpinolene, myrcene, caryophyllene, tropical, pine, sweet, energetic, creative, haze
 ---
 
 # Pineapple Haze

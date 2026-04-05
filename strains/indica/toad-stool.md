@@ -1,7 +1,7 @@
 ---
 title: Toad Stool
 description: Indica-dominant cross of Toad and GMO Cookies, delivering fuel garlic earthy aromatics with a potent body high.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, fuel, garlic, earthy, potent, toad, gmo]
+tags: indica-dominant, caryophyllene, myrcene, limonene, fuel, garlic, earthy, potent, toad, gmo
 ---
 
 # Toad Stool

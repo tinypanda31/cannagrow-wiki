@@ -1,7 +1,7 @@
 ---
 title: Thai Stick
 description: Pure sativa landrace from Thailand, legendary Southeast Asian strain known for its traditional preparation method, sweet-earthy-spicy aroma, and extremely cerebral effects with 80-100+ day flowering.
-tags: [sativa, caryophyllene, terpinolene, landrace, cerebral, thailand, legendary, southeast-asia]
+tags: sativa, caryophyllene, terpinolene, landrace, cerebral, thailand, legendary, southeast-asia
 ---
 
 # Thai Stick

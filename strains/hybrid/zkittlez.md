@@ -1,7 +1,7 @@
 ---
 title: Zkittlez
 description: Indica-dominant hybrid of Grape Ape, Grapefruit, and undisclosed genetics, winner of Best Indica at the 2016 Emerald Cup, known for fruity-candy-tropical flavor and calming full-body effects.
-tags: [hybrid, indica-dominant, humulene, caryophyllene, limonene, fruity, candy, calming, emerald-cup]
+tags: hybrid, indica-dominant, humulene, caryophyllene, limonene, fruity, candy, calming, emerald-cup
 ---
 
 # Zkittlez

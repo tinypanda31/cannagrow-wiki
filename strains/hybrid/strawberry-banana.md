@@ -1,7 +1,7 @@
 ---
 title: Strawberry Banana
 description: Indica-dominant hybrid crossing Bubblegum with Banana, known for strawberry-banana-sweet aroma, relaxing body effects, and moderate growing difficulty.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, limonene, strawberry, banana, sweet, relaxing, body-effects, fruity]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, limonene, strawberry, banana, sweet, relaxing, body-effects, fruity
 ---
 
 # Strawberry Banana

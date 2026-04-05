@@ -1,7 +1,7 @@
 ---
 title: Backcountry Kush
 description: Pure indica cultivar of unknown heavy Afghani genetics, delivering earthy hash and sweet aromatics with deeply relaxing body effects.
-tags: [indica, myrcene, caryophyllene, limonene, earthy, hash, sweet, relaxing, afghani, landrace]
+tags: indica, myrcene, caryophyllene, limonene, earthy, hash, sweet, relaxing, afghani, landrace
 ---
 
 # Backcountry Kush

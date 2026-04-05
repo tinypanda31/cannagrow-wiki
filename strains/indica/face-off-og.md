@@ -1,7 +1,7 @@
 ---
 title: Face Off OG
 description: Indica-dominant OG Kush phenotype known for fuel-earth-pine aroma and deeply sedating body effects.
-tags: [indica-dominant, myrcene, limonene, caryophyllene, fuel, pine, sedating]
+tags: indica-dominant, myrcene, limonene, caryophyllene, fuel, pine, sedating
 ---
 
 # Face Off OG

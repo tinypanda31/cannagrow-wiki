@@ -1,7 +1,7 @@
 ---
 title: "Science of Cannabis"
 description: "Explore the scientific foundations of cannabis — the endocannabinoid system, cannabinoid chemistry, terpene biochemistry, receptor pharmacology, and the entourage effect."
-tags: [science, cannabinoids, terpenes, ECS, pharmacology, chemistry, overview]
+tags: science, cannabinoids, terpenes, ECS, pharmacology, chemistry, overview
 ---
 
 > ⚠️ **Disclaimer:** This section is provided for educational purposes only. It does not constitute medical advice. Cannabis effects and health impacts vary significantly by individual. Always consult qualified healthcare professionals for personal health decisions.

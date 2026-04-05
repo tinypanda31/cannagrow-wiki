@@ -1,7 +1,7 @@
 ---
 title: Mendo Moon Rock
 description: Pure indica cross of Mendo Purps and Moon Rock genetics, delivering grape berry earthy aromatics with heavy sedation.
-tags: [indica, myrcene, caryophyllene, limonene, grape, berry, earthy, sedating, mendo, moon-rock]
+tags: indica, myrcene, caryophyllene, limonene, grape, berry, earthy, sedating, mendo, moon-rock
 ---
 
 # Mendo Moon Rock

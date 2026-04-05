@@ -1,7 +1,7 @@
 ---
 title: Acapulco Gold
 description: Pure sativa landrace from Acapulco, Mexico, legendary for its golden hue, earthy-sweet toffee aroma, and energetic euphoric effects. A foundational strain in cannabis history.
-tags: [sativa, caryophyllene, myrcene, limonene, landrace, energetic, euphoric, mexico]
+tags: sativa, caryophyllene, myrcene, limonene, landrace, energetic, euphoric, mexico
 ---
 
 # Acapulco Gold

@@ -1,7 +1,7 @@
 ---
 title: Toxic Waste
 description: Hybrid strain crossing Chemdawg with unknown genetics, delivering fuel, diesel, and earthy aromatics with potent balanced effects and influential Chemdawg lineage.
-tags: [hybrid, caryophyllene, myrcene, limonene, fuel, diesel, earthy, potent, chemdawg, balanced]
+tags: hybrid, caryophyllene, myrcene, limonene, fuel, diesel, earthy, potent, chemdawg, balanced
 ---
 
 # Toxic Waste

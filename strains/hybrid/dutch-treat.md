@@ -1,7 +1,7 @@
 ---
 title: Dutch Treat
 description: Sativa-dominant hybrid from Northern Europe with unknown genetics, known for sweet-pine-eucalyptus aroma, uplifting euphoric effects, and manageable indoor growing profile.
-tags: [hybrid, sativa-dominant, terpinolene, myrcene, caryophyllene, sweet, pine, eucalyptus, euphoric, uplifting]
+tags: hybrid, sativa-dominant, terpinolene, myrcene, caryophyllene, sweet, pine, eucalyptus, euphoric, uplifting
 ---
 
 # Dutch Treat

@@ -1,7 +1,7 @@
 ---
 title: Cherry Pie
 description: Balanced hybrid with Granddaddy Purple x Durban Poison x OG Kush lineage, known for sweet cherry-grape-earthy aroma and well-rounded euphoric-body effects.
-tags: [hybrid, caryophyllene, myrcene, pinene, cherry, euphoric, balanced, grape]
+tags: hybrid, caryophyllene, myrcene, pinene, cherry, euphoric, balanced, grape
 ---
 
 # Cherry Pie

@@ -1,7 +1,7 @@
 ---
 title: Marker #2
 description: Indica-dominant hybrid phenotype from Seed Junky genetics, crossing Marker with an unknown phenotype selection. Delivers fuel, sweet, and earthy aromatics with balanced effects transitioning to body-heavy relaxation.
-tags: [hybrid, indica-dominant, caryophyllene, myrcene, limonene, fuel, sweet, earthy, seed-junky, marker, relaxing]
+tags: hybrid, indica-dominant, caryophyllene, myrcene, limonene, fuel, sweet, earthy, seed-junky, marker, relaxing
 ---
 
 # Marker #2

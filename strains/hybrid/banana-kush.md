@@ -1,7 +1,7 @@
 ---
 title: Banana Kush
 description: Tropical hybrid of Ghost OG x Skunk Haze x Banana lineage with sweet banana aroma, delivering euphoric cerebral effects followed by deep body relaxation.
-tags: [hybrid, myrcene, caryophyllene, limonene, tropical, banana, euphoric, relaxing]
+tags: hybrid, myrcene, caryophyllene, limonene, tropical, banana, euphoric, relaxing
 ---
 
 # Banana Kush

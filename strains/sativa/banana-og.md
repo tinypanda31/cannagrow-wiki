@@ -1,7 +1,7 @@
 ---
 title: Banana OG
 description: Sativa-dominant hybrid combining OG Kush and Banana lineage with THC 17-22%, myrcene-dominant terpene profile, and tropical banana flavor. Uplifting and creative effects.
-tags: [sativa-dominant, myrcene, caryophyllene, limonene, banana, tropical, uplifting, creative, og-kush]
+tags: sativa-dominant, myrcene, caryophyllene, limonene, banana, tropical, uplifting, creative, og-kush
 ---
 
 # Banana OG

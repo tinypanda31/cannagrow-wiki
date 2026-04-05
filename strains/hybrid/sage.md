@@ -1,7 +1,7 @@
 ---
 title: Sage
 description: Sativa-dominant hybrid of unknown Northern European genetics, known for herbal-pine-earthy aroma, focused creative effects, and manageable indoor growing profile.
-tags: [hybrid, sativa-dominant, terpinolene, caryophyllene, pinene, herbal, pine, earthy, focused, creative]
+tags: hybrid, sativa-dominant, terpinolene, caryophyllene, pinene, herbal, pine, earthy, focused, creative
 ---
 
 # Sage

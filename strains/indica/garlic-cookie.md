@@ -1,7 +1,7 @@
 ---
 title: Garlic Cookies
 description: Indica-dominant cross of GMO Cookies and Thin Mint GSC, delivering garlic earthy sweet aromatics with heavy body relaxation.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, garlic, earthy, sweet, relaxing, gmo, thin-mint]
+tags: indica-dominant, caryophyllene, myrcene, limonene, garlic, earthy, sweet, relaxing, gmo, thin-mint
 ---
 
 # Garlic Cookies

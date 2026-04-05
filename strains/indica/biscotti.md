@@ -1,7 +1,7 @@
 ---
 title: Biscotti
 description: Indica-dominant cross of Gelato #25 and South Florida OG, delivering sweet nutty aromatics and heavy sedation.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, nutty, sedating]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, nutty, sedating
 ---
 
 # Biscotti

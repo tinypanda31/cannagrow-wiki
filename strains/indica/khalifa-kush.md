@@ -1,7 +1,7 @@
 ---
 title: Khalifa Kush
 description: Indica-dominant OG phenotype selected by Wiz Khalifa, known for fuel-citrus-earthy aroma and euphoric-then-relaxing effects.
-tags: [indica-dominant, myrcene, limonene, caryophyllene, fuel, citrus, celebrity]
+tags: indica-dominant, myrcene, limonene, caryophyllene, fuel, citrus, celebrity
 ---
 
 # Khalifa Kush

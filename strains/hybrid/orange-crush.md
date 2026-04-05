@@ -1,7 +1,7 @@
 ---
 title: Orange Crush
 description: Bright hybrid of California Orange x Blueberry lineage with vibrant orange-citrus-sweet aroma, delivering uplifting, clear-headed effects with gentle body relaxation.
-tags: [hybrid, limonene, myrcene, caryophyllene, citrus, orange, uplifting, sweet]
+tags: hybrid, limonene, myrcene, caryophyllene, citrus, orange, uplifting, sweet
 ---
 
 # Orange Crush

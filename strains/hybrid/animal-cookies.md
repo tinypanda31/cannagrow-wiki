@@ -1,7 +1,7 @@
 ---
 title: Animal Cookies
 description: Potent hybrid of Animal Mints x Girl Scout Cookies with sweet-diesel-earthy aroma, delivering strong euphoric effects followed by deep body relaxation.
-tags: [hybrid, caryophyllene, myrcene, limonene, euphoric, relaxing, potent, cookies]
+tags: hybrid, caryophyllene, myrcene, limonene, euphoric, relaxing, potent, cookies
 ---
 
 # Animal Cookies

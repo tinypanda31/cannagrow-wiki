@@ -1,7 +1,7 @@
 ---
 title: Pink Kush
 description: Pure indica OG Kush phenotype known for its sweet floral vanilla profile and heavy sedating effects.
-tags: [indica, myrcene, caryophyllene, limonene, sweet, floral, vanilla, sedating]
+tags: indica, myrcene, caryophyllene, limonene, sweet, floral, vanilla, sedating
 ---
 
 # Pink Kush

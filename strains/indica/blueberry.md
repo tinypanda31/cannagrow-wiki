@@ -1,7 +1,7 @@
 ---
 title: Blueberry
 description: Indica-dominant classic by breeder DJ Short, known for its unmistakable blueberry flavor and Best Indica Cannabis Cup 2000 win.
-tags: [indica, myrcene, caryophyllene, blueberry, fruity, cannabis-cup]
+tags: indica, myrcene, caryophyllene, blueberry, fruity, cannabis-cup
 ---
 
 # Blueberry

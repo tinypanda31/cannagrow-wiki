@@ -1,7 +1,7 @@
 ---
 title: Green Crush
 description: Sativa-dominant hybrid related to Green Crack lineage with THC 16-21%, terpinolene-dominant profile, citrus-sweet-earthy aroma, and energetic, focused effects.
-tags: [sativa-dominant, terpinolene, caryophyllene, myrcene, citrus, sweet, earthy, energetic, focused, green-crack]
+tags: sativa-dominant, terpinolene, caryophyllene, myrcene, citrus, sweet, earthy, energetic, focused, green-crack
 ---
 
 # Green Crush

@@ -1,7 +1,7 @@
 ---
 title: Panama Red
 description: Pure sativa landrace from Panama, legendary 1960s-70s strain known for earthy-woody-spicy aroma, cerebral energetic effects, and very long flowering time of 75-90+ days.
-tags: [sativa, caryophyllene, humulene, terpinolene, landrace, cerebral, energetic, panama, legendary]
+tags: sativa, caryophyllene, humulene, terpinolene, landrace, cerebral, energetic, panama, legendary
 ---
 
 # Panama Red

@@ -1,7 +1,7 @@
 ---
 title: Cotton Candy
 description: Balanced hybrid crossing Power Plant with Purple Skunk, known for sweet candy-like flavor, balanced euphoric and relaxing effects, and approachable growing profile.
-tags: [hybrid, myrcene, caryophyllene, limonene, sweet, candy, fruity, balanced, euphoric]
+tags: hybrid, myrcene, caryophyllene, limonene, sweet, candy, fruity, balanced, euphoric
 ---
 
 # Cotton Candy

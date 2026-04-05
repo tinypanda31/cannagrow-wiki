@@ -1,7 +1,7 @@
 ---
 title: Exodus Cheese
 description: Indica-dominant UK phenotype selected from the original Cheese lineage, known for its sharp cheese aroma and uplifting then relaxing effects.
-tags: [indica-dominant, caryophyllene, humulene, myrcene, cheese, earthy, skunky, uk]
+tags: indica-dominant, caryophyllene, humulene, myrcene, cheese, earthy, skunky, uk
 ---
 
 # Exodus Cheese

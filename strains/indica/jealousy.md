@@ -1,7 +1,7 @@
 ---
 title: Jealousy
 description: Indica-dominant cross of Gelato #41 and Sherbert Bx, delivering sweet creamy-earthy aroma and potent body effects.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, creamy, potent]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, creamy, potent
 ---
 
 # Jealousy

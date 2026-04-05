@@ -1,7 +1,7 @@
 ---
 title: Twilight's Tears
 description: Indica strain of unknown California lineage, known for its earthy pine profile and heavy sedating effects.
-tags: [indica, myrcene, caryophyllene, pinene, earthy, pine, sweet, sedating, california]
+tags: indica, myrcene, caryophyllene, pinene, earthy, pine, sweet, sedating, california
 ---
 
 # Twilight's Tears

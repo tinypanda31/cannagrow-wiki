@@ -1,7 +1,7 @@
 ---
 title: Critical Plus
 description: Sativa-dominant hybrid developed by Dinafem crossing Skunk #1 with Afghani genetics, delivering uplifting and energetic effects with earthy-sweet-skunky aroma, THC 16-21%.
-tags: [sativa-dominant, dinafem, skunk, afghani, myrcene, caryophyllene, terpinolene, earthy, sweet, skunky, uplifting, energetic]
+tags: sativa-dominant, dinafem, skunk, afghani, myrcene, caryophyllene, terpinolene, earthy, sweet, skunky, uplifting, energetic
 ---
 
 # Critical Plus

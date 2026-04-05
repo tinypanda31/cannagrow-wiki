@@ -1,7 +1,7 @@
 ---
 title: Alaskan Purple
 description: Indica-dominant cultivar from an Alaskan phenotype of Purple Urlineage, known for its grape-earthy aroma and heavy body relaxation.
-tags: [indica, myrcene, caryophyllene, limonene, grape, purple, relaxing]
+tags: indica, myrcene, caryophyllene, limonene, grape, purple, relaxing
 ---
 
 # Alaskan Purple

@@ -1,7 +1,7 @@
 ---
 title: Runtz
 description: Indica-leaning phenotype of the Zkittlez x Gelato hybrid, known for its sweet fruity candy-like aroma and euphoric then body-heavy effects.
-tags: [indica-leaning, caryophyllene, myrcene, limonene, sweet, candy, fruity, popular]
+tags: indica-leaning, caryophyllene, myrcene, limonene, sweet, candy, fruity, popular
 ---
 
 # Runtz (Indica-Leaning Phenotype)

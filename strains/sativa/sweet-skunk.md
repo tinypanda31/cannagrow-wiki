@@ -1,7 +1,7 @@
 ---
 title: Sweet Skunk
 description: Sativa-dominant Skunk #1 phenotype with THC 14-19%, myrcene-dominant profile, sweet-skunky-earthy aroma, and uplifting, energetic effects.
-tags: [sativa-dominant, myrcene, caryophyllene, terpinolene, sweet, skunky, earthy, uplifting, energetic, skunk]
+tags: sativa-dominant, myrcene, caryophyllene, terpinolene, sweet, skunky, earthy, uplifting, energetic, skunk
 ---
 
 # Sweet Skunk

@@ -1,7 +1,7 @@
 ---
 title: Good Vibes
 description: Sativa-dominant hybrid reportedly crossing Mango Haze with unknown genetics, known for tropical-citrus aroma, uplifting positive effects, and energetic daytime experience.
-tags: [hybrid, sativa-dominant, terpinolene, limonene, caryophyllene, tropical, citrus, uplifting, positive, energetic]
+tags: hybrid, sativa-dominant, terpinolene, limonene, caryophyllene, tropical, citrus, uplifting, positive, energetic
 ---
 
 # Good Vibes

@@ -1,7 +1,7 @@
 ---
 title: Super Skunk
 description: Sativa-dominant hybrid created by Sensi Seeds crossing Skunk #1 with Afghani, delivering uplifting and energetic effects with skunky-earthy-sweet aroma, THC 14-19%.
-tags: [sativa-dominant, sensi-seeds, skunk, afghani, myrcene, caryophyllene, terpinolene, skunky, earthy, sweet, uplifting, energetic]
+tags: sativa-dominant, sensi-seeds, skunk, afghani, myrcene, caryophyllene, terpinolene, skunky, earthy, sweet, uplifting, energetic
 ---
 
 # Super Skunk

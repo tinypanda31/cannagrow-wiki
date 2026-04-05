@@ -1,7 +1,7 @@
 ---
 title: Hawaiian Snow
 description: Sativa-dominant hybrid crossing Hawaiian with sativa landrace genetics, known for tropical-sweet-floral aroma, energetic creative effects, and longer flowering time typical of landrace-influenced sativas.
-tags: [hybrid, sativa-dominant, terpinolene, caryophyllene, myrcene, tropical, sweet, floral, energetic, creative]
+tags: hybrid, sativa-dominant, terpinolene, caryophyllene, myrcene, tropical, sweet, floral, energetic, creative
 ---
 
 # Hawaiian Snow

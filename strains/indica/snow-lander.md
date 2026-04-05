@@ -1,7 +1,7 @@
 ---
 title: Snowlander
 description: Indica-dominant Northern Lights phenotype, delivering sweet earthy pine aromatics with deeply relaxing body effects.
-tags: [indica-dominant, myrcene, pinene, caryophyllene, sweet, earthy, pine, relaxing, northern-lights]
+tags: indica-dominant, myrcene, pinene, caryophyllene, sweet, earthy, pine, relaxing, northern-lights
 ---
 
 # Snowlander

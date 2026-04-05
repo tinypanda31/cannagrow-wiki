@@ -1,7 +1,7 @@
 ---
 title: Sustainability & Cannabis
 description: Overview of sustainability in the cannabis industry — environmental challenges, eco-friendly practices, and the path toward responsible cultivation and production.
-tags: [sustainability, environment, energy, water, waste, organic, carbon-footprint, packaging, certifications, eco-friendly]
+tags: sustainability, environment, energy, water, waste, organic, carbon-footprint, packaging, certifications, eco-friendly
 ---
 
 # Sustainability & Cannabis

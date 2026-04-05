@@ -1,7 +1,7 @@
 ---
 title: Apples and Bananas
 description: Balanced hybrid crossing Critical Orange Punch with Banana OG, known for fruity tropical sweetness, balanced euphoric-body effects, and moderate growing difficulty.
-tags: [hybrid, myrcene, caryophyllene, limonene, fruity, sweet, tropical, balanced, euphoric]
+tags: hybrid, myrcene, caryophyllene, limonene, fruity, sweet, tropical, balanced, euphoric
 ---
 
 # Apples and Bananas

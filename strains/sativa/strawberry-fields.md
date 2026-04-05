@@ -1,7 +1,7 @@
 ---
 title: Strawberry Fields
 description: Sativa-dominant strain that emerged in the Pacific Northwest, known for distinctive strawberry-sweet-earthy aroma, uplifting creative effects, and unknown genetics.
-tags: [sativa, caryophyllene, myrcene, strawberry, creative, uplifting, pacific-northwest]
+tags: sativa, caryophyllene, myrcene, strawberry, creative, uplifting, pacific-northwest
 ---
 
 # Strawberry Fields

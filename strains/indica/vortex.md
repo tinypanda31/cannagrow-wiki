@@ -1,7 +1,7 @@
 ---
 title: Vortex
 description: Indica-dominant strain of unknown genetics, known for its sweet earthy fruity profile with balanced body relaxation effects.
-tags: [indica-dominant, myrcene, terpinolene, caryophyllene, sweet, earthy, fruity, balanced]
+tags: indica-dominant, myrcene, terpinolene, caryophyllene, sweet, earthy, fruity, balanced
 ---
 
 # Vortex

@@ -1,7 +1,7 @@
 ---
 title: Kosher Kush
 description: Pure indica OG Kush phenotype known for its earthy pine woody aroma, heavy body relaxation, and multiple Cannabis Cup awards.
-tags: [indica, myrcene, caryophyllene, pinene, award-winner, potent, relaxing]
+tags: indica, myrcene, caryophyllene, pinene, award-winner, potent, relaxing
 ---
 
 # Kosher Kush

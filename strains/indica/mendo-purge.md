@@ -1,7 +1,7 @@
 ---
 title: Mendo Purp
 description: Indica cross originating from Mendocino County with purple coloration, known for its grape berry profile and relaxing body effects.
-tags: [indica, myrcene, caryophyllene, limonene, grape, berry, purple, relaxing, mendocino]
+tags: indica, myrcene, caryophyllene, limonene, grape, berry, purple, relaxing, mendocino
 ---
 
 # Mendo Purp

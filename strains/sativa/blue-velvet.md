@@ -1,7 +1,7 @@
 ---
 title: Blue Velvet
 description: Sativa-dominant hybrid crossing Blueberry with Haze, delivering energetic and creative effects with berry-pine-sweet aroma, THC 16-21%.
-tags: [sativa-dominant, blueberry, haze, terpinolene, pinene, caryophyllene, berry, pine, sweet, energetic, creative]
+tags: sativa-dominant, blueberry, haze, terpinolene, pinene, caryophyllene, berry, pine, sweet, energetic, creative
 ---
 
 # Blue Velvet

@@ -1,7 +1,7 @@
 ---
 title: Bluehead
 description: Sativa-dominant hybrid crossing Blueberry with Neville's Haze, combining berry sweetness with intense cerebral sativa effects, THC 16-21% with myrcene-terpinolene dominance.
-tags: [sativa-dominant, myrcene, terpinolene, pinene, berry, citrus, uplifting, cerebral, haze]
+tags: sativa-dominant, myrcene, terpinolene, pinene, berry, citrus, uplifting, cerebral, haze
 ---
 
 # Bluehead

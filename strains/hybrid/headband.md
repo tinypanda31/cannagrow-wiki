@@ -1,7 +1,7 @@
 ---
 title: Headband
 description: Iconic hybrid of OG Kush x Sour Diesel known for its signature headband pressure sensation, diesel-lemon-earthy aroma, and balanced cerebral-body effects.
-tags: [hybrid, myrcene, caryophyllene, limonene, diesel, lemon, euphoric, headband-pressure]
+tags: hybrid, myrcene, caryophyllene, limonene, diesel, lemon, euphoric, headband-pressure
 ---
 
 # Headband

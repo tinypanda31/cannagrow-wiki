@@ -1,7 +1,7 @@
 ---
 title: Sour Diesel
 description: Sativa-dominant also known as East Coast Sour Diesel, a cross of Chemdawg 91 and Super Skunk with NYC origins, known for diesel-citrus aroma and fast-acting cerebral effects.
-tags: [sativa, caryophyllene, limonene, humulene, diesel, cerebral, energetic, nyc]
+tags: sativa, caryophyllene, limonene, humulene, diesel, cerebral, energetic, nyc
 ---
 
 # Sour Diesel (East Coast Sour Diesel)

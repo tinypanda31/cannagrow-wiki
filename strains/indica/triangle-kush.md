@@ -1,7 +1,7 @@
 ---
 title: Triangle Kush
 description: Indica OG Kush phenotype from South Florida, known for fuel-earthy-citrus aroma and heavy body relaxation.
-tags: [indica, myrcene, caryophyllene, limonene, fuel, earthy, citrus, sedating]
+tags: indica, myrcene, caryophyllene, limonene, fuel, earthy, citrus, sedating
 ---
 
 # Triangle Kush

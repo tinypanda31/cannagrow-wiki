@@ -1,7 +1,7 @@
 ---
 title: Supernova
 description: Sativa-dominant hybrid crossing Northern Lights #5 with Haze, delivering energetic and creative effects with sweet-earthy-pine aroma, THC 16-21%, classic sativa genetics.
-tags: [sativa-dominant, terpinolene, caryophyllene, pinene, sweet, earthy, pine, energetic, creative, haze, northern-lights]
+tags: sativa-dominant, terpinolene, caryophyllene, pinene, sweet, earthy, pine, energetic, creative, haze, northern-lights
 ---
 
 # Supernova

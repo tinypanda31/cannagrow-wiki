@@ -1,7 +1,7 @@
 ---
 title: Kush Mints
 description: Indica-dominant hybrid crossing Kush with Mints lineage, delivering mint, earthy, and fuel aromatics with body-heavy relaxation and heavy sedating effects.
-tags: [hybrid, indica-dominant, caryophyllene, myrcene, limonene, mint, earthy, fuel, relaxing, mints, kush]
+tags: hybrid, indica-dominant, caryophyllene, myrcene, limonene, mint, earthy, fuel, relaxing, mints, kush
 ---
 
 # Kush Mints

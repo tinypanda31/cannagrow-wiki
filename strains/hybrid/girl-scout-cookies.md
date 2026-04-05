@@ -1,7 +1,7 @@
 ---
 title: Girl Scout Cookies
 description: Influential Bay Area hybrid of OG Kush and Durban Poison, known for high potency, sweet-earthy-mint-cherry flavor, and founding the Cookies family of genetics.
-tags: [hybrid, caryophyllene, myrcene, limonene, euphoric, sweet, cookies-family, potent]
+tags: hybrid, caryophyllene, myrcene, limonene, euphoric, sweet, cookies-family, potent
 ---
 
 # Girl Scout Cookies (GSC)

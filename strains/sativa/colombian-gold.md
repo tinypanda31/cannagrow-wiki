@@ -1,7 +1,7 @@
 ---
 title: Colombian Gold
 description: Pure sativa landrace from the Sierra Nevada de Santa Marta region of Colombia, legendary 1960s-70s import known for golden-sweet-earthy flavor and uplifting cerebral effects.
-tags: [sativa, myrcene, caryophyllene, terpinolene, landrace, uplifting, cerebral, colombia]
+tags: sativa, myrcene, caryophyllene, terpinolene, landrace, uplifting, cerebral, colombia
 ---
 
 # Colombian Gold

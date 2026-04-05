@@ -1,7 +1,7 @@
 ---
 title: Glue Boy
 description: Indica-dominant hybrid representing a GG4 phenotype selection, known for heavy fuel-earthy-pine aroma, powerful body relaxation, and very high THC potency.
-tags: [hybrid, indica-dominant, caryophyllene, myrcene, limonene, fuel, earthy, pine, heavy-body, high-THC]
+tags: hybrid, indica-dominant, caryophyllene, myrcene, limonene, fuel, earthy, pine, heavy-body, high-THC
 ---
 
 # Glue Boy

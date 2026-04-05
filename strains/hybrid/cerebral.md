@@ -1,7 +1,7 @@
 ---
 title: Cerebral
 description: Uplifting hybrid of uncertain genetics that emerged in the Pacific Northwest, known for pine-sweet-earthy aroma and creative, energizing effects.
-tags: [hybrid, terpinolene, pinene, caryophyllene, uplifting, creative, energizing, pacific-northwest]
+tags: hybrid, terpinolene, pinene, caryophyllene, uplifting, creative, energizing, pacific-northwest
 ---
 
 # Cerebral

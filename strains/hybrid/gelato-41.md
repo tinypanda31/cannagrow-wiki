@@ -1,7 +1,7 @@
 ---
 title: Gelato #41
 description: Hybrid phenotype of the influential Gelato family, crossing Sunset Sherbet with Thin Mint GSC, known for sweet-fruity-lavender aroma, balanced euphoric-body effects, and high potency.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, fruity, lavender, euphoric, balanced, high-THC]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, fruity, lavender, euphoric, balanced, high-THC
 ---
 
 # Gelato #41

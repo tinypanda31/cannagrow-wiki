@@ -1,7 +1,7 @@
 ---
 title: Juicy Fruit
 description: Hybrid crossing Tangerine with unknown sativa genetics, known for tropical-fruity-sweet aroma, uplifting and balanced effects, and moderate growing profile.
-tags: [hybrid, limonene, myrcene, terpinolene, tropical, fruity, sweet, uplifting, balanced, citrus]
+tags: hybrid, limonene, myrcene, terpinolene, tropical, fruity, sweet, uplifting, balanced, citrus
 ---
 
 # Juicy Fruit

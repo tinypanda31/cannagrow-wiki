@@ -1,7 +1,7 @@
 ---
 title: Humboldt Frost
 description: Indica-dominant cultivar from unknown Humboldt County genetics, delivering pine earthy sweet aromatics with balanced then body-heavy effects.
-tags: [indica-dominant, myrcene, caryophyllene, pinene, pine, earthy, sweet, relaxing, humboldt]
+tags: indica-dominant, myrcene, caryophyllene, pinene, pine, earthy, sweet, relaxing, humboldt
 ---
 
 # Humboldt Frost

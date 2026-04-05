@@ -1,7 +1,7 @@
 ---
 title: Moby Dick
 description: Sativa-dominant hybrid created by Dinafem, crossing White Widow with Northern Lights x Haze, delivering potent cerebral effects with earthy-citrus-spicy aroma, THC 18-24%.
-tags: [sativa-dominant, myrcene, caryophyllene, terpinolene, earthy, citrus, spicy, potent, cerebral, dinafem]
+tags: sativa-dominant, myrcene, caryophyllene, terpinolene, earthy, citrus, spicy, potent, cerebral, dinafem
 ---
 
 # Moby Dick

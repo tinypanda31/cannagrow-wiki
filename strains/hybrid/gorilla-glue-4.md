@@ -1,7 +1,7 @@
 ---
 title: Gorilla Glue #4
 description: Extremely potent hybrid also known as GG4 or Original Glue, a three-way cross of Chem's Sister, Sour Dubb, and Chocolate Diesel, known for 25-30%+ THC and deeply relaxing couch-lock effects.
-tags: [hybrid, caryophyllene, myrcene, limonene, extremely-potent, couch-lock, relaxing, high-thc]
+tags: hybrid, caryophyllene, myrcene, limonene, extremely-potent, couch-lock, relaxing, high-thc
 ---
 
 # Gorilla Glue #4 (GG4, Original Glue)

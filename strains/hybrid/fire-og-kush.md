@@ -1,7 +1,7 @@
 ---
 title: Fire OG Kush
 description: Potent hybrid of OG Kush x SFV OG Kush with intense fuel-pine-earthy aroma, delivering strong euphoric effects followed by deep body relaxation.
-tags: [hybrid, myrcene, limonene, caryophyllene, potent, euphoric, relaxing, kush]
+tags: hybrid, myrcene, limonene, caryophyllene, potent, euphoric, relaxing, kush
 ---
 
 # Fire OG Kush

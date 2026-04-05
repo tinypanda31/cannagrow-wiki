@@ -1,7 +1,7 @@
 ---
 title: Chocolope
 description: Sativa-dominant hybrid crossing Chocolate Thai with Cannalope Haze, delivering energetic and focused effects with chocolate-earthy-sweet aroma, THC 17-22%.
-tags: [sativa-dominant, chocolate-thai, haze, caryophyllene, terpinolene, myrcene, chocolate, earthy, sweet, energetic, focused, cannabis-cup]
+tags: sativa-dominant, chocolate-thai, haze, caryophyllene, terpinolene, myrcene, chocolate, earthy, sweet, energetic, focused, cannabis-cup
 ---
 
 # Chocolope

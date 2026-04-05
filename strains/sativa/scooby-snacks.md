@@ -1,7 +1,7 @@
 ---
 title: Scooby Snacks
 description: Sativa-dominant hybrid crossing Animal Cookies with Cinex, delivering energetic and uplifting effects with sweet-earthy-vanilla aroma, THC 17-22%.
-tags: [sativa-dominant, animal-cookies, cinex, caryophyllene, terpinolene, limonene, sweet, earthy, vanilla, energetic, uplifting]
+tags: sativa-dominant, animal-cookies, cinex, caryophyllene, terpinolene, limonene, sweet, earthy, vanilla, energetic, uplifting
 ---
 
 # Scooby Snacks

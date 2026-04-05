@@ -1,7 +1,7 @@
 ---
 title: Purple Punch
 description: Indica-dominant cross of Granddaddy Purple and Larry OG, known for its grape blueberry vanilla aroma and deep relaxation effects.
-tags: [indica-dominant, myrcene, caryophyllene, limonene, grape, blueberry, dessert, relaxing]
+tags: indica-dominant, myrcene, caryophyllene, limonene, grape, blueberry, dessert, relaxing
 ---
 
 # Purple Punch

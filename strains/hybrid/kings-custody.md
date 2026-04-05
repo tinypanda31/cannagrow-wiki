@@ -1,7 +1,7 @@
 ---
 title: King's Custody
 description: Hybrid strain of Pacific Northwest origin with unknown genetics, known for earthy-pine-sweet aroma, balanced relaxation, and steady presence in the regional cannabis scene.
-tags: [hybrid, myrcene, caryophyllene, pinene, earthy, pine, sweet, balanced, relaxation, Pacific-Northwest]
+tags: hybrid, myrcene, caryophyllene, pinene, earthy, pine, sweet, balanced, relaxation, Pacific-Northwest
 ---
 
 # King's Custody

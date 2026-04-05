@@ -1,7 +1,7 @@
 ---
 title: Do-Si-Dos
 description: Indica-dominant hybrid of Girl Scout Cookies x Face Off OG with sweet-earthy-flowery aroma, delivering heavy body relaxation and potent euphoric effects.
-tags: [hybrid, indica-dominant, caryophyllene, myrcene, limonene, relaxing, sedating, potent]
+tags: hybrid, indica-dominant, caryophyllene, myrcene, limonene, relaxing, sedating, potent
 ---
 
 # Do-Si-Dos

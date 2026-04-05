@@ -1,7 +1,7 @@
 ---
 title: "Glossary of Cannabis Terms"
 description: "Comprehensive glossary of terminology related to cannabis, covering botany, cultivation, extraction, consumption, chemistry, and culture."
-tags: [reference, glossary, terms, definitions]
+tags: reference, glossary, terms, definitions
 ---
 
 > ⚠️ **Disclaimer:** This glossary is provided for educational purposes only. It does not constitute medical or legal advice. Cannabis laws vary by jurisdiction – always check your local laws.

@@ -1,7 +1,7 @@
 ---
 title: Trinity
 description: Potent indica of unknown lineage that emerged in Northern California, known for its diesel earthy pine aroma and powerful body high.
-tags: [indica, myrcene, caryophyllene, diesel, potent, body-high, mysterious]
+tags: indica, myrcene, caryophyllene, diesel, potent, body-high, mysterious
 ---
 
 # Trinity

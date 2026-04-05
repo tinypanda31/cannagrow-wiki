@@ -1,7 +1,7 @@
 ---
 title: Maconga
 description: Less common sativa-dominant hybrid with earthy spicy citrus profile, energetic uplifting effects, vigorous growth, and longer flowering period of 70-85 days.
-tags: [sativa, terpinolene, caryophyllene, energetic, uplifting, long-flower, vigorous]
+tags: sativa, terpinolene, caryophyllene, energetic, uplifting, long-flower, vigorous
 ---
 
 # Maconga

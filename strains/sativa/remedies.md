@@ -1,7 +1,7 @@
 ---
 title: Remedies
 description: Sativa-dominant high-CBD strain from Charlotte's Web lineage, delivering clear-headed non-intoxicating relief with earthy-pine-sweet aroma, THC <1%, CBD 10-15%, medical-focused cultivar.
-tags: [sativa-dominant, caryophyllene, humulene, myrcene, high-cbd, medical, clear-headed, non-intoxicating, cbd-rich, charlottes-web]
+tags: sativa-dominant, caryophyllene, humulene, myrcene, high-cbd, medical, clear-headed, non-intoxicating, cbd-rich, charlottes-web
 ---
 
 # Remedies

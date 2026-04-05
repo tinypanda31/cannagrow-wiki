@@ -1,7 +1,7 @@
 ---
 title: Animal Mints
 description: Indica-dominant cross of Animal Cookies and Mints, delivering potent mint-fuel aromatics and a powerful body high.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, mint, fuel, potent]
+tags: indica-dominant, caryophyllene, myrcene, limonene, mint, fuel, potent
 ---
 
 # Animal Mints

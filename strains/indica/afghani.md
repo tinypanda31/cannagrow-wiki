@@ -1,7 +1,7 @@
 ---
 title: Afghani
 description: Pure landrace indica from Afghanistan, one of the foundational genetics of modern cannabis breeding, known for earthy hash aroma and heavy resin production.
-tags: [indica, myrcene, landrace, hash, earthy, breeding]
+tags: indica, myrcene, landrace, hash, earthy, breeding
 ---
 
 # Afghani

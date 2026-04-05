@@ -1,7 +1,7 @@
 ---
 title: Skunk #1
 description: Sativa-dominant hybrid of Afghan x Mexican x Colombian landraces with THC 13-18%, myrcene-dominant profile, skunky-earthy-pungent aroma, and balanced uplifting effects. A legendary foundational cultivar by Sensi Seeds.
-tags: [sativa-dominant, myrcene, caryophyllene, terpinolene, skunky, earthy, pungent, balanced, legendary, sensi-seeds, foundational]
+tags: sativa-dominant, myrcene, caryophyllene, terpinolene, skunky, earthy, pungent, balanced, legendary, sensi-seeds, foundational
 ---
 
 # Skunk #1

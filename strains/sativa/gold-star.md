@@ -1,7 +1,7 @@
 ---
 title: Gold Star
 description: Sativa strain of Hawaiian origin with unknown genetics, delivering energetic and uplifting effects with tropical-sweet-floral aroma, THC 15-20%.
-tags: [sativa, hawaiian, terpinolene, myrcene, caryophyllene, tropical, sweet, floral, energetic, uplifting]
+tags: sativa, hawaiian, terpinolene, myrcene, caryophyllene, tropical, sweet, floral, energetic, uplifting
 ---
 
 # Gold Star

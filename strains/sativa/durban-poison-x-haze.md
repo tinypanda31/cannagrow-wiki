@@ -1,7 +1,7 @@
 ---
 title: Durban Poison x Haze
 description: Sativa cross combining two legendary landrace-derived genetics, Durban Poison and Haze, producing sweet-anise-citrus aroma, extremely energetic creative effects, and THC up to 24%.
-tags: [sativa, terpinolene, caryophyllene, ocimene, energetic, creative, durban, haze]
+tags: sativa, terpinolene, caryophyllene, ocimene, energetic, creative, durban, haze
 ---
 
 # Durban Poison x Haze

@@ -1,7 +1,7 @@
 ---
 title: Truffle
 description: Premium hybrid of Jealousy x Wedding Cake with sweet-nutty-earthy aroma, delivering balanced euphoric and body effects with dessert-like complexity.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, balanced, dessert, nutty]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, balanced, dessert, nutty
 ---
 
 # Truffle

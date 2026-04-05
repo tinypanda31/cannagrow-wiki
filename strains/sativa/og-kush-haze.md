@@ -1,7 +1,7 @@
 ---
 title: OG Kush Haze
 description: Sativa-dominant hybrid of OG Kush x Haze with THC 17-22%, caryophyllene-dominant profile, fuel-citrus-earthy aroma, and energetic onset followed by relaxing body finish.
-tags: [sativa-dominant, caryophyllene, terpinolene, limonene, fuel, citrus, earthy, energetic, relaxing, og-kush, haze]
+tags: sativa-dominant, caryophyllene, terpinolene, limonene, fuel, citrus, earthy, energetic, relaxing, og-kush, haze
 ---
 
 # OG Kush Haze

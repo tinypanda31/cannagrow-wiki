@@ -1,7 +1,7 @@
 ---
 title: Rocket Fuel
 description: Indica-dominant cross of Tropicana Cookies and Jet Fuel Gelato, known for its citrus fuel profile with energetic then relaxing effects.
-tags: [indica-dominant, caryophyllene, limonene, myrcene, citrus, fuel, sweet, balanced]
+tags: indica-dominant, caryophyllene, limonene, myrcene, citrus, fuel, sweet, balanced
 ---
 
 # Rocket Fuel

@@ -1,7 +1,7 @@
 ---
 title: Harlequin
 description: Sativa-dominant high-CBD strain with a 5:2 CBD:THC ratio, cross of Colombian Gold, Thai, Swiss landrace, and Nepali indica, known for clear-headed medical relief without intoxication.
-tags: [sativa, caryophyllene, myrcene, pinene, high-cbd, medical, clear-headed, cbd-rich]
+tags: sativa, caryophyllene, myrcene, pinene, high-cbd, medical, clear-headed, cbd-rich
 ---
 
 # Harlequin

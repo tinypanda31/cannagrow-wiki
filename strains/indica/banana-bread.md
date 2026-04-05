@@ -1,7 +1,7 @@
 ---
 title: Banana Bread
 description: Indica-dominant cross of Banana OG and unknown indica genetics, delivering sweet banana and earthy aromatics with relaxing body effects.
-tags: [indica-dominant, myrcene, caryophyllene, limonene, banana, sweet, earthy, relaxing, banana-og]
+tags: indica-dominant, myrcene, caryophyllene, limonene, banana, sweet, earthy, relaxing, banana-og
 ---
 
 # Banana Bread

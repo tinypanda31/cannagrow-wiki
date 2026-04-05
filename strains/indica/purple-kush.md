@@ -1,7 +1,7 @@
 ---
 title: Purple Kush
 description: Pure indica from Oakland, California, a cross of Hindu Kush and Purple Afghani, known for earthy sweet grape flavor and deep body relaxation.
-tags: [indica, myrcene, purple, earthy, relaxing, oakland]
+tags: indica, myrcene, purple, earthy, relaxing, oakland
 ---
 
 # Purple Kush

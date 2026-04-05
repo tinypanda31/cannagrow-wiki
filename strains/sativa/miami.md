@@ -1,7 +1,7 @@
 ---
 title: Miami
 description: Sativa-dominant hybrid of Florida origin with THC 16-21%, terpinolene-forward profile, citrus-sweet-tropical aroma, and uplifting, energetic effects.
-tags: [sativa-dominant, terpinolene, limonene, caryophyllene, citrus, sweet, tropical, uplifting, energetic, florida]
+tags: sativa-dominant, terpinolene, limonene, caryophyllene, citrus, sweet, tropical, uplifting, energetic, florida
 ---
 
 # Miami

@@ -1,7 +1,7 @@
 ---
 title: Ice Cream Cake
 description: Indica-dominant cross of Wedding Cake and Gelato #33, known for its sweet vanilla nutty aroma and euphoric then sedating effects.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, dessert, potent]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, dessert, potent
 ---
 
 # Ice Cream Cake

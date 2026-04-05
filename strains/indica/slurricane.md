@@ -1,7 +1,7 @@
 ---
 title: Slurricane
 description: Indica-dominant cross of Do-Si-Dos and Purple Punch, known for its grape berry profile with deep body relaxation effects.
-tags: [indica-dominant, myrcene, caryophyllene, limonene, grape, berry, sweet, relaxing]
+tags: indica-dominant, myrcene, caryophyllene, limonene, grape, berry, sweet, relaxing
 ---
 
 # Slurricane

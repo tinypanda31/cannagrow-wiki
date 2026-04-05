@@ -1,7 +1,7 @@
 ---
 title: MAC-1 (Miracle Alien Cookies)
 description: Indica-dominant cross of Alien Cookies, Columbian, and Starfighter, known for sweet floral-citrus aroma and balanced euphoric-body effects.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, floral, balanced]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, floral, balanced
 ---
 
 # MAC-1 (Miracle Alien Cookies)

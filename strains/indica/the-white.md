@@ -1,7 +1,7 @@
 ---
 title: The White
 description: Indica-dominant cross of Triangle Kush and Animal Mints, known for its frosty white trichome coverage, fuel earthy citrus aroma, and heavy body relaxation.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, fuel, potent, resinous]
+tags: indica-dominant, caryophyllene, myrcene, limonene, fuel, potent, resinous
 ---
 
 # The White

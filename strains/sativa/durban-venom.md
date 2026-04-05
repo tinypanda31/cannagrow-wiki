@@ -1,7 +1,7 @@
 ---
 title: Durban Venom
 description: Sativa-dominant hybrid of Durban Poison x White Widow with THC 17-22%, terpinolene-dominant profile, sweet anise-and-earthy aroma, and energetic, focused effects.
-tags: [sativa-dominant, terpinolene, caryophyllene, myrcene, sweet, anise, earthy, energetic, focused, durban-poison, white-widow]
+tags: sativa-dominant, terpinolene, caryophyllene, myrcene, sweet, anise, earthy, energetic, focused, durban-poison, white-widow
 ---
 
 # Durban Venom

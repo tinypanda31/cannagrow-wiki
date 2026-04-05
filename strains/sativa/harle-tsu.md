@@ -1,7 +1,7 @@
 ---
 title: Harle-Tsu
 description: Sativa-dominant high-CBD strain crossing Harlequin with Sour Tsunami, offering a balanced CBD:THC ratio for clear-headed medical relief without significant intoxication, CBD 10-20%.
-tags: [sativa-dominant, caryophyllene, humulene, myrcene, high-cbd, medical, clear-headed, cbd-rich, balanced-ratio]
+tags: sativa-dominant, caryophyllene, humulene, myrcene, high-cbd, medical, clear-headed, cbd-rich, balanced-ratio
 ---
 
 # Harle-Tsu

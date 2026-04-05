@@ -1,7 +1,7 @@
 ---
 title: Tahoe OG x Sour Diesel
 description: Sativa-dominant hybrid crossing Tahoe OG with Sour Diesel, known for fuel-pine-citrus aroma, energetic then body relaxation effects, and moderate growing profile.
-tags: [hybrid, sativa-dominant, myrcene, caryophyllene, limonene, fuel, pine, citrus, energetic, body-relaxation, Tahoe-OG, Sour-Diesel]
+tags: hybrid, sativa-dominant, myrcene, caryophyllene, limonene, fuel, pine, citrus, energetic, body-relaxation, Tahoe-OG, Sour-Diesel
 ---
 
 # Tahoe OG x Sour Diesel

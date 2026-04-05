@@ -1,7 +1,7 @@
 ---
 title: Island Sweet Skunk
 description: Sativa-dominant hybrid of Skunk #1 x sativa landrace with THC 15-20%, myrcene-dominant profile, sweet-skunky-tropical aroma, and uplifting, creative effects.
-tags: [sativa-dominant, myrcene, terpinolene, caryophyllene, sweet, skunky, tropical, uplifting, creative, skunk]
+tags: sativa-dominant, myrcene, terpinolene, caryophyllene, sweet, skunky, tropical, uplifting, creative, skunk
 ---
 
 # Island Sweet Skunk

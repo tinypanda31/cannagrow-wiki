@@ -1,7 +1,7 @@
 ---
 title: Sour Tsunami
 description: Sativa-dominant high-CBD strain created by Lawrence Ringo, crossing Sour Diesel with NYC Diesel CBD, pioneering the high-CBD movement with clear-headed relief, CBD 10-15%.
-tags: [sativa-dominant, caryophyllene, humulene, limonene, diesel, citrus, earthy, high-cbd, medical, clear-headed, lawrence-ringo, cbd-rich]
+tags: sativa-dominant, caryophyllene, humulene, limonene, diesel, citrus, earthy, high-cbd, medical, clear-headed, lawrence-ringo, cbd-rich
 ---
 
 # Sour Tsunami

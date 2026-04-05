@@ -1,7 +1,7 @@
 ---
 title: Super Lemon Haze
 description: Sativa-dominant multiple Cannabis Cup winner, a cross of Lemon Skunk and Super Silver Haze with THC up to 25%, known for intense lemon-citrus aroma and energetic creative effects.
-tags: [sativa-dominant, terpinolene, caryophyllene, limonene, lemon, cannabis-cup, energetic, creative]
+tags: sativa-dominant, terpinolene, caryophyllene, limonene, lemon, cannabis-cup, energetic, creative
 ---
 
 # Super Lemon Haze

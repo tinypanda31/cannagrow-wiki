@@ -1,7 +1,7 @@
 ---
 title: Black Diamond
 description: Pure indica cross of Blackberry and Diamond OG, delivering berry earthy sweet aromatics with heavy sedation.
-tags: [indica, myrcene, caryophyllene, limonene, berry, earthy, sweet, sedating, diamond-og]
+tags: indica, myrcene, caryophyllene, limonene, berry, earthy, sweet, sedating, diamond-og
 ---
 
 # Black Diamond

@@ -1,7 +1,7 @@
 ---
 title: Platinum Cookies
 description: Potent hybrid of Girl Scout Cookies x unknown phenotype with sweet-earthy-mint aroma, delivering balanced euphoric and body effects with Cookie-family potency.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, euphoric, relaxing, cookies]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, euphoric, relaxing, cookies
 ---
 
 # Platinum Cookies

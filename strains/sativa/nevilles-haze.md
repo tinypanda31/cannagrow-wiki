@@ -1,7 +1,7 @@
 ---
 title: Neville's Haze
 description: Pure sativa created by Mr. Nice Seeds from original Haze x Northern Lights #5, delivering extremely cerebral and psychedelic effects with sweet-earthy-spicy aroma, THC 18-23%, challenging 70-90+ day flowering.
-tags: [sativa, terpinolene, caryophyllene, pinene, sweet, earthy, spicy, cerebral, psychedelic, haze, mr-nice-seeds, challenging-grow]
+tags: sativa, terpinolene, caryophyllene, pinene, sweet, earthy, spicy, cerebral, psychedelic, haze, mr-nice-seeds, challenging-grow
 ---
 
 # Neville's Haze

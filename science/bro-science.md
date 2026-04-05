@@ -1,7 +1,7 @@
 ---
 title: Bro Science
 description: Debunking common cannabis myths with real scientific evidence.
-tags: [science, myths, debunking, indica, sativa, brain-cells, addiction, edibles, flushing, hemp, medical-evidence, THC, anxiety]
+tags: science, myths, debunking, indica, sativa, brain-cells, addiction, edibles, flushing, hemp, medical-evidence, THC, anxiety
 ---
 
 # Bro Science: Debunking Cannabis Myths with Real Evidence

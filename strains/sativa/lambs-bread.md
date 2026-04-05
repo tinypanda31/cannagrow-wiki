@@ -1,7 +1,7 @@
 ---
 title: Lamb's Bread
 description: Sativa strain from Jamaican landrace genetics, associated with Bob Marley, delivering uplifting and spiritual effects with sweet-earthy-herbal aroma, THC 16-21%.
-tags: [sativa, terpinolene, caryophyllene, myrcene, sweet, earthy, herbal, uplifting, spiritual, jamaican, landrace, bob-marley]
+tags: sativa, terpinolene, caryophyllene, myrcene, sweet, earthy, herbal, uplifting, spiritual, jamaican, landrace, bob-marley
 ---
 
 # Lamb's Bread

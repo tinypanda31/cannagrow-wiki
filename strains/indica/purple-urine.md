@@ -1,7 +1,7 @@
 ---
 title: Purple Urine
 description: Indica-dominant cultivar derived from Purple Skunk genetics, known for grape-berry-earthy aroma and relaxing body effects.
-tags: [indica-dominant, myrcene, caryophyllene, limonene, grape, berry, purple, relaxing]
+tags: indica-dominant, myrcene, caryophyllene, limonene, grape, berry, purple, relaxing
 ---
 
 # Purple Urine

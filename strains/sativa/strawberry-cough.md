@@ -1,7 +1,7 @@
 ---
 title: Strawberry Cough
 description: Sativa-dominant cross of Strawberry Fields and Haze, known for its unmistakable strawberry flavor, uplifting effects, and tendency to induce coughing.
-tags: [sativa, myrcene, caryophyllene, strawberry, sweet, uplifting, social]
+tags: sativa, myrcene, caryophyllene, strawberry, sweet, uplifting, social
 ---
 
 # Strawberry Cough

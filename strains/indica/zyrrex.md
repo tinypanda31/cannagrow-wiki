@@ -1,7 +1,7 @@
 ---
 title: Zyrrex
 description: Indica strain of unknown heavy indica genetics, known for its fuel earthy sweet profile with potent body effects.
-tags: [indica, myrcene, caryophyllene, limonene, fuel, earthy, sweet, potent]
+tags: indica, myrcene, caryophyllene, limonene, fuel, earthy, sweet, potent
 ---
 
 # Zyrrex

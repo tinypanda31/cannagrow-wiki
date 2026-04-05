@@ -1,7 +1,7 @@
 ---
 title: Luigi Haze
 description: Sativa-dominant hybrid crossing Haze with an unknown sativa, delivering energetic and creative effects with sweet-earthy-spicy aroma, THC 16-21%.
-tags: [sativa-dominant, haze, terpinolene, caryophyllene, pinene, sweet, earthy, spicy, energetic, creative]
+tags: sativa-dominant, haze, terpinolene, caryophyllene, pinene, sweet, earthy, spicy, energetic, creative
 ---
 
 # Luigi Haze

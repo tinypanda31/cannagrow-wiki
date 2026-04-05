@@ -1,7 +1,7 @@
 ---
 title: Chem Sis
 description: Hybrid strain crossing Chemdawg with Sensi Star, delivering fuel, earthy, and pine aromatics with potent cerebral effects followed by deep body relaxation.
-tags: [hybrid, caryophyllene, myrcene, limonene, fuel, earthy, pine, potent, cerebral, chemdawg]
+tags: hybrid, caryophyllene, myrcene, limonene, fuel, earthy, pine, potent, cerebral, chemdawg
 ---
 
 # Chem Sis

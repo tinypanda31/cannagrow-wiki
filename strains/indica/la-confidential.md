@@ -1,7 +1,7 @@
 ---
 title: LA Confidential
 description: Indica cross of OG LA Affie and Afghani, known for smooth smoke, pine and earthy aroma, and calming euphoric effects.
-tags: [indica, myrcene, pinene, pine, earthy, smooth]
+tags: indica, myrcene, pinene, pine, earthy, smooth
 ---
 
 # LA Confidential

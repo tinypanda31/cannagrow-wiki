@@ -1,7 +1,7 @@
 ---
 title: SFV OG
 description: Influential OG Kush phenotype from the San Fernando Valley, California, with intense fuel-pine-citrus aroma and potent cerebral-to-body effects.
-tags: [hybrid, myrcene, limonene, caryophyllene, fuel, potent, kush, california]
+tags: hybrid, myrcene, limonene, caryophyllene, fuel, potent, kush, california
 ---
 
 # SFV OG

@@ -1,7 +1,7 @@
 ---
 title: Sour Apple
 description: Sativa-dominant hybrid with Sour Diesel lineage, known for diesel-apple-citrus aroma, energetic and creative effects, and moderate growing profile.
-tags: [hybrid, sativa-dominant, caryophyllene, limonene, myrcene, diesel, apple, citrus, energetic, creative, Sour-Diesel]
+tags: hybrid, sativa-dominant, caryophyllene, limonene, myrcene, diesel, apple, citrus, energetic, creative, Sour-Diesel
 ---
 
 # Sour Apple

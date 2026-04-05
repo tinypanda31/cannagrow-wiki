@@ -1,7 +1,7 @@
 ---
 title: Sherbert (Sunset Sherbet)
 description: Indica-dominant cross of Pink Panties and Girl Scout Cookies, known for its sweet fruity cherry aroma and euphoric body relaxation.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, fruity, relaxing]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, fruity, relaxing
 ---
 
 # Sherbert (Sunset Sherbet)

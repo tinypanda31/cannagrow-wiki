@@ -1,7 +1,7 @@
 ---
 title: Tsunami
 description: Balanced hybrid of uncertain Northern California origin with earthy-pine-flowery aroma, delivering balanced relaxation with gentle cerebral lift.
-tags: [hybrid, myrcene, caryophyllene, pinene, earthy, pine, relaxing, balanced]
+tags: hybrid, myrcene, caryophyllene, pinene, earthy, pine, relaxing, balanced
 ---
 
 # Tsunami

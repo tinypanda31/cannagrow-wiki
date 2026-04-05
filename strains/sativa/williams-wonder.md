@@ -1,7 +1,7 @@
 ---
 title: Williams Wonder
 description: Sativa-dominant fast-flowering strain from Northern Lights #2 cross, known for pine-earthy-sweet aroma, energizing creative effects, and relatively short 55-65 day flowering for a sativa.
-tags: [sativa-dominant, myrcene, pinene, caryophyllene, energizing, creative, fast-flowering]
+tags: sativa-dominant, myrcene, pinene, caryophyllene, energizing, creative, fast-flowering
 ---
 
 # Williams Wonder

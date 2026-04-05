@@ -1,7 +1,7 @@
 ---
 title: Gatsby
 description: Hybrid strain of G13 lineage, known for sweet-earthy-diesel aroma, balanced relaxation and cerebral effects, and manageable growing profile.
-tags: [hybrid, caryophyllene, myrcene, limonene, sweet, earthy, diesel, balanced, G13]
+tags: hybrid, caryophyllene, myrcene, limonene, sweet, earthy, diesel, balanced, G13
 ---
 
 # Gatsby

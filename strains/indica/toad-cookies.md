@@ -1,7 +1,7 @@
 ---
 title: Toad Cookies
 description: Indica-dominant cross of Toad and Girl Scout Cookies, delivering sweet earthy fuel aromatics with euphoric then body-heavy effects.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, earthy, fuel, euphoric, toad, cookies]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, earthy, fuel, euphoric, toad, cookies
 ---
 
 # Toad Cookies

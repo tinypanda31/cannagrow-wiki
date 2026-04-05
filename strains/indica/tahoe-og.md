@@ -1,7 +1,7 @@
 ---
 title: Tahoe OG
 description: Indica-dominant OG Kush phenotype from the Tahoe area, known for its earthy pine lemon aroma and fast-acting body relaxation.
-tags: [indica-dominant, myrcene, limonene, caryophyllene, earthy, pine, potent, og-kush]
+tags: indica-dominant, myrcene, limonene, caryophyllene, earthy, pine, potent, og-kush
 ---
 
 # Tahoe OG

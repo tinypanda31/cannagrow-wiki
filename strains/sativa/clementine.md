@@ -1,7 +1,7 @@
 ---
 title: Clementine
 description: Sativa-dominant hybrid crossing Tangie with Lemon Skunk (or Tangie with SFV OG Kush), delivering bright citrus-orange aroma and uplifting creative effects, THC 17-22% with limonene dominance.
-tags: [sativa-dominant, limonene, terpinolene, myrcene, citrus, orange, uplifting, creative, tangie]
+tags: sativa-dominant, limonene, terpinolene, myrcene, citrus, orange, uplifting, creative, tangie
 ---
 
 # Clementine

@@ -1,7 +1,7 @@
 ---
 title: Cosmic Collapse
 description: Pure indica cultivar of unknown heavy indica genetics, delivering fuel earthy pungent aromatics with deeply sedating body effects.
-tags: [indica, myrcene, caryophyllene, limonene, fuel, earthy, pungent, sedating, heavy-indica]
+tags: indica, myrcene, caryophyllene, limonene, fuel, earthy, pungent, sedating, heavy-indica
 ---
 
 # Cosmic Collapse

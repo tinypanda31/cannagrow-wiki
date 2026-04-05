@@ -1,7 +1,7 @@
 ---
 title: "Decarboxylation: Activating Cannabis Compounds"
 description: "Complete guide to cannabis decarboxylation — the chemistry, time/temperature curves, methods for flower and concentrates, and why decarbing is essential for edibles, tinctures, and many extracts."
-tags: [science, decarboxylation, chemistry, edibles, extraction, THCA, THC, CBD, CBDA]
+tags: science, decarboxylation, chemistry, edibles, extraction, THCA, THC, CBD, CBDA
 ---
 
 > ⚠️ **Disclaimer:** This page is provided for educational purposes only. It does not constitute medical or legal advice. Cannabis cultivation and processing is illegal in many jurisdictions. Always verify local laws before handling cannabis material.

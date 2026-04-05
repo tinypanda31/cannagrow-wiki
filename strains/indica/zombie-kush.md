@@ -1,7 +1,7 @@
 ---
 title: Zombie Kush
 description: Indica cross of Afghani and Critical Kush by Royal Queen Seeds, known for earthy-sweet-hash aroma and deeply sedating effects.
-tags: [indica, myrcene, caryophyllene, limonene, earthy, hash, sedating, royal-queen-seeds]
+tags: indica, myrcene, caryophyllene, limonene, earthy, hash, sedating, royal-queen-seeds
 ---
 
 # Zombie Kush

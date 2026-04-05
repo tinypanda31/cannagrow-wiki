@@ -1,7 +1,7 @@
 ---
 title: Grease Monkey
 description: Indica-dominant cross of GG4 and Cookies and Cream, known for its sweet fuel and vanilla profile with heavy body relaxation.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, fuel, vanilla, relaxing]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, fuel, vanilla, relaxing
 ---
 
 # Grease Monkey

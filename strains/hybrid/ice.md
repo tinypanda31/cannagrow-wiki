@@ -1,7 +1,7 @@
 ---
 title: Ice
 description: Hybrid crossing Afghani, Northern Lights, and Shiva Skunk from Nirvana Seeds, known for earthy-pine-sweet aroma, balanced relaxation effects, and easy moderate-yield growing.
-tags: [hybrid, myrcene, pinene, caryophyllene, earthy, pine, sweet, balanced, easy-grow, Nirvana-Seeds]
+tags: hybrid, myrcene, pinene, caryophyllene, earthy, pine, sweet, balanced, easy-grow, Nirvana-Seeds
 ---
 
 # Ice

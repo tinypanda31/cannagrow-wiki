@@ -1,7 +1,7 @@
 ---
 title: Blue Dream x OG
 description: Indica-leaning phenotype of the Blue Dream and OG Kush cross, combining berry sweetness with fuel-forward depth.
-tags: [hybrid-indica, myrcene, caryophyllene, pinene, berry, fuel, balanced]
+tags: hybrid-indica, myrcene, caryophyllene, pinene, berry, fuel, balanced
 ---
 
 # Blue Dream x OG (Indica Phenotype)

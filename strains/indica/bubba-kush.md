@@ -1,7 +1,7 @@
 ---
 title: Bubba Kush
 description: Heavy indica with origins in the 1990s, a cross of OG Kush and an unknown indica, known for coffee and chocolate aromas and deeply sedating effects.
-tags: [indica, myrcene, limonene, coffee, sedating, kush]
+tags: indica, myrcene, limonene, coffee, sedating, kush
 ---
 
 # Bubba Kush

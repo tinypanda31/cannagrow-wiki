@@ -1,7 +1,7 @@
 ---
 title: Kandy Kush
 description: Hybrid crossing OG Kush with Trainwreck, known for sweet-fuel-earthy aroma, balanced euphoric-body effects, and moderate growing difficulty.
-tags: [hybrid, myrcene, caryophyllene, limonene, sweet, fuel, earthy, euphoric, balanced, OG-Kush]
+tags: hybrid, myrcene, caryophyllene, limonene, sweet, fuel, earthy, euphoric, balanced, OG-Kush
 ---
 
 # Kandy Kush

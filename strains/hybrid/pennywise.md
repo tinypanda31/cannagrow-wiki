@@ -1,7 +1,7 @@
 ---
 title: Pennywise
 description: High-CBD indica-dominant hybrid crossing Harlequin with AC/DC, known for balanced CBD:THC ratio, clear-headed medical relief, and earthy-peppery-sweet aroma. Designed for therapeutic users.
-tags: [hybrid, indica-dominant, high-CBD, caryophyllene, humulene, myrcene, earthy, peppery, medical, clear-headed, CBD-rich]
+tags: hybrid, indica-dominant, high-CBD, caryophyllene, humulene, myrcene, earthy, peppery, medical, clear-headed, CBD-rich
 ---
 
 # Pennywise

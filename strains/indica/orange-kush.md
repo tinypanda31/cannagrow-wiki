@@ -1,7 +1,7 @@
 ---
 title: Orange Kush
 description: Indica-dominant cross of Orange Juice and OG Kush, known for its orange citrus profile with euphoric then body relaxation effects.
-tags: [indica-dominant, limonene, myrcene, caryophyllene, orange, citrus, earthy, euphoric]
+tags: indica-dominant, limonene, myrcene, caryophyllene, orange, citrus, earthy, euphoric
 ---
 
 # Orange Kush

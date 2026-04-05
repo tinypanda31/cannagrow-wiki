@@ -1,7 +1,7 @@
 ---
 title: Black Domina
 description: Deep indica polyhybrid of Northern Lights, Afghan, Hash Plant, and White Widow genetics, known for its hashy aroma and profoundly sedating effects.
-tags: [indica, myrcene, pinene, hashy, sedating, easy-grow]
+tags: indica, myrcene, pinene, hashy, sedating, easy-grow
 ---
 
 # Black Domina

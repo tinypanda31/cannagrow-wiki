@@ -1,7 +1,7 @@
 ---
 title: LA Confidential Haze
 description: Sativa-dominant hybrid crossing LA Confidential with Haze, delivering energetic and focused effects with pine-earthy-spicy aroma, THC 17-22%.
-tags: [sativa-dominant, la-confidential, haze, caryophyllene, terpinolene, myrcene, pine, earthy, spicy, energetic, focused]
+tags: sativa-dominant, la-confidential, haze, caryophyllene, terpinolene, myrcene, pine, earthy, spicy, energetic, focused
 ---
 
 # LA Confidential Haze

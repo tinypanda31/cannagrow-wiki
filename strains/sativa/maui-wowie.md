@@ -1,7 +1,7 @@
 ---
 title: Maui Wowie
 description: Pure sativa Hawaiian landrace with THC 13-19%, pinene-dominant terpene profile, tropical-pine-sweet aroma, and legendary cultural significance in Hawaiian cannabis history.
-tags: [sativa, pinene, caryophyllene, terpinolene, tropical, pine, sweet, energetic, creative, landrace, hawaii, legendary]
+tags: sativa, pinene, caryophyllene, terpinolene, tropical, pine, sweet, energetic, creative, landrace, hawaii, legendary
 ---
 
 # Maui Wowie

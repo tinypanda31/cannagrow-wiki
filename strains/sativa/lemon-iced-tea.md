@@ -1,7 +1,7 @@
 ---
 title: Lemon Iced Tea
 description: Sativa-dominant hybrid crossing Lemon Skunk with Iced Tea (unknown sativa), delivering energetic and happy effects with lemon-citrus-sweet aroma, THC 16-21%.
-tags: [sativa-dominant, lemon-skunk, limonene, terpinolene, caryophyllene, lemon, citrus, sweet, energetic, happy]
+tags: sativa-dominant, lemon-skunk, limonene, terpinolene, caryophyllene, lemon, citrus, sweet, energetic, happy
 ---
 
 # Lemon Iced Tea

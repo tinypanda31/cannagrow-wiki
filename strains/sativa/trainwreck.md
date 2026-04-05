@@ -1,7 +1,7 @@
 ---
 title: Trainwreck
 description: Sativa-dominant landrace hybrid of Mexican, Thai, and Afghan genetics, known for fast-acting cerebral effects, spicy-lemon-pine aroma, and THC up to 21%.
-tags: [sativa-dominant, terpinolene, caryophyllene, pinene, cerebral, spicy, lemon, fast-acting]
+tags: sativa-dominant, terpinolene, caryophyllene, pinene, cerebral, spicy, lemon, fast-acting
 ---
 
 # Trainwreck

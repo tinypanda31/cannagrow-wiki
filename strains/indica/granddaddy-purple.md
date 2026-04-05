@@ -1,7 +1,7 @@
 ---
 title: Granddaddy Purple
 description: Iconic purple indica cross of Purple Urine and Big Bud, known for its grape and berry aroma and deep relaxation effects.
-tags: [indica, myrcene, caryophyllene, grape, purple, relaxing]
+tags: indica, myrcene, caryophyllene, grape, purple, relaxing
 ---
 
 # Granddaddy Purple (GDP)

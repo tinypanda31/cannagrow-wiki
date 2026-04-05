@@ -1,7 +1,7 @@
 ---
 title: OG Kush
 description: Legendary hybrid of debated genetics from Santa Cruz, California, the backbone of West Coast cannabis with fuel-earth-pine aroma and relaxing euphoric effects.
-tags: [hybrid, myrcene, limonene, caryophyllene, relaxing, euphoric, west-coast, kush]
+tags: hybrid, myrcene, limonene, caryophyllene, relaxing, euphoric, west-coast, kush
 ---
 
 # OG Kush

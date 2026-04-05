@@ -1,7 +1,7 @@
 ---
 title: Green Crack
 description: Sativa-dominant strain named by Snoop Dogg, a cross of Skunk #1 and an unknown indica, known for mango-citrus tropical flavor and energetic focus effects.
-tags: [sativa, myrcene, caryophyllene, mango, citrus, energetic, focus]
+tags: sativa, myrcene, caryophyllene, mango, citrus, energetic, focus
 ---
 
 # Green Crack

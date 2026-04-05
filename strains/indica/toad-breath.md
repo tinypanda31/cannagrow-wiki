@@ -1,7 +1,7 @@
 ---
 title: Toad Breath
 description: Indica-dominant cross of Toad and Gelato Breath, delivering sweet fuel-forward aromatics with deeply sedating body effects.
-tags: [indica-dominant, caryophyllene, myrcene, limonene, sweet, fuel, earthy, sedating, toad, gelato]
+tags: indica-dominant, caryophyllene, myrcene, limonene, sweet, fuel, earthy, sedating, toad, gelato
 ---
 
 # Toad Breath

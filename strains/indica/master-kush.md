@@ -1,7 +1,7 @@
 ---
 title: Master Kush
 description: Classic indica cross of Hindu Kush landrace and a Dutch landrace selection, known for its earthy citrus incense aroma and full-body calm.
-tags: [indica, myrcene, pinene, caryophyllene, earthy, relaxing, classic]
+tags: indica, myrcene, pinene, caryophyllene, earthy, relaxing, classic
 ---
 
 # Master Kush

@@ -1,7 +1,7 @@
 ---
 title: Casey Jones
 description: Sativa-dominant hybrid of East Coast Sour Diesel x Space Queen with THC 18-23%, terpinolene-forward profile, diesel-berry-citrus aroma, and energetic, creative effects.
-tags: [sativa-dominant, terpinolene, caryophyllene, limonene, diesel, berry, citrus, energetic, creative, sour-diesel]
+tags: sativa-dominant, terpinolene, caryophyllene, limonene, diesel, berry, citrus, energetic, creative, sour-diesel
 ---
 
 # Casey Jones

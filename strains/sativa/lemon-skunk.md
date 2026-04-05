@@ -1,7 +1,7 @@
 ---
 title: Lemon Skunk
 description: Sativa-dominant hybrid selected from Skunk phenotypes for bright lemon aroma, delivering energetic and happy effects with intense lemon-citrus-skunky profile, THC 15-22%.
-tags: [sativa-dominant, limonene, caryophyllene, myrcene, lemon, citrus, skunky, energetic, happy, cannabis-cup]
+tags: sativa-dominant, limonene, caryophyllene, myrcene, lemon, citrus, skunky, energetic, happy, cannabis-cup
 ---
 
 # Lemon Skunk

@@ -1,7 +1,7 @@
 ---
 title: Yeti
 description: Indica-dominant hybrid crossing Northern Lights with unknown heavy indica genetics, known for earthy-pine-sweet aroma, heavy body relaxation, and manageable indica growing profile.
-tags: [hybrid, indica-dominant, myrcene, caryophyllene, pinene, earthy, pine, sweet, heavy-relaxation, sedating]
+tags: hybrid, indica-dominant, myrcene, caryophyllene, pinene, earthy, pine, sweet, heavy-relaxation, sedating
 ---
 
 # Yeti

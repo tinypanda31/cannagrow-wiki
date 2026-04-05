@@ -1,7 +1,7 @@
 ---
 title: White Widow
 description: Classic balanced hybrid from the Netherlands, a cross of Brazilian sativa and South Indian indica, famous since the 1990s for white trichome coverage, earthy-woody flavor, and balanced euphoric effects.
-tags: [hybrid, myrcene, pinene, caryophyllene, balanced, resinous, classic, easy-grow]
+tags: hybrid, myrcene, pinene, caryophyllene, balanced, resinous, classic, easy-grow
 ---
 
 # White Widow

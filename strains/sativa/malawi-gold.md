@@ -1,7 +1,7 @@
 ---
 title: Malawi Gold
 description: Pure sativa landrace from Malawi, Africa, legendary for its sweet-earthy-spicy aroma, extremely cerebral and psychedelic effects, and very long flowering time of 80-100+ days.
-tags: [sativa, terpinolene, caryophyllene, landrace, cerebral, psychedelic, africa, legendary]
+tags: sativa, terpinolene, caryophyllene, landrace, cerebral, psychedelic, africa, legendary
 ---
 
 # Malawi Gold

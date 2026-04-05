@@ -1,7 +1,7 @@
 ---
 title: Yellow OG
 description: Indica-dominant hybrid OG Kush phenotype, delivering fuel, citrus, and earthy aromatics with balanced effects transitioning to body relaxation.
-tags: [hybrid, indica-dominant, myrcene, limonene, caryophyllene, fuel, citrus, earthy, og-kush, relaxing]
+tags: hybrid, indica-dominant, myrcene, limonene, caryophyllene, fuel, citrus, earthy, og-kush, relaxing
 ---
 
 # Yellow OG

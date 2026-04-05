@@ -1,7 +1,7 @@
 ---
 title: Peaches and Cream
 description: Hybrid strain crossing unknown genetics with Cookies lineage, delivering peach, sweet, and creamy aromatics with balanced euphoric and body effects.
-tags: [hybrid, myrcene, caryophyllene, limonene, peach, sweet, creamy, euphoric, balanced, cookies]
+tags: hybrid, myrcene, caryophyllene, limonene, peach, sweet, creamy, euphoric, balanced, cookies
 ---
 
 # Peaches and Cream

@@ -1,7 +1,7 @@
 ---
 title: Environmental Impact of the Cannabis Industry
 description: Analysis of the cannabis industry's environmental footprint — energy statistics, water usage, packaging waste, regulatory waste mandates, carbon lifecycle analysis, and policy recommendations.
-tags: [sustainability, environment, energy, water, waste, carbon-footprint, packaging, policy, indoor, outdoor, greenhouse, lifecycle-analysis]
+tags: sustainability, environment, energy, water, waste, carbon-footprint, packaging, policy, indoor, outdoor, greenhouse, lifecycle-analysis
 ---
 
 # Environmental Impact of the Cannabis Industry

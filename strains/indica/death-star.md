@@ -1,7 +1,7 @@
 ---
 title: Death Star
 description: Indica-dominant cross of Sensi Star and Sour Diesel, known for its fuel-forward skunky aroma and potent body high.
-tags: [indica-dominant, myrcene, caryophyllene, fuel, potent, body-high]
+tags: indica-dominant, myrcene, caryophyllene, fuel, potent, body-high
 ---
 
 # Death Star

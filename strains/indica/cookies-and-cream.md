@@ -1,7 +1,7 @@
 ---
 title: Cookies and Cream
 description: Indica-leaning hybrid of Starfighter and Girl Scout Cookies, known for sweet vanilla-earthy flavor and euphoric body relaxation.
-tags: [hybrid-indica, caryophyllene, myrcene, limonene, sweet, vanilla, euphoric]
+tags: hybrid-indica, caryophyllene, myrcene, limonene, sweet, vanilla, euphoric
 ---
 
 # Cookies and Cream

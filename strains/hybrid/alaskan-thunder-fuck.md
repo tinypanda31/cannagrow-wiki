@@ -1,7 +1,7 @@
 ---
 title: Alaskan Thunder Fuck
 description: Legendary sativa-dominant hybrid from the Matanuska Valley, crossing North American sativa, Russian indica, and Afghani genetics. Known for pine-earthy aroma, energetic euphoria, and storied Alaskan origins.
-tags: [hybrid, sativa-dominant, pinene, myrcene, caryophyllene, pine, earthy, euphoric, energetic, legendary]
+tags: hybrid, sativa-dominant, pinene, myrcene, caryophyllene, pine, earthy, euphoric, energetic, legendary
 ---
 
 # Alaskan Thunder Fuck

@@ -1,7 +1,7 @@
 ---
 title: Chocolate Thai
 description: Pure sativa landrace from Thailand, legendary 1960s-70s strain known for its distinctive chocolate-earthy-spicy aroma and extremely cerebral, psychedelic effects.
-tags: [sativa, caryophyllene, humulene, landrace, cerebral, psychedelic, thailand, legendary]
+tags: sativa, caryophyllene, humulene, landrace, cerebral, psychedelic, thailand, legendary
 ---
 
 # Chocolate Thai

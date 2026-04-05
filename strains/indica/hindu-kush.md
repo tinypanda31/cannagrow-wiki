@@ -1,7 +1,7 @@
 ---
 title: Hindu Kush
 description: Pure landrace indica from the Hindu Kush mountain range on the India-Pakistan border, known for earthy sandalwood aroma and exceptional resilience.
-tags: [indica, myrcene, caryophyllene, landrace, earthy, resilient]
+tags: indica, myrcene, caryophyllene, landrace, earthy, resilient
 ---
 
 # Hindu Kush

@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Malta"
-description: "Malta became the first European Union member state to legalize recreational cannabis in December 2021, establishing a unique model based on nonprofit harm reduction associations rather than commercial retail. This page covers the legal framework, the association model, implementation challenges, and Malta's outsized influence on EU cannabis policy despite its small size."
+description: "Malta became the first European Union member state to legalize recreational cannabis in December 2021, establishing a unique model based on nonprofit harm reduction associations rather than commercial retail. This page covers the legal framework, ..."
 tags: law-policy, legalization, Malta, EU, harm reduction, nonprofit associations, first EU legalization
 ---
 

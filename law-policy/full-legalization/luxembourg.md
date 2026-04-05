@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Luxembourg"
-description: "Luxembourg became the first EU nation to explicitly legalize home cultivation of cannabis for personal use in March 2023, though it scaled back its original plans for commercial sales due to EU and international treaty concerns. This page covers the legal framework, the political dynamics of Europe's wealthiest nation, and the cross-border complications unique to Luxembourg's position."
+description: "Luxembourg became the first EU nation to explicitly legalize home cultivation of cannabis for personal use in March 2023, though it scaled back its original plans for commercial sales due to EU and international treaty concerns. This page covers t..."
 tags: law-policy, legalization, Luxembourg, EU, home cultivation, cross-border
 ---
 

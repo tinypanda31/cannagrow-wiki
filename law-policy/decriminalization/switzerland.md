@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Switzerland"
-description: "Switzerland decriminalized possession of up to 10g with an administrative fine of 100 CHF and is piloting the world's first government-run regulated cannabis sales trials. With a unique 1.0% THC hemp threshold creating a legal 'light cannabis' market and pharmacies selling CBD cannabis with up to 1% THC legally, Switzerland's evidence-based approach is characteristically pragmatic."
+description: "Switzerland decriminalized possession of up to 10g with an administrative fine of 100 CHF and is piloting the world's first government-run regulated cannabis sales trials. With a unique 1.0% THC hemp threshold creating a legal 'light cannabis' mar..."
 tags: law-policy, decriminalization, Switzerland, pilot studies, CBD, light cannabis, regulated trials
 ---
 

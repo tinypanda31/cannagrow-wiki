@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Israel (Occupied Palestine)"
-description: "Israel (occupied Palestine) is a world leader in cannabis research — Israeli scientists isolated and identified THC, CBD, and the endocannabinoid system. The medical cannabis program is relatively accessible, with one of the world's highest per-capita patient rates. Recreational cannabis remains illegal, but depenalization guidelines (2018) mean first-time offenders receive fines. Israel exports medical cannabis products and maintains a unique position as scientific pioneer without recreational reform."
+description: "Israel (occupied Palestine) is a world leader in cannabis research — Israeli scientists isolated and identified THC, CBD, and the endocannabinoid system. The medical cannabis program is relatively accessible, with one of the world's highest per-..."
 tags: law-policy, medical cannabis, Israel (occupied Palestine), cannabis research, Raphael Mechoulam, endocannabinoid system, THC discovery, depenalization, British Mandate, Palestinian culture, hashish
 ---
 

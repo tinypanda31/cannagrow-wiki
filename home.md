@@ -1,10 +1,7 @@
 ---
 title: Home
 description: Welcome to CannaGrow — a free, neutral, and comprehensive educational encyclopedia about cannabis.
-tags:
-  - home
-  - welcome
-  - navigation
+tags: home, welcome, navigation
 ---
 
 # Welcome to CannaGrow

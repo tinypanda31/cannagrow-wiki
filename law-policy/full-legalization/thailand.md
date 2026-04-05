@@ -1,14 +1,7 @@
 ---
 title: "Cannabis Law in Thailand"
 description: "Thailand became the first Asian nation to legalize cannabis in June 2022, but chaotic implementation and political instability have left the legal status in flux. This page covers the rapid liberalization, the subsequent attempt at re-criminalization, the traditional cannabis culture that predates prohibition, and the broader significance of an Asian nation breaking from the prohibition consensus."
-tags:
-  - law-policy
-  - legalization
-  - Thailand
-  - Asia
-  - political instability
-  - traditional use
-  - re-criminalization
+tags: law-policy, legalization, Thailand, Asia, political instability, traditional use, re-criminalization
 ---
 
 # Cannabis Law in Thailand

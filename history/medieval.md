@@ -1,13 +1,7 @@
 ---
 title: Cannabis in the Medieval World
 description: Cannabis use through the medieval and early modern period -- the Islamic hashish tradition, European hemp industry, African dispersal, colonial Americas, and the emergence of cannabis in Western medicine.
-tags:
-  - history
-  - medieval
-  - islamic world
-  - hemp industry
-  - victorian medicine
-  - colonial
+tags: history, medieval, islamic world, hemp industry, victorian medicine, colonial
 ---
 
 # Cannabis in the Medieval World

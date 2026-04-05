@@ -1,13 +1,7 @@
 ---
 title: Breeding Techniques
 description: A comprehensive guide to cannabis breeding techniques including selective breeding, backcrossing, stabilization, polyhybrid creation, and modern breeding tools.
-tags:
-  - genetics
-  - breeding
-  - seeds
-  - cultivation
-  - landrace
-  - phenotypes
+tags: genetics, breeding, seeds, cultivation, landrace, phenotypes
 ---
 
 <!-- image placeholder -->

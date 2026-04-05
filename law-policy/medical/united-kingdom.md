@@ -1,14 +1,7 @@
 ---
 title: "Cannabis Law in the United Kingdom"
 description: "The UK rescheduled medical cannabis to Schedule 2 in November 2018 following the Billy Caldwell case, but NHS prescriptions remain extremely limited and most patients access through expensive private clinics. Recreational cannabis remains strictly illegal as a Class B drug. Despite strict laws, the UK has one of Europe's highest cannabis usage rates — evidence of prohibition's failure."
-tags:
-  - law-policy
-  - medical cannabis
-  - United Kingdom
-  - Class B
-  - Billy Caldwell
-  - NHS
-  - prohibition
+tags: law-policy, medical cannabis, United Kingdom, Class B, Billy Caldwell, NHS, prohibition
 ---
 
 # Cannabis Law in the United Kingdom

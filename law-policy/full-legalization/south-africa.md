@@ -1,16 +1,7 @@
 ---
 title: "Cannabis Law in South Africa"
 description: "South Africa's Constitutional Court ruled in 2018 that personal use and home cultivation of cannabis in private is a constitutional right protected by the right to privacy. However, commercial sale remains illegal and no regulatory framework for legal sales has been implemented. This page covers the Prince case, the dagga couple, indigenous cannabis traditions, and the ongoing struggle for full legalization and restorative justice."
-tags:
-  - law-policy
-  - legalization
-  - South Africa
-  - Constitutional Court
-  - privacy rights
-  - indigenous rights
-  - Rastafari
-  - dagga
-  - restorative justice
+tags: law-policy, legalization, South Africa, Constitutional Court, privacy rights, indigenous rights, Rastafari, dagga, restorative justice
 ---
 
 # Cannabis Law in South Africa

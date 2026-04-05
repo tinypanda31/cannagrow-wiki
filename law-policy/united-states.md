@@ -1,15 +1,7 @@
 ---
 title: "Cannabis Law in the United States"
 description: "The complex landscape of cannabis law in the United States — federal Schedule I status, state-level legalization, the banking crisis, expungement, and the contradictions of American cannabis policy."
-tags:
-  - law
-  - policy
-  - United States
-  - federal
-  - state
-  - Schedule I
-  - legalization
-  - expungement
+tags: law, policy, United States, federal, state, Schedule I, legalization, expungement
 ---
 
 # Cannabis Law in the United States

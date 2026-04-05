@@ -223,11 +223,7 @@ Since this project includes image placeholders, you'll want to source real image
 ### 3. Set Up Tags
 
 1. Go to **Administration > Tags**
-2. Pre-create commonly used tags:
-   - Types: `indica`, `sativa`, `hybrid`
-   - Terpenes: `myrcene`, `limonene`, `caryophyllene`, `pinene`, `linalool`, `terpinolene`, `humulene`
-   - Topics: `history`, `cultivation`, `extraction`, `consumption`, `science`, `legal`
-   - Difficulty: `beginner-friendly`, `intermediate`, `advanced-grow`
+2. Pre-create commonly used tags: Types: `indica`, `sativa`, `hybrid`, Terpenes: `myrcene`, `limonene`, `caryophyllene`, `pinene`, `linalool`, `terpinolene`, `humulene`, Topics: `history`, `cultivation`, `extraction`, `consumption`, `science`, `legal`, Difficulty: `beginner-friendly`, `intermediate`, `advanced-grow`
 
 ### 4. Apply Custom CSS Theme
 

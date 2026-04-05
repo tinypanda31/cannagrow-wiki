@@ -1,11 +1,7 @@
 ---
 title: How to Use This Wiki
 description: A guide to navigating CannaGrow, using search, understanding page structure, and getting the most from our content.
-tags:
-  - navigation
-  - getting-started
-  - how-to
-  - guide
+tags: navigation, getting-started, how-to, guide
 ---
 
 # How to Use This Wiki
@@ -71,9 +67,7 @@ Most CannaGrow pages follow a consistent structure:
 ---
 title: Page Title
 description: Brief summary for search engines
-tags:
-  - tag1
-  - tag2
+tags: tag1, tag2
 ---
 
 # Page Title

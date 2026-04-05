@@ -1,13 +1,7 @@
 ---
 title: Seeds — Types and Production
 description: A comprehensive guide to cannabis seeds — regular, feminized, autoflowering, fast-flowering, and CBD-rich varieties. Covers seed anatomy, selection, storage, viability testing, germination methods, and seedling care.
-tags:
-  - seeds
-  - germination
-  - genetics
-  - feminized
-  - autoflowering
-  - propagation
+tags: seeds, germination, genetics, feminized, autoflowering, propagation
 ---
 
 <!-- image placeholder -->

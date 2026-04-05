@@ -1,14 +1,7 @@
 ---
 title: "Cannabis Law in Germany"
 description: "Germany's Cannabis Act (CanG) took effect April 1, 2024, making it the largest economy in the European Union to legalize recreational cannabis. The two-pillar model includes personal possession, home cultivation, and cannabis social clubs in Pillar 1, with regulated commercial supply projects planned for Pillar 2. This page covers the legal framework, EU treaty complications, implementation, and the political forces shaping Germany's landmark reform."
-tags:
-  - law-policy
-  - legalization
-  - Germany
-  - EU
-  - cannabis social clubs
-  - two-pillar model
-  - CanG
+tags: law-policy, legalization, Germany, EU, cannabis social clubs, two-pillar model, CanG
 ---
 
 # Cannabis Law in Germany

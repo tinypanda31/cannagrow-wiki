@@ -1,15 +1,7 @@
 ---
 title: Ancient Origins of Cannabis
 description: Cannabis use in prehistory and ancient civilizations -- from the earliest hemp rope (~8000 BCE) through the classical empires of China, India, Egypt, Persia, and the Scythian steppes.
-tags:
-  - history
-  - ancient
-  - archaeology
-  - prehistory
-  - china
-  - india
-  - egypt
-  - scythians
+tags: history, ancient, archaeology, prehistory, china, india, egypt, scythians
 ---
 
 # Ancient Origins of Cannabis

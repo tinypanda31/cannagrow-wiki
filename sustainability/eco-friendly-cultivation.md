@@ -1,16 +1,7 @@
 ---
 title: "Eco-Friendly Cultivation Practices"
 description: "Practical guide to sustainable cannabis cultivation — organic nutrients, living soil, energy efficiency, water conservation, regenerative farming, and waste reduction."
-tags:
-  - sustainability
-  - organic
-  - living-soil
-  - energy-efficiency
-  - water-conservation
-  - regenerative-agriculture
-  - IPM
-  - composting
-  - sun-grown
+tags: sustainability, organic, living-soil, energy-efficiency, water-conservation, regenerative-agriculture, IPM, composting, sun-grown
 ---
 
 # Eco-Friendly Cultivation Practices

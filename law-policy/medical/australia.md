@@ -1,14 +1,7 @@
 ---
 title: "Cannabis Law in Australia"
 description: "Australia legalized medical cannabis in 2016 through the Narcotic Drugs Amendment Act, with access through the Special Access Scheme (SAS) and Authorised Prescrier pathways. Recreational cannabis remains illegal federally, though the Australian Capital Territory legalized personal possession and cultivation in 2020, creating a federal-state conflict. Access has been criticized as slow, expensive, and limited."
-tags:
-  - law-policy
-  - medical cannabis
-  - Australia
-  - TGA
-  - SAS
-  - federal-state conflict
-  - ACT
+tags: law-policy, medical cannabis, Australia, TGA, SAS, federal-state conflict, ACT
 ---
 
 # Cannabis Law in Australia

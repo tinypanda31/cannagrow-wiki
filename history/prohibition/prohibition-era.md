@@ -1,13 +1,7 @@
 ---
 title: The Prohibition Era
 description: How cannabis became prohibited worldwide -- from early 20th century attitudes through the Marihuana Tax Act of 1937, racial propaganda, media manipulation, and the global spread of cannabis criminalization.
-tags:
-  - history
-  - prohibition
-  - anslinger
-  - marihuana tax act
-  - reefer madness
-  - legislation
+tags: history, prohibition, anslinger, marihuana tax act, reefer madness, legislation
 ---
 
 # The Prohibition Era

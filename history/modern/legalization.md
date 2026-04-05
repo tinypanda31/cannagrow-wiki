@@ -1,15 +1,7 @@
 ---
 title: Modern Legalization & Renaissance
 description: The modern cannabis legalization movement from California Proposition 215 (1996) through the 2020s -- recreational legalization, national legalization in Uruguay and Canada, European reforms, social equity, CBD boom, and the scientific research renaissance.
-tags:
-  - history
-  - legalization
-  - prop 215
-  - colorado
-  - canada
-  - uruguay
-  - cbd
-  - social equity
+tags: history, legalization, prop 215, colorado, canada, uruguay, cbd, social equity
 ---
 
 # Modern Legalization & Renaissance

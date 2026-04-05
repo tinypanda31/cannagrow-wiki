@@ -1,12 +1,7 @@
 ---
 title: Harm Reduction
 description: Evidence-based harm reduction information for cannabis, covering mental health, lung health, contamination risks, cannabinoid hyperemesis syndrome, dependency, drug interactions, and when to seek professional help.
-tags:
-  - harm-reduction
-  - safety
-  - health
-  - risk
-  - evidence-based
+tags: harm-reduction, safety, health, risk, evidence-based
 ---
 
 # Harm Reduction

@@ -1,14 +1,7 @@
 ---
 title: "Cannabis Law in the Netherlands"
 description: "The Dutch coffee shop model is formal toleration (gedoogbeleid), not legalization. Cannabis remains illegal under the Opium Act, but coffee shops are tolerated if they follow the AHOI-G criteria. The famous 'backdoor problem' — tolerated front-door sales but criminal back-door supply — creates an absurdity that has defined Dutch cannabis policy for decades."
-tags:
-  - law-policy
-  - decriminalization
-  - Netherlands
-  - gedoogbeleid
-  - coffee shop
-  - toleration
-  - AHOI-G
+tags: law-policy, decriminalization, Netherlands, gedoogbeleid, coffee shop, toleration, AHOI-G
 ---
 
 # Cannabis Law in the Netherlands

@@ -1,11 +1,7 @@
 ---
 title: Cannabis History Overview
 description: A comprehensive overview of cannabis history, from ancient civilizations through the modern legalization movement. Explore the full timeline of humanity's relationship with cannabis.
-tags:
-  - history
-  - overview
-  - timeline
-  - navigation
+tags: history, overview, timeline, navigation
 ---
 
 # Cannabis History Overview

@@ -1,11 +1,7 @@
 ---
 title: Responsible Use
 description: Evidence-based guidance for responsible cannabis use in jurisdictions where it is legal, covering potency, safety, storage, and harm reduction principles.
-tags:
-  - responsible-use
-  - safety
-  - harm-reduction
-  - guidelines
+tags: responsible-use, safety, harm-reduction, guidelines
 ---
 
 # Responsible Use

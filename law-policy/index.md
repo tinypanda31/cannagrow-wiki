@@ -1,13 +1,7 @@
 ---
 title: "Cannabis Law & Policy"
 description: "Overview of cannabis law and policy worldwide — legalization, decriminalization, medical access, the legacy of prohibition, and the patchwork of national approaches."
-tags:
-  - law
-  - policy
-  - legalization
-  - decriminalization
-  - prohibition
-  - global
+tags: law, policy, legalization, decriminalization, prohibition, global
 ---
 
 # Cannabis Law & Policy

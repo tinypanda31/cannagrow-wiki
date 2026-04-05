@@ -1,11 +1,7 @@
 ---
 title: Legal Landscape
 description: Comprehensive overview of cannabis legality worldwide, including international treaties, national frameworks, and the distinction between medical and recreational legality.
-tags:
-  - legal
-  - regulation
-  - global
-  - policy
+tags: legal, regulation, global, policy
 ---
 
 # Legal Landscape

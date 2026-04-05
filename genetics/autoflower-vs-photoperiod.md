@@ -1,14 +1,7 @@
 ---
 title: Autoflowering vs. Photoperiod Cannabis
 description: A comprehensive comparison of autoflowering and photoperiod cannabis genetics — covering flowering triggers, cultivation differences, pros and cons, myths, and decision frameworks for growers.
-tags:
-  - autoflowering
-  - photoperiod
-  - ruderalis
-  - genetics
-  - cultivation
-  - indoor
-  - outdoor
+tags: autoflowering, photoperiod, ruderalis, genetics, cultivation, indoor, outdoor
 ---
 
 <!-- image placeholder -->

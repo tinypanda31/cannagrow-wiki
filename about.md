@@ -1,11 +1,7 @@
 ---
 title: About CannaGrow
 description: Learn about CannaGrow's mission, editorial standards, licensing, and how you can contribute.
-tags:
-  - about
-  - mission
-  - community
-  - licensing
+tags: about, mission, community, licensing
 ---
 
 # About CannaGrow

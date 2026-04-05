@@ -1,14 +1,7 @@
 ---
 title: The War on Drugs
 description: The escalation of drug prohibition from Nixon's 1971 declaration through the end of the 20th century -- the Controlled Substances Act, DEA, mass incarceration, racial disparities, international drug war, and the birth of the medical cannabis movement.
-tags:
-  - history
-  - war on drugs
-  - nixon
-  - controlled substances act
-  - mass incarceration
-  - medical cannabis movement
-  - aids crisis
+tags: history, war on drugs, nixon, controlled substances act, mass incarceration, medical cannabis movement, aids crisis
 ---
 
 # The War on Drugs

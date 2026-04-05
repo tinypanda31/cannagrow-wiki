@@ -1,11 +1,7 @@
 ---
 title: Editorial Guidelines
 description: Content standards, formatting requirements, and review processes for all CannaGrow contributors.
-tags:
-  - editorial
-  - guidelines
-  - standards
-  - contributing
+tags: editorial, guidelines, standards, contributing
 ---
 
 # Editorial Guidelines

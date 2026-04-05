@@ -1,14 +1,7 @@
 ---
 title: "Cannabis Law in Portugal"
 description: "Portugal decriminalized all drugs in 2001 under Law 30/2000, replacing criminal penalties with administrative referrals to Commissions for the Dissuasion of Drug Addiction (CDTs). The Portuguese model is the world's most cited evidence that decriminalization works: overdose deaths fell by over 80%, HIV infection rates plummeted, and cannabis use did not significantly increase."
-tags:
-  - law-policy
-  - decriminalization
-  - Portugal
-  - Law 30/2000
-  - CDT
-  - drug policy reform
-  - harm reduction
+tags: law-policy, decriminalization, Portugal, Law 30/2000, CDT, drug policy reform, harm reduction
 ---
 
 # Cannabis Law in Portugal

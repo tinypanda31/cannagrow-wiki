@@ -27,7 +27,7 @@ CannaGrow is organized into **major sections**, each covering a broad topic area
 | Extraction | [/extraction](/extraction/index) | Methods for isolating and concentrating compounds |
 | Consumption | [/consumption](/consumption/index) | Administration methods: smoking, vaping, edibles, topicals |
 | Science | [/science](/science/index) | Endocannabinoid system, research, clinical studies |
-| Legal & Safety | [Harm Reduction](/legal-safety/harm-reduction) | Global legality, responsible use, harm reduction |
+| Law & Policy | [/law-policy](/law-policy/index) | Global legality, responsible use, harm reduction |
 | Glossary | [/glossary](/glossary/index) | Comprehensive cannabis terminology |
 
 Each major section contains **sub-pages** covering specific subtopics. For example, [/cultivation](/cultivation/index) links to pages on indoor growing, greenhouse cultivation, outdoor growing, nutrient management, pest control, and more.
@@ -145,8 +145,7 @@ Strain comparison tables appear on several pages, particularly in the [Strains](
 | **Flavor Profile** | Commonly reported taste and aroma descriptors |
 | **Effects** | Commonly reported effects (subjective, not medical claims) |
 
- warning Note on Strain Data
-Strain characteristics vary significantly between growers, harvests, and testing labs. The values presented represent **typical ranges** reported across multiple sources, not guarantees. Two samples of the same named strain can have very different cannabinoid and terpene profiles depending on growing conditions, harvest timing, and curing methods.
+**⚠️ Note on Strain Data** Strain characteristics vary significantly between growers, harvests, and testing labs. The values presented represent **typical ranges** reported across multiple sources, not guarantees. Two samples of the same named strain can have very different cannabinoid and terpene profiles depending on growing conditions, harvest timing, and curing methods.
 
 ---
 
@@ -180,8 +179,10 @@ You will encounter disclaimer boxes throughout CannaGrow. They serve specific pu
 
 | Disclaimer Type | Appearance | Meaning |
 |----------------|-----------|---------|
-| **Legal Disclaimer** | **✅ | Information about laws may be outdated or inapplicable to your jurisdiction. Verify locally. |** | **Medical Disclaimer** |  warning | Content is educational only and does not replace professional medical advice. |
-| **Informational Note** | **✅ | Supplementary context that is useful but not critical to understanding the main content. |** | **Safety Warning** |  danger | Immediate safety concern requiring reader attention (e.g., risks of overconsumption, contamination). |
+| **Legal Disclaimer** | `**✅ Disclaimer**` | Information about laws may be outdated or inapplicable to your jurisdiction. Verify locally. |
+| **Medical Disclaimer** | `**⚠️ Disclaimer**` | Content is educational only and does not replace professional medical advice. |
+| **Informational Note** | `**ℹ️ Note**` | Supplementary context that is useful but not critical to understanding the main content. |
+| **Safety Warning** | `**🚨 Danger**` | Immediate safety concern requiring reader attention (e.g., risks of overconsumption, contamination). |
 
 ---
 

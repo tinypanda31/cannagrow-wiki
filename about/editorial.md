@@ -124,8 +124,7 @@ All articles use standard Markdown formatting:
 ---
 title: Page Title
 description: One-sentence summary
-tags:
-  - relevant-tag
+tags: relevant-tag-1, relevant-tag-2
 ---
 
 # Page Title
@@ -178,14 +177,17 @@ Tables should be used for structured data that benefits from side-by-side compar
 
 ### Admonitions
 
-Use Wiki.js admonition blocks for special content types:
+Use **bold emoji labels** to highlight important information, warnings, tips, and notes:
 
-| Block | Syntax | Use Case |
+| Label | Syntax | Use Case |
 |-------|--------|----------|
-| Info | `**ℹ️ Info** title + content | Supplementary context, tips, cross-references |
-| Warning | `**⚠️ Warning** title + content | Legal disclaimers, safety concerns, important caveats |
-| Danger | `**🚨 Danger** title + content | Immediate safety risks (contamination, overconsumption, etc.) |
-| Tip | `**💡 Tip** title + content | Practical suggestions for readers |
+| Info | `**ℹ️ Note** Content here.` | Supplementary context, tips, cross-references |
+| Warning | `**⚠️ Warning** Content here.` | Legal disclaimers, safety concerns, important caveats |
+| Danger | `**🚨 Danger** Content here.` | Immediate safety risks (contamination, overconsumption, etc.) |
+| Tip | `**💡 Tip** Content here.` | Practical suggestions for readers |
+| Reality Check | `**ℹ️ Reality Check** Content here.` | Important context that challenges common assumptions |
+
+Admonition labels should appear as **bold text at the start of a paragraph**. Do not use Wiki.js `:::` admonition blocks — they are not reliably rendered.
 
 ### Internal Links
 
@@ -263,10 +265,7 @@ Strain profiles in the [Strains](/strains/index) section must follow a standardi
 ---
 title: Strain Name
 type: strain
-tags:
-  - indica-dominant
-  - hybrid
-  - strain-profile
+tags: indica-dominant, hybrid, strain-profile
 ---
 
 # Strain Name

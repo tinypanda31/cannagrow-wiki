@@ -39,7 +39,7 @@ The root zone pH determines nutrient availability. Every macro and micro nutrien
 
 - **Budget ($15–30):** Generic pen meters from online marketplaces. Acceptable for occasional use but expect inconsistent accuracy and short probe life. Good entry point for first-time growers.
 - **Mid-range ($40–80):** Brands like Apera Instruments, Bluelab (entry models), and Hanna Instruments (Checker series). Reliable accuracy, replaceable probes, good customer support. Recommended for most growers.
-- **Premium ($100–200+):** Hanna Instruments, Bluelab, Apex systems. Laboratory-grade accuracy, long-lasting probes, advanced features like datalogging and dosing integration. Justified for commercial or serious hobby grows.
+- **Premium ($100-200+):** Hanna Instruments, Bluelab. Laboratory-grade accuracy, long-lasting probes, advanced features like datalogging and multi-parameter measurement. Justified for commercial or serious hobby grows.
 
 **Calibration and maintenance:**
 
@@ -120,7 +120,7 @@ An infrared thermometer measures leaf surface temperature — not air temperatur
 
 **What to look for:**
 
-- **Adjustable emissivity** — Plant tissue has an emissivity of approximately 0.95. Meters with fixed emissivity at 0.95 are acceptable, but adjustable models let you fine-tune accuracy.
+- **Adjustable emissivity** — Plant tissue has an emissivity of approximately 0.95-0.98 (fresh, turgid leaves lean toward 0.97-0.98). Meters with fixed emissivity at 0.95 are acceptable, but adjustable models let you fine-tune accuracy.
 - **Distance-to-spot (D:S) ratio** — A 12:1 ratio means at 12 inches from the leaf, the meter measures a 1-inch diameter spot. Higher ratios (20:1, 30:1) allow more precise readings from further away.
 - **Laser targeting** — A single laser dot shows where the meter is pointed. Dual-laser or circle-laser models show the measurement area, which is more useful for avoiding false readings from nearby surfaces.
 - **Min/Max/Avg modes** — Useful for scanning a canopy and identifying hot spots or cold spots.

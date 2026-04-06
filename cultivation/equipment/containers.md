@@ -12,9 +12,9 @@ The root zone is the foundation of every successful cannabis grow. Container cho
 
 ## Container Types Compared
 
-| Feature | Fabric Pots | Air Pots | Smart Pots (Geotextile) | Plastic Pots | RDWC Buckets |
+| Feature | Fabric Pots | Air Pots | Heavy-Duty Fabric Pots | Plastic Pots | RDWC Buckets |
 |---------|-------------|----------|-------------------------|--------------|--------------|
-| **Air Pruning Quality** | Excellent — porous walls expose roots to air on all sides | Maximum — ridged cone walls force every root tip to air-prune | Very Good — similar to fabric with reinforced walls | None — roots circle and can become root-bound | Moderate — air stones provide dissolved O2, no wall pruning |
+| **Air Pruning Quality** | Excellent — porous walls expose roots to air on all sides | Maximum — ridged cone walls force every root tip to air-prune | Excellent — thicker fabric, same pruning principle | None — roots circle and can become root-bound | None — solid walls; dissolved O₂ from air stones only |
 | **Drainage** | Excellent — drains through entire surface | Excellent — slots at bottom and sides | Excellent — full-surface drainage | Single drain hole — prone to pooling | Controlled overflow — depends on system plumbing |
 | **Root Structure** | Dense, fibrous, highly branched | Extremely dense, fine root mass | Dense and fibrous, reinforced structure | Circling, tangled, prone to girdling | Fast-growing, water-root adapted |
 | **Cost** | $2–$15 depending on size | $10–$40 depending on size | $3–$20 depending on size | $1–$8 depending on size | $150–$600+ for full system |
@@ -64,17 +64,17 @@ Air pots feature a unique design with ridged, conical walls full of holes. Every
 
 **Drawbacks:** Air pots cost 2–4x more than fabric pots of equivalent size. They are rigid and take up more storage space. The aggressive air pruning can be counterproductive for very young plants—do not start seedlings directly in air pots; transplant into them after the plant is established.
 
-### Smart Pots (Geotextile)
+### Heavy-Duty Fabric Pots
 
-Smart pots are a premium variant of fabric pots made from thicker, reinforced geotextile material. They use the same air-pruning principle but with stronger fabric that resists tearing, UV degradation, and breakdown from repeated washing.
+Heavy-duty fabric pots are a premium variant of standard fabric pots made from thicker, reinforced geotextile material. They use the same air-pruning principle but with stronger fabric that resists tearing, UV degradation, and breakdown from repeated washing. Brands like SmartPot (a registered trademark of Hawthorne Gardening Company) and Root Pouch pioneered this category.
 
 **How they differ from standard fabric pots:**
-- **Thicker material** (typically 300+ GSM vs 150–200 GSM for standard fabric pots) means slower degradation.
+- **Thicker material** (typically 250-350 GSM vs 150-200 GSM for standard fabric pots) means slower degradation.
 - **Reinforced handles** make moving large, heavy pots much easier.
-- **Longer lifespan**—expect 3–6 grow cycles compared to 2–4 for standard fabric.
-- **Slightly higher cost** ($3–$20 vs $2–$15) but better cost-per-cycle over time.
+- **Longer lifespan** — expect 3-6 grow cycles compared to 2-4 for standard fabric.
+- **Slightly higher cost** ($3-$20 vs $2-$15) but better cost-per-cycle over time.
 
-**When to choose smart pots:** Commercial growers, multi-cycle indoor operations, and anyone who values durability and wants to minimize container replacement frequency. If you run 4+ cycles per year, the extra cost per pot pays for itself quickly.
+**When to choose heavy-duty fabric pots:** Commercial growers, multi-cycle indoor operations, and anyone who values durability and wants to minimize container replacement frequency. If you run 4+ cycles per year, the extra cost per pot pays for itself quickly.
 
 ### Plastic Pots
 
@@ -182,7 +182,7 @@ RDWC is a hydroponic system where multiple grow buckets are connected to a centr
 **How it works:** Each plant sits in its own bucket filled with an inert medium (clay pebbles, rockwool, or hydroton). A main line delivers fresh nutrient solution from a central reservoir to each bucket. A drain line returns solution from each bucket back to the reservoir. A powerful air pump feeds air stones in every bucket, keeping dissolved oxygen levels high. Submersible pumps in the reservoir keep solution circulating.
 
 **Pros of RDWC:**
-- **Extremely fast growth rates**—plants in RDWC routinely outpace soil and coco plants by 30–50% in vegetative growth.
+- **Extremely fast growth rates** — plants in RDWC routinely outpace soil plants in vegetative growth because nutrients and oxygen are available at the root zone without resistance. The actual advantage depends on genetics, environment, and nutrient program.
 - **High yields**—the combination of perfect oxygenation and constant nutrient delivery produces exceptional results.
 - **Water and nutrient efficient**—recirculation means less waste than run-to-waste hydroponic or soil systems.
 - **Central monitoring**—pH and EC are managed at the reservoir, not at each individual pot.
@@ -201,7 +201,7 @@ RDWC is a hydroponic system where multiple grow buckets are connected to a centr
 |-----------|--------------|----------------|-------|
 | **Reservoir** | 27-gallon tote ($30–$50) | Food-grade HDPE drum, opaque, lid-sealed ($80–$150) | Must be completely light-proof to prevent algae. Larger reservoirs = more stable pH/EC. |
 | **Grow Buckets** | 5-gallon buckets with lids ($5–$10 each) | Fabricated RDWC buckets with integrated net cup ports ($25–$45 each) | 5-gallon is minimum; 10–20 gallon buckets are better for large plants. |
-| **Air Pump** | Single diaphragm pump 60–80 L/min ($30–$50) | Linear diaphragm pump 120+ L/min with backup ($100–$200) | Size for at least 1 L/min per bucket minimum. More is always better. |
+| **Air Pump** | Single diaphragm pump 60-80 L/min ($30-$50) | Linear diaphragm pump 120+ L/min with backup ($100-$200) | Size for at least 2-4 L/min per bucket minimum. More is always better. |
 | **Air Stones** | Standard ceramic air stones ($3–$5 each) | Nano-bubble air stones or diffuser discs ($10–$20 each) | One per bucket plus one in the reservoir. Replace every 3–6 months. |
 | **Plumbing** | Vinyl tubing and barbed fittings ($20–$40 for kit) | PVC/ABS hard-plumbed manifold with ball valves ($60–$120) | Hard plumbing is more reliable long-term but harder to modify. |
 | **Net Cups** | Standard 6-inch net cups ($3–$6 each) | Bucket lids with integrated 6-inch net cup ports | 6-inch is standard for full-size plants. |
@@ -267,7 +267,7 @@ Coco coir is made from the ground husks of coconuts. It is technically a soilles
 - **Excellent air-to-water ratio**—coco naturally holds 20–30% air even at full water capacity.
 - **Reusable**—coco can be reused for 3–4 cycles if properly buffered and sterilized between runs.
 - **Forgiving of watering frequency**—unlike soil, coco does not suffer from overwatering because it always contains air.
-- **Popular for commercial grows**—the combination of speed, control, and repeatability makes coco the #1 commercial medium.
+- **Popular for commercial grows** — the combination of speed, control, and repeatability makes coco one of the top commercial media alongside rockwool slabs in greenhouse operations.
 
 **Cons:**
 - **Requires Cal-Mag supplementation**—coco naturally binds calcium and magnesium, making them unavailable to the plant. Cal-Mag must be added to every feeding.
@@ -311,7 +311,7 @@ Soilless mixes are blends of peat moss, perlite, and sometimes vermiculite or co
 | **Worm castings** | Microbial inoculant, gentle NPK and trace minerals | 10–20% of total volume, or 1/4–1/2 inch top-dressing | Soil builds, top-dressing during vegetative and early flower |
 | **Compost** | Organic matter, microbial diversity, slow-release nutrients | 10–30% of total volume | Living soil builds, outdoor beds, no-till systems |
 | **Dolomite lime** | pH buffering, calcium and magnesium source | 1–2 tbsp per gallon of medium | Mixed into soil and soilless before planting; not needed in coco/hydro |
-| **Mycorrhizae** | Root-fungi symbiosis for improved phosphorus and water uptake | Per product label (typically 1–2 tsp per planting hole) | At transplant or germination only—fungi must colonize young roots. Useless if applied to established plants. |
+| **Mycorrhizae** | Root-fungi symbiosis for improved phosphorus and water uptake | Per product label (typically 1-2 tsp per planting hole) | At transplant or germination only — fungi must colonize young roots. Significantly less effective on established root systems. |
 | **Bat guano** | NPK boost—high-nitrogen for veg, high-phosphorus for bloom | 1–3 tbsp per gallon of medium | Top-dressing during grow; water in after application |
 | **Biochar** | Microbial habitat, water retention, nutrient holding capacity | 5–10% of total volume | Soil builds, long-term medium improvement. Must be charged/inoculated before use—raw biochar absorbs nutrients. |
 | **Kelp meal** | Trace minerals, plant hormones (cytokinins, auxins), stress resistance | 1–2 tbsp per gallon of medium | Mixed into soil at build; also available as liquid extract for foliar or root drench |
@@ -324,7 +324,7 @@ Knowing how much medium you need before you start prevents mid-transplant trips 
 
 | Pot Size | Volume (Liters) | Volume (Gallons) | Bags of 50L Medium Needed |
 |----------|----------------|-----------------|--------------------------|
-| 1 gallon | 3.8 L | 1 gal | — (27 pots per 50L bag) |
+| 1 gallon | 3.8 L | 1 gal | — (~13 pots per 50L bag) |
 | 2 gallons | 7.6 L | 2 gal | — (6.5 pots per 50L bag) |
 | 3 gallons | 11.4 L | 3 gal | — (4.4 pots per 50L bag) |
 | 5 gallons | 18.9 L | 5 gal | — (2.6 pots per 50L bag) |

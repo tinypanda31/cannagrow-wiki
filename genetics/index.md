@@ -40,6 +40,7 @@ The genetics of a cannabis plant determine much of its potential:
 |------|----------|
 | [Basics](/genetics/basics) | Cannabis genetics fundamentals — genotype vs. phenotype, chromosomes, inheritance patterns, landraces, subspecies classification (indica/sativa/ruderalis), chemotypes, and why the indica/sativa distinction is scientifically imprecise |
 | [Breeding](/genetics/breeding) | Breeding methodology — selective breeding, backcrossing, F1/F2/F3 generations, trait stabilization, polyhybrids, inbreeding vs. outcrossing, male selection, phenotype hunting, and creating stable cultivars |
+| [Advanced Breeding](/genetics/advanced-breeding) | Scientific deep-dive — Mendelian inheritance, chemotype genetics with Punnett squares, S1 protocols, terpene inheritance, statistical pheno-hunt design, cannabinoid biosynthesis pathways, and environmental adaptation breeding |
 | [Seeds](/genetics/seeds) | Seed types and production — regular seeds, feminized seeds (colloidal silver, Rodelization, STS), autoflowering seeds, fast-flowering seeds, CBD-rich seeds, seed selection, storage, viability testing, and germination |
 | [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) | Comprehensive comparison — genetics origins, flowering triggers, light cycle requirements, yield differences, pros/cons of each, cultivation differences, and which growers should choose which type |
 
@@ -115,6 +116,7 @@ For a more complete glossary, see [Glossary](/glossary/index).
 2. [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) — Understand the biggest genetic division in modern cannabis
 3. [Seeds](/genetics/seeds) — Learn about seed types and how to choose, store, and germinate
 4. [Breeding](/genetics/breeding) — Explore breeding methodology (for advanced growers and breeders)
+5. [Advanced Breeding](/genetics/advanced-breeding) — Scientific deep-dive for breeders ready to apply genetics theory
 
 ---
 

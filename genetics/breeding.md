@@ -586,6 +586,7 @@ Support breeders who are working on preservation, diversity, and ethical practic
 
 ## See Also
 
+- **[Advanced Breeding](/genetics/advanced-breeding)** — Scientific deep-dive: Mendelian inheritance, Punnett squares for chemotypes, S1 creation protocol, terpene inheritance genetics, statistical pheno-hunt design, and cannabinoid biosynthesis
 - [Basics](/genetics/basics) — Foundational cannabis genetics
 - [Seeds](/genetics/seeds) — Seed types and production methods
 - [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) — Autoflowering vs. photoperiod genetics

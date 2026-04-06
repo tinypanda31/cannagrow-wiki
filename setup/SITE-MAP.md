@@ -39,14 +39,14 @@
 | 26 | Zone 9 Outdoor Guide | `/cultivation/outdoor/zone-9` | Cultivation |
 | 27 | Greenhouse Cultivation | `/cultivation/greenhouse` | Cultivation |
 | 28 | Nutrients & Feeding | `/cultivation/nutrients` | Cultivation |
-| 29 | Plant Training Techniques | `/cultivation/training` | Cultivation |
-| 30 | Pest & Disease Management | `/cultivation/pests-diseases` | Cultivation |
-| 31 | Pest Identification | `/cultivation/pest-identification` | Cultivation |
-| 32 | Disease Identification | `/cultivation/disease-identification` | Cultivation |
-| 33 | Troubleshooting Guide | `/cultivation/troubleshooting` | Cultivation |
-| 34 | Advanced Cultivation Techniques | `/cultivation/advanced-techniques` | Cultivation |
-| 35 | Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
-| 36 | Curing & Storage | `/cultivation/cure-store` | Cultivation |
+Plant Training Techniques | `/cultivation/training` | Cultivation |
+Pest & Disease Management | `/cultivation/pests-diseases` | Cultivation |
+Pest Identification | `/cultivation/pest-identification` | Cultivation |
+Disease Identification | `/cultivation/disease-identification` | Cultivation |
+Troubleshooting Guide | `/cultivation/troubleshooting` | Cultivation |
+Advanced Cultivation Techniques | `/cultivation/advanced-techniques` | Cultivation |
+Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
+Curing & Storage | `/cultivation/cure-store` | Cultivation |
 
 ## Genetics & Breeding
 | # | Page Title | Path | Category |
@@ -54,24 +54,25 @@
 | 23 | Genetics & Breeding Overview | `/genetics` | Genetics |
 | 24 | Cannabis Genetics Basics | `/genetics/basics` | Genetics |
 | 25 | Breeding Techniques | `/genetics/breeding` | Genetics |
-| 26 | Seeds — Types and Production | `/genetics/seeds` | Genetics |
-| 27 | Autoflowering vs. Photoperiod | `/genetics/autoflower-vs-photoperiod` | Genetics |
+| 26 | Advanced Breeding | `/genetics/advanced-breeding` | Genetics |
+| 27 | Seeds — Types and Production | `/genetics/seeds` | Genetics |
+| 28 | Autoflowering vs. Photoperiod | `/genetics/autoflower-vs-photoperiod` | Genetics |
 
 ## Strain Database
 | # | Page Title | Path | Category |
 |---|-----------|------|----------|
 | 28 | Strain Database Index | `/strains` | Strains |
-| 29 | Strain Template Guide | `/strains/template` | Strains |
+Strain Template Guide | `/strains/template` | Strains |
 
 ### Indica Strains (69)
 | # | Strain | Path |
 |---|--------|------|
-| 30 | Northern Lights | `/strains/northern-lights` |
-| 31 | Granddaddy Purple | `/strains/granddaddy-purple` |
-| 32 | Purple Kush | `/strains/purple-kush` |
-| 33 | Bubba Kush | `/strains/bubba-kush` |
-| 34 | Blueberry | `/strains/blueberry` |
-| 35 | Afghani | `/strains/afghani` |
+Northern Lights | `/strains/northern-lights` |
+Granddaddy Purple | `/strains/granddaddy-purple` |
+Purple Kush | `/strains/purple-kush` |
+Bubba Kush | `/strains/bubba-kush` |
+Blueberry | `/strains/blueberry` |
+Afghani | `/strains/afghani` |
 Hindu Kush | `/strains/hindu-kush` |
 LA Confidential | `/strains/la-confidential` |
 Skywalker OG | `/strains/skywalker-og` |
@@ -364,7 +365,7 @@ Harm Reduction | `/legal-safety/harm-reduction` | Legal |
 
 ---
 
-**Total Pages: 308**
+**Total Pages: 309**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

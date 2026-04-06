@@ -1,6 +1,6 @@
 ---
 title: Cannabis Troubleshooting Guide
-description: A systematic diagnostic guide for cannabis cultivation problems — nutrient deficiencies, environmental stress, pH lockout, light burn, over/underwatering, hermaphrodism, and more — with visual symptoms, root cause analysis, and corrective actions.
+description: A systematic diagnostic guide for cannabis cultivation problems — nutrient deficiencies, environmental stress, pH lockout, light burn, over/underwatering, hermaphrodism, and more — with visual symptoms, root cause analysis, and corrective actio�
 tags: cultivation, troubleshooting, diagnosis, deficiencies, environmental-stress, ph, light-burn, hermaphrodism
 ---
 

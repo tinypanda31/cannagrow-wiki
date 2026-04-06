@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Colombia"
-description: "Colombia decriminalized personal possession in 1994 (Constitutional Court ruling, up to 20 personal doses) and legalized medical cannabis in 2015 (Law 1787) with an export-oriented regulatory framework. Shaped by US pressure through Plan Colombia,..."
+description: "Colombia decriminalized personal possession in 1994 (Constitutional Court ruling, up to 20 personal doses) and legalized medical cannabis in 2015 (Law 1787) with an export-oriented regulatory framework. Shaped by US pressure through Plan Colombia,…
 tags: law-policy, medical cannabis, Colombia, decriminalization, export, Plan Colombia, Latin America, Law 1787
 ---
 

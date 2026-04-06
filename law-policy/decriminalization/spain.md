@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Spain"
-description: "Spain permits personal cannabis consumption in private spaces and has pioneered the Cannabis Social Club model — member-run associations that collectively cultivate and share cannabis. With an estimated 500-900 clubs and 100,000+ members, Spain'..."
+description: "Spain permits personal cannabis consumption in private spaces and has pioneered the Cannabis Social Club model — member-run associations that collectively cultivate and share cannabis. With an estimated 500-900 clubs and 100,000+ members, Spain'�
 tags: law-policy, decriminalization, Spain, cannabis social clubs, autonomous communities, Catalonia
 ---
 

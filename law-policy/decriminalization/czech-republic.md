@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in the Czech Republic"
-description: "The Czech Republic is one of Europe's most cannabis-friendly nations. Possession of small amounts was decriminalized in 2010, home cultivation of up to 5 plants is tolerated, and medical cannabis has been legal since 2013. With high usage rates, v..."
+description: "The Czech Republic is one of Europe's most cannabis-friendly nations. Possession of small amounts was decriminalized in 2010, home cultivation of up to 5 plants is tolerated, and medical cannabis has been legal since 2013. With high usage rates, v…
 tags: law-policy, decriminalization, Czech Republic, Central Europe, cannabis social clubs, medical cannabis
 ---
 

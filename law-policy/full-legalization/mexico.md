@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Mexico"
-description: "Mexico's Supreme Court ruled cannabis prohibition unconstitutional in 2018, but Congress failed to pass implementing legislation, leaving the country in a legal gray zone. Mexico has the highest absolute number of cannabis arrests in Latin America..."
+description: "Mexico's Supreme Court ruled cannabis prohibition unconstitutional in 2018, but Congress failed to pass implementing legislation, leaving the country in a legal gray zone. Mexico has the highest absolute number of cannabis arrests in Latin America…
 tags: law-policy, legalization, Mexico, Latin America, Supreme Court, drug war, cartels, social justice, US-Mexico relations
 ---
 

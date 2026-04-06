@@ -1,6 +1,6 @@
 ---
 title: Pest & Disease Management
-description: A comprehensive guide to identifying and managing common cannabis pests and diseases, including IPM strategies, organic treatments, biological controls, and quarantine procedures. For detailed identification, see the Pest and Disease pages linked below.
+description: A comprehensive guide to identifying and managing common cannabis pests and diseases, including IPM strategies, organic treatments, biological controls, and quarantine procedures. For detailed identification, see the Pest and Disease pages linked b…
 ---
 
 > **DISCLAIMER:** Cannabis cultivation is illegal in many jurisdictions. This content is provided for educational purposes only. Always research and comply with your local laws and regulations before cultivating cannabis. Unauthorized cultivation may result in legal penalties.

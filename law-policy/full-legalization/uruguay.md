@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Uruguay"
-description: "Uruguay became the first country in the world to fully legalize recreational cannabis in 2013, establishing a state-regulated model with three access channels: pharmacy sales, home cultivation, and cannabis social clubs. This page covers the legal..."
+description: "Uruguay became the first country in the world to fully legalize recreational cannabis in 2013, establishing a state-regulated model with three access channels: pharmacy sales, home cultivation, and cannabis social clubs. This page covers the legal…
 tags: law-policy, legalization, Uruguay, South America, social clubs, pharmacy model, state regulation
 ---
 

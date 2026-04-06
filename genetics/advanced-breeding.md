@@ -1,6 +1,6 @@
 ---
 title: Advanced Cannabis Breeding
-description: A scientific deep-dive into cannabis breeding — Mendelian inheritance patterns, chemotype genetics, Punnett square predictions for key traits, S1 protocols, terpene inheritance, statistical pheno-hunt design, and cannabinoid biosynthesis pathways for breeding decisions.
+description: A scientific deep-dive into cannabis breeding — Mendelian inheritance patterns, chemotype genetics, Punnett square predictions for key traits, S1 protocols, terpene inheritance, statistical pheno-hunt design, and cannabinoid biosynthesis pathways�
 tags: genetics, advanced-breeding, mendelian, inheritance, chemotype, S1, terpene-genetics, pheno-hunt, cannabinoid-synthesis
 ---
 

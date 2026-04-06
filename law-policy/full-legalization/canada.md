@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Law in Canada"
-description: "Canada became the second country globally and the first G7 nation to legalize recreational cannabis when the Cannabis Act (Bill C-45) took effect on October 17, 2018. This page covers the federal-provincial framework, the licensed producer system,..."
+description: "Canada became the second country globally and the first G7 nation to legalize recreational cannabis when the Cannabis Act (Bill C-45) took effect on October 17, 2018. This page covers the federal-provincial framework, the licensed producer system,…
 tags: law-policy, legalization, Canada, G7, federal-provincial, licensed producers, Indigenous sovereignty, medical cannabis
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pest & Disease Management
-description: A comprehensive guide to identifying and managing common cannabis pests and diseases, including IPM strategies, organic treatments, biological controls, and quarantine procedures.
+description: A comprehensive guide to identifying and managing common cannabis pests and diseases, including IPM strategies, organic treatments, biological controls, and quarantine procedures. For detailed identification, see the Pest and Disease pages linked below.
 ---
 
 > **DISCLAIMER:** Cannabis cultivation is illegal in many jurisdictions. This content is provided for educational purposes only. Always research and comply with your local laws and regulations before cultivating cannabis. Unauthorized cultivation may result in legal penalties.
@@ -8,6 +8,8 @@ description: A comprehensive guide to identifying and managing common cannabis p
 # Pest & Disease Management
 
 Pest and disease management is an inevitable part of cannabis cultivation. Whether growing indoors, outdoors, or in a greenhouse, plants face threats from insects, fungi, bacteria, and viruses. An Integrated Pest Management (IPM) approach -- combining prevention, monitoring, biological controls, and targeted treatments -- is the most effective and sustainable strategy.
+
+> **Detailed Identification:** For comprehensive pest identification with life cycles and treatment protocols, see [Pest Identification](/cultivation/pest-identification). For fungal, bacterial, and viral diseases with pathology and diagnostic criteria, see [Disease Identification](/cultivation/disease-identification). For a complete diagnostic guide to all grow problems, see [Troubleshooting Guide](/cultivation/troubleshooting).
 
 ![Cannabis leaf showing pest damage under magnification](/uploads/images/cultivation/pest-management.jpg)
 

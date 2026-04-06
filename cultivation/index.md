@@ -153,7 +153,10 @@ For growers interested in reducing their environmental impact, see [Eco Friendly
 | **Greenhouse Cultivation** | Hybrid growing with natural light and environmental control | [/cultivation/greenhouse](/cultivation/greenhouse/index) |
 | **Nutrients & Feeding** | NPK, nutrient schedules, deficiency identification | [/cultivation/nutrients](/cultivation/nutrients/index) |
 | **Plant Training** | HST, LST, ScrOG, SOG, and other yield optimization techniques | [/cultivation/training](/cultivation/training) |
-| **Pest & Disease Management** | IPM, identification, prevention, and treatment | [/cultivation/pests-diseases](/cultivation/pests-diseases) |
+| **Pest & Disease Management** | IPM framework, quarantine procedures, and treatment hierarchy | [/cultivation/pests-diseases](/cultivation/pests-diseases) |
+| **Pest Identification** | Detailed pest identification with life cycles and treatment protocols | [/cultivation/pest-identification](/cultivation/pest-identification) |
+| **Disease Identification** | Fungal, bacterial, and viral disease identification with pathology | [/cultivation/disease-identification](/cultivation/disease-identification) |
+| **Troubleshooting Guide** | Diagnostic flowcharts for nutrient, environmental, and pest/disease problems | [/cultivation/troubleshooting](/cultivation/troubleshooting) |
 | **Harvesting & Drying** | Harvest timing, trimming, drying fundamentals | [/cultivation/harvest-dry](/cultivation/harvest-dry) |
 | **Curing & Storage** | Curing process, long-term storage, potency preservation | [/cultivation/cure-store](/cultivation/cure-store) |
 

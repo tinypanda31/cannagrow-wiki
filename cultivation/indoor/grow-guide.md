@@ -571,6 +571,12 @@ Your first grow will not be perfect — and that is fine. Cannabis is a forgivin
 | [Strains](/strains/index) | Full strain database with growing notes |
 | [Nutrients](/cultivation/nutrients/index) | Organic vs. synthetic nutrient management |
 | [Training](/cultivation/training) | Training techniques in detail |
+| [Advanced Techniques](/cultivation/advanced-techniques) | Monster cropping, SCROG, Schwazzing, and training combinations |
+| [Equipment Guide](/cultivation/equipment/index) | Lighting, ventilation, containers, and tools — budget tiers and buying recommendations |
+| &nbsp;&nbsp;Lighting Equipment | LED vs HPS vs CMH purchasing decisions and setup | [/cultivation/equipment/lighting](/cultivation/equipment/lighting) |
+| &nbsp;&nbsp;Environmental Control | Inline fans, carbon filters, humidifiers, dehumidifiers, controllers | [/cultivation/equipment/environment](/cultivation/equipment/environment) |
+| &nbsp;&nbsp;Containers & Media | Fabric pots, air pots, RDWC, soil vs coco selection | [/cultivation/equipment/containers](/cultivation/equipment/containers) |
+| &nbsp;&nbsp;Tools & Meters | pH/EC meters, microscopes, pruning shears, trellis netting | [/cultivation/equipment/tools-meters](/cultivation/equipment/tools-meters) |
 | [Pests Diseases](/cultivation/pests-diseases) | Integrated pest management |
 | [Harvest Dry](/cultivation/harvest-dry) | Harvest, drying, and curing deep dive |
 | [Cure Store](/cultivation/cure-store) | Curing science and long-term storage |

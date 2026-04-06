@@ -45,6 +45,11 @@ Pest Identification | `/cultivation/pest-identification` | Cultivation |
 Disease Identification | `/cultivation/disease-identification` | Cultivation |
 Troubleshooting Guide | `/cultivation/troubleshooting` | Cultivation |
 Advanced Cultivation Techniques | `/cultivation/advanced-techniques` | Cultivation |
+Cultivation Equipment Overview | `/cultivation/equipment` | Cultivation |
+Lighting Equipment | `/cultivation/equipment/lighting` | Cultivation |
+Environmental Control Equipment | `/cultivation/equipment/environment` | Cultivation |
+Containers and Growing Media | `/cultivation/equipment/containers` | Cultivation |
+Tools and Meters | `/cultivation/equipment/tools-meters` | Cultivation |
 Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
 Curing & Storage | `/cultivation/cure-store` | Cultivation |
 
@@ -365,7 +370,7 @@ Harm Reduction | `/legal-safety/harm-reduction` | Legal |
 
 ---
 
-**Total Pages: 309**
+**Total Pages: 314**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

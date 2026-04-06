@@ -72,6 +72,8 @@ Mango Haze is commonly reported to produce:
 - **Uplifted** -- Noticeable mood brightening that eases stress and mental tension while maintaining functional clarity
 - **Focused** -- Delivers light mental focus and conversational energy, making it suitable for social settings and collaborative work
 
+**?.Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 **Onset:** Fast -- effects typically begin within 2--5 minutes of inhalation, with a noticeable cerebral lift arriving quickly.
 
 **Duration:** Moderate -- peak effects occur between 30--60 minutes, with the total experience lasting approximately 2--3 hours depending on dose and tolerance.

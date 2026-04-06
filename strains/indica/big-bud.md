@@ -1,88 +1,90 @@
 ---
-title: Big Bud
-description: Legendary high-yield indica known for massive flower production, earthy-sweet aroma, and deeply relaxing body effects.
-tags: indica, heavy-yielder, myrcene, caryophyllene, earthy, sweet, relaxing, sedating, beginner-friendly
+title: ACDC
+description: A pioneering high-CBD hybrid with a ~20:1 CBD-to-THC ratio, offering clear-headed therapeutic relief without intoxication.
+tags: hybrid, cbd-dominant, medical, myrcene, caryophyllene, calm, focused
 ---
 
-# Big Bud
+# ACDC
 
-![Big Bud](/images/strains/big-bud.jpg)
+![ACDC](/images/strains/acdc.jpg)
 
 ## Overview
 
-Big Bud is a legendary indica-dominant cannabis strain that first emerged in the late 1970s and early 1980s during an era of intensive breeding experimentation in both the United States and the Netherlands. Originally developed from a cross between a heavy Afghan landrace indica and the foundational Skunk #1 hybrid, the genetics were brought to Amsterdam where Dutch breeders, most notably Sensi Seeds, stabilized and refined the line. Big Bud quickly earned its name from the exceptionally large, dense colas it produces -- some of the heaviest single flowers ever recorded in cultivated cannabis.
+ACDC is a landmark CBD-dominant cannabis strain that helped define the modern high-CBD category. Selected as a specific phenotype of Cannatonic itself a cross of MK Ultra and G13 Haze ACDC was identified in a seed pack sourced from the Spanish seed bank Resin Seeds and championed by Dr. William Courtney for its exceptionally high CBD content. Lawrence Ringo of the Southern Humboldt Seed Collective then worked to stabilize and propagate the phenotype, making it one of the most recognizable names in medical cannabis.
 
-The strain won first place in the Indica category at the 1989 High Times Cannabis Cup, cementing its reputation among growers and consumers alike. While Big Bud may not reach the extreme THC levels of modern cultivars, it compensates with sheer volume, generous resin production, and a classic earthy-sweet flavor profile that appeals to traditional cannabis enthusiasts.
+The strain typically exhibits a CBD-to-THC ratio of approximately 20:1, with CBD levels commonly ranging from 15% to 24% and THC kept below 6%, often under 1%. This profile produces minimal psychoactive effects, allowing users to experience therapeutic benefits while remaining fully functional, alert, and coordinated throughout the day.
 
-Today, Big Bud remains one of the most widely grown commercial and home-cultivation strains in the world. Its forgiving growth pattern, short flowering window, and staggering yields make it the go-to recommendation for first-time growers, while its deeply sedating effects keep it relevant as a nighttime relaxation and sleep aid.
+ACDC has become a go-to recommendation from medical cannabis practitioners for patients seeking relief from chronic pain, inflammation, anxiety, and neurological conditions without the cognitive impairment associated with high-THC strains. Its compact, bushy growth habit and relatively straightforward cultivation have also made it accessible to home growers.
 
 ## Quick Stats
 
 | Attribute | Value |
 |-----------|-------|
-| **Type** | Indica |
-| **THC %** | 15 -- 20% |
-| **CBD %** | <1% |
-| **Dominant Terpenes** | Myrcene, Beta-Caryophyllene, Humulene |
-| **Flowering Time** | 7 -- 9 weeks |
-| **Yield** | 500 -- 650 g/m² indoor, 600 -- 1,200 g/plant outdoor |
-| **Growing Difficulty** | Easy |
+| **Type** | Hybrid (50% Indica / 50% Sativa) |
+| **THC %** | 0.3%–6% |
+| **CBD %** | 15%–24% |
+| **Dominant Terpenes** | Myrcene, Beta-Caryophyllene, Alpha-Pinene |
+| **Flowering Time** | 8–10 weeks (56–70 days) |
+| **Yield** | 350–450 g/m² indoor |
+| **Growing Difficulty** | Easy to Moderate |
 
 ## Genetics & Lineage
 
-Big Bud is a hybrid.
+ACDC is a selected phenotype of Cannatonic.
 
-- **Afghani** -- A heavy, resinous landrace indica from the Hindu Kush mountain region, contributing dense bud structure, broad leaves, deep body relaxation, and the signature earthy-sweet terpene foundation.
-- **Skunk #1** -- The legendary hybrid that revolutionized cannabis breeding, adding vigor, faster flowering, improved yield consistency, and a pungent aromatic kick.
+- **Cannatonic (phenotype)** -- A high-CBD hybrid originally bred by Resin Seeds (Spain) from MK Ultra and G13 Haze parents; selected specifically for elevated CBD expression.
+- **Unknown Ruderalis (possible)** -- Some cultivars show autoflowering traits suggesting minor Ruderalis influence in certain lineages, though this is not universal across all ACDC cuts.
 
-**Parent lineage:** Afghani x Skunk #1
+**Parent lineage:** Cannatonic (MK Ultra x G13 Haze) phenotype
 
-The original Big Bud genetics were brought from the United States to the Netherlands in the early 1980s, where Dutch seed houses including Sensi Seeds further stabilized the line. An improved Sensi Seeds variant later incorporated Northern Lights genetics for enhanced potency and structural refinement, but the classic Afghani x Skunk #1 cross remains the most recognized version.
+The phenotype was originally discovered in a seed pack from Resin Seeds, a Spanish seed bank, and was identified by Dr. William Courtney for its remarkable CBD-to-THC ratio. Lawrence Ringo of the Southern Humboldt Seed Collective in Northern California then worked over several years to stabilize and propagate the phenotype through careful selection, making it widely available to patients and cultivators. The work was part of a broader movement in the late 2000s and early 2010s to breed high-CBD strains for medical applications, alongside Ringo's other notable creations such as Sour Tsunami and Ringo's Gift.
 
 ## Cannabinoid Profile
 
 | Cannabinoid | Typical Range |
 |-------------|--------------|
-| THC (Total) | 15 -- 20% |
-| CBD | 0.1 -- 0.5% |
-| CBG | 0.1 -- 0.5% |
-| CBN | 0.05 -- 0.3% |
+| THC (Total) | 0.3%–6% |
+| CBD | 15%–24% |
+| CBG | 0.1%–1% |
+| CBN | <0.1%–0.5% |
 
-Big Bud is a THC-dominant strain with cannabinoid levels typical of classic 1980s-era genetics. Total THC generally falls in the 15 -- 20% range, with modern pheno-hunts occasionally reaching the low 20s. CBD remains below 1%, while CBG and CBN are present in trace to low amounts. CBN tends to increase as buds are stored and cured, contributing to the strain's increasingly sedating character over time.
+The defining feature of ACDC is its exceptionally high CBD-to-THC ratio, which typically sits around 20:1 but can vary between 14:1 and 24:1 depending on the specific cut and growing conditions. CBD levels in the 15%–24% range are common in well-cultivated flower, while THC is kept low enough (usually under 1%, occasionally up to 6%) that most users report little to no intoxication. CBG, the "mother cannabinoid," appears in trace to low amounts as is typical for mature flower. CBN, a degradation product of THC, remains minimal in fresh, properly stored flower and only rises with age or oxidation.
 
 ## Terpene Profile
 
 | Terpene | Approximate Share | Notes |
 |---------|------------------|-------|
-| Myrcene | 40 -- 50% | Dominant terpene; responsible for earthy, herbal, and musky aroma; strongly associated with sedating, couch-lock effects. |
-| Beta-Caryophyllene | 15 -- 25% | Spicy, peppery note; binds to CB2 receptors and is linked to anti-inflammatory and analgesic properties. |
-| Humulene | 5 -- 15% | Earthy, woody, and hoppy aroma; contributes appetite-suppressing and anti-inflammatory effects. |
-| Alpha-Pinene | 3 -- 8% | Pine-fresh aroma; provides mild mental clarity and may counteract some of myrcene's sedation. |
-| Limonene | 3 -- 8% | Citrus brightness; uplifts mood and adds a subtle fruity sweetness to the overall flavor profile. |
+| Myrcene | 0.3%–0.8% | Most dominant terpene; earthy, herbal, and lemony aroma; associated with body-centered relaxation |
+| Beta-Caryophyllene | 0.2%–0.5% | Spicy, peppery, clove-like; directly binds to CB2 receptors for anti-inflammatory support |
+| Alpha-Pinene | 0.1%–0.4% | Fresh pine and forest scent; promotes mental clarity and alertness |
+| Limonene | 0.1%–0.3% | Bright citrus and lemon notes; uplifting and mood-elevating properties |
+| Humulene | 0.05%–0.2% | Earthy, woody, slightly spicy; contributes to the strain's grounding aroma |
 
-The terpene profile of Big Bud is dominated by myrcene, which explains the strain's heavy, sedating body high. Beta-caryophyllene and humulene add depth with spicy, woody undertones, while smaller amounts of pinene and limonene keep the experience from becoming purely one-dimensional. Total terpene content typically ranges from 1.2% to 2.5% by weight.
+ACDC's terpene profile reinforces its therapeutic character. Myrcene leads the profile, providing the earthy-herbal backbone and supporting physical relaxation. Beta-caryophyllene adds a peppery spice and uniquely interacts directly with the endocannabinoid system via CB2 receptor binding. Alpha-pinene contributes crisp pine freshness and may help counteract any residual mental fog, while limonene adds a bright citrus lift to the overall experience. Humulene rounds out the profile with subtle earthy and woody undertones.
 
 ## Effects & Experience
 
-Big Bud is commonly reported to produce:
+ACDC is commonly reported to produce:
 
-- **Deep Relaxation** -- A heavy, full-body calm that settles in within minutes, ideal for unwinding after a long day or melting physical tension.
-- **Euphoria** -- A soft, warm mental lift that quiets racing thoughts and creates a gentle sense of contentment before the body effects take over.
-- **Sedation** -- At moderate to higher doses, Big Bud progresses into pronounced couch-lock and sleepiness, making it a popular nighttime strain.
-- **Appetite Stimulation** -- Notable hunger-inducing effects that can help users struggling with loss of appetite.
+- **Clear-Headed Relaxation** -- A calm, steady sense of ease without mental fog or cognitive impairment; users remain fully functional and alert.
+- **Physical Ease** -- Noticeable soothing of muscle tension and bodily discomfort; gentle body-centered relaxation without heavy sedation.
+- **Mental Clarity** -- Sharpened focus and concentration; racing thoughts tend to slow, making it suitable for daytime use.
+- **Mood Elevation** -- A subtle uplift in mood and sense of well-being; reduces tension and anxious thinking without strong psychoactive shifts.
 
-**Onset:** 2 -- 10 minutes when inhaled; peak effects arrive within 30 -- 60 minutes.
+**?.Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-**Duration:** 2 -- 3 hours for inhaled consumption; 4 -- 8 hours for edibles.
+**Onset:** Effects are typically felt within minutes when inhaled, with a gradual build over 10–15 minutes. When consumed as an edible or tincture, onset ranges from 30–90 minutes.
 
-**Intensity:** Moderate. THC levels in the 15 -- 20% range deliver a smooth, accessible experience for most consumers, though higher doses can produce strong sedation.
+**Duration:** Inhaled effects generally last 2–4 hours. Edible or sublingital formulations may extend the duration to 4–6 hours or longer.
+
+**Intensity:** Low to mild. ACDC is specifically bred to minimize intoxicating effects. Most users report a gentle, functional experience suitable for all-day use.
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
 ## Aroma & Flavor
 
-- **Smell:** Sweet, earthy, and skunky with a warm hashy base. Secondary notes of dried grape, molasses, black pepper, and a faint citrus lift create a rich, complex bouquet.
-- **Taste:** Smooth sweet-earth profile on the inhale with hints of dried fruit, brown sugar, and toasted spice. The exhale carries a hashy, slightly woody and herbal finish.
+- **Smell:** Earthy and herbal with prominent notes of fresh pine, subtle citrus (lemon), and a hint of peppery spice. The aroma is smooth and understated rather than pungent, with woody and slightly sweet undertones.
+- **Taste:** Smooth and mild on the inhale with herbal and earthy notes, a touch of citrus sweetness, and a gentle pine-and-pepper finish. The flavor is clean and approachable, without the heavy skunk or fuel notes common in high-THC cultivars.
 
 ## Medical Uses
 
@@ -90,44 +92,48 @@ Big Bud is commonly reported to produce:
 
 Commonly reported uses include:
 
-- **Stress Relief** -- The heavy myrcene content and indica-dominant genetics produce a pronounced calming effect that quiets mental tension and rumination.
-- **Pain Management** -- Beta-caryophyllene and THC work together to address musculoskeletal aches, lower back discomfort, tension headaches, and chronic pain conditions.
-- **Insomnia** -- Strong sedating properties at moderate to higher doses make Big Bud a popular choice for users struggling with sleep onset and quality.
-- **Appetite Loss** -- Notable hunger-inducing effects can benefit patients experiencing nausea or appetite suppression from medical treatments.
+- **Chronic Pain** -- The high CBD content, combined with beta-caryophyllene's CB2 activity, is commonly associated with relief from persistent pain, nerve discomfort, and muscle soreness.
+- **Inflammation** -- Reported to help reduce inflammatory symptoms associated with conditions like arthritis, multiple sclerosis, and fibromyalgia.
+- **Anxiety and Stress** -- The minimal THC and prominent myrcene and limonene profile are linked to calming effects that ease anxious thoughts without sedation, making it suitable for daytime anxiety management.
+- **Seizure Disorders** -- High-CBD strains like ACDC are commonly explored as adjunctive support for epilepsy and seizure-related conditions, consistent with broader research on CBD's anticonvulsant properties.
+- **PTSD and Mood Support** -- Users report that ACDC helps take the edge off traumatic stress responses and mood instability while maintaining mental clarity and daily functioning.
 
 ## Adverse Effects
 
 Commonly reported adverse effects:
 
-- Dry mouth
-- Dry eyes
-- Dizziness (particularly at higher doses or in low-tolerance users)
-- Couch-lock and next-day grogginess
+- Dry mouth (cottonmouth)
+- Mild drowsiness or fatigue (especially at higher doses)
+- Temporary appetite changes
+- Potential interactions with prescription medications (CBD is metabolized by CYP450 liver enzymes)
 
 ## Growing Information
 
 | Attribute | Details |
 |-----------|---------|
-| **Difficulty** | Easy -- highly forgiving and widely recommended as a first-time grower strain. Resilient to common mistakes and environmental fluctuations. |
-| **Flowering Time** | 7 -- 9 weeks (50 -- 65 days) for photoperiod plants. |
-| **Yield** | Indoor: 500 -- 650 g/m². Outdoor: 600 -- 1,200 g/plant. Exceptionally high yields are the defining characteristic of this strain. |
-| **Plant Height** | Tall -- 180 -- 220 cm (6 -- 7 ft) outdoors when left untrained. Indoors can be kept more compact with topping, LST, or SOG methods. |
-| **Preferred Environment** | Warm, temperate climate (20 -- 26°C / 68 -- 78°F). Performs well in soil and hydroponic setups. Thrives under Sea of Green (SOG) and ScrOG training. Responds to rich nutrient feeding, particularly calcium, magnesium, and silica supplementation. |
-| **Resistance** | Inherits solid pest and disease resistance from Skunk #1 genetics. However, the extremely dense bud structure traps moisture and is prone to botrytis (bud rot) if humidity is not carefully managed. Branches frequently require stakes, netting, or trellising to support heavy flower weight. Proactive defoliation and strong airflow are essential. |
+| **Difficulty** | Easy to Moderate -- forgiving for beginners; stable genetics from phenotype selection |
+| **Flowering Time** | 8–10 weeks (56–70 days) indoors; outdoor harvest typically early to mid-October |
+| **Yield** | Indoor: 350–450 g/m² -- Outdoor: 400–450 g/plant |
+| **Plant Height** | Medium, typically 3–4 feet (90–120 cm); compact and bushy structure with modest-sized colas |
+| **Preferred Environment** | Controlled indoor environments with stable temperatures (68°F–78°F / 20°C–26°C) and consistent nutrients; outdoors thrives in Mediterranean climates with full sun |
+| **Resistance** | Moderate resistance to common pests and molds; requires good airflow and proper pruning of lower branches to prevent moisture buildup; some cultivars with Ruderalis influence show added hardiness |
 
-Big Bud is one of the easiest strains to grow, making it an excellent choice for beginners. Its most notable trait is raw yield potential -- indoor growers routinely harvest 500+ g/m², and outdoor plants can produce over a kilogram per plant under ideal conditions. The strain responds exceptionally well to Sea of Green setups, where its naturally large colas and short stature under 12/12 lighting maximize canopy efficiency. The main growing challenge is structural: buds become so heavy that branches frequently snap without support. Growers should also monitor humidity closely during late flower to prevent mold in the dense flower clusters.
+ACDC is a relatively compact plant with a bushy, skunk-like growth pattern. Its moderate height makes it well-suited for indoor grow spaces, sea-of-green setups, and discreet outdoor gardens. The plant produces finger-sized, dense, resinous buds rather than massive colas. Maintaining a stable environment with consistent pH (6.0–6.5 for soil), adequate airflow, and regular inspection for mold is recommended. Lower branches should be pruned to improve air circulation and direct energy to the main canopy. Propagation is typically done via cloning from mother plants, as stable ACDC cuttings are available from select cultivators. Some phenotypes may exhibit autoflowering characteristics if Ruderalis genetics are present.
 
 ## Awards & Recognition
 
-- **1st Place, Indica Category -- 1989 High Times Cannabis Cup** (Sensi Seeds)
+- Recognized as one of the most celebrated high-CBD strains in North America and widely recommended by medical cannabis practitioners.
+- Won multiple awards at regional cannabis cup events specifically for its CBD content and therapeutic value.
+- Featured prominently in Leafly's and other industry publications' lists of top high-CBD strains.
+- Part of Lawrence Ringo's legacy as one of the pioneering breeders of the modern high-CBD cannabis movement.
 
 ## Similar Strains
 
-- [Northern Lights](/strains/northern-lights) -- Shares Afghani genetics and deeply sedating indica effects; slightly lower yields but comparable ease of growth and classic earthy profile.
-- [Skunk #1](/strains/skunk-1) -- Direct parent of Big Bud; offers a similar skunky-sweet aroma with a more balanced head-and-body effect and moderately high yields.
-- [Critical Kush](/strains/critical-kush) -- Another heavy-yielding indica with massive colas and a strong sedating profile; slightly higher THC but less forgiving for beginners.
-- [Blueberry](/strains/blueberry) -- Classic indica with strong body relaxation and a sweet, fruity aroma; lower yields than Big Bud but similar nighttime sedation and beginner-friendly growth.
+- [Charlotte's Web](/strains/charlottes-web) -- Another ultra-high-CBD strain with very low THC (<1%), famous for its use in pediatric epilepsy treatment; even less psychoactive potential than ACDC but with a similar therapeutic focus.
+- [Harlequin](/strains/harlequin) -- A high-CBD sativa-dominant hybrid with a CBD:THC ratio closer to 5:2; offers mild euphoria alongside therapeutic relief, making it slightly more intoxicating than ACDC.
+- [Cannatonic](/strains/cannatonic) -- The parent strain of ACDC; exhibits a more variable CBD:THC ratio (typically 1:1 to 1:6) and offers a broader range of effects depending on the specific phenotype.
+- [Ringo's Gift](/strains/ringos-gift) -- Named after Lawrence Ringo himself, this high-CBD strain (often 10:1 to 20:1 CBD:THC) was bred from ACDC and Harle-Tsu genetics, carrying forward Ringo's high-CBD breeding legacy.
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/index)

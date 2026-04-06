@@ -71,6 +71,8 @@ Sensi Star is commonly reported to produce:
 - **Sedation & Couch-Lock** -- At moderate to higher doses, the strain transitions into heavy sedation, making it ideal for evening and nighttime use; can produce pronounced couch-lock
 - **Stress & Anxiety Relief** -- Over 80% of users report noticeable reductions in stress and anxiety, likely driven by the combined effects of myrcene, caryophyllene, and high THC
 
+**?.Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 **Onset:** Fast to moderate. Effects are typically felt within minutes when smoked or vaporized, with the initial cerebral wave giving way to deep body relaxation within 10--20 minutes.
 
 **Duration:** 2--3 hours for primary effects, with a lingering body calm that can persist for several hours, making it well-suited for extended evening relaxation or sleep preparation.

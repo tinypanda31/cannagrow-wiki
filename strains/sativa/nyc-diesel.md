@@ -71,6 +71,8 @@ NYC Diesel is commonly reported to produce:
 - **Creative** -- Enhanced focus and divergent thinking that many users channel into artistic work, music, writing, or brainstorming
 - **Relaxed** -- A gentle body calm that follows the initial cerebral wave, providing tension relief without heavy sedation or couchlock
 
+**?.Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 **Onset:** Fast-acting cerebral onset within minutes of inhalation; the initial rush is bubbly, engaging, and talkative
 
 **Duration:** Effects typically last 2--3 hours, with the energetic head high gradually giving way to light body relaxation

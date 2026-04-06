@@ -67,7 +67,7 @@ The following tables compare what each budget tier delivers across grow methods.
 | **Irrigation** | Hand watering ($0-20) | Drip irrigation kit on timer ($50-150) | Multi-zone drip with fertigation ($150-500) | Commercial fertigation system with EC/pH dosing ($500-2,000+) |
 | **Approximate Total** | $200-500 | $500-1,500 | $1,500-5,000 | $5,000-30,000+ |
 
-> **Tip:** The biggest mistake first-time buyers make is underinvesting in lighting and ventilation while overspending on nutrients and accessories. A $50 light will cost you more in lost yield than the savings. A $200 LED that delivers 600+ PPFD across your canopy will outperform a $500 HPS in a small tent. Prioritize your budget accordingly.
+> **Tip:** The biggest mistake first-time buyers make is underinvesting in lighting and ventilation while overspending on nutrients and accessories. A cheap light will cost you more in lost yield than the savings. A $200 LED that delivers 400+ PPFD average (600+ at center) across your canopy will outperform an equivalently priced HPS in a small tent when you factor in heat management. Prioritize your budget accordingly.
 
 ## Priority: What to Buy First
 
@@ -212,12 +212,12 @@ The following table provides a non-promotional reference for equipment brands at
 
 | Category | Budget Tier | Mid-Range Tier | Premium Tier |
 |----------|------------|---------------|-------------|
-| **LED Lights** | Viparspectra, Mars Hydro, Roleadro | Spider Farmer, Sansi, King Plus | HLG (Horticulture Lighting Group), ChilLED, Fluence, Lumatek |
+| **LED Lights** | Viparspectra, Mars Hydro, Roleadro | Spider Farmer, Sansi, iPower | HLG (Horticulture Lighting Group), ChilLED, Fluence, Lumatek |
 | **HPS/CMH** | Vivosun, iPower | Phantom, Sun Blaze | Gavita, Philips (Lumigrow), Solis Tek |
-| **Grow Tents** | Vivosun, Gorilla (entry) | AC Infinity, Gorilla (pro line) | Secret Jardin, G.A.P. (Gardening at 50 North) |
+| **Grow Tents** | Vivosun, Gorilla (entry) | AC Infinity, Gorilla (pro line) | Secret Jardin, Mammoth, Dark Room |
 | **Inline Fans** | Vivosun, iPower | AC Infinity, Fantech (HVAC) | Can-Fan (Max-Fan), Ventilation Systems |
 | **Carbon Filters** | Vivosun, iPower | AC Infinity, Phresh | Can-Fan (Can-Lite), Carbonactive |
-| **Controllers** | Inkbird (basic) | AC Infinity Controller, Heroeco | TrolMaster, Autopilot, Priva (commercial) |
+| **Controllers** | Inkbird (basic thermostat) | AC Infinity Controller, Thermopro | TrolMaster, Autopilot, Priva (commercial) |
 | **Fabric Pots** | Generic brands | Root Pouch, Smart Pot | Air Pot (Autopot), Geopot |
 | **Soils/Media** | FoxFarm (entry), Vivosun | FoxFarm, BioBizz, Canna Coco | Promix HP, Roots Organics, custom living soil |
 | **Nutrients** | General Hydroponics (FloraSeries), Vivosun | FoxFarm, BioBizz, Advanced Nutrients | Canna, Botanicare, Terra Aquatica, custom organic |

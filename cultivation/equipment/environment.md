@@ -99,7 +99,7 @@ The inline fan is the lung of your grow operation. It pulls air through your car
 | Type | Description | Best For |
 |---|---|---|
 | **Axial** | Blade-style, moves high volume at low static pressure. Cheapest option. | Short duct runs, minimal resistance |
-| **Mixed-flow (centrifugal)** | Impeller design, handles static pressure well. Quieter and more efficient. | Most grow tent setups with carbon filters |
+| **Mixed-flow** | Impeller design, handles static pressure well. Quieter and more efficient. | Most grow tent setups with carbon filters |
 | **EC motor** | Electronically commutated, highly efficient, very quiet, precise speed control. Long lifespan. | Serious growers, noise-sensitive locations |
 | **AC motor** | Traditional motor, less efficient, runs hotter, less precise speed control. | Budget setups |
 
@@ -122,7 +122,7 @@ The inline fan is the lung of your grow operation. It pulls air through your car
 |---|---|---|---|
 | **Budget** | $25–$60 | Vivosun, iPower, AC Infinity Cloudline (entry) | Adequate for small tents, louder, shorter lifespan, basic AC motors, may vibrate at high speed. Good for starting out. |
 | **Mid** | $60–$150 | AC Infinity Cloudline T-Series, Hurricane, Prima Klima | Mixed-flow design, variable speed, reasonable noise levels, 2–3 year warranty. The sweet spot for most hobby growers. |
-| **Premium** | $150–$400+ | Systemair RVK, Soler & Palau, AC Infinity EVO series | EC motors, extremely quiet (25–32 dB), PWM control, 5+ year warranty, built-in environmental sensors, app connectivity. Built to run continuously for years. |
+| **Premium** | $150–$400+ | Systemair RVK, Soler & Palau, AC Infinity Cloudline PRO | EC motors, extremely quiet (25–32 dB), PWM control, 5+ year warranty, built-in environmental sensors, app connectivity. Built to run continuously for years. |
 
 ### Fan Placement
 
@@ -176,7 +176,7 @@ The filter's CFM rating must **match or exceed** your fan's maximum CFM. If your
 
 When evaluating a carbon filter, check:
 
-- **Carbon weight** — more activated carbon (by weight) generally means longer life and better odor control. A quality 6" filter should contain at least 25–30 lbs of virgin activated carbon.
+- **Carbon weight** — more activated carbon (by weight) generally means longer life and better odor control. A quality 6" filter typically contains 10-20 lbs of activated carbon; premium 8" filters may contain 25+ lbs. Australian-sourced virgin coal-based carbon (RC412/RX412) is widely considered the gold standard.
 - **Carbon source** — Australian-sourced virgin coal-based carbon is widely regarded as the gold standard. Avoid filters that use recycled or reactivated carbon.
 - **Flange** — a sturdy, well-sealed flange prevents air bypass. Look for thick rubber gaskets and solid metal construction.
 - **Pre-filter sleeve** — a washable outer pre-filter extends the life of the carbon by catching dust, trichomes, and debris before they clog the carbon bed. Replace pre-filters every 3–6 months.
@@ -325,19 +325,31 @@ When ventilation alone cannot keep temperatures in range — typically when ambi
 
 #### BTU Calculation
 
-Air conditioners are sized in BTUs (British Thermal Units). The calculation for a grow space:
+Air conditioners are sized in BTUs (British Thermal Units). The correct method for a grow space:
 
 ```
-Base BTU = Room Volume (ft³) × 4
-Add for lights: HPS = × 3.5, LED = × 1.5 (relative to no lights)
-Add for external heat: +10–20% for hot ambient conditions
+Base BTU = Floor Area (sq ft) × 20-30 BTU/sq ft
+Light BTU = Actual Watt Draw × 3.41 BTU/hr per watt
+Total BTU = Base BTU + Light BTU + 10-20% for equipment heat and ambient conditions
 ```
 
-| Grow Space | LED Heat Load | HPS Heat Load |
+**Example: 4×4 LED grow (400W actual draw) in a room at 75°F ambient:**
+- Base: 16 sq ft × 25 = 400 BTU/hr
+- Light: 400W × 3.41 = 1,364 BTU/hr
+- Total: 400 + 1,364 + 10% ≈ 2,000 BTU/hr minimum
+- Real-world recommendation: 3,000-5,000 BTU AC (oversize for peak summer heat)
+
+**Example: 4×4 HPS grow (600W actual draw):**
+- Base: 16 sq ft × 25 = 400 BTU/hr
+- Light: 600W × 3.41 = 2,046 BTU/hr
+- Total: 400 + 2,046 + 15% ≈ 2,800 BTU/hr minimum
+- Real-world recommendation: 5,000-8,000 BTU AC
+
+| Grow Space | LED Light Estimate | HPS Light Estimate |
 |---|---|---|
-| 4×4 ft tent | 3,000–5,000 BTU | 6,000–8,000 BTU |
+| 4×4 ft tent | 3,000–5,000 BTU | 5,000–8,000 BTU |
 | 5×5 ft tent | 4,000–6,000 BTU | 8,000–10,000 BTU |
-| 8×8 ft room | 8,000–12,000 BTU | 14,000–18,000 BTU |
+| 8×8 ft room | 8,000–12,000 BTU | 12,000–18,000 BTU |
 
 #### Single-Hose vs Dual-Hose
 
@@ -402,7 +414,7 @@ An environmental controller is the brain of your grow space. It reads sensors an
 | Tier | Brands | Features |
 |---|---|---|
 | **Budget** | Inkbird, Generic digital thermostats | Basic on/off control, single sensor, no scheduling. Gets the job done for simple setups. |
-| **Mid** | AC Infinity Controller 67/69, Titan Controls, GFC | Multi-outlet, multiple sensor types, scheduling, min/max tracking, some with app connectivity. |
+| **Mid** | AC Infinity Controller 67/69, Titan Controls, Thermopro | Multi-outlet, multiple sensor types, scheduling, min/max tracking, some with app connectivity. |
 | **Premium** | AC Infinity Controller 67 Pro/69 Pro, TrolMaster Hydro-X, Autopilot | Multi-zone control, advanced programming, data logging, smartphone app, sensor fusion, expandable relay boxes. |
 
 ### Controller Setup Recommendations

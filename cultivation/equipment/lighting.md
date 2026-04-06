@@ -21,7 +21,7 @@ Lighting is the single largest equipment investment for indoor cannabis cultivat
 | **Lifespan** | 50,000+ hours | 10,000-18,000 hours (bulb replacement needed) | 15,000-20,000 hours | 8,000-10,000 hours |
 | **Heat output** | Low to moderate | Very high | Moderate | Very low |
 | **Spectrum quality** | Tunable, full-spectrum available | Heavy red/orange, weak blue | Excellent full-spectrum, high UVB | Variable, generally weak |
-| **Efficiency (umol/J)** | 2.4-3.2+ | 0.9-1.7 | 1.4-1.9 | 0.5-1.0 |
+| **Efficiency (umol/J)** | 2.4-3.2+ | 0.9-1.7 | 1.6-2.2+ | 0.5-1.0 |
 | **Best use case** | All stages, all grow spaces | Flowering stage, large spaces, budget builds | All stages, quality-focused builds | Seedlings, clones, mother plants only |
 
 ### LED (Light Emitting Diode)
@@ -89,7 +89,7 @@ HPS was the industry standard for decades and still has a place in certain setup
 - **Digital ballasts** are lighter, more efficient, dimmable, and run cooler. They are the recommended choice. A 600W digital ballast costs $40-80.
 - **Magnetic (core-and-coil) ballasts** are heavier, run hotter, are not dimmable, but are extremely durable and inexpensive. Mostly found on the used market.
 
-**Bulb replacement schedule:** HPS bulbs lose 10-15% of their output after approximately 10,000 hours of use. Replace bulbs every 1-2 grow cycles for best results. Keep spare bulbs on hand. Popular bulb brands include Hortilux, Phillips, and Ushio.
+**Bulb replacement schedule:** HPS bulbs lose 10-15% of their output after approximately 10,000 hours of use. Replace bulbs every 1-2 grow cycles for best results. Keep spare bulbs on hand. Popular bulb brands include Hortilux, Philips, and Ushio.
 
 ### CMH/LEC (Ceramic Metal Halide / Light Emitting Ceramic)
 
@@ -269,13 +269,13 @@ Every watt of electricity your light consumes eventually becomes heat. Managing 
 
 ### Heat Output by Technology
 
-| Technology | Heat (BTU/hr per watt) | 4x4 Space Heat Load | Ventilation Impact |
-|-----------|----------------------|--------------------|-------------------|
-| **LED (500W)** | 3.41 BTU/hr per watt | ~1,700 BTU/hr | Low — standard inline fan usually sufficient |
-| **HPS 600W** | 3.41 BTU/hr per watt + radiant heat | ~2,500+ BTU/hr (effective) | High — requires 400+ CFM exhaust, possibly AC |
-| **HPS 1000W** | 3.41 BTU/hr per watt + radiant heat | ~4,000+ BTU/hr (effective) | Very high — almost certainly requires AC |
-| **CMH 315W** | 3.41 BTU/hr per watt | ~1,300 BTU/hr | Moderate — good passive or low-speed exhaust |
-| **CMH 630W** | 3.41 BTU/hr per watt | ~2,300 BTU/hr | Moderate to high — active exhaust recommended |
+| Technology | Heat Output | 4x4 Space Heat Load | Ventilation Impact |
+|-----------|------------|--------------------|-------------------|
+| **LED (500W)** | ~1,705 BTU/hr | ~1,700 BTU/hr | Low — standard inline fan usually sufficient |
+| **HPS 600W** | ~2,050 BTU/hr (+ radiant IR to canopy) | ~2,050 BTU/hr | High — requires 400+ CFM exhaust, possibly AC |
+| **HPS 1000W** | ~3,410 BTU/hr (+ radiant IR to canopy) | ~3,410 BTU/hr | Very high — almost certainly requires AC |
+| **CMH 315W** | ~1,100 BTU/hr (with ballast) | ~1,100 BTU/hr | Moderate — good passive or low-speed exhaust |
+| **CMH 630W** | ~2,200 BTU/hr (with ballast) | ~2,200 BTU/hr | Moderate to high — active exhaust recommended |
 
 > **Note:** While all technologies produce 3.41 BTU per watt of electricity consumed, HPS produces significantly more radiant (infrared) heat that directly heats leaf surfaces and canopy air. LEDs produce mostly convective heat that rises from the fixture itself. This means a 500W LED will raise room temperature less than a 500W HPS in practice.
 

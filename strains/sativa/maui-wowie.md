@@ -128,4 +128,4 @@ Maui Wowie presents moderate growing challenges due to its pure sativa character
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

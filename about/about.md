@@ -29,16 +29,16 @@ Our core principles:
 
 CannaGrow's content is organized into the following major sections:
 
-- **[History](/history)** — Cannabis use from antiquity through the modern era
-- **[Cultivation](/cultivation)** — Growing techniques, environmental control, nutrients, and plant health
-- **[Strains](/strains)** — Cultivar profiles, genetics, landrace varieties, and breeding
+- **[History](/history/index)** — Cannabis use from antiquity through the modern era
+- **[Cultivation](/cultivation/index)** — Growing techniques, environmental control, nutrients, and plant health
+- **[Strains](/strains/index)** — Cultivar profiles, genetics, landrace varieties, and breeding
 - **[Cannabinoids](/science/cannabinoids)** — THC, CBD, minor cannabinoids, and the chemistry of cannabis
 - **[Terpenes](/science/terpenes)** — Aromatic compounds and their roles in cannabis
-- **[Extraction](/extraction)** — Methods for isolating and concentrating cannabis compounds
-- **[Consumption](/consumption)** — Routes of administration, pharmacokinetics, and effects
-- **[Science](/science)** — The endocannabinoid system, clinical research, and pharmacology
-- **[Legal Landscape](/law-policy)** — Global legality, harm reduction, and responsible use
-- **[Glossary](/glossary)** — Comprehensive cannabis terminology
+- **[Extraction](/extraction/index)** — Methods for isolating and concentrating cannabis compounds
+- **[Consumption](/consumption/index)** — Routes of administration, pharmacokinetics, and effects
+- **[Science](/science/index)** — The endocannabinoid system, clinical research, and pharmacology
+- **[Legal Landscape](/law-policy/index)** — Global legality, harm reduction, and responsible use
+- **[Glossary](/glossary/index)** — Comprehensive cannabis terminology
 
 ---
 
@@ -65,7 +65,7 @@ CannaGrow welcomes contributions from anyone with relevant knowledge or experien
 1. **Go to the repository** — Visit [https://github.com/tinypanda31/cannagrow-wiki/](https://github.com/tinypanda31/cannagrow-wiki/)
 2. **Fork the repo** (or request collaborator access for regular contributors)
 3. **Read the guidelines** — Familiarize yourself with our [Editorial Guidelines](/about/editorial) before writing
-4. **Choose a topic** — Check existing pages to avoid duplication. Use the [Glossary](/glossary) to find gaps
+4. **Choose a topic** — Check existing pages to avoid duplication. Use the [Glossary](/glossary/index) to find gaps
 5. **Draft your content** — Follow the formatting standards described in our editorial guide. Create or edit the relevant `.md` file
 6. **Open a Pull Request** — Submit your changes for editorial review
 7. **Revise if needed** — Editors may request changes via PR comments to ensure compliance with our standards

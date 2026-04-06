@@ -129,4 +129,4 @@ Skunk #1 is widely considered one of the easiest cultivars to grow, ideal for fi
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

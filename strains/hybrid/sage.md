@@ -132,4 +132,4 @@ Sage is a moderately manageable sativa-dominant strain. The moderate flowering t
 
 ---
 
-[Back to Strain Database](/strains) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)

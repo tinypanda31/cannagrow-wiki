@@ -130,7 +130,7 @@ Live resin must be kept cold to preserve its terpene profile. Exposure to heat, 
 
 | Use | Description |
 |-----|------------|
-| **Dabbing** | Primary consumption method; live resin's terpene profile shines at low dabbing temperatures. See [Dabbing](/consumption/dabbing). |
+| **Dabbing** | Primary consumption method; live resin's terpene profile shines at low dabbing temperatures. See [Dabbing](/consumption/dabbing/index). |
 | **Vaporizing** | Live resin is formulated into vape cartridges for portable consumption. See [Vaporizing](/consumption/vaporizing). |
 | **Bowl topping** | Small amounts added to flower for enhanced flavor and potency |
 
@@ -212,15 +212,15 @@ Live resin potency varies but is generally comparable to other solvent-based con
 - **Full-spectrum preference:** Consumers seeking whole-plant edible effects may prefer live resin over distillate
 - **Value recovery:** Live resin that has been stored too long and lost its terpene advantage is still an excellent edible input
 
-For detailed edible preparation techniques and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [BHO/PHO](/extraction/bho-pho) -- Most common live resin extraction method
 - [Live Rosin](/extraction/live-rosin) -- Solventless alternative from fresh frozen
 - [Distillate](/extraction/distillate) -- Refined alternative
-- [Dabbing](/consumption/dabbing) -- How live resin is consumed
+- [Dabbing](/consumption/dabbing/index) -- How live resin is consumed
 - [Cannabinoids](/science/cannabinoids) -- Compounds in live resin
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved in live resin
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

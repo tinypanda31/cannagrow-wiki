@@ -128,4 +128,4 @@ LA Confidential is a moderately challenging strain to grow. It is less forgiving
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

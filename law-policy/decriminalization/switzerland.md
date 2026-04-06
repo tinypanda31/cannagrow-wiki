@@ -32,8 +32,8 @@ The Swiss approach is characteristically **pragmatic, data-driven, and increment
 | [[/law-policy/decriminalization/czech-republic]] | Cannabis law in the Czech Republic — Central Europe's most tolerant nation |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

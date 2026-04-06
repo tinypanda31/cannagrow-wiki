@@ -132,4 +132,4 @@ Zkittlez is moderately challenging to grow. Its indica-dominant compact structur
 
 ---
 
-[Back to Strain Database](/strains) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)

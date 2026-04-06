@@ -256,9 +256,9 @@ Long-term storage preparation:
 - **[Harvesting & Drying](/cultivation/harvest-dry)** -- The step before curing; proper drying is essential for successful curing
 - **[Cannabinoids](/science/cannabinoids)** -- How storage affects THC, CBD, CBN, and other compounds over time
 - **[Terpenes](/science/terpenes)** -- Terpene preservation during curing and storage
-- **[Consumption Methods](/consumption)** -- How properly cured cannabis performs across different consumption methods
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Feeding and flushing decisions affect curing quality
+- **[Consumption Methods](/consumption/index)** -- How properly cured cannabis performs across different consumption methods
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Feeding and flushing decisions affect curing quality
 
 ---
 
-> **See Also:** [/cultivation/harvest-dry](/cultivation/harvest-dry) | [/cannabinoids](/science/cannabinoids) | [/terpenes](/science/terpenes) | [/consumption](/consumption) | [/cultivation/nutrients](/cultivation/nutrients)
+> **See Also:** [/cultivation/harvest-dry](/cultivation/harvest-dry) | [/cannabinoids](/science/cannabinoids) | [/terpenes](/science/terpenes) | [/consumption](/consumption/index) | [/cultivation/nutrients](/cultivation/nutrients/index)

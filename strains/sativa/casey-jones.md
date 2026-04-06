@@ -128,4 +128,4 @@ Casey Jones requires moderate-to-advanced growing experience due to its signific
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

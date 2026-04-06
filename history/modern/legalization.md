@@ -14,7 +14,7 @@ dateCreated: 2026-04-05T19:25:37.745Z
 
 The modern cannabis legalization movement has achieved in three decades what abolitionists, suffragists, and civil rights activists worked generations to accomplish. Beginning with California's Proposition 215 in 1996, a wave of state-level, national, and international reforms has transformed cannabis from a criminalized substance into a legal, regulated, and increasingly mainstream product. This article traces the movement from its patient-driven origins through the accelerating reforms of the 2020s.
 
-**✅ Note** This article covers the legalization movement from 1996 through the 2020s. For the prohibition that preceded it, see [The Prohibition Era](/history/prohibition-era) and [The War on Drugs](/history/war-on-drugs). Current legal status by jurisdiction is covered in the [Legal Landscape](/law-policy) page.
+**✅ Note** This article covers the legalization movement from 1996 through the 2020s. For the prohibition that preceded it, see [The Prohibition Era](/history/prohibition-era) and [The War on Drugs](/history/war-on-drugs). Current legal status by jurisdiction is covered in the [Legal Landscape](/law-policy/index) page.
 
 
 ---
@@ -426,7 +426,7 @@ The global legal cannabis market is projected to exceed **$100 billion annually*
 
 - **Consolidation:** Large multi-state and multi-national operators are acquiring smaller companies
 - **Product innovation:** Cannabis edibles, beverages, concentrates, and novel delivery methods are proliferating
-- **Cultivation technology:** Advanced indoor and greenhouse cultivation techniques are improving quality and reducing costs. See [Cultivation](/cultivation) for modern growing methods.
+- **Cultivation technology:** Advanced indoor and greenhouse cultivation techniques are improving quality and reducing costs. See [Cultivation](/cultivation/index) for modern growing methods.
 - **Testing and quality control:** Third-party laboratory testing for potency and contaminants is becoming standard
 - **Banking and financial services:** The US SAFE Banking Act and similar legislation aim to provide regulated cannabis businesses access to traditional financial services
 - **International trade:** Cross-border cannabis trade is expanding, particularly in Europe and between North and South America
@@ -439,9 +439,9 @@ The relaxation of research restrictions has produced an explosion of cannabis sc
 - Clinical trials are investigating cannabis for chronic pain, PTSD, anxiety, sleep disorders, inflammatory conditions, and more
 - Understanding of the **endocannabinoid system** has expanded enormously, revealing its role in regulating pain, mood, appetite, immune function, and many other physiological processes
 - New cannabinoids and minor compounds (CBG, CBN, THCV, CBC) are being investigated for therapeutic potential
-- Terpene research is elucidating the role of aromatic compounds in cannabis's effects. See [Consumption](/consumption) for details.
+- Terpene research is elucidating the role of aromatic compounds in cannabis's effects. See [Consumption](/consumption/index) for details.
 
-See [Science](/science) for the current state of cannabis research.
+See [Science](/science/index) for the current state of cannabis research.
 
 ---
 
@@ -510,9 +510,9 @@ The movement began with dying AIDS patients demanding access to symptom relief a
 
 ## See Current Legal Status
 
-For detailed, up-to-date legal information on specific countries and policy models, visit the [Law & Policy](/law-policy) section:
+For detailed, up-to-date legal information on specific countries and policy models, visit the [Law & Policy](/law-policy/index) section:
 
-- [Law & Policy Overview](/law-policy) — Global legal frameworks, international treaties, and key legal distinctions
+- [Law & Policy Overview](/law-policy/index) — Global legal frameworks, international treaties, and key legal distinctions
 - [Uruguay](/law-policy/full-legalization/uruguay) — First country to fully legalize and regulate cannabis (2013)
 - [Canada](/law-policy/full-legalization/canada) — National legalization and the Cannabis Act (2018)
 - [Germany](/law-policy/full-legalization/germany) — The Cannabis Act (CanG) and EU legalization (2024)
@@ -530,12 +530,12 @@ For detailed, up-to-date legal information on specific countries and policy mode
 |------|-------------|
 | [The Prohibition Era](/history/prohibition-era) | How cannabis became criminalized |
 | [The War on Drugs](/history/war-on-drugs) | Escalation of prohibition and its consequences |
-| [Legal Landscape](/law-policy) | Current global cannabis legality by jurisdiction |
+| [Legal Landscape](/law-policy/index) | Current global cannabis legality by jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | THC, CBD, and the chemistry of cannabis |
-| [Strains Index](/strains) | Cultivars driving the legal industry |
-| [Cultivation](/cultivation) | Modern growing techniques for the legal market |
-| [Consumption Methods](/consumption) | Routes of administration in the legal era |
-| [Science](/science) | Current state of cannabis research |
+| [Strains Index](/strains/index) | Cultivars driving the legal industry |
+| [Cultivation](/cultivation/index) | Modern growing techniques for the legal market |
+| [Consumption Methods](/consumption/index) | Routes of administration in the legal era |
+| [Science](/science/index) | Current state of cannabis research |
 
 ---
 
@@ -553,7 +553,7 @@ For detailed, up-to-date legal information on specific countries and policy mode
 
 ---
 
-**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/law-policy) page for current information.
+**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/law-policy/index) page for current information.
 
 
 ---

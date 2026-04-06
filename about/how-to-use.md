@@ -20,17 +20,17 @@ CannaGrow is organized into **major sections**, each covering a broad topic area
 | Section | Path | What You'll Find |
 |---------|------|-----------------|
 | Home | [/](/home) | Landing page with quick links to all sections |
-| History | [/history](/history) | Historical articles organized by era and region |
-| Cultivation | [/cultivation](/cultivation) | Growing guides for indoor, outdoor, and greenhouse |
-| Strains | [/strains](/strains) | Individual cultivar profiles, genetics, and breeding |
+| History | [/history](/history/index) | Historical articles organized by era and region |
+| Cultivation | [/cultivation](/cultivation/index) | Growing guides for indoor, outdoor, and greenhouse |
+| Strains | [/strains](/strains/index) | Individual cultivar profiles, genetics, and breeding |
 | Cannabinoids | [/cannabinoids](/science/cannabinoids) | Compound profiles, chemistry, and pharmacology |
-| Extraction | [/extraction](/extraction) | Methods for isolating and concentrating compounds |
-| Consumption | [/consumption](/consumption) | Administration methods: smoking, vaping, edibles, topicals |
-| Science | [/science](/science) | Endocannabinoid system, research, clinical studies |
+| Extraction | [/extraction](/extraction/index) | Methods for isolating and concentrating compounds |
+| Consumption | [/consumption](/consumption/index) | Administration methods: smoking, vaping, edibles, topicals |
+| Science | [/science](/science/index) | Endocannabinoid system, research, clinical studies |
 | Legal & Safety | [/legal-safety/legal](/legal-safety/legal) | Global legality, responsible use, harm reduction |
-| Glossary | [/glossary](/glossary) | Comprehensive cannabis terminology |
+| Glossary | [/glossary](/glossary/index) | Comprehensive cannabis terminology |
 
-Each major section contains **sub-pages** covering specific subtopics. For example, [/cultivation](/cultivation) links to pages on indoor growing, greenhouse cultivation, outdoor growing, nutrient management, pest control, and more.
+Each major section contains **sub-pages** covering specific subtopics. For example, [/cultivation](/cultivation/index) links to pages on indoor growing, greenhouse cultivation, outdoor growing, nutrient management, pest control, and more.
 
 ---
 
@@ -54,7 +54,7 @@ If your search does not return expected results:
 
 1. Try **alternative terms** (e.g., "THC" vs. "tetrahydrocannabinol")
 2. Browse the relevant **section index page** manually
-3. Check the [Glossary](/glossary) for terminology that may lead to the right page
+3. Check the [Glossary](/glossary/index) for terminology that may lead to the right page
 
 ---
 
@@ -115,7 +115,7 @@ Tags are keywords attached to individual pages. You can click any tag to see all
 
 ### Categories
 
-Categories are broader groupings defined in the wiki's navigation structure. For example, all pages under [/consumption](/consumption) belong to the "Consumption" category. Categories include:
+Categories are broader groupings defined in the wiki's navigation structure. For example, all pages under [/consumption](/consumption/index) belong to the "Consumption" category. Categories include:
 
 - Edibles
 - Smoking
@@ -133,7 +133,7 @@ Categories are broader groupings defined in the wiki's navigation structure. For
 
 ## Reading Strain Comparison Tables
 
-Strain comparison tables appear on several pages, particularly in the [Strains](/strains) section. Here is how to read them:
+Strain comparison tables appear on several pages, particularly in the [Strains](/strains/index) section. Here is how to read them:
 
 | Column | Description |
 |--------|-------------|
@@ -155,8 +155,8 @@ Strain characteristics vary significantly between growers, harvests, and testing
 If you are new to cannabis or to CannaGrow, start here:
 
 1. **Read the Glossary first** — Familiarize yourself with key terms before diving into technical content
-2. **Start with overview pages** — Pages like [Cannabinoids Overview](/science/cannabinoids) and [Consumption Overview](/consumption) provide foundations before you explore specifics
-3. **Use the Legal page** — Before any practical engagement with cannabis, read the [Legal Landscape](/law-policy) to understand your local context
+2. **Start with overview pages** — Pages like [Cannabinoids Overview](/science/cannabinoids) and [Consumption Overview](/consumption/index) provide foundations before you explore specifics
+3. **Use the Legal page** — Before any practical engagement with cannabis, read the [Legal Landscape](/law-policy/index) to understand your local context
 4. **Follow internal links** — Pages are interconnected. Use links to discover related topics naturally
 5. **Bookmark the Home page** — The [Home](/home) page serves as a hub with quick links to every major section
 

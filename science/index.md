@@ -226,7 +226,7 @@ The route by which cannabis compounds enter the body significantly affects how q
 | **Rectal** | 15-30 min | 1-3 hours | 6-8 hours | High (13x oral) | Rectal mucosa absorption; avoids first-pass liver metabolism |
 | **Dabbing (concentrates)** | Immediate | 5-15 min | 1-3 hours | Very high | Extreme potency → rapid, intense CB1 activation |
 
-See [[/consumption]] for detailed coverage of each consumption method.
+See [[/consumption/index]] for detailed coverage of each consumption method.
 
 ---
 
@@ -268,11 +268,11 @@ Several factors explain why the same strain or dose can produce different effect
 - **The Endocannabinoid System: A Brief Review** — *Handbook of Experimental Pharmacology*
 
 ### Internal Cross-References
-- [[/strains]] — Strain database with cannabinoid and terpene profiles
-- [[/consumption]] — Consumption methods and bioavailability
-- [[/extraction]] — Extraction methods and compound preservation
-- [[/cultivation]] — Cultivation practices affecting cannabinoid and terpene content
-- [[/glossary]] — Glossary of scientific terms
+- [[/strains/index]] — Strain database with cannabinoid and terpene profiles
+- [[/consumption/index]] — Consumption methods and bioavailability
+- [[/extraction/index]] — Extraction methods and compound preservation
+- [[/cultivation/index]] — Cultivation practices affecting cannabinoid and terpene content
+- [[/glossary/index]] — Glossary of scientific terms
 
 ---
 

@@ -191,10 +191,10 @@ Regular maintenance ensures optimal performance and safety:
 
 ## Navigation
 
-- [Consumption Overview](/consumption) -- All consumption methods
-- [Smoking](/consumption/smoking) -- Traditional combustion method
-- [Dabbing](/consumption/dabbing) -- Concentrate vaporization at higher temperatures
-- [Edibles](/consumption/edibles) -- Non-inhalation alternative
+- [Consumption Overview](/consumption/index) -- All consumption methods
+- [Smoking](/consumption/smoking/index) -- Traditional combustion method
+- [Dabbing](/consumption/dabbing/index) -- Concentrate vaporization at higher temperatures
+- [Edibles](/consumption/edibles/index) -- Non-inhalation alternative
 - [Cannabinoids](/science/cannabinoids) -- Compounds delivered by vaporizing
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved by vaporizing
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance

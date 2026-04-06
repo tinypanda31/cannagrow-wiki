@@ -332,12 +332,12 @@ Whenever introducing new genetics (clones, seeds, plants) to an existing grow sp
 ## Related Pages
 
 - **[Environmental Control](/cultivation/indoor/environment)** -- Environmental conditions that promote or prevent disease
-- **[Indoor Growing](/cultivation/indoor)** -- Maintaining a clean indoor grow space
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Distinguishing nutrient deficiencies from pest damage
-- **[Outdoor Growing](/cultivation/outdoor)** -- Outdoor-specific pest pressure and natural controls
+- **[Indoor Growing](/cultivation/indoor/index)** -- Maintaining a clean indoor grow space
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Distinguishing nutrient deficiencies from pest damage
+- **[Outdoor Growing](/cultivation/outdoor/index)** -- Outdoor-specific pest pressure and natural controls
 - **[Harvesting & Drying](/cultivation/harvest-dry)** -- Inspecting buds for mold before harvest
 - **[Curing & Storage](/cultivation/cure-store)** -- Detecting mold during curing
 
 ---
 
-> **See Also:** [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/indoor](/cultivation/indoor) | [/cultivation/nutrients](/cultivation/nutrients) | [/cultivation/outdoor](/cultivation/outdoor) | [/cultivation/harvest-dry](/cultivation/harvest-dry) | [/cultivation/cure-store](/cultivation/cure-store)
+> **See Also:** [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cultivation/outdoor](/cultivation/outdoor/index) | [/cultivation/harvest-dry](/cultivation/harvest-dry) | [/cultivation/cure-store](/cultivation/cure-store)

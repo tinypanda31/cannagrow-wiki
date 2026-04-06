@@ -127,4 +127,4 @@ Maconga is a challenging strain to grow. The very long flowering time (70-85 day
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

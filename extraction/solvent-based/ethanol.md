@@ -195,8 +195,8 @@ Ethanol-extracted cannabis is the starting material for many products:
 
 | Product | Description |
 |---------|------------|
-| **Tinctures** -- See [Tinctures & Sublingual](/consumption/tinctures) | Ethanol extracts diluted to specific cannabinoid concentrations in dropper bottles |
-| **Edibles** -- See [Edibles](/consumption/edibles) | Ethanol extract infused into food products or used as a direct ingredient |
+| **Tinctures** -- See [Tinctures & Sublingual](/consumption/tinctures/index) | Ethanol extracts diluted to specific cannabinoid concentrations in dropper bottles |
+| **Edibles** -- See [Edibles](/consumption/edibles/index) | Ethanol extract infused into food products or used as a direct ingredient |
 | **RSO (Rick Simpson Oil)** | High-dose full-extract ethanol concentrate; typically dark, thick, and full-spectrum |
 | **Distillate feedstock** | Ethanol crude is the starting material for [Distillate](/extraction/distillate) production |
 | **Isolate production** | Further refinement of ethanol extract produces THCA, CBD, and other cannabinoid isolates |
@@ -204,12 +204,12 @@ Ethanol-extracted cannabis is the starting material for many products:
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [BHO/PHO](/extraction/bho-pho) -- Hydrocarbon extraction
 - [CO2 Extraction](/extraction/co2) -- Supercritical CO2 extraction
 - [Distillate](/extraction/distillate) -- Refined from ethanol crude
-- [Tinctures](/consumption/tinctures) -- Ethanol-based tincture products
-- [Edibles](/consumption/edibles) -- Products made from ethanol extracts
+- [Tinctures](/consumption/tinctures/index) -- Ethanol-based tincture products
+- [Edibles](/consumption/edibles/index) -- Products made from ethanol extracts
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines
 
 ---

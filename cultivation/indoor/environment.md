@@ -247,11 +247,11 @@ Even indoors, seasonal changes can affect your grow space:
 ## Related Pages
 
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Light selection and heat management
-- **[Indoor Growing Overview](/cultivation/indoor)** -- Complete indoor growing guide
+- **[Indoor Growing Overview](/cultivation/indoor/index)** -- Complete indoor growing guide
 - **[Hydroponics](/cultivation/indoor/hydroponics)** -- Reservoir temperature management in hydro systems
 - **[Pest & Disease Management](/cultivation/pests-diseases)** -- Environmental conditions that promote or prevent disease
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Temperature and pH effects on nutrient uptake
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Temperature and pH effects on nutrient uptake
 
 ---
 
-> **See Also:** [/cultivation/indoor](/cultivation/indoor) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) | [/cultivation/nutrients](/cultivation/nutrients) | [/cultivation/pests-diseases](/cultivation/pests-diseases)
+> **See Also:** [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cultivation/pests-diseases](/cultivation/pests-diseases)

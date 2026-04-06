@@ -131,4 +131,4 @@ Chocolate Thai is among the most difficult cannabis strains to cultivate. The ex
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

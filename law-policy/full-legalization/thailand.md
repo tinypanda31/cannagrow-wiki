@@ -28,8 +28,8 @@ Thailand's cannabis story is significant regardless of its ultimate outcome. The
 | [[/law-policy/full-legalization/uruguay]] | Cannabis law in Uruguay — the first nation to legalize |
 | [[/history/modern-legalization]] | The modern legalization movement |
 | [[/history/ancient-origins]] | Pre-prohibition cannabis history and traditional use |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

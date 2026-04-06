@@ -270,12 +270,12 @@ For resources, see [Harm Reduction](/legal-safety/harm-reduction).
 - [ ] I am in a safe and comfortable environment
 - [ ] My products are stored securely and out of reach of children
 - [ ] I am not mixing cannabis with alcohol or other substances
-- [ ] I am aware of my local laws regarding cannabis — see the [Law & Policy](/law-policy) section for detailed jurisdiction-specific legal information
+- [ ] I am aware of my local laws regarding cannabis — see the [Law & Policy](/law-policy/index) section for detailed jurisdiction-specific legal information
 - [ ] I know the signs of overconsumption and what to do
 - [ ] I am using cannabis responsibly and within my personal limits
 
 ---
 
-*See also: [Harm Reduction](/legal-safety/harm-reduction) | [Legal Landscape](/law-policy) | [Cannabinoids Overview](/science/cannabinoids)*
+*See also: [Harm Reduction](/legal-safety/harm-reduction) | [Legal Landscape](/law-policy/index) | [Cannabinoids Overview](/science/cannabinoids)*
 
 *Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*

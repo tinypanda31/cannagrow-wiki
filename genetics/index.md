@@ -82,11 +82,11 @@ The genetics of a cannabis plant determine much of its potential:
 
 Understanding genetics and breeding is foundational to nearly every other section:
 
-- **[[/strains]]** — Every strain profile in our database is the product of breeding decisions. Understanding genetics helps you interpret strain data.
-- **[[/cultivation]]** — Growing techniques differ significantly for autoflowering vs. photoperiod plants, and breeding affects disease resistance, structure, and nutrient needs.
+- **[[/strains/index]]** — Every strain profile in our database is the product of breeding decisions. Understanding genetics helps you interpret strain data.
+- **[[/cultivation/index]]** — Growing techniques differ significantly for autoflowering vs. photoperiod plants, and breeding affects disease resistance, structure, and nutrient needs.
 - **[[/science/cannabinoids]]** — Cannabinoid profiles are genetically determined. Chemotype classification (Type I-IV) is a genetic trait.
 - **[[/science/terpenes]]** — Terpene synthase gene expression varies between genetics, creating diverse aroma profiles.
-- **[[/cultivation/outdoor]]** — Landrace genetics evolved for specific climates; understanding origins helps outdoor strain selection.
+- **[[/cultivation/outdoor/index]]** — Landrace genetics evolved for specific climates; understanding origins helps outdoor strain selection.
 
 ---
 
@@ -103,7 +103,7 @@ Understanding genetics and breeding is foundational to nearly every other sectio
 | **Reverse breeding** | Creating feminized seeds by inducing a female plant to produce male pollen |
 | **Rodelization** | A natural stress-induced hermaphroditism where a female plant produces male flowers late in flower |
 
-For a more complete glossary, see [[/glossary]].
+For a more complete glossary, see [[/glossary/index]].
 
 ---
 

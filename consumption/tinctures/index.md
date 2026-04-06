@@ -15,7 +15,7 @@ Tinctures are one of the oldest forms of cannabis medicine, having been a standa
 
 A tincture is a concentrated liquid extract made by dissolving the active compounds of a plant material in a solvent. Cannabis tinctures are produced by:
 
-1. **Decarboxylating** cannabis material to activate cannabinoids (see [Edibles](/consumption/edibles) for decarboxylation)
+1. **Decarboxylating** cannabis material to activate cannabinoids (see [Edibles](/consumption/edibles/index) for decarboxylation)
 2. **Soaking** the decarboxylated material in a solvent (alcohol, glycerin, or oil) for an extended period
 3. **Agitating** periodically to encourage dissolution
 4. **Straining** out the plant material, leaving a cannabinoid-rich liquid
@@ -167,7 +167,7 @@ The following is provided for educational purposes. Always comply with applicabl
 - Dark glass dropper bottles for storage
 
 **Step 1: Decarboxylate**
-Decarboxylate your cannabis at 220-240 degrees F (104-116 degrees C) for 30-45 minutes. See [Edibles](/consumption/edibles) for detailed instructions.
+Decarboxylate your cannabis at 220-240 degrees F (104-116 degrees C) for 30-45 minutes. See [Edibles](/consumption/edibles/index) for detailed instructions.
 
 **Step 2: Combine**
 Place the decarboxylated cannabis in a glass jar and cover completely with ethanol. Use enough ethanol to submerge the material with approximately 1-2 inches of liquid above it.
@@ -221,9 +221,9 @@ Understanding a tincture label is essential for proper dosing:
 
 ## Navigation
 
-- [Consumption Overview](/consumption) -- All consumption methods
-- [Edibles](/consumption/edibles) -- Food-based alternative
-- [Topicals](/consumption/topicals) -- External application
+- [Consumption Overview](/consumption/index) -- All consumption methods
+- [Edibles](/consumption/edibles/index) -- Food-based alternative
+- [Topicals](/consumption/topicals/index) -- External application
 - [Cannabinoids](/science/cannabinoids) -- THC, CBD, and other compounds
 - [Extraction: Ethanol](/extraction/ethanol) -- How alcohol-based tinctures are extracted
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance

@@ -284,7 +284,7 @@ Always start with conservative doses when working with homemade hash of unknown 
 - **Easy to infuse:** Hash dissolves readily into warm butter or oil after decarboxylation
 - **Scalable:** Works equally well for single-batch brownies and large-scale edible production
 
-For detailed edible preparation techniques and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ## Storage
 
@@ -298,7 +298,7 @@ Properly dried and stored ice-water hash maintains quality for months to years:
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [Dry Sift & Kief](/extraction/dry-sift-kief) -- Simpler solventless method
 - [Rosin Press](/extraction/rosin-press) -- Press hash into rosin
 - [Live Rosin](/extraction/live-rosin) -- Ice-water hash from fresh frozen, pressed

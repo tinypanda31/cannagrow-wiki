@@ -133,4 +133,4 @@ Kush Mints benefits from attentive growing practices typical of Kush and Mints g
 
 ---
 
-[Back to Strain Database](/strains) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)

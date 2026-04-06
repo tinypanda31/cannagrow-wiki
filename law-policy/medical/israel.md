@@ -34,8 +34,8 @@ Israel's position is paradoxical: a **scientific pioneer** with relatively progr
 | [[/law-policy/medical/colombia]] | Cannabis law in Colombia — export-oriented medical framework |
 | [[/science/cannabinoids]] | Cannabinoid science — THC, CBD, and the endocannabinoid system |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

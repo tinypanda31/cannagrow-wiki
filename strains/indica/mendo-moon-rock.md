@@ -131,4 +131,4 @@ Mendo Moon Rock benefits from attentive growing practices typical of purple indi
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

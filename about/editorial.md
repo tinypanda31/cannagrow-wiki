@@ -88,7 +88,7 @@ Sources are evaluated in the following order of reliability (highest to lowest):
 
 - **Educational and informative** — write as if explaining to a university student
 - **Objective and measured** — avoid enthusiasm, skepticism, or advocacy in your language
-- **Accessible** — define technical terms on first use; link to the [Glossary](/glossary) where appropriate
+- **Accessible** — define technical terms on first use; link to the [Glossary](/glossary/index) where appropriate
 - **Precise** — use specific terminology correctly; do not conflate related but distinct concepts
 
 ### Language Standards
@@ -108,7 +108,7 @@ Do not use language that:
 
 - Promotes or discourages cannabis use
 - Makes definitive medical claims without strong clinical evidence
-- Uses slang in article body text (slang terms may appear in the [Glossary](/glossary) with attribution)
+- Uses slang in article body text (slang terms may appear in the [Glossary](/glossary/index) with attribution)
 - Stereotypes or stigmatizes cannabis users, patients, or opponents
 - Implies legality or illegality without jurisdictional context
 
@@ -239,7 +239,7 @@ Example:
 
 ## 6. Strain Profile Standards
 
-Strain profiles in the [Strains](/strains) section must follow a standardized format:
+Strain profiles in the [Strains](/strains/index) section must follow a standardized format:
 
 ### Required Fields
 

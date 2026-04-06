@@ -174,4 +174,4 @@ Always prioritize a current COA over wiki ranges when evaluating a specific prod
 
 ---
 
-[Back to Strain Database Index](/strains)
+[Back to Strain Database Index](/strains/index)

@@ -133,4 +133,4 @@ Lemon Skunk is moderately easy to grow. The Skunk heritage makes it one of the m
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

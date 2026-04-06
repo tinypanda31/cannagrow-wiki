@@ -35,8 +35,8 @@ Colombia's 2015 medical cannabis framework **predates most of Latin America's re
 | [[/law-policy/full-legalization/mexico]] | Cannabis law in Mexico — the Supreme Court pathway |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

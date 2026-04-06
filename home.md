@@ -29,19 +29,19 @@ Select a section below to begin exploring:
 
 | Section | Description | Key Topics |
 |---------|-------------|------------|
-| [History](/history) | The story of cannabis through human civilization | Ancient use, prohibition era, modern legalization |
-| [Cultivation](/cultivation) | Growing cannabis from seed to harvest | Indoor, outdoor, greenhouse, nutrients, pests |
-| [Strains](/strains) | Cannabis cultivar profiles and genetics | Indica, sativa, hybrid, landrace, breeding |
+| [History](/history/index) | The story of cannabis through human civilization | Ancient use, prohibition era, modern legalization |
+| [Cultivation](/cultivation/index) | Growing cannabis from seed to harvest | Indoor, outdoor, greenhouse, nutrients, pests |
+| [Strains](/strains/index) | Cannabis cultivar profiles and genetics | Indica, sativa, hybrid, landrace, breeding |
 | [Cannabinoids](/science/cannabinoids) | The chemistry of cannabis compounds | THC, CBD, CBG, CBN, the entourage effect |
-| [Extraction](/extraction) | Methods for isolating cannabis compounds | Solvent-based, solventless, rosin, distillation |
-| [Consumption](/consumption) | Routes of administration and their effects | Smoking, vaping, edibles, topicals, tinctures |
+| [Extraction](/extraction/index) | Methods for isolating cannabis compounds | Solvent-based, solventless, rosin, distillation |
+| [Consumption](/consumption/index) | Routes of administration and their effects | Smoking, vaping, edibles, topicals, tinctures |
 | [China Glass Guide](/consumption/gear/china-glass-buyers-guide) | Buyer's guide for glass pieces from Chinese manufacturers | Dab rigs, bongs, bubblers, quality inspection |
-| [Science](/science) | Research and pharmacology of cannabis | Endocannabinoid system, clinical studies |
+| [Science](/science/index) | Research and pharmacology of cannabis | Endocannabinoid system, clinical studies |
 | [Bro Science](/science/bro-science) | Myth debunking and common misconceptions | Indica vs. sativa, flushing, hotboxing |
-| [Sustainability](/sustainability) | Environmental and sustainable cultivation | Eco-friendly practices, carbon footprint, waste |
-| [Legal Landscape](/law-policy) | Laws, regulations, and responsible use | Global legality, harm reduction, safety guidelines |
-| [Law & Policy](/law-policy) | Cannabis law, policy frameworks, and country profiles | Legalization, decriminalization, medical access, regulatory models |
-| [Glossary](/glossary) | Cannabis terminology and definitions | Comprehensive index of terms |
+| [Sustainability](/sustainability/index) | Environmental and sustainable cultivation | Eco-friendly practices, carbon footprint, waste |
+| [Legal Landscape](/law-policy/index) | Laws, regulations, and responsible use | Global legality, harm reduction, safety guidelines |
+| [Law & Policy](/law-policy/index) | Cannabis law, policy frameworks, and country profiles | Legalization, decriminalization, medical access, regulatory models |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions | Comprehensive index of terms |
 
 ---
 
@@ -62,12 +62,12 @@ CannaGrow exists to cut through the noise. Every article is:
 
 | If You Are... | Start Here |
 |---------------|-----------|
-| A complete beginner | [How to Use This Wiki](/about/how-to-use) and [Glossary](/glossary) |
-| Interested in growing | [Cultivation Overview](/cultivation) |
-| Curious about strains | [Strains Index](/strains) |
+| A complete beginner | [How to Use This Wiki](/about/how-to-use) and [Glossary](/glossary/index) |
+| Interested in growing | [Cultivation Overview](/cultivation/index) |
+| Curious about strains | [Strains Index](/strains/index) |
 | Researching compounds | [Cannabinoids Overview](/science/cannabinoids) |
-| Checking legality | [Legal Landscape](/law-policy) |
-| Looking for medical info | [Science](/science) (with the understanding this is not medical advice) |
+| Checking legality | [Legal Landscape](/law-policy/index) |
+| Looking for medical info | [Science](/science/index) (with the understanding this is not medical advice) |
 
 ---
 

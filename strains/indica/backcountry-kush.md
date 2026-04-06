@@ -130,4 +130,4 @@ Backcountry Kush is among the more forgiving indica cultivars to grow. The landr
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

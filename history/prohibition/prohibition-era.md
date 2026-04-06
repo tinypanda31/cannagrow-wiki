@@ -290,7 +290,7 @@ The consequences of this prohibition would be felt for the rest of the century a
 |------|-------------|
 | [The War on Drugs](/history/war-on-drugs) | Escalation of prohibition under Nixon and beyond |
 | [Modern Legalization](/history/modern-legalization) | The reversal of prohibition beginning in 1996 |
-| [Legal Landscape](/law-policy) | Current global legality by jurisdiction |
+| [Legal Landscape](/law-policy/index) | Current global legality by jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | The compounds that prohibition made difficult to study |
 | [Cannabis in the Medieval World](/history/medieval) | The medical tradition that prohibition interrupted |
 

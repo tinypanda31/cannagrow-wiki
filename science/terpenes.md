@@ -655,7 +655,7 @@ Understanding terpene boiling points is critical for vaporization. Vaporizing ca
 
 > **Note:** These are approximate ranges. Actual vaporization temperatures depend on device type, material preparation, atmospheric pressure, and individual compound interactions. Combustion begins around 446°F (230°C), producing harmful byproducts. Vaporizing below this threshold is generally considered safer.
 
-For more on vaporization, see [Consumption Methods](/consumption).
+For more on vaporization, see [Consumption Methods](/consumption/index).
 
 ---
 
@@ -1083,19 +1083,19 @@ Different consumption methods affect terpene delivery differently:
 | **Topicals** | Terpene effects are primarily local | Bisabolol and eucalyptol enhance skin penetration of other compounds |
 | **Aromatherapy (inhalation of terpenes alone)** | Terpenes absorbed through olfactory system | Limited to terpene-only effects; no cannabinoids |
 
-For more on consumption methods, see [Consumption Methods](/consumption).
+For more on consumption methods, see [Consumption Methods](/consumption/index).
 
 ---
 
 ## Related Resources
 
 - [Cannabinoids](/science/cannabinoids) -- The chemical compounds that work alongside terpenes
-- [Strains](/strains) -- Cultivar-specific terpene profiles
-- [Consumption Methods](/consumption) -- How different methods affect terpene delivery
-- [Extraction](/extraction) -- Methods that preserve or degrade terpenes
-- [Cultivation](/cultivation) -- Growing practices that maximize terpene production
-- [Cultivation Nutrients](/cultivation/nutrients) -- Nutrient management for terpene optimization
-- [Glossary](/glossary) -- Definitions of terpene and cannabis science terminology
+- [Strains](/strains/index) -- Cultivar-specific terpene profiles
+- [Consumption Methods](/consumption/index) -- How different methods affect terpene delivery
+- [Extraction](/extraction/index) -- Methods that preserve or degrade terpenes
+- [Cultivation](/cultivation/index) -- Growing practices that maximize terpene production
+- [Cultivation Nutrients](/cultivation/nutrients/index) -- Nutrient management for terpene optimization
+- [Glossary](/glossary/index) -- Definitions of terpene and cannabis science terminology
 
 ---
 

@@ -128,8 +128,8 @@ Super Lemon Haze is a moderately challenging strain to grow. Its sativa-dominant
 - [Super Silver Haze](/strains/sativa/super-silver-haze) -- Parent lineage; multi-award-winning sativa
 - [Tangie](/strains/sativa/tangie) -- Comparable intense citrus sativa
 - [Jack Herer](/strains/sativa/jack-herer) -- Similar multi-award-winning sativa with creative effects
-- [Lemon Skunk](/strains) -- Parent lineage; lemon-citrus genetics
+- [Lemon Skunk](/strains/index) -- Parent lineage; lemon-citrus genetics
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

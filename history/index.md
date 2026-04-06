@@ -130,8 +130,8 @@ The history of cannabis challenges many common assumptions. Consider the followi
 
 - **Cannabis was legal for most of recorded history.** Prohibition is a recent phenomenon, spanning barely a century out of ten thousand years of documented human use.
 - **Cannabis prohibition was driven by political and economic forces** as much as -- or more than -- public health concerns. Understanding this history is essential for evaluating current drug policy.
-- **Medical use of cannabis predates modern medicine by millennia.** Ancient Chinese, Indian, Greek, and Islamic physicians documented therapeutic applications that are only now being validated by clinical research. See the [Cannabinoids](/science/cannabinoids) and [Science](/science) sections for modern research.
-- **The global hemp industry sustained civilizations** for thousands of years before being replaced by synthetic fibers and criminalization. See [Cultivation](/cultivation) for modern growing practices.
+- **Medical use of cannabis predates modern medicine by millennia.** Ancient Chinese, Indian, Greek, and Islamic physicians documented therapeutic applications that are only now being validated by clinical research. See the [Cannabinoids](/science/cannabinoids) and [Science](/science/index) sections for modern research.
+- **The global hemp industry sustained civilizations** for thousands of years before being replaced by synthetic fibers and criminalization. See [Cultivation](/cultivation/index) for modern growing practices.
 - **Racial disparities in drug enforcement** are one of the most significant legacies of prohibition policy, documented extensively in sociological and legal research.
 
 Understanding this history provides essential context for current debates around legalization, medical access, criminal justice reform, and the future of cannabis research.
@@ -142,11 +142,11 @@ Understanding this history provides essential context for current debates around
 
 | Page | Description |
 |------|-------------|
-| [Legal Landscape](/law-policy) | Current global cannabis legality by country and jurisdiction |
+| [Legal Landscape](/law-policy/index) | Current global cannabis legality by country and jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | THC, CBD, and the chemistry of cannabis compounds |
-| [Strains Index](/strains) | Landrace varieties and modern cultivars with historical context |
-| [Consumption Methods](/consumption) | Routes of administration and their historical evolution |
-| [Glossary](/glossary) | Historical and modern cannabis terminology |
+| [Strains Index](/strains/index) | Landrace varieties and modern cultivars with historical context |
+| [Consumption Methods](/consumption/index) | Routes of administration and their historical evolution |
+| [Glossary](/glossary/index) | Historical and modern cannabis terminology |
 
 ---
 
@@ -163,7 +163,7 @@ For readers interested in deeper historical research, the following sources are 
 
 ---
 
-**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/law-policy) page for current information.
+**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/law-policy/index) page for current information.
 
 
 ---

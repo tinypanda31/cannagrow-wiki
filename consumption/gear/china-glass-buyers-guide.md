@@ -20,7 +20,7 @@ But "China glass" is also one of the most misunderstood and unfairly maligned ca
 
 This guide is written for the practical buyer. Whether you are purchasing your first water pipe or your twentieth, whether you have a $25 budget or a $150 one, this guide will help you understand what China glass actually is, how to evaluate it, what to expect at different price points, and how to separate evidence-based concerns from marketing-driven myths.
 
-**ℹ️ **This guide covers:** borosilicate glass water pipes, bongs, dab rigs, bubblers, and pipes manufactured primarily in China. It does not cover hand-blown artist glass, scientific laboratory glassware, or decorative lead crystal glass. For related topics, see [Smoking Methods](/consumption/smoking), [Dabbing](/consumption/dabbing), and the [Glossary](/glossary).**
+**ℹ️ **This guide covers:** borosilicate glass water pipes, bongs, dab rigs, bubblers, and pipes manufactured primarily in China. It does not cover hand-blown artist glass, scientific laboratory glassware, or decorative lead crystal glass. For related topics, see [Smoking Methods](/consumption/smoking/index), [Dabbing](/consumption/dabbing/index), and the [Glossary](/glossary/index).**
 
 ---
 
@@ -68,7 +68,7 @@ It is worth noting briefly that Western consumers' dependence on Chinese manufac
 Many Western brands that sell cannabis glassware under their own labels source from the same Chinese factories that produce unbranded China glass. The difference is often branding, packaging, and markup — not manufacturing origin. This is not inherently bad (quality control and customer service matter), but it is important context when evaluating claims about the inferiority of "China glass" as a category.
 
 **💡 Tip**
-**Related resources:** For background on consumption methods that use glassware, see [Smoking Methods](/consumption/smoking) and [Dabbing Guide](/consumption/dabbing). For definitions of terms used in this guide, consult the [Glossary](/glossary).
+**Related resources:** For background on consumption methods that use glassware, see [Smoking Methods](/consumption/smoking/index) and [Dabbing Guide](/consumption/dabbing/index). For definitions of terms used in this guide, consult the [Glossary](/glossary/index).
 
 ---
 
@@ -361,7 +361,7 @@ Simple hand pipe with no water filtration.
 **Why these specs:** Even simple pipes benefit from adequate glass thickness. A bowl that is too shallow burns hot and fast; one that is too deep is hard to clean. Carb placement should allow comfortable use with your natural grip.
 
 ![Various percolator types found in China glass pieces — honeycomb, showerhead, tree, inline, and matrix — displayed for comparison](/uploads/images/gear/china-glass/percolator-types.jpg) info
-**Not sure what size you need?** Check the [Glossary](/glossary) for definitions of joint sizes, perc types, and other terminology. For broader context on consumption methods, see [Consumption Overview](/consumption).
+**Not sure what size you need?** Check the [Glossary](/glossary/index) for definitions of joint sizes, perc types, and other terminology. For broader context on consumption methods, see [Consumption Overview](/consumption/index).
 
 ---
 
@@ -617,4 +617,4 @@ The key principles:
 Buy smart, inspect carefully, and enjoy your glassware responsibly.
 
 **ℹ️ Info**
-**Related guides:** [Smoking Methods](/consumption/smoking) | [Dabbing Guide](/consumption/dabbing) | [Consumption Overview](/consumption) | [Harm Reduction](/legal-safety/harm-reduction) | [Glossary](/glossary)
+**Related guides:** [Smoking Methods](/consumption/smoking/index) | [Dabbing Guide](/consumption/dabbing/index) | [Consumption Overview](/consumption/index) | [Harm Reduction](/legal-safety/harm-reduction) | [Glossary](/glossary/index)

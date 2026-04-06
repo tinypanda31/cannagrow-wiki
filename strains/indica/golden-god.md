@@ -130,4 +130,4 @@ Golden God is relatively easy to grow, benefiting from the hardiness of its Afgh
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

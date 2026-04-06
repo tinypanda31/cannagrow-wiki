@@ -70,7 +70,7 @@ The practice of flushing -- feeding plain, pH-balanced water for 1-2 weeks befor
 | **Taper Only** | Gradually reduce nutrient strength over 10-14 days | Maintains some feeding while reducing buildup |
 | **No Flush** | Feed until harvest | Modern nutrients are clean; no proven benefit |
 
-For a detailed discussion of the flushing debate, see [/cultivation/nutrients](/cultivation/nutrients).
+For a detailed discussion of the flushing debate, see [/cultivation/nutrients](/cultivation/nutrients/index).
 
 ## Harvest Methods
 
@@ -265,11 +265,11 @@ A complete harvest day checklist:
 ## Related Pages
 
 - **[Curing & Storage](/cultivation/cure-store)** -- The next step after drying; jar curing and long-term storage
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Flushing discussion and final feeding decisions
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Flushing discussion and final feeding decisions
 - **[Trichomes and Cannabinoids](/science/cannabinoids)** -- Understanding what trichome maturity means for cannabinoid content
 - **[Terpenes](/science/terpenes)** -- How drying affects terpene preservation
-- **[Consumption Methods](/consumption)** -- What well-dried and cured cannabis looks and smells like
+- **[Consumption Methods](/consumption/index)** -- What well-dried and cured cannabis looks and smells like
 
 ---
 
-> **See Also:** [/cultivation/cure-store](/cultivation/cure-store) | [/cultivation/nutrients](/cultivation/nutrients) | [/cannabinoids](/science/cannabinoids) | [/terpenes](/science/terpenes) | [/consumption](/consumption)
+> **See Also:** [/cultivation/cure-store](/cultivation/cure-store) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cannabinoids](/science/cannabinoids) | [/terpenes](/science/terpenes) | [/consumption](/consumption/index)

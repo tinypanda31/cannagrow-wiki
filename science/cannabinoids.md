@@ -1186,7 +1186,7 @@ Every cannabis cultivar has a unique **cannabinoid profile** -- the specific per
 - **Harvest timing**: Earlier harvests tend to have more CBGA/THCA; later harvests show more conversion
 - **Curing and storage**: Degradation over time converts THC to CBN and alters the overall profile
 
-Modern cannabis [cultivation](/cultivation) has produced specialized cultivars targeting specific cannabinoid profiles:
+Modern cannabis [cultivation](/cultivation/index) has produced specialized cultivars targeting specific cannabinoid profiles:
 
 | Profile Type | Description | Example Ratios |
 |---|---|---|
@@ -1197,7 +1197,7 @@ Modern cannabis [cultivation](/cultivation) has produced specialized cultivars t
 | **High-THCV** | Specialized; energizing, appetite-suppressing | THCV >5% |
 | **Full-spectrum** | Wide range of cannabinoids at natural ratios | Variable |
 
-To explore specific strain profiles, see the [Strains](/strains) section.
+To explore specific strain profiles, see the [Strains](/strains/index) section.
 
 ---
 
@@ -1249,18 +1249,18 @@ How cannabinoids are consumed significantly affects their absorption, onset, and
 | **Transdermal patch** | 30-60 min | 8-24 hours | Variable | Designed for systemic delivery through skin |
 | **Rectal** | 15-45 min | 6-8 hours | ~50%+ (estimated) | Higher bioavailability; limited psychoactive effects |
 
-For more on consumption methods, see [Consumption Methods](/consumption).
+For more on consumption methods, see [Consumption Methods](/consumption/index).
 
 ---
 
 ## Related Resources
 
 - [Terpenes & the Entourage Effect](/science/terpenes) -- How aromatic compounds interact with cannabinoids
-- [Strains](/strains) -- Cultivar-specific cannabinoid profiles
-- [Consumption Methods](/consumption) -- How different methods affect cannabinoid absorption
-- [Extraction](/extraction) -- Methods for isolating cannabinoids from plant material
-- [Cultivation Nutrients](/cultivation/nutrients) -- How nutrient management affects cannabinoid production
-- [Glossary](/glossary) -- Definitions of cannabis science terminology
+- [Strains](/strains/index) -- Cultivar-specific cannabinoid profiles
+- [Consumption Methods](/consumption/index) -- How different methods affect cannabinoid absorption
+- [Extraction](/extraction/index) -- Methods for isolating cannabinoids from plant material
+- [Cultivation Nutrients](/cultivation/nutrients/index) -- How nutrient management affects cannabinoid production
+- [Glossary](/glossary/index) -- Definitions of cannabis science terminology
 - [Modern Legalization](/history/modern-legalization) -- The history of cannabis legalization and its impact on research
 
 ---

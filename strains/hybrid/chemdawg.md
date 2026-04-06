@@ -134,4 +134,4 @@ Chemdawg can be a challenging strain to grow. Its sensitivity to environmental s
 
 ---
 
-[Back to Strain Database](/strains) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)

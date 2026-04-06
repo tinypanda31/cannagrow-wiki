@@ -126,8 +126,8 @@ Humboldt Frost benefits from growing practices that honor its outdoor-bred herit
 - [Backcountry Kush](/strains/indica/backcountry-kush) -- Comparable rugged, landrace-influenced indica character
 - [Mendo Purps](/strains/indica/mendo-purge) -- Shares Northern California outdoor-bred heritage
 - [Snowlander](/strains/indica/snow-lander) -- Similar pine-earthy profile with relaxing effects
-- [Humboldt County genetics](/strains) -- Other cultivars from the Emerald Triangle region
+- [Humboldt County genetics](/strains/index) -- Other cultivars from the Emerald Triangle region
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

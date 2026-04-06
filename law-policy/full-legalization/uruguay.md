@@ -29,8 +29,8 @@ Uruguay's decision to legalize was driven not by popular demand but by political
 | [[/law-policy/full-legalization/germany]] | Cannabis law in Germany — the largest economy to legalize |
 | [[/history/modern-legalization]] | The modern legalization movement |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

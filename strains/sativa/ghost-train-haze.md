@@ -129,8 +129,8 @@ Ghost Train Haze is a difficult strain to grow due to its sativa-dominant charac
 - [Super Lemon Haze](/strains/sativa/super-lemon-haze) -- Comparable intense energizing sativa with Haze genetics
 - [Sour Diesel](/strains/sativa/sour-diesel) -- Similar fast-acting potent cerebral sativa
 - [Durban Poison x Haze](/strains/sativa/durban-poison-x-haze) -- Comparable extremely energetic sativa cross
-- [Ghost OG](/strains) -- Parent lineage through Ghost OG
+- [Ghost OG](/strains/index) -- Parent lineage through Ghost OG
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

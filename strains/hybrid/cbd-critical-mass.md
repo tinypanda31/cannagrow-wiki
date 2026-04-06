@@ -133,4 +133,4 @@ CBD Critical Mass is one of the easier high-CBD strains to grow, benefiting from
 
 ---
 
-[Back to Strain Database](/strains) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)

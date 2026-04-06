@@ -250,14 +250,14 @@ For commercial or large personal operations:
 
 ## Related Pages
 
-- **[Cultivation Overview](/cultivation)** -- Comparison of all cultivation methods
-- **[Greenhouse Cultivation](/cultivation/greenhouse)** -- A hybrid approach combining outdoor sun with environmental control
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Organic soil feeding strategies
+- **[Cultivation Overview](/cultivation/index)** -- Comparison of all cultivation methods
+- **[Greenhouse Cultivation](/cultivation/greenhouse/index)** -- A hybrid approach combining outdoor sun with environmental control
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Organic soil feeding strategies
 - **[Pest & Disease Management](/cultivation/pests-diseases)** -- Outdoor-specific pest and disease management
 - **[Training Techniques](/cultivation/training)** -- Outdoor training methods (LST, topping)
 - **[Harvesting & Drying](/cultivation/harvest-dry)** -- Outdoor harvest timing and procedures
-- **[Strains](/strains)** -- Strain selection for outdoor growing (look for mold-resistant, fast-finishing varieties for your climate)
+- **[Strains](/strains/index)** -- Strain selection for outdoor growing (look for mold-resistant, fast-finishing varieties for your climate)
 
 ---
 
-> **See Also:** [/cultivation](/cultivation) | [/cultivation/greenhouse](/cultivation/greenhouse) | [/cultivation/nutrients](/cultivation/nutrients) | [/cultivation/pests-diseases](/cultivation/pests-diseases) | [/cultivation/training](/cultivation/training)
+> **See Also:** [/cultivation](/cultivation/index) | [/cultivation/greenhouse](/cultivation/greenhouse/index) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cultivation/pests-diseases](/cultivation/pests-diseases) | [/cultivation/training](/cultivation/training)

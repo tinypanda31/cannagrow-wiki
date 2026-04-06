@@ -31,8 +31,8 @@ The law was championed by then-Parliamentary Secretary for the Rights of Persons
 | [[/law-policy/full-legalization/luxembourg]] | Cannabis law in Luxembourg — home cultivation legalization |
 | [[/law-policy/full-legalization/uruguay]] | Cannabis law in Uruguay — the social club model pioneer |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

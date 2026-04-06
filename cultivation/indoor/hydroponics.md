@@ -11,7 +11,7 @@ Hydroponic cultivation -- growing plants without soil, using nutrient-rich water
 
 ![Hydroponic cannabis setup with deep water culture buckets](/uploads/images/cultivation/hydroponics-setup.jpg)
 
-> **Prerequisite:** Hydroponics is best attempted after gaining experience with soil growing. The faster feedback loops and greater control also mean mistakes have more immediate consequences. See [/cultivation/indoor](/cultivation/indoor) for foundational indoor growing knowledge.
+> **Prerequisite:** Hydroponics is best attempted after gaining experience with soil growing. The faster feedback loops and greater control also mean mistakes have more immediate consequences. See [/cultivation/indoor](/cultivation/indoor/index) for foundational indoor growing knowledge.
 
 ## Why Hydroponics?
 
@@ -324,12 +324,12 @@ Total: ~$175-305
 
 ## Related Pages
 
-- **[Indoor Growing Overview](/cultivation/indoor)** -- Foundational indoor growing knowledge
+- **[Indoor Growing Overview](/cultivation/indoor/index)** -- Foundational indoor growing knowledge
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Lighting requirements for hydroponic grows
 - **[Environmental Control](/cultivation/indoor/environment)** -- Temperature management including reservoir cooling
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Detailed nutrient management and deficiency identification
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Detailed nutrient management and deficiency identification
 - **[Pest & Disease Management](/cultivation/pests-diseases)** -- Root rot prevention and biological controls
 
 ---
 
-> **See Also:** [/cultivation/indoor](/cultivation/indoor) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/nutrients](/cultivation/nutrients) | [/cultivation/pests-diseases](/cultivation/pests-diseases)
+> **See Also:** [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cultivation/pests-diseases](/cultivation/pests-diseases)

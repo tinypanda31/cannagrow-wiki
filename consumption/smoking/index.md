@@ -199,14 +199,14 @@ Clean equipment provides a smoother, cleaner experience and reduces the inhalati
 
 ## Navigation
 
-- [Consumption Overview](/consumption) -- All consumption methods
+- [Consumption Overview](/consumption/index) -- All consumption methods
 - [Vaporizing](/consumption/vaporizing) -- Safer alternative to smoking
-- [Dabbing](/consumption/dabbing) -- Concentrate consumption
-- [Edibles](/consumption/edibles) -- Non-inhalation alternative
+- [Dabbing](/consumption/dabbing/index) -- Concentrate consumption
+- [Edibles](/consumption/edibles/index) -- Non-inhalation alternative
 - [Cannabinoids](/science/cannabinoids) -- Compounds delivered by smoking
 - [Terpenes](/science/terpenes) -- Aromatic compounds in smoke
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance
-- [Glossary](/glossary) -- Cannabis terminology
+- [Glossary](/glossary/index) -- Cannabis terminology
 
 ---
 

@@ -249,9 +249,9 @@ Understanding what is in a topical product is important for both efficacy and sa
 
 ## Navigation
 
-- [Consumption Overview](/consumption) -- All consumption methods
-- [Tinctures](/consumption/tinctures) -- Sublingual alternative
-- [Edibles](/consumption/edibles) -- Oral alternative
+- [Consumption Overview](/consumption/index) -- All consumption methods
+- [Tinctures](/consumption/tinctures/index) -- Sublingual alternative
+- [Edibles](/consumption/edibles/index) -- Oral alternative
 - [Cannabinoids](/science/cannabinoids) -- CBD, THC, and other compounds in topicals
 - [Terpenes](/science/terpenes) -- Aromatic compounds that may be in topicals
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance

@@ -63,7 +63,7 @@ A critical legal distinction in modern cannabis law is the differentiation betwe
 | Canada | ≤0.3% THC by dry weight | Aligned with US model |
 | Uruguay | ≤0.3% THC by dry weight | Aligned with international standards |
 
-This distinction is legally consequential but scientifically arbitrary. Two plants that are genetically nearly identical are treated entirely differently under law based on a single chemical threshold. This has created massive regulatory gaps and markets for **derivative cannabinoids** (delta-8-THC, THCA, HHC) that exploit the letter of hemp definitions while producing effects comparable to Schedule I cannabis products. See [[/glossary]] for definitions of specific cannabinoids.
+This distinction is legally consequential but scientifically arbitrary. Two plants that are genetically nearly identical are treated entirely differently under law based on a single chemical threshold. This has created massive regulatory gaps and markets for **derivative cannabinoids** (delta-8-THC, THCA, HHC) that exploit the letter of hemp definitions while producing effects comparable to Schedule I cannabis products. See [[/glossary/index]] for definitions of specific cannabinoids.
 
 **ℹ️ Info**
 The hemp/cannabis legal distinction is a product of political compromise, not scientific classification. Cannabis plants containing 0.31% THC are chemically and botanically indistinguishable from those containing 0.29% THC, yet they may be subject to entirely different legal regimes.
@@ -254,10 +254,10 @@ As more nations legalize, the diplomatic cost of maintaining prohibition increas
 
 | Section | Description |
 |---------|-------------|
-| [[/law-policy]] | Legal rights and harm reduction strategies for cannabis consumers |
+| [[/law-policy/index]] | Legal rights and harm reduction strategies for cannabis consumers |
 | [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
-| [[/sustainability]] | Environmental and sustainability considerations in cannabis |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/sustainability/index]] | Environmental and sustainability considerations in cannabis |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 | [[/history/prohibition-era]] | Historical context for prohibition |
 | [[/history/war-on-drugs]] | The War on Drugs era |
 | [[/history/modern-legalization]] | Modern legalization movements |
@@ -397,8 +397,8 @@ Until these measures accompany legalization, the transition from prohibition to 
 ### Related Pages
 
 - [[/legal-safety/harm-reduction]] — Practical guidance for safer cannabis use
-- [[/law-policy]] — Understanding your legal rights
-- [[/sustainability]] — Environmental and social sustainability in cannabis
+- [[/law-policy/index]] — Understanding your legal rights
+- [[/sustainability/index]] — Environmental and social sustainability in cannabis
 - [[/history/war-on-drugs]] — The War on Dogs and its lasting impact
 - [[/history/modern-legalization]] — How legalization movements emerged
 

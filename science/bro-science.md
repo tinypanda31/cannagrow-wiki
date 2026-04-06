@@ -8,7 +8,7 @@ tags: science, myths, debunking, indica, sativa, brain-cells, addiction, edibles
 
 ![Cannabis science research](/uploads/images/science/bro-science.jpg)
 
-**ℹ️ **Path:** `/science/bro-science` | **Category:** Cannabis Science | **Related:** [[/science/cannabinoids]], [[/science/terpenes]], [[/glossary]]**
+**ℹ️ **Path:** `/science/bro-science` | **Category:** Cannabis Science | **Related:** [[/science/cannabinoids]], [[/science/terpenes]], [[/glossary/index]]**
 
 ---
 
@@ -207,7 +207,7 @@ Additional important nuances:
 - **Dabbing** (inhaling concentrated cannabis extracts) can produce far more intense *acute* effects than any edible simply due to the sheer dose delivered in a single inhalation. A single dab can deliver 50-90 mg of THC in seconds — a dose that would require consuming multiple standard edibles to match. The acute intensity of a dab can exceed the peak intensity of an edible, even if the edible's effects last longer.
 - **Individual variation** in liver enzyme activity (particularly CYP2C9 polymorphisms) means that different people convert THC to 11-hydroxy-THC at different rates, making edibles disproportionately more intense for some users than others.
 
-For detailed information on edible consumption, see [[/consumption/edibles]]. For the science of cannabinoid metabolism, see [[/science/cannabinoids]].
+For detailed information on edible consumption, see [[/consumption/edibles/index]]. For the science of cannabinoid metabolism, see [[/science/cannabinoids]].
 
 **ℹ️ Info**
 **Key Takeaway:** Edibles produce more intense experiences per absorbed milligram due to 11-hydroxy-THC conversion, but total bioavailability is lower than inhalation — "stronger" depends on how you measure it.
@@ -235,7 +235,7 @@ So why do some growers swear by flushing? There are several possible explanation
 
 **Practical recommendation:** A short flush period (3-7 days) is unlikely to harm your plants and may provide some benefit in terms of reducing salt buildup in the medium. However, flushing should not be relied upon as a substitute for proper nutrient management throughout the grow. Getting your nutrient levels right during the entire cultivation cycle is far more important than any last-week intervention. And if you want better-tasting cannabis, invest your effort in mastering the post-harvest drying and curing process — that is where the science clearly shows flavor improvements occur.
 
-For more on cannabis nutrient management, see [[/cultivation/nutrients]]. For proper curing techniques, see [[/cultivation/cure-store]].
+For more on cannabis nutrient management, see [[/cultivation/nutrients/index]]. For proper curing techniques, see [[/cultivation/cure-store]].
 
 **ℹ️ Info**
 **Key Takeaway:** Scientific studies show flushing has minimal impact on nutrient content or flavor; proper drying and curing after harvest is the proven method for improving taste and smoothness.
@@ -476,7 +476,7 @@ Critical thinking is not the enemy of cannabis culture — it is its best defens
 
 The science of cannabis is still young. Every year brings new discoveries about the endocannabinoid system, new understanding of terpene pharmacology, and new clinical evidence for therapeutic applications. Some of the claims on this page may be refined or revised as that research progresses. That is not a weakness of science — it is its greatest strength.
 
-For readers who want to go deeper into the science of cannabis, explore the rest of our [[/science]] section, including detailed pages on [[/science/cannabinoids]] and [[/science/terpenes]]. For cultivation information, see [[/genetics/basics]], [[/genetics/breeding]], [[/cultivation/nutrients]], and [[/cultivation/cure-store]]. For consumption methods, see [[/consumption/edibles]]. For safety and responsibility, see [[/legal-safety/responsible-use]] and [[/legal-safety/harm-reduction]]. For definitions of technical terms, consult our [[/glossary]].
+For readers who want to go deeper into the science of cannabis, explore the rest of our [[/science/index]] section, including detailed pages on [[/science/cannabinoids]] and [[/science/terpenes]]. For cultivation information, see [[/genetics/basics]], [[/genetics/breeding]], [[/cultivation/nutrients/index]], and [[/cultivation/cure-store]]. For consumption methods, see [[/consumption/edibles/index]]. For safety and responsibility, see [[/legal-safety/responsible-use]] and [[/legal-safety/harm-reduction]]. For definitions of technical terms, consult our [[/glossary/index]].
 
 **💡 Tip**
 

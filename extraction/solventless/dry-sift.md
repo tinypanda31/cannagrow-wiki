@@ -261,11 +261,11 @@ Because kief potency varies widely depending on screen size, source material, an
 - **Traditional and proven:** Decades of culinary use demonstrate its reliability
 - **Cost-effective:** Kief is often the most affordable concentrated extract for edible preparation
 
-For detailed edible preparation techniques, dosing strategies, and recipes, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques, dosing strategies, and recipes, see [Edibles](/consumption/edibles/index).
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [Ice-Water Hash](/extraction/ice-water-hash) -- Higher-quality solventless extraction
 - [Rosin Press](/extraction/rosin-press) -- Press kief or hash into rosin
 - [Cannabinoids](/science/cannabinoids) -- Understanding extracted compounds

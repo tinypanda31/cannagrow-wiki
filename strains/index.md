@@ -295,7 +295,7 @@ For these reasons, the values on this wiki represent **typical ranges** observed
 | [Strain Template Guide](/strains/template) | Detailed explanation of the standard strain page format and how to interpret the data |
 | [Cannabinoids Reference](/science/cannabinoids) | Comprehensive guide to THC, CBD, CBG, CBN, and other cannabinoids |
 | [Terpenes Reference](/science/terpenes) | Guide to common terpenes found in cannabis and their properties |
-| [Cultivation Guide](/cultivation) | General cannabis growing information and best practices |
+| [Cultivation Guide](/cultivation/index) | General cannabis growing information and best practices |
 
 ---
 

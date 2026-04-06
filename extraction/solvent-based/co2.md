@@ -209,11 +209,11 @@ Due to the extreme concentration of CO2 extract, dosing errors are a real risk. 
 - **Commercially proven:** The dominant extraction method for regulated edible manufacturing
 - **Concentrated potency:** Small amounts yield many servings, making it cost-effective at scale
 
-For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [BHO/PHO](/extraction/bho-pho) -- Hydrocarbon extraction
 - [Ethanol Extraction](/extraction/ethanol) -- Alcohol-based extraction
 - [Distillate](/extraction/distillate) -- Further refining of CO2 crude

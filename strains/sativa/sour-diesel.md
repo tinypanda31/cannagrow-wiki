@@ -128,8 +128,8 @@ Sour Diesel is moderately challenging to grow. Its sativa characteristics requir
 - [Green Crack](/strains/sativa/green-crack) -- Similar fast-acting energizing sativa
 - [Durban Poison](/strains/sativa/durban-poison) -- Comparable energizing, focus-promoting sativa
 - [Jack Herer](/strains/sativa/jack-herer) -- Similar creative, uplifting daytime effects
-- [Chemdawg](/strains) -- Parent lineage; related to OG Kush family
+- [Chemdawg](/strains/index) -- Parent lineage; related to OG Kush family
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

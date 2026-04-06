@@ -266,7 +266,7 @@ Rosin is **highly potent** and requires careful dosing:
 - **Easy incorporation:** Decarbed rosin blends easily into warm butter, oil, or alcohol
 - **Versatile:** Works in any edible application -- baked goods, beverages, tinctures, and capsules
 
-For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ## Storage
 
@@ -283,7 +283,7 @@ When removing rosin from the refrigerator or freezer, allow the container to rea
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [Dry Sift & Kief](/extraction/dry-sift-kief) -- Make kief to press into rosin
 - [Ice-Water Hash](/extraction/ice-water-hash) -- Make hash to press into rosin
 - [Live Rosin](/extraction/live-rosin) -- Premium rosin from fresh frozen hash

@@ -125,10 +125,10 @@ Cinex is moderately easy to grow for a sativa-dominant strain. The fast flowerin
 ## Similar Strains
 
 - [Jack the Ripper](/strains/sativa/jack-the-ripper) -- TGA Subcool creation; similar citrus-pine sativa
-- [Cinderella 99](/strains) -- Parent lineage; legendary fast-flowering sativa
+- [Cinderella 99](/strains/index) -- Parent lineage; legendary fast-flowering sativa
 - [Jack Herer](/strains/sativa/jack-herer) -- Shared genetic ancestor; creative, uplifting sativa
 - [Green Crack](/strains/sativa/green-crack) -- Comparable focus-promoting daytime sativa
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

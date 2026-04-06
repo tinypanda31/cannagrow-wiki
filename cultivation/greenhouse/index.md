@@ -278,14 +278,14 @@ For operations scaling beyond personal cultivation:
 
 ## Related Pages
 
-- **[Cultivation Overview](/cultivation)** -- Comparison of all cultivation methods
-- **[Outdoor Growing](/cultivation/outdoor)** -- Pure outdoor cultivation techniques
-- **[Indoor Growing](/cultivation/indoor)** -- Supplemental lighting and indoor techniques used in greenhouses
+- **[Cultivation Overview](/cultivation/index)** -- Comparison of all cultivation methods
+- **[Outdoor Growing](/cultivation/outdoor/index)** -- Pure outdoor cultivation techniques
+- **[Indoor Growing](/cultivation/indoor/index)** -- Supplemental lighting and indoor techniques used in greenhouses
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Supplemental lighting options for greenhouses
 - **[Environmental Control](/cultivation/indoor/environment)** -- Climate management principles apply to greenhouses
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Feeding strategies for greenhouse-grown cannabis
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Feeding strategies for greenhouse-grown cannabis
 - **[Training Techniques](/cultivation/training)** -- Training methods suitable for greenhouse canopy management
 
 ---
 
-> **See Also:** [/cultivation](/cultivation) | [/cultivation/outdoor](/cultivation/outdoor) | [/cultivation/indoor](/cultivation/indoor) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/nutrients](/cultivation/nutrients)
+> **See Also:** [/cultivation](/cultivation/index) | [/cultivation/outdoor](/cultivation/outdoor/index) | [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/nutrients](/cultivation/nutrients/index)

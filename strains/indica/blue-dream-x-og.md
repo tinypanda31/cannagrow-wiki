@@ -131,4 +131,4 @@ Blue Dream x OG benefits from standard hybrid growing techniques. The plant may 
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

@@ -73,7 +73,7 @@ Beyond naval applications, hemp was the dominant fiber crop for European textile
 
 ### Hemp in Agriculture
 
-Hemp was a standard rotation crop in European agriculture. Its deep taproot improved soil structure, and its rapid growth suppressed weeds. Hemp seed was used as bird feed and as a source of cooking oil. Every part of the plant was utilized -- a model of efficiency that modern sustainability advocates have noted with interest. See [Cultivation](/cultivation) for modern hemp growing practices.
+Hemp was a standard rotation crop in European agriculture. Its deep taproot improved soil structure, and its rapid growth suppressed weeds. Hemp seed was used as bird feed and as a source of cooking oil. Every part of the plant was utilized -- a model of efficiency that modern sustainability advocates have noted with interest. See [Cultivation](/cultivation/index) for modern hemp growing practices.
 
 ---
 
@@ -132,7 +132,7 @@ High-THC cannabis varieties arrived in the Americas through multiple routes:
 The scientific classification of cannabis began in the 18th century as European botanists systematized the natural world:
 
 - **Carl Linnaeus** classified cannabis as *Cannabis sativa* in his *Systema Naturae* (1753), placing it within a formal taxonomic framework.
-- **Jean-Baptiste Lamarck** distinguished *Cannabis indica* as a separate species in 1785, based on specimens collected in India. This distinction between *sativa* and *indica* varieties would become foundational to cannabis taxonomy, though its scientific validity remains debated in modern botany. See [Strains](/strains) for the modern understanding of cannabis taxonomy.
+- **Jean-Baptiste Lamarck** distinguished *Cannabis indica* as a separate species in 1785, based on specimens collected in India. This distinction between *sativa* and *indica* varieties would become foundational to cannabis taxonomy, though its scientific validity remains debated in modern botany. See [Strains](/strains/index) for the modern understanding of cannabis taxonomy.
 
 ### William Brooke O'Shaughnessy and Indian Hemp
 
@@ -294,8 +294,8 @@ Everything was in place for cannabis to continue its gradual integration into mo
 | [Ancient Origins](/history/ancient-origins) | Cannabis in prehistory and ancient civilizations |
 | [The Prohibition Era](/history/prohibition-era) | How cannabis became criminalized in the 20th century |
 | [Cannabinoids Overview](/science/cannabinoids) | The chemical compounds Victorian physicians worked with empirically |
-| [Consumption Methods](/consumption) | Historical and modern routes of administration |
-| [Strains Index](/strains) | Historical cultivars and landrace varieties |
+| [Consumption Methods](/consumption/index) | Historical and modern routes of administration |
+| [Strains Index](/strains/index) | Historical cultivars and landrace varieties |
 
 ---
 

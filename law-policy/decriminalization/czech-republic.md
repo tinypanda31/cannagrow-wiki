@@ -32,8 +32,8 @@ Despite its progressive stance, the Czech Republic has **not moved to full legal
 | [[/law-policy/decriminalization/switzerland]] | Cannabis law in Switzerland — pilot studies and evidence-based reform |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

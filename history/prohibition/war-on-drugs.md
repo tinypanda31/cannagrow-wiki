@@ -352,7 +352,7 @@ The passage of Proposition 215 in 1996 marked the beginning of the end of the pr
 
 ## Law & Policy Legacy
 
-The policies enacted during the War on Drugs era continue to shape cannabis law today. For detailed coverage of how these policies have evolved — and the jurisdictions working to reverse their harms — visit the [Law & Policy](/law-policy) section:
+The policies enacted during the War on Drugs era continue to shape cannabis law today. For detailed coverage of how these policies have evolved — and the jurisdictions working to reverse their harms — visit the [Law & Policy](/law-policy/index) section:
 
 - [United States](/law-policy/united-states) — The federal Schedule I framework, state-level reforms, and the ongoing legacy of prohibition-era enforcement
 - [Mexico](/law-policy/full-legalization/mexico) — From cartel war battlefield to Supreme Court-driven legalization, where over 300,000 deaths were linked to US-fueled drug war violence
@@ -367,9 +367,9 @@ The policies enacted during the War on Drugs era continue to shape cannabis law 
 |------|-------------|
 | [The Prohibition Era](/history/prohibition-era) | The foundations of cannabis criminalization |
 | [Modern Legalization](/history/modern-legalization) | The reversal of prohibition beginning in 1996 |
-| [Legal Landscape](/law-policy) | Current global cannabis legality |
+| [Legal Landscape](/law-policy/index) | Current global cannabis legality |
 | [Cannabinoids Overview](/science/cannabinoids) | The compounds whose research was suppressed |
-| [Science](/science) | Modern research that the War on Drugs delayed |
+| [Science](/science/index) | Modern research that the War on Drugs delayed |
 
 ---
 

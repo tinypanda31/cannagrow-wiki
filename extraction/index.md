@@ -177,7 +177,7 @@ Cannabis Plant Material → Extraction → Decarboxylation → Edible Incorporat
 
 ### From Edible Preparation to Consumption
 
-Once your extract is decarboxylated and incorporated into an edible base (butter, oil, alcohol), the preparation and consumption principles are consistent across all extract types. For detailed edible preparation techniques, dosing strategies, onset timing, and safety guidance, see [Edibles](/consumption/edibles).
+Once your extract is decarboxylated and incorporated into an edible base (butter, oil, alcohol), the preparation and consumption principles are consistent across all extract types. For detailed edible preparation techniques, dosing strategies, onset timing, and safety guidance, see [Edibles](/consumption/edibles/index).
 
 ## Navigation
 
@@ -202,7 +202,7 @@ Once your extract is decarboxylated and incorporated into an edible base (butter
 - [Terpenes](/science/terpenes) -- Aromatic compounds and their effects
 - [Cultivation: Harvest & Drying](/cultivation/harvest-dry) -- Preparing material for extraction
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines for all cannabis use
-- [Glossary](/glossary) -- Extraction terminology
+- [Glossary](/glossary/index) -- Extraction terminology
 
 ---
 

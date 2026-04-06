@@ -239,12 +239,12 @@ Cal-Mag (calcium and magnesium) is one of the most common supplements in cannabi
 ## Related Pages
 
 - **[Hydroponics](/cultivation/indoor/hydroponics)** -- Nutrient solution management for hydroponic systems
-- **[Indoor Growing](/cultivation/indoor)** -- Feeding schedules for indoor soil grows
+- **[Indoor Growing](/cultivation/indoor/index)** -- Feeding schedules for indoor soil grows
 - **[Environmental Control](/cultivation/indoor/environment)** -- How temperature and humidity affect nutrient uptake
 - **[Pest & Disease Management](/cultivation/pests-diseases)** -- Distinguishing nutrient issues from pest/disease damage
 - **[Harvesting & Drying](/cultivation/harvest-dry)** -- Flushing before harvest
-- **[Strains](/strains)** -- Some strains are heavier feeders than others
+- **[Strains](/strains/index)** -- Some strains are heavier feeders than others
 
 ---
 
-> **See Also:** [/cultivation/indoor](/cultivation/indoor) | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/pests-diseases](/cultivation/pests-diseases) | [/cultivation/harvest-dry](/cultivation/harvest-dry)
+> **See Also:** [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/pests-diseases](/cultivation/pests-diseases) | [/cultivation/harvest-dry](/cultivation/harvest-dry)

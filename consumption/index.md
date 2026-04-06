@@ -21,13 +21,13 @@ For example, if a product contains 10mg of THC and has a bioavailability of 20%,
 
 | Method | Onset Time | Duration | Bioavailability | Pros | Cons | Relative Harm Level |
 |--------|-----------|----------|----------------|------|------|-------------------|
-| **[Smoking](/consumption/smoking)** | 1-5 minutes | 1-3 hours | ~25-30% | Fast onset; easy to titrate; social ritual; accessible | Combustion byproducts; lung irritation; odor | Moderate |
+| **[Smoking](/consumption/smoking/index)** | 1-5 minutes | 1-3 hours | ~25-30% | Fast onset; easy to titrate; social ritual; accessible | Combustion byproducts; lung irritation; odor | Moderate |
 | **[Vaporizing](/consumption/vaporizing)** | 2-5 minutes | 1-2.5 hours | ~46% | Fewer harmful byproducts; efficient; less odor; precise temperature | Equipment cost; battery safety; cartridge quality concerns | Low-Moderate |
-| **[Dabbing](/consumption/dabbing)** | Immediate | 1-3 hours | High (~60-80%) | Extremely potent; efficient; fast onset; flavorful | Very high THC; equipment cost; learning curve; lung irritation at high temps | Moderate-High |
-| **[Edibles](/consumption/edibles)** | 30 min - 2 hours | 4-12 hours | ~10-20% | Long-lasting; discrete; no lung exposure; precise doses available | Delayed onset leads to overconsumption; 11-hydroxy-THC can be overwhelming | Low |
-| **[Tinctures/Sublingual](/consumption/tinctures)** | 15-45 min | 4-6 hours | ~15-35% | Discreet; precise dosing; fast for non-inhalation; no lung irritation | Taste (can be masked); slower than inhalation; alcohol base may irritate | Low |
-| **[Topicals](/consumption/topicals)** | 15-45 min (localized) | 2-8 hours | Variable (localized) | No lung exposure; localized relief; discreet; non-psychoactive (most) | Limited to localized effect; absorption varies; quality varies | Very Low |
-| **[Transdermal Patches](/consumption/topicals)** | 30-60 min | 8-72 hours | Systemic (variable) | Sustained release; discreet; no lung exposure; systemic effect | Slow onset; skin sensitivity; limited availability | Very Low |
+| **[Dabbing](/consumption/dabbing/index)** | Immediate | 1-3 hours | High (~60-80%) | Extremely potent; efficient; fast onset; flavorful | Very high THC; equipment cost; learning curve; lung irritation at high temps | Moderate-High |
+| **[Edibles](/consumption/edibles/index)** | 30 min - 2 hours | 4-12 hours | ~10-20% | Long-lasting; discrete; no lung exposure; precise doses available | Delayed onset leads to overconsumption; 11-hydroxy-THC can be overwhelming | Low |
+| **[Tinctures/Sublingual](/consumption/tinctures/index)** | 15-45 min | 4-6 hours | ~15-35% | Discreet; precise dosing; fast for non-inhalation; no lung irritation | Taste (can be masked); slower than inhalation; alcohol base may irritate | Low |
+| **[Topicals](/consumption/topicals/index)** | 15-45 min (localized) | 2-8 hours | Variable (localized) | No lung exposure; localized relief; discreet; non-psychoactive (most) | Limited to localized effect; absorption varies; quality varies | Very Low |
+| **[Transdermal Patches](/consumption/topicals/index)** | 30-60 min | 8-72 hours | Systemic (variable) | Sustained release; discreet; no lung exposure; systemic effect | Slow onset; skin sensitivity; limited availability | Very Low |
 
 ## Harm Level Assessment
 
@@ -129,12 +129,12 @@ See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive guidance in
 ## Navigation
 
 ### Consumption Methods
-- [Smoking](/consumption/smoking) -- Joints, pipes, bongs, and combustion
+- [Smoking](/consumption/smoking/index) -- Joints, pipes, bongs, and combustion
 - [Vaporizing](/consumption/vaporizing) -- Dry herb and concentrate vaporizers
-- [Dabbing](/consumption/dabbing) -- Concentrate consumption
-- [Edibles](/consumption/edibles) -- Food and beverage infusions
-- [Tinctures & Sublingual](/consumption/tinctures) -- Liquid extracts
-- [Topicals & Transdermals](/consumption/topicals) -- Skin applications
+- [Dabbing](/consumption/dabbing/index) -- Concentrate consumption
+- [Edibles](/consumption/edibles/index) -- Food and beverage infusions
+- [Tinctures & Sublingual](/consumption/tinctures/index) -- Liquid extracts
+- [Topicals & Transdermals](/consumption/topicals/index) -- Skin applications
 
 ### Equipment & Gear
 - [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide) -- Sourcing dab rigs, bongs, bubblers, and glass pieces from Chinese manufacturers
@@ -142,9 +142,9 @@ See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive guidance in
 ### Related Resources
 - [Cannabinoids](/science/cannabinoids) -- THC, CBD, and other compounds
 - [Terpenes](/science/terpenes) -- Aromatic compounds and effects
-- [Extraction](/extraction) -- How concentrates are made
+- [Extraction](/extraction/index) -- How concentrates are made
 - [Cultivation: Harvest & Drying](/cultivation/harvest-dry) -- Preparing cannabis for consumption
-- [Glossary](/glossary) -- Cannabis terminology
+- [Glossary](/glossary/index) -- Cannabis terminology
 
 ---
 

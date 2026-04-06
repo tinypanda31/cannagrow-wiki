@@ -21,7 +21,7 @@ Cannabis (*Cannabis sativa* L.) is among the oldest cultivated plants on Earth. 
 
 The oldest confirmed evidence of human cannabis use comes from the Yang-Shao culture site at Yuan-shan, Taiwan (then connected to mainland China). In the 1970s, archaeologists discovered impressions of hemp cordage in pottery shards dating to approximately 8,000 BCE. These cordage fragments represent the earliest direct evidence of humans processing cannabis fiber.
 
-The significance of this discovery cannot be overstated. It demonstrates that humans were cultivating and processing hemp for fiber at the very dawn of settled agriculture -- contemporaneous with the domestication of wheat in the Fertile Crescent. See the [Cultivation](/cultivation) section for information on how hemp is grown and processed today.
+The significance of this discovery cannot be overstated. It demonstrates that humans were cultivating and processing hemp for fiber at the very dawn of settled agriculture -- contemporaneous with the domestication of wheat in the Fertile Crescent. See the [Cultivation](/cultivation/index) section for information on how hemp is grown and processed today.
 
 ### Yangshao Culture Hemp Textiles (~5000 BCE)
 
@@ -104,7 +104,7 @@ Ayurvedic physicians distinguished between different preparations of cannabis an
 
 ### Historical Strains
 
-The Indian subcontinent is home to several historically significant landrace cannabis varieties. **Malana Cream**, from the Parvati Valley in Himachal Pradesh, and **Kerala Ganja**, from southern India, are among the most renowned. These landrace varieties represent some of the oldest continuously cultivated cannabis genetics on Earth. See [Strains](/strains) for detailed cultivar profiles.
+The Indian subcontinent is home to several historically significant landrace cannabis varieties. **Malana Cream**, from the Parvati Valley in Himachal Pradesh, and **Kerala Ganja**, from southern India, are among the most renowned. These landrace varieties represent some of the oldest continuously cultivated cannabis genetics on Earth. See [Strains](/strains/index) for detailed cultivar profiles.
 
 ---
 
@@ -293,9 +293,9 @@ The foundations laid in antiquity would shape humanity's relationship with canna
 |------|-------------|
 | [Cannabis in the Medieval World](/history/medieval) | Continuation of cannabis history through the medieval and early modern period |
 | [Cannabinoids Overview](/science/cannabinoids) | The chemical compounds first utilized by ancient physicians |
-| [Consumption Methods](/consumption) | From ancient vapor baths to modern techniques |
-| [Strains Index](/strains) | Landrace varieties descended from ancient genetics |
-| [Legal Landscape](/law-policy) | How ancient acceptance became modern prohibition |
+| [Consumption Methods](/consumption/index) | From ancient vapor baths to modern techniques |
+| [Strains Index](/strains/index) | Landrace varieties descended from ancient genetics |
+| [Legal Landscape](/law-policy/index) | How ancient acceptance became modern prohibition |
 
 ---
 

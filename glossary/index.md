@@ -16,7 +16,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 ## A
 
-**11-Hydroxy-THC** – A potent psychoactive metabolite of THC produced when the liver processes ingested cannabis. Responsible for the stronger, longer-lasting effects of [edibles](/consumption/edibles) compared to inhaled cannabis. See [[cannabinoids]].
+**11-Hydroxy-THC** – A potent psychoactive metabolite of THC produced when the liver processes ingested cannabis. Responsible for the stronger, longer-lasting effects of [edibles](/consumption/edibles/index) compared to inhaled cannabis. See [[cannabinoids]].
 
 **AFG** – Abbreviation for "Afghani," a pure indica landrace strain from Afghanistan. See [[/strains/afghani]].
 
@@ -40,7 +40,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Bag Appeal** – The visual attractiveness of cannabis buds, including density, trichome coverage, color, and structure. Important for commercial valuation.
 
-**Banger** – A type of quartz or titanium nail used for dabbing, typically with a flat bottom and angled neck. Heated with a torch or e-nail. See [[/consumption/dabbing]].
+**Banger** – A type of quartz or titanium nail used for dabbing, typically with a flat bottom and angled neck. Heated with a torch or e-nail. See [[/consumption/dabbing/index]].
 
 **BHO** – Butane Hash Oil, a concentrate made by passing liquid butane through cannabis material. Types include shatter, wax, budder, and crumble. ⚠️ Dangerous to produce without professional closed-loop equipment. See [[/extraction/bho-pho]].
 
@@ -74,7 +74,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Canopy** – The upper layer of plant foliage in a grow. Managing an even canopy is important for light distribution and yield.
 
-**Carb Cap** – A cap placed over a dab banger to restrict airflow, allowing vaporization at lower temperatures and improving flavor and efficiency. See [[/consumption/dabbing]].
+**Carb Cap** – A cap placed over a dab banger to restrict airflow, allowing vaporization at lower temperatures and improving flavor and efficiency. See [[/consumption/dabbing/index]].
 
 **Carboxylation** – See [[#Decarboxylation]].
 
@@ -104,7 +104,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Colloidal** – A suspension of fine particles in a liquid. In cannabis, sometimes refers to infused beverages.
 
-**Concentrate** – Any cannabis extract with elevated cannabinoid levels compared to raw flower. Includes hash, rosin, BHO, distillate, and more. See [[/extraction]].
+**Concentrate** – Any cannabis extract with elevated cannabinoid levels compared to raw flower. Includes hash, rosin, BHO, distillate, and more. See [[/extraction/index]].
 
 **Conduction** – A heating method where material directly contacts a heated surface. Used in some vaporizers. Less even than convection. See [[/consumption/vaporizing]].
 
@@ -124,9 +124,9 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 ## D
 
-**Dab** – A dose of cannabis concentrate vaporized on a hot surface (nail or banger). See [[/consumption/dabbing]].
+**Dab** – A dose of cannabis concentrate vaporized on a hot surface (nail or banger). See [[/consumption/dabbing/index]].
 
-**Dabbing** – The act of consuming cannabis concentrates by vaporizing them on a heated surface and inhaling. See [[/consumption/dabbing]].
+**Dabbing** – The act of consuming cannabis concentrates by vaporizing them on a heated surface and inhaling. See [[/consumption/dabbing/index]].
 
 **Damp** – Slang for low-quality, improperly dried cannabis with excess moisture.
 
@@ -154,7 +154,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 ## E
 
-**E-Nail** – An electronically controlled dab nail that maintains a set temperature. Eliminates the need for a butane torch. See [[/consumption/dabbing]].
+**E-Nail** – An electronically controlled dab nail that maintains a set temperature. Eliminates the need for a butane torch. See [[/consumption/dabbing/index]].
 
 **Endocannabinoid System (ECS)** – A complex cell-signaling system found throughout the body, comprising CB1 and CB2 receptors, endocannabinoids (anandamide, 2-AG), and enzymes. Regulates homeostasis, mood, pain, appetite, sleep, and more.
 
@@ -164,7 +164,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Ethanol Extraction** – Using food-grade ethanol as a solvent to extract cannabinoids and terpenes. Safe, efficient, and scalable. See [[/extraction/ethanol]].
 
-**Extraction** – Any process that separates cannabinoids and terpenes from cannabis plant material. See [[/extraction]].
+**Extraction** – Any process that separates cannabinoids and terpenes from cannabis plant material. See [[/extraction/index]].
 
 ---
 
@@ -192,7 +192,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Grinder** – A device used to break apart cannabis buds into smaller, uniform pieces for consumption. Often includes a kief collection chamber.
 
-**Grow Tent** – A reflective, enclosed tent designed for indoor cannabis cultivation. Provides light-proof environment and simplifies climate control. See [[/cultivation/indoor]].
+**Grow Tent** – A reflective, enclosed tent designed for indoor cannabis cultivation. Provides light-proof environment and simplifies climate control. See [[/cultivation/indoor/index]].
 
 ---
 
@@ -200,7 +200,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Hash / Hashish** – A concentrated cannabis product made from compressed trichomes. One of the oldest forms of cannabis concentrate. See [[/extraction/dry-sift-kief]] and [[/extraction/ice-water-hash]].
 
-**Hash Oil** – Liquid cannabis extract. Can be produced by various methods (BHO, ethanol, CO₂). See [[/extraction]].
+**Hash Oil** – Liquid cannabis extract. Can be produced by various methods (BHO, ethanol, CO₂). See [[/extraction/index]].
 
 **Headband** – A sensation described by some users as pressure around the head, associated with certain high-THC strains like OG Kush.
 
@@ -294,11 +294,11 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Node** – The point on a cannabis plant stem where branches and leaves emerge.
 
-**NPK** – The ratio of Nitrogen (N), Phosphorus (P), and Potassium (K) in a fertilizer or nutrient formula. Cannabis requires different NPK ratios during vegetative (higher N) and flowering (higher P-K) stages. See [[/cultivation/nutrients]].
+**NPK** – The ratio of Nitrogen (N), Phosphorus (P), and Potassium (K) in a fertilizer or nutrient formula. Cannabis requires different NPK ratios during vegetative (higher N) and flowering (higher P-K) stages. See [[/cultivation/nutrients/index]].
 
-**Nutrient Burn** – Damage caused by overfeeding, typically visible as brown/yellow tips on leaves. See [[/cultivation/nutrients]].
+**Nutrient Burn** – Damage caused by overfeeding, typically visible as brown/yellow tips on leaves. See [[/cultivation/nutrients/index]].
 
-**Nutrient Lockout** – A condition where plants cannot absorb nutrients despite their presence in the medium. Often caused by incorrect pH or salt buildup. See [[/cultivation/nutrients]].
+**Nutrient Lockout** – A condition where plants cannot absorb nutrients despite their presence in the medium. Often caused by incorrect pH or salt buildup. See [[/cultivation/nutrients/index]].
 
 ---
 
@@ -324,7 +324,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **PGR (Plant Growth Regulator)** – Synthetic or natural substances that alter plant growth. Synthetic PGRs (like paclobutrazol) produce dense, hard buds but are potentially carcinogenic and banned in legal cannabis. Avoid.
 
-**pH** – A measure of how acidic or alkaline a solution is on a scale of 0-14. Critical for cannabis nutrient uptake. Soil: 6.0-7.0, Hydroponics: 5.5-6.5. See [[/cultivation/nutrients]].
+**pH** – A measure of how acidic or alkaline a solution is on a scale of 0-14. Critical for cannabis nutrient uptake. Soil: 6.0-7.0, Hydroponics: 5.5-6.5. See [[/cultivation/nutrients/index]].
 
 **Phenotype** – The observable characteristics of a cannabis plant resulting from the interaction of its genetics with the environment. Different phenotypes of the same strain can vary noticeably.
 
@@ -416,11 +416,11 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Therpenes** – Misspelling of terpenes.
 
-**Topical** – Cannabis-infused creams, lotions, balms, and salves applied to the skin for localized effects. Generally non-psychoactive. See [[/consumption/topicals]].
+**Topical** – Cannabis-infused creams, lotions, balms, and salves applied to the skin for localized effects. Generally non-psychoactive. See [[/consumption/topicals/index]].
 
 **Topping** – A high-stress training technique where the top of the main stem is cut off to encourage two new main colas to develop. See [[/cultivation/training]].
 
-**Transdermal** – A delivery method (typically a patch) that delivers cannabinoids through the skin and into the bloodstream, producing systemic effects. Unlike topicals, transdermals can be psychoactive. See [[/consumption/topicals]].
+**Transdermal** – A delivery method (typically a patch) that delivers cannabinoids through the skin and into the bloodstream, producing systemic effects. Unlike topicals, transdermals can be psychoactive. See [[/consumption/topicals/index]].
 
 **Trichome** – Tiny, crystal-like resin glands on the surface of cannabis flowers and leaves. Contain the plant's cannabinoids and terpenes. Greek for "hairy growth."
 

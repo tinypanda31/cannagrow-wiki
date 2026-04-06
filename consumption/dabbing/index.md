@@ -11,7 +11,7 @@ Dabbing is the consumption of cannabis concentrates by vaporizing a small amount
 
 Dabbing has become one of the most popular ways to consume cannabis concentrates, offering exceptional potency, efficiency, and flavor when performed correctly. However, the extremely high concentrations involved and the use of high-temperature equipment require knowledge, care, and appropriate safety precautions.
 
-**⚠️ Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaporizing) or [Edibles](/consumption/edibles) before considering dabbing.**
+**⚠️ Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaporizing) or [Edibles](/consumption/edibles/index) before considering dabbing.**
 
 ## What Is Dabbing?
 
@@ -252,14 +252,14 @@ Only dab concentrates that you trust:
 | **Cutting agents** | Some concentrates may be adulterated | Purchase from reputable sources |
 | **Mold and microbials** | Contaminated starting material or improper processing | Lab-tested products |
 
-See [Extraction](/extraction) for information on how concentrates are produced.
+See [Extraction](/extraction/index) for information on how concentrates are produced.
 
 ## Navigation
 
-- [Consumption Overview](/consumption) -- All consumption methods
+- [Consumption Overview](/consumption/index) -- All consumption methods
 - [Vaporizing](/consumption/vaporizing) -- Lower-potency vaporization
-- [Smoking](/consumption/smoking) -- Flower combustion
-- [Extraction](/extraction) -- How concentrates are made
+- [Smoking](/consumption/smoking/index) -- Flower combustion
+- [Extraction](/extraction/index) -- How concentrates are made
 - [Live Resin](/extraction/live-resin) -- Premium dabbing concentrate
 - [Live Rosin](/extraction/live-rosin) -- Premium solventless dabbing concentrate
 - [Distillate](/extraction/distillate) -- High-purity dabbing oil

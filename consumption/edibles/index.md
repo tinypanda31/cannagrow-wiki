@@ -159,7 +159,7 @@ At 10mg per gummy, this batch yields approximately **20 standard doses** -- suit
 **💡 Tip**
 Always use lab-tested potency values when available. If testing data is unavailable, use conservative potency estimates and start with smaller servings.
 
-For a deep dive into the decarboxylation process, visit the [full decarboxylation guide](/science/decarboxylation). For information on how these concentrates are produced, see the [extraction overview](/extraction).
+For a deep dive into the decarboxylation process, visit the [full decarboxylation guide](/science/decarboxylation). For information on how these concentrates are produced, see the [extraction overview](/extraction/index).
 
 ## Choosing Your Extract for Edibles
 
@@ -227,7 +227,7 @@ Edible producers and home preparers should observe standard food safety practice
 | Practice | Reason |
 |----------|--------|
 | **Proper refrigeration** | Infused butter, oils, and fresh edibles can spoil |
-| **Clean preparation** -- See [Extraction](/extraction) for safe concentrate handling | Prevents contamination |
+| **Clean preparation** -- See [Extraction](/extraction/index) for safe concentrate handling | Prevents contamination |
 | **Labeling** | Clearly label all edibles with contents, potency, and date |
 | **Allergen awareness** | Common edible bases (dairy, gluten, nuts) contain allergens |
 | **Shelf life awareness** | Homemade edibles have limited shelf life; commercial products have expiration dates |
@@ -286,12 +286,12 @@ If you suspect your pet has consumed cannabis, contact a veterinarian or animal 
 
 ## Navigation
 
-- [Consumption Overview](/consumption) -- All consumption methods
-- [Tinctures](/consumption/tinctures) -- Liquid alternative to edibles
-- [Smoking](/consumption/smoking) -- Inhalation alternative
+- [Consumption Overview](/consumption/index) -- All consumption methods
+- [Tinctures](/consumption/tinctures/index) -- Liquid alternative to edibles
+- [Smoking](/consumption/smoking/index) -- Inhalation alternative
 - [Vaporizing](/consumption/vaporizing) -- Inhalation alternative
 - [Cannabinoids](/science/cannabinoids) -- THC, CBD, and 11-hydroxy-THC
-- [Extraction](/extraction) -- How edible concentrates are made
+- [Extraction](/extraction/index) -- How edible concentrates are made
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance
 
 ---

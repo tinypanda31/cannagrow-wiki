@@ -284,12 +284,12 @@ Monthly Cost = (Watts / 1000) × Hours/Day × Days/Month × $/kWh
 
 ## Related Pages
 
-- **[Indoor Growing Overview](/cultivation/indoor)** -- Complete indoor growing guide
+- **[Indoor Growing Overview](/cultivation/indoor/index)** -- Complete indoor growing guide
 - **[Environmental Control](/cultivation/indoor/environment)** -- Managing heat from lights, ventilation requirements
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Light intensity affects nutrient demand
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Light intensity affects nutrient demand
 - **[Plant Training](/cultivation/training)** -- Techniques to maximize light utilization across the canopy
-- **[Greenhouse Cultivation](/cultivation/greenhouse)** -- Supplemental lighting in greenhouse environments
+- **[Greenhouse Cultivation](/cultivation/greenhouse/index)** -- Supplemental lighting in greenhouse environments
 
 ---
 
-> **See Also:** [/cultivation/indoor](/cultivation/indoor) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/nutrients](/cultivation/nutrients) | [/cultivation/training](/cultivation/training)
+> **See Also:** [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cultivation/training](/cultivation/training)

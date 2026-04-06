@@ -165,11 +165,11 @@ Distillate's extreme concentration makes it one of the most precise edible ingre
 | Application | Description |
 |------------|------------|
 | **Vape cartridges** | The largest use of THC distillate; distillate is blended with terpenes and filled into cartridges |
-| **Edibles** | Distillate is infused into food products or used as a precise-dose ingredient. See [Edibles](/consumption/edibles). |
-| **Topicals** | Distillate is incorporated into creams, balms, and lotions. See [Topicals](/consumption/topicals). |
-| **Dabbing** | Distillate can be dabbed directly, though it lacks the flavor of less refined concentrates. See [Dabbing](/consumption/dabbing). |
+| **Edibles** | Distillate is infused into food products or used as a precise-dose ingredient. See [Edibles](/consumption/edibles/index). |
+| **Topicals** | Distillate is incorporated into creams, balms, and lotions. See [Topicals](/consumption/topicals/index). |
+| **Dabbing** | Distillate can be dabbed directly, though it lacks the flavor of less refined concentrates. See [Dabbing](/consumption/dabbing/index). |
 | **Capsules and pills** | Precise dosing in pharmaceutical-style delivery |
-| **Tinctures** | Distillate dissolved in carrier oil for sublingual use. See [Tinctures](/consumption/tinctures). |
+| **Tinctures** | Distillate dissolved in carrier oil for sublingual use. See [Tinctures](/consumption/tinctures/index). |
 | **Transdermal patches** | Distillate incorporated into patch formulations |
 | **Further refinement** | Distillate is the starting material for crystalline THCA and CBD isolate production |
 
@@ -198,7 +198,7 @@ Distillate is **the most concentrated commonly available edible ingredient**, re
 - 950mg / 10mg per serving = **95 servings per gram**
 - To make 20 edibles at 10mg each: 200mg THC / 950mg per gram = **0.21 grams of distillate**
 
-For detailed edible preparation techniques and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ### Advantages for Edible Use
 
@@ -258,12 +258,12 @@ Lab results for distillate typically include:
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [BHO/PHO](/extraction/bho-pho) -- Common distillate feedstock
 - [Ethanol Extraction](/extraction/ethanol) -- Common distillate feedstock
 - [CO2 Extraction](/extraction/co2) -- Common distillate feedstock
 - [Vaporizing](/consumption/vaporizing) -- Vape cartridges use distillate
-- [Edibles](/consumption/edibles) -- Distillate for edibles
+- [Edibles](/consumption/edibles/index) -- Distillate for edibles
 - [Cannabinoids](/science/cannabinoids) -- Compounds in distillate
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines
 

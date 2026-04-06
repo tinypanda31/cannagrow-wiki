@@ -26,7 +26,7 @@ People breed cannabis for a wide variety of reasons:
 - **Improving existing traits** — Enhancing yield, potency, disease resistance, drought tolerance, mold resistance, or structural characteristics.
 - **Targeting specific cannabinoid profiles** — Breeding for higher THC, balanced THC:CBD ratios, high CBG, or other minor cannabinoid expressions. See also the [[/science/cannabinoids]] page for details on cannabinoid biosynthesis.
 - **Targeting specific terpene profiles** — Breeding for particular aromas and flavors (fuel, fruit, diesel, floral, tropical) by selecting parents with strong terpene expression. See also [[/science/terpenes]].
-- **Adapting genetics to specific growing conditions** — Breeding strains suited for outdoor northern climates, indoor tents, greenhouse environments, or high-altitude grows. See also [[/cultivation]].
+- **Adapting genetics to specific growing conditions** — Breeding strains suited for outdoor northern climates, indoor tents, greenhouse environments, or high-altitude grows. See also [[/cultivation/index]].
 - **Preserving genetics** — Maintaining and stabilizing landrace or heritage genetics before they are lost to cross-pollination, habitat destruction, or commercial homogenization.
 
 ### Breeding vs. Growing
@@ -127,7 +127,7 @@ A complete breeding project from initial cross to stable cultivar can take **1-4
 
 Selective breeding through phenotype hunting is the most common and accessible breeding approach. It requires no specialized equipment beyond a grow space, seeds, and careful observation — but it does demand patience and meticulous record-keeping.
 
-**ℹ️ A **phenotype** ("pheno") is the observable expression of a plant's genetics — its structure, aroma, color, potency, flowering time, yield, disease resistance, and all other visible and measurable traits. Two plants grown from seeds of the same cross can look and perform very differently because each seed carries a unique combination of the parents' genes. See also [[/glossary]] for terminology.**
+**ℹ️ A **phenotype** ("pheno") is the observable expression of a plant's genetics — its structure, aroma, color, potency, flowering time, yield, disease resistance, and all other visible and measurable traits. Two plants grown from seeds of the same cross can look and perform very differently because each seed carries a unique combination of the parents' genes. See also [[/glossary/index]] for terminology.**
 
 ### The Step-by-Step Process
 
@@ -589,8 +589,8 @@ Support breeders who are working on preservation, diversity, and ethical practic
 - [[/genetics/basics]] — Foundational cannabis genetics
 - [[/genetics/seeds]] — Seed types and production methods
 - [[/genetics/autoflower-vs-photoperiod]] — Autoflowering vs. photoperiod genetics
-- [[/strains]] — Strain directory and taxonomy
+- [[/strains/index]] — Strain directory and taxonomy
 - [[/science/cannabinoids]] — Cannabinoid biosynthesis and profiles
 - [[/science/terpenes]] — Terpene profiles and inheritance
-- [[/cultivation]] — General cultivation guide
-- [[/glossary]] — Cannabis cultivation terminology glossary
+- [[/cultivation/index]] — General cultivation guide
+- [[/glossary/index]] — Cannabis cultivation terminology glossary

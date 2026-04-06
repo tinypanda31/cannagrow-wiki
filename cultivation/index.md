@@ -108,7 +108,7 @@ Available space determines your cultivation method and scale:
 | **Experienced Gardener** | Indoor with environmental controls or greenhouse with light deprivation |
 | **Advanced Grower** | Hydroponic systems, CO2 supplementation, advanced training techniques |
 
-For strain-specific growing difficulty information, see [/strains](/strains). Some cultivars are significantly more forgiving than others.
+For strain-specific growing difficulty information, see [/strains](/strains/index). Some cultivars are significantly more forgiving than others.
 
 ## The Cannabis Life Cycle
 
@@ -134,13 +134,13 @@ For growers interested in reducing their environmental impact, see [[/sustainabi
 
 | Section | Description | Link |
 |---------|-------------|------|
-| **Indoor Growing** | Complete guide to growing cannabis indoors with full environmental control | [/cultivation/indoor](/cultivation/indoor) |
+| **Indoor Growing** | Complete guide to growing cannabis indoors with full environmental control | [/cultivation/indoor](/cultivation/indoor/index) |
 | &nbsp;&nbsp;Lighting Systems | HID, LED, CMH lighting technologies and selection | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) |
 | &nbsp;&nbsp;Environmental Control | Temperature, humidity, ventilation, CO2 management | [/cultivation/indoor/environment](/cultivation/indoor/environment) |
 | &nbsp;&nbsp;Hydroponics | Soilless growing systems: DWC, ebb & flow, aeroponics | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) |
-| **Outdoor Growing** | Sun-grown cultivation, soil preparation, companion planting | [/cultivation/outdoor](/cultivation/outdoor) |
-| **Greenhouse Cultivation** | Hybrid growing with natural light and environmental control | [/cultivation/greenhouse](/cultivation/greenhouse) |
-| **Nutrients & Feeding** | NPK, nutrient schedules, deficiency identification | [/cultivation/nutrients](/cultivation/nutrients) |
+| **Outdoor Growing** | Sun-grown cultivation, soil preparation, companion planting | [/cultivation/outdoor](/cultivation/outdoor/index) |
+| **Greenhouse Cultivation** | Hybrid growing with natural light and environmental control | [/cultivation/greenhouse](/cultivation/greenhouse/index) |
+| **Nutrients & Feeding** | NPK, nutrient schedules, deficiency identification | [/cultivation/nutrients](/cultivation/nutrients/index) |
 | **Plant Training** | HST, LST, ScrOG, SOG, and other yield optimization techniques | [/cultivation/training](/cultivation/training) |
 | **Pest & Disease Management** | IPM, identification, prevention, and treatment | [/cultivation/pests-diseases](/cultivation/pests-diseases) |
 | **Harvesting & Drying** | Harvest timing, trimming, drying fundamentals | [/cultivation/harvest-dry](/cultivation/harvest-dry) |
@@ -148,11 +148,11 @@ For growers interested in reducing their environmental impact, see [[/sustainabi
 
 ## Related Resources
 
-- **[Strains Database](/strains)** -- Strain-specific growing difficulty ratings and characteristics
+- **[Strains Database](/strains/index)** -- Strain-specific growing difficulty ratings and characteristics
 - **[Cannabinoids](/science/cannabinoids)** -- Understanding THC, CBD, and other compounds produced by the plant
 - **[Terpenes](/science/terpenes)** -- Aromatic compounds that influence flavor, aroma, and effects
-- **[Consumption Methods](/consumption)** -- How to use harvested and cured cannabis
-- **[Glossary](/glossary)** -- Definitions of cultivation terminology
+- **[Consumption Methods](/consumption/index)** -- How to use harvested and cured cannabis
+- **[Glossary](/glossary/index)** -- Definitions of cultivation terminology
 
 ## Getting Started Checklist
 
@@ -160,7 +160,7 @@ For those new to cultivation, here is a recommended starting sequence:
 
 1. [ ] **Research local laws** -- Confirm cultivation is legal in your jurisdiction
 2. [ ] **Choose your method** -- Indoor, outdoor, or greenhouse based on your situation
-3. [ ] **Select a strain** -- Beginner-friendly strains are noted in [/strains](/strains)
+3. [ ] **Select a strain** -- Beginner-friendly strains are noted in [/strains](/strains/index)
 4. [ ] **Acquire seeds or clones** -- From reputable sources
 5. [ ] **Prepare your space** -- Set up growing area before seeds arrive
 6. [ ] **Source supplies** -- Medium, nutrients, pots, monitoring equipment
@@ -171,4 +171,4 @@ For those new to cultivation, here is a recommended starting sequence:
 
 ---
 
-> **See Also:** [/cultivation/indoor](/cultivation/indoor) | [/cultivation/outdoor](/cultivation/outdoor) | [/cultivation/greenhouse](/cultivation/greenhouse) | [/cultivation/nutrients](/cultivation/nutrients) | [/strains](/strains)
+> **See Also:** [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/outdoor](/cultivation/outdoor/index) | [/cultivation/greenhouse](/cultivation/greenhouse/index) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/strains](/strains/index)

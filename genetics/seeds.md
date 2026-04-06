@@ -353,7 +353,7 @@ Select seeds that match your grow conditions:
 | **Beginner grower** | Autoflowers (forgiving, fast), resilient photoperiod indicas |
 | **Experienced grower** | Any genetics, including challenging sativas and rare landraces |
 
-See also [[/cultivation]] for environment-specific growing guides.
+See also [[/cultivation/index]] for environment-specific growing guides.
 
 ---
 
@@ -595,5 +595,5 @@ The seedling stage is the most vulnerable period in a cannabis plant's lifecycle
 - [[/genetics/basics]] — Foundational cannabis genetics
 - [[/genetics/breeding]] — Breeding techniques and methodology
 - [[/genetics/autoflower-vs-photoperiod]] — Autoflowering vs. photoperiod comparison
-- [[/cultivation]] — General cultivation guide
-- [[/glossary]] — Cannabis cultivation terminology glossary
+- [[/cultivation/index]] — General cultivation guide
+- [[/glossary/index]] — Cannabis cultivation terminology glossary

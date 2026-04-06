@@ -281,7 +281,7 @@ Without lab equipment, monitor decarboxylation by:
 
 - **Full decarboxylation is required** — aim for 85-95% conversion
 - Infuse decarbed material into fat (butter, coconut oil, MCT oil) — cannabinoids are lipophilic
-- See [[/consumption/edibles]] for detailed edible preparation and dosing guidance
+- See [[/consumption/edibles/index]] for detailed edible preparation and dosing guidance
 
 ### For Tinctures
 
@@ -299,7 +299,7 @@ Without lab equipment, monitor decarboxylation by:
 
 - Same requirements as edibles — full decarboxylation before encapsulation
 - Decarbed cannabis is typically mixed with a carrier oil (MCT, olive oil) before filling capsules
-- See [[/consumption/tinctures]] for carrier oil selection guidance
+- See [[/consumption/tinctures/index]] for carrier oil selection guidance
 
 ---
 
@@ -336,9 +336,9 @@ Without lab equipment, monitor decarboxylation by:
 
 - [[/science/cannabinoids]] — Detailed cannabinoid profiles and chemistry
 - [[/science/terpenes]] — Terpene profiles, boiling points, and preservation
-- [[/consumption/edibles]] — Edible preparation, dosing, and the 11-hydroxy-THC pathway
-- [[/consumption/tinctures]] — Tincture preparation and sublingual use
-- [[/extraction]] — Overview of all extraction methods
+- [[/consumption/edibles/index]] — Edible preparation, dosing, and the 11-hydroxy-THC pathway
+- [[/consumption/tinctures/index]] — Tincture preparation and sublingual use
+- [[/extraction/index]] — Overview of all extraction methods
 - [[/extraction/rosin-press]] — Rosin extraction (partially decarbs during pressing)
 - [[/extraction/distillate]] — Distillation (requires fully decarbed feedstock)
 

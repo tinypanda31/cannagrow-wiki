@@ -131,4 +131,4 @@ Khalifa Kush benefits from attentive growing practices typical of the OG Kush fa
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

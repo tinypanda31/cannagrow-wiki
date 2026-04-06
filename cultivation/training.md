@@ -272,13 +272,13 @@ Training is not always appropriate. Avoid training in these situations:
 
 ## Related Pages
 
-- **[Indoor Growing](/cultivation/indoor)** -- Training is especially valuable in space-limited indoor environments
+- **[Indoor Growing](/cultivation/indoor/index)** -- Training is especially valuable in space-limited indoor environments
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Training maximizes light utilization across the canopy
-- **[Greenhouse Cultivation](/cultivation/greenhouse)** -- ScrOG and LST are effective in greenhouse settings
+- **[Greenhouse Cultivation](/cultivation/greenhouse/index)** -- ScrOG and LST are effective in greenhouse settings
 - **[Pest & Disease Management](/cultivation/pests-diseases)** -- Open canopies from training improve airflow and reduce disease risk
 - **[Harvesting & Drying](/cultivation/harvest-dry)** -- Training affects harvest structure and trimming
-- **[Strains](/strains)** -- Strain-specific response to training varies; sativas respond differently than indicas
+- **[Strains](/strains/index)** -- Strain-specific response to training varies; sativas respond differently than indicas
 
 ---
 
-> **See Also:** [/cultivation/indoor](/cultivation/indoor) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/greenhouse](/cultivation/greenhouse) | [/cultivation/pests-diseases](/cultivation/pests-diseases) | [/cultivation/harvest-dry](/cultivation/harvest-dry) | [/strains](/strains)
+> **See Also:** [/cultivation/indoor](/cultivation/indoor/index) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/greenhouse](/cultivation/greenhouse/index) | [/cultivation/pests-diseases](/cultivation/pests-diseases) | [/cultivation/harvest-dry](/cultivation/harvest-dry) | [/strains](/strains/index)

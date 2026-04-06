@@ -28,7 +28,7 @@ Understanding the genetic foundations of *Cannabis sativa* L. is essential for c
 
 ## Introduction
 
-Genetics are the blueprint from which every cannabis plant develops. Just as a building cannot exceed the structural limits defined by its architectural plans, a cannabis plant cannot express traits that its genetic code does not permit. Understanding this relationship between genetic potential and environmental expression is the foundation of both successful [[/cultivation]] and purposeful [[/genetics/breeding]].
+Genetics are the blueprint from which every cannabis plant develops. Just as a building cannot exceed the structural limits defined by its architectural plans, a cannabis plant cannot express traits that its genetic code does not permit. Understanding this relationship between genetic potential and environmental expression is the foundation of both successful [[/cultivation/index]] and purposeful [[/genetics/breeding]].
 
 ### What Genetics Determine
 
@@ -115,7 +115,7 @@ The pheno-hunting process typically involves:
 4. **Selecting keepers** — Identifying the top 1–5% of individuals that best match breeding goals
 5. **Cloning and stabilizing** — Preserving selected phenotypes through vegetative propagation and further breeding to stabilize desirable traits
 
-**ℹ️ Pheno-hunting is why breeders often release a "population" of seeds from the same cross under different names — each named cultivar represents a specific selected phenotype. For example, a breeder may cross Gelato #33 with Sunset Sherbet and grow 200 seeds, then name the top individual "Wedding Cake" while releasing the remaining genetics as an unnamed population. See [[/strains]] for information on named cultivars.**
+**ℹ️ Pheno-hunting is why breeders often release a "population" of seeds from the same cross under different names — each named cultivar represents a specific selected phenotype. For example, a breeder may cross Gelato #33 with Sunset Sherbet and grow 200 seeds, then name the top individual "Wedding Cake" while releasing the remaining genetics as an unnamed population. See [[/strains/index]] for information on named cultivars.**
 
 ### Environmental Influence on Phenotype
 
@@ -468,7 +468,7 @@ The cannabis science community has developed more rigorous classification system
 **Genetic Lineage Classification**: Classifies cultivars by their documented breeding history and genetic parentage, which provides meaningful information for breeders and cultivators.
 
 **ℹ️ Info**
-The scientific consensus is that the indica/sativa distinction should be retired from consumer-facing product descriptions and replaced with information about cannabinoid content, terpene profiles, and documented lineage. However, these terms remain useful within the cultivation and breeding communities for describing plant morphology and growth characteristics. See [[/glossary]] for definitions of key terms.
+The scientific consensus is that the indica/sativa distinction should be retired from consumer-facing product descriptions and replaced with information about cannabinoid content, terpene profiles, and documented lineage. However, these terms remain useful within the cultivation and breeding communities for describing plant morphology and growth characteristics. See [[/glossary/index]] for definitions of key terms.
 
 For a thorough debunking of the indica/sativa myth and other common cannabis misconceptions, see [[/science/bro-science]].
 
@@ -640,11 +640,11 @@ The pace of genetic research in cannabis is accelerating as legalization expands
 
 ## See Also
 
-- [[/strains]] — Cannabis cultivar database and profiles
-- [[/cultivation]] — Cultivation guides and techniques
+- [[/strains/index]] — Cannabis cultivar database and profiles
+- [[/cultivation/index]] — Cultivation guides and techniques
 - [[/science/cannabinoids]] — Cannabinoid chemistry and pharmacology
 - [[/science/terpenes]] — Terpene profiles and the entourage effect
-- [[/glossary]] — Cannabis terminology glossary
+- [[/glossary/index]] — Cannabis terminology glossary
 - [[/genetics/breeding]] — Cannabis breeding techniques and methodologies
 - [[/genetics/seeds]] — Seed selection, germination, and sex identification
 - [[/genetics/autoflower-vs-photoperiod]] — Detailed comparison of autoflowering and photoperiod-dependent genetics

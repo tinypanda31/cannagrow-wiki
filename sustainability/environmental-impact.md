@@ -9,11 +9,11 @@ tags: sustainability, environment, energy, water, waste, carbon-footprint, packa
 **ℹ️ **Page scope:** This analysis covers the environmental footprint of the commercial cannabis industry across cultivation, processing, packaging, and waste disposal. Data sources include peer-reviewed academic studies, government reports, and industry surveys. Note that much of the quantified data comes from the US legal market — global figures are less well-documented.**
 
 **📝 Related Pages:**
-- [Sustainability Overview](/sustainability) — Framework for sustainable cannabis practices
+- [Sustainability Overview](/sustainability/index) — Framework for sustainable cannabis practices
 - [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation) — Practical sustainable growing methods
-- [Indoor Cultivation](/cultivation/indoor) — Indoor growing techniques and systems
-- [Greenhouse Cultivation](/cultivation/greenhouse) — Greenhouse design and operation
-- [Outdoor Cultivation](/cultivation/outdoor) — Sun-grown cannabis cultivation
+- [Indoor Cultivation](/cultivation/indoor/index) — Indoor growing techniques and systems
+- [Greenhouse Cultivation](/cultivation/greenhouse/index) — Greenhouse design and operation
+- [Outdoor Cultivation](/cultivation/outdoor/index) — Sun-grown cannabis cultivation
 
 ---
 
@@ -324,7 +324,7 @@ Cannabis extraction processes — particularly hydrocarbon extraction (BHO/PHO) 
 | **CO₂ extraction** | Minimal solvent waste | Supercritical CO₂ is recaptured and reused; primary footprint is equipment manufacturing and electricity consumption |
 | **Rosin (solventless)** | No solvent waste | Most environmentally friendly extraction method; lower yields |
 | **Ice water hash** | Water and biomass waste | Water can be filtered and discharged; biomass waste requires composting or landfilling |note
-For more information on extraction methods and their operational characteristics, see [Extraction Overview](/extraction).
+For more information on extraction methods and their operational characteristics, see [Extraction Overview](/extraction/index).
 
 ### 4.6 Waste Stream Analysis Table
 
@@ -459,7 +459,7 @@ Well-managed cannabis cultivation — particularly outdoor and greenhouse operat
 Certification programs like **Sun+Earth Certified** specifically recognize cannabis cultivators who demonstrate regenerative farming practices that enhance biodiversity and ecosystem health.
 
 **💡 Tip**
-For more information on sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation) and [Outdoor Cultivation](/cultivation/outdoor).
+For more information on sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation) and [Outdoor Cultivation](/cultivation/outdoor/index).
 
 ---
 
@@ -572,18 +572,18 @@ The environmental footprint of the cannabis industry is substantial — driven p
 The path forward requires coordinated action from regulators, cultivators, equipment manufacturers, certifiers, researchers, and consumers. The most impactful single action is the transition from indoor HPS cultivation to more energy-efficient methods — whether that means LED-equipped indoor facilities, greenhouse operations, or outdoor sun-grown production. Regulatory reform of waste and packaging requirements represents the second highest-impact lever.
 
 **💡 Tip**
-For practical guidance on implementing sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation). For background on regulatory frameworks, see [Legal Landscape](/law-policy). For definitions of technical terms used throughout this page, consult the [Glossary](/glossary).
+For practical guidance on implementing sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation). For background on regulatory frameworks, see [Legal Landscape](/law-policy/index). For definitions of technical terms used throughout this page, consult the [Glossary](/glossary/index).
 
 **📝 Related Topics**
 
-- [Sustainability Overview](/sustainability) — Comprehensive framework for sustainable cannabis practices
+- [Sustainability Overview](/sustainability/index) — Comprehensive framework for sustainable cannabis practices
 - [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation) — Practical sustainable growing methods and technologies
-- [Indoor Cultivation](/cultivation/indoor) — Indoor growing techniques and systems
-- [Greenhouse Cultivation](/cultivation/greenhouse) — Greenhouse design and operation
-- [Outdoor Cultivation](/cultivation/outdoor) — Sun-grown cannabis cultivation
-- [Extraction Methods](/extraction) — Cannabis extraction technologies and processes
-- [Legal Landscape](/law-policy) — Regulatory landscape for cannabis
-- [Glossary](/glossary) — Cannabis industry terminology
+- [Indoor Cultivation](/cultivation/indoor/index) — Indoor growing techniques and systems
+- [Greenhouse Cultivation](/cultivation/greenhouse/index) — Greenhouse design and operation
+- [Outdoor Cultivation](/cultivation/outdoor/index) — Sun-grown cannabis cultivation
+- [Extraction Methods](/extraction/index) — Cannabis extraction technologies and processes
+- [Legal Landscape](/law-policy/index) — Regulatory landscape for cannabis
+- [Glossary](/glossary/index) — Cannabis industry terminology
 
 ---
 

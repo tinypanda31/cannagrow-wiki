@@ -39,7 +39,7 @@ Indoor cultivation has become the dominant method for both home growers and comm
 | **Odor Management** | Requires carbon filtration during flowering |
 | **Learning Curve** | More variables to monitor and adjust than outdoor growing |
 
-> **Compare:** For a lower-cost alternative with natural sunlight, see [/cultivation/greenhouse](/cultivation/greenhouse). For the lowest-cost option, see [/cultivation/outdoor](/cultivation/outdoor). For a look at the energy and environmental footprint of indoor cultivation, see [[/sustainability/environmental-impact]].
+> **Compare:** For a lower-cost alternative with natural sunlight, see [/cultivation/greenhouse](/cultivation/greenhouse/index). For the lowest-cost option, see [/cultivation/outdoor](/cultivation/outdoor/index). For a look at the energy and environmental footprint of indoor cultivation, see [[/sustainability/environmental-impact]].
 
 ## Choosing Your Growing Space
 
@@ -248,7 +248,7 @@ Total: ~$845-1,225
 
 ## Indoor vs Outdoor: Quick Comparison
 
-For a detailed comparison, see the table in [/cultivation](/cultivation). Here are the key distinctions for indoor specifically:
+For a detailed comparison, see the table in [/cultivation](/cultivation/index). Here are the key distinctions for indoor specifically:
 
 | Aspect | Indoor Advantage | Indoor Challenge |
 |--------|-----------------|------------------|
@@ -275,11 +275,11 @@ For a detailed comparison, see the table in [/cultivation](/cultivation). Here a
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Detailed guide to HID, LED, and CMH lighting
 - **[Environmental Control](/cultivation/indoor/environment)** -- Temperature, humidity, and ventilation management
 - **[Hydroponics](/cultivation/indoor/hydroponics)** -- Soilless growing systems for advanced indoor cultivation
-- **[Nutrients & Feeding](/cultivation/nutrients)** -- Understanding NPK, nutrient schedules, and deficiency identification
+- **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Understanding NPK, nutrient schedules, and deficiency identification
 - **[Plant Training](/cultivation/training)** -- Techniques to maximize yield in limited indoor space
 - **[Pest & Disease Management](/cultivation/pests-diseases)** -- IPM for indoor environments
-- **[Strains](/strains)** -- Strain selection for indoor growing (look for compact, mold-resistant varieties)
+- **[Strains](/strains/index)** -- Strain selection for indoor growing (look for compact, mold-resistant varieties)
 
 ---
 
-> **See Also:** [/cultivation](/cultivation) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) | [/cultivation/nutrients](/cultivation/nutrients) | [/cultivation/training](/cultivation/training)
+> **See Also:** [/cultivation](/cultivation/index) | [/cultivation/indoor/lighting](/cultivation/indoor/lighting) | [/cultivation/indoor/environment](/cultivation/indoor/environment) | [/cultivation/indoor/hydroponics](/cultivation/indoor/hydroponics) | [/cultivation/nutrients](/cultivation/nutrients/index) | [/cultivation/training](/cultivation/training)

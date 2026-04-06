@@ -127,4 +127,4 @@ Island Sweet Skunk is one of the most forgiving sativa-dominant hybrids, primari
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

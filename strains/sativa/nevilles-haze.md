@@ -128,9 +128,9 @@ Neville's Haze is one of the most challenging sativas to grow. The extremely lon
 
 - [Amnesia Haze](/strains/sativa/amnesia-haze) -- Comparable Haze-dominant sativa with cerebral effects
 - [Super Silver Haze](/strains/sativa/super-silver-haze) -- Similar multi-award-winning Haze cross
-- [Original Haze](/strains) -- Genetic ancestor; classic 1960s sativa
+- [Original Haze](/strains/index) -- Genetic ancestor; classic 1960s sativa
 - [Thai Stick](/strains/sativa/thai-stick) -- Comparable landrace sativa with cerebral, psychedelic qualities
 
 ---
 
-[Back to Strain Database](/strains) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)

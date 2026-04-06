@@ -236,7 +236,7 @@ BHO/PHO potency varies depending on extraction quality and consistency:
 - **Consistency:** Lab-tested BHO/PHO provides known cannabinoid concentrations for accurate dosing
 - **Neutral flavor:** After decarboxylation, BHO/PHO has a relatively mild flavor compared to some other extracts, making it versatile for edible formulation
 
-For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ## Legal Considerations warning
 Hydrocarbon cannabis extraction is heavily regulated or entirely illegal in many jurisdictions. Always research and comply with local laws before any extraction activity.
@@ -250,11 +250,11 @@ See [Legal & Safety](/legal-safety) for general guidance on cannabis law.
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [Ethanol Extraction](/extraction/ethanol) -- Safer solvent-based alternative
 - [CO2 Extraction](/extraction/co2) -- Solventless residual alternative
 - [Live Resin](/extraction/live-resin) -- BHO from fresh frozen material
-- [Dabbing](/consumption/dabbing) -- How BHO/PHO concentrates are consumed
+- [Dabbing](/consumption/dabbing/index) -- How BHO/PHO concentrates are consumed
 - [Cannabinoids](/science/cannabinoids) -- Compounds extracted
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

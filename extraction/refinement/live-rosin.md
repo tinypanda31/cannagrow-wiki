@@ -228,15 +228,15 @@ Live rosin is highly potent:
 - **Aged material:** Live rosin that has passed its prime for dabbing still delivers exceptional edible quality
 - **Full-spectrum therapeutic use:** The complete cannabinoid profile (including minor cannabinoids) may offer therapeutic advantages in edible form
 
-For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles).
+For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles/index).
 
 ## Navigation
 
-- [Extraction Overview](/extraction) -- All extraction methods
+- [Extraction Overview](/extraction/index) -- All extraction methods
 - [Ice-Water Hash](/extraction/ice-water-hash) -- First step in live rosin production
 - [Rosin Press](/extraction/rosin-press) -- Pressing hash into rosin
 - [Live Resin](/extraction/live-resin) -- Solvent-based fresh frozen alternative
-- [Dabbing](/consumption/dabbing) -- How live rosin is consumed
+- [Dabbing](/consumption/dabbing/index) -- How live rosin is consumed
 - [Cannabinoids](/science/cannabinoids) -- Compounds in live rosin
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

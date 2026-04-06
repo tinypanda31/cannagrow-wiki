@@ -32,8 +32,8 @@ Australia's medical cannabis program has been **widely criticized as slow, expen
 | [[/law-policy/medical/colombia]] | Cannabis law in Colombia — export-oriented medical framework |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy]] | Legal rights and harm reduction |
-| [[/glossary]] | Cannabis terminology and definitions |
+| [[/law-policy/index]] | Legal rights and harm reduction |
+| [[/glossary/index]] | Cannabis terminology and definitions |
 
 ---
 

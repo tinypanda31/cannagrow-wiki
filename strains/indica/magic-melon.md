@@ -126,8 +126,8 @@ Magic Melon is among the more forgiving indica-dominant cultivars to grow. The s
 - [Banana Bread](/strains/indica/banana-bread) -- Comparable sweet fruity indica with relaxing body effects
 - [Purple Mango](/strains/indica/purple-mango) -- Similar tropical sweetness and gentle relaxation
 - [Slurricane](/strains/indica/slurricane) -- Shares sweet fruity profile and body relaxation
-- [Magic Melon](/strains) -- Other melon or fruit-forward cultivars in the database
+- [Magic Melon](/strains/index) -- Other melon or fruit-forward cultivars in the database
 
 ---
 
-[Back to Strain Database](/strains) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)

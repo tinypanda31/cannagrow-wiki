@@ -157,6 +157,7 @@ For growers interested in reducing their environmental impact, see [Eco Friendly
 | **Pest Identification** | Detailed pest identification with life cycles and treatment protocols | [/cultivation/pest-identification](/cultivation/pest-identification) |
 | **Disease Identification** | Fungal, bacterial, and viral disease identification with pathology | [/cultivation/disease-identification](/cultivation/disease-identification) |
 | **Troubleshooting Guide** | Diagnostic flowcharts for nutrient, environmental, and pest/disease problems | [/cultivation/troubleshooting](/cultivation/troubleshooting) |
+| **Advanced Cultivation Techniques** | Monster cropping, Schwazzing, multi-layer trellis, air pruning, training combinations | [/cultivation/advanced-techniques](/cultivation/advanced-techniques) |
 | **Harvesting & Drying** | Harvest timing, trimming, drying fundamentals | [/cultivation/harvest-dry](/cultivation/harvest-dry) |
 | **Curing & Storage** | Curing process, long-term storage, potency preservation | [/cultivation/cure-store](/cultivation/cure-store) |
 

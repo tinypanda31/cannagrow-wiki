@@ -44,8 +44,9 @@
 | 31 | Pest Identification | `/cultivation/pest-identification` | Cultivation |
 | 32 | Disease Identification | `/cultivation/disease-identification` | Cultivation |
 | 33 | Troubleshooting Guide | `/cultivation/troubleshooting` | Cultivation |
-| 34 | Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
-| 35 | Curing & Storage | `/cultivation/cure-store` | Cultivation |
+| 34 | Advanced Cultivation Techniques | `/cultivation/advanced-techniques` | Cultivation |
+| 35 | Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
+| 36 | Curing & Storage | `/cultivation/cure-store` | Cultivation |
 
 ## Genetics & Breeding
 | # | Page Title | Path | Category |
@@ -363,7 +364,7 @@ Harm Reduction | `/legal-safety/harm-reduction` | Legal |
 
 ---
 
-**Total Pages: 307**
+**Total Pages: 308**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

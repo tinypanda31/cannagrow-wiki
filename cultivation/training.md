@@ -272,6 +272,7 @@ Training is not always appropriate. Avoid training in these situations:
 
 ## Related Pages
 
+- **[Advanced Cultivation Techniques](/cultivation/advanced-techniques)** -- Monster cropping, multi-layer SCROG, Schwazzing defoliation, multi-bend supercropping, training recovery, and optimal technique sequences
 - **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete indoor grow with week-by-week training timeline and technique selection by grow stage
 - **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete outdoor grow with training for sun-grown plants and trellis netting setup
 - **[Indoor Growing](/cultivation/indoor/index)** -- Training is especially valuable in space-limited indoor environments

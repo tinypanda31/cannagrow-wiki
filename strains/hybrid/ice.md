@@ -127,7 +127,7 @@ Ice is one of the easiest strains to grow, benefiting from the resilient, adapta
 
 - [Northern Lights 5](/strains/hybrid/northen-lights-5) -- Related through Northern Lights parentage
 - [White Widow](/strains/hybrid/white-widow) -- Comparable balanced, easy-to-grow hybrid
-- [Afghan Kush](/strains/indica/afghan-kush) -- Related through Afghani landrace genetics
+- [Afghan Kush](/strains/indica/afghani) -- Related through Afghani landrace genetics
 - [Sage](/strains/hybrid/sage) -- Similar balanced hybrid with classic genetics
 
 ---

@@ -124,7 +124,7 @@ Critical Kush is considered one of the easier indica strains to grow, making it 
 
 ## Similar Strains
 
-- [OG Kush](/strains/indica/og-kush) -- Parent lineage with similar fuel-forward profile
+- [OG Kush](/strains/hybrid/og-kush) -- Parent lineage with similar fuel-forward profile
 - [Master Kush](/strains/indica/master-kush) -- Comparable earthy indica character
 - [Bubba Kush](/strains/indica/bubba-kush) -- Similar deep relaxation and easy growing
 - [Northern Lights](/strains/indica/northern-lights) -- Similar easy-grow indica with heavy body effects

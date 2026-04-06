@@ -18,7 +18,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **11-Hydroxy-THC** – A potent psychoactive metabolite of THC produced when the liver processes ingested cannabis. Responsible for the stronger, longer-lasting effects of [edibles](/consumption/edibles/index) compared to inhaled cannabis. See [cannabinoids](/science/cannabinoids).
 
-**AFG** – Abbreviation for "Afghani," a pure indica landrace strain from Afghanistan. See [Afghani](/strains/afghani).
+**AFG** – Abbreviation for "Afghani," a pure indica landrace strain from Afghanistan. See [Afghani](/strains/indica/afghani).
 
 **Air Stone** – A porous stone used in hydroponic reservoirs to diffuse air into the nutrient solution, maintaining dissolved oxygen levels.
 

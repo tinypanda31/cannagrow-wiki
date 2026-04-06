@@ -84,7 +84,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 55 | [Tropicana Cookies](/strains/sativa/tropicana-cookies) | Sativa-Dominant | 18-24 | <1 | Limonene, Caryophyllene, Myrcene | Uplifting, citrus, creative | Daytime, mood elevation | Moderate | 60-70 days |
 | 56 | [Trainwreck](/strains/sativa/trainwreck) | Sativa-Dominant | 18-25 | <1 | Terpinolene, Myrcene, Pinene | Potent, cerebral, fast-acting | Daytime, experienced users | Moderate | 55-65 days |
 | 57 | [Williams Wonder](/strains/sativa/williams-wonder) | Sativa | 14-18 | <1 | Myrcene, Caryophyllene | Smooth, uplifting, classic | Daytime, beginner sativa | Easy | 55-65 days |
-| 58 | [Durban Poison x Haze](/strains/sativa/durban-poison-haze) | Sativa | 18-24 | <1 | Terpinolene, Caryophyllene | Energetic, sweet, focused | Daytime, productivity | Difficult | 70-85 days |
+| 58 | [Durban Poison x Haze](/strains/sativa/durban-poison-x-haze) | Sativa | 18-24 | <1 | Terpinolene, Caryophyllene | Energetic, sweet, focused | Daytime, productivity | Difficult | 70-85 days |
 | 59 | [Animal Cookies](/strains/hybrid/animal-cookies) | Hybrid | 20-27 | <1 | Caryophyllene, Myrcene, Limonene | Potent, relaxing, sweet | Evening, experienced users | Difficult | 55-65 days |
 | 60 | [Banana Kush](/strains/hybrid/banana-kush) | Indica-Dominant | 18-25 | <1 | Myrcene, Caryophyllene, Limonene | Euphoric, tropical, relaxing | Evening, mood elevation | Moderate | 55-65 days |
 | 61 | [Cerebral](/strains/hybrid/cerebral) | Sativa-Dominant | 16-22 | <1 | Terpinolene, Caryophyllene, Pinene | Focused, creative, clear-headed | Daytime, productivity | Moderate | 60-70 days |

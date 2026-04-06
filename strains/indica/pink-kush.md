@@ -124,7 +124,7 @@ Pink Kush is moderately challenging to grow. The OG Kush genetics require attent
 
 ## Similar Strains
 
-- [OG Kush](/strains/indica/og-kush) -- Parent lineage with classic fuel-forward profile
+- [OG Kush](/strains/hybrid/og-kush) -- Parent lineage with classic fuel-forward profile
 - [Tahoe OG](/strains/indica/tahoe-og) -- OG Kush derivative with similar potency
 - [Master Kush](/strains/indica/master-kush) -- Classic Kush variety with comparable sweet profile
 - [Purple Kush](/strains/indica/purple-kush) -- Similar heavy sedating indica effects

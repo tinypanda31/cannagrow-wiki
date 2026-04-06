@@ -91,15 +91,14 @@ We welcome contributors from all backgrounds:
 
 ## Content Licensing
 
-All original content on CannaGrow is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+All original content on CannaGrow is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License** ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
 ### What This Means
 
 | You Are Free To | Under These Terms |
 |-----------------|-------------------|
 | **Share** — copy and redistribute the material in any medium or format | **Attribution** — give appropriate credit, link to the license, and indicate if changes were made |
-| **Adapt** — remix, transform, and build upon the material | **NonCommercial** — you may not use the material for commercial purposes |
-| | **ShareAlike** — if you remix, transform, or build upon the material, you must distribute your contributions under the same license |
+| **Adapt** — remix, transform, and build upon the material | **ShareAlike** — if you remix, transform, or build upon the material, you must distribute your contributions under the same license |
 
 ### Third-Party Content
 
@@ -151,4 +150,4 @@ Editorial decisions are made collaboratively. Major policy changes are discussed
 
 *For guidance on navigating and using CannaGrow effectively, see [How to Use This Wiki](/about/how-to-use).*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

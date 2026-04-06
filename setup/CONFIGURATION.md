@@ -37,9 +37,9 @@ Default admin credentials (change immediately):
 | **Site Title** | CannaGrow |
 | **Site Slogan** | A Comprehensive Cannabis Encyclopedia |
 | **Site URL** | `https://your-domain.com` |
-| **Content License** | Creative Commons BY-NC-SA 4.0 |
+| **Content License** | Creative Commons BY-SA 4.0 |
 | **Company/Organization** | CannaGrow Project |
-| **Footer Copyright Text** | © 2026 CannaGrow. Content licensed under CC BY-NC-SA 4.0 |
+| **Footer Copyright Text** | © 2026 CannaGrow. Content licensed under CC BY-SA 4.0 |
 
 ### Homepage Settings
 - **Homepage Type:** Custom Page

@@ -278,4 +278,4 @@ Several factors explain why the same strain or dose can produce different effect
 
 *This section is continuously updated as new cannabis research is published. For editorial standards and sourcing policies, see [Editorial](/about/editorial).*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

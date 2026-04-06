@@ -298,7 +298,7 @@ This wiki includes **prominent legal and safety disclaimers** on appropriate pag
 
 ## 📄 License
 
-All CannaGrow content is intended to be published under **Creative Commons BY-NC-SA 4.0** (Attribution-NonCommercial-ShareAlike).
+All CannaGrow content is intended to be published under **Creative Commons BY-SA 4.0** (Attribution-ShareAlike).
 
 The project files themselves are provided for personal educational use.
 

@@ -346,4 +346,4 @@ Without lab equipment, monitor decarboxylation by:
 
 *Decarboxylation is a foundational process that connects raw cannabis to the vast majority of cannabis products. Understanding it is essential for anyone working with cannabis in any form beyond smoking or vaporizing.*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

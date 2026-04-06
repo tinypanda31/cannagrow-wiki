@@ -245,7 +245,7 @@ Enable the following modules:
 ### 6. Set Content License
 
 1. Go to **Administration > Site Identity**
-2. Set **Content License** to **Creative Commons BY-NC-SA 4.0**
+2. Set **Content License** to **Creative Commons BY-SA 4.0**
 3. Add license text to the footer if desired
 
 ### 7. Configure SEO

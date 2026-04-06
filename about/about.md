@@ -1,14 +1,16 @@
 ---
 title: About CannaGrow
-description: Learn about CannaGrow's mission, editorial standards, licensing, and how you can contribute.
-tags: about, mission, community, licensing
+description: Learn about CannaGrow's mission, editorial standards, licensing, site milestones, and how you can contribute.
+tags: about, mission, community, licensing, editorial-standards
 ---
 
 # About CannaGrow
 
-## Our Mission
-
 CannaGrow is a **free, neutral, educational encyclopedia** about cannabis — its botany, chemistry, history, cultivation, law, and culture. We exist to provide reliable, evidence-based information accessible to everyone, regardless of their background or intent.
+
+---
+
+## Our Mission
 
 Our core principles:
 
@@ -20,31 +22,28 @@ Our core principles:
 | **Transparency** | Our editorial standards, review processes, and content licensing are published openly. |
 | **Comprehensiveness** | We aim to cover every significant aspect of cannabis-related knowledge. |
 
-**✅ Disclaimer** CannaGrow is an **educational resource only**. Nothing published on this site should be construed as medical advice, legal advice, or a recommendation to engage in any activity. Cannabis remains illegal in many jurisdictions. Readers are solely responsible for complying with applicable laws and consulting qualified professionals for personal decisions.
-
+> **Disclaimer:** CannaGrow is an **educational resource only**. Nothing published on this site should be construed as medical advice, legal advice, or a recommendation to engage in any activity. Cannabis remains illegal in many jurisdictions. Readers are solely responsible for complying with applicable laws and consulting qualified professionals for personal decisions.
 
 ---
 
-## What CannaGrow Covers
+## Site Milestones
 
-CannaGrow's content is organized into the following major sections:
-
-- **[History](/history/index)** — Cannabis use from antiquity through the modern era
-- **[Cultivation](/cultivation/index)** — Growing techniques, environmental control, nutrients, and plant health
-- **[Strains](/strains/index)** — Cultivar profiles, genetics, landrace varieties, and breeding
-- **[Cannabinoids](/science/cannabinoids)** — THC, CBD, minor cannabinoids, and the chemistry of cannabis
-- **[Terpenes](/science/terpenes)** — Aromatic compounds and their roles in cannabis
-- **[Extraction](/extraction/index)** — Methods for isolating and concentrating cannabis compounds
-- **[Consumption](/consumption/index)** — Routes of administration, pharmacokinetics, and effects
-- **[Science](/science/index)** — The endocannabinoid system, clinical research, and pharmacology
-- **[Legal Landscape](/law-policy/index)** — Global legality, harm reduction, and responsible use
-- **[Glossary](/glossary/index)** — Comprehensive cannabis terminology
+| Milestone | Details |
+|-----------|---------|
+| **Project launch** | CannaGrow created as an open-source cannabis encyclopedia |
+| **Strain database** | Initial launch with 54 indica, 54 sativa, and 55 hybrid profiles |
+| **Expanded to 215 strains** | Added 98 new strain profiles including CBD-dominant and landrace varieties |
+| **Cultivation expansion** | Added indoor/outdoor grow guides, 9 USDA Zone guides, pest/disease/troubleshooting pages, advanced techniques, and full equipment section (5 pages) |
+| **Genetics deep-dive** | Added advanced breeding page with Mendelian inheritance, chemotype genetics, and S1 protocols |
+| **Cooking & Consumption** | Added complete home cooking guide with decarb science, cannabutter, oil, dosing, and brownie recipe |
+| **Water & Irrigation** | Added water quality testing, dechlorination, alkalinity management, and irrigation methods |
+| **Current scope** | **315 pages, ~598,000 words, 14 major sections, 215 strain profiles** |
 
 ---
 
 ## Editorial Guidelines
 
-All CannaGrow content adheres to published [Editorial Guidelines](/about/editorial). Key standards include:
+All CannaGrow content adheres to the standards below. For the full published editorial policy, see [Editorial Guidelines](/about/editorial).
 
 1. **Neutral point of view (NPOV)** — Articles describe topics fairly, representing significant viewpoints proportionately and without editorial bias.
 2. **Verifiability** — Material challenged by readers must be attributable to reliable, published sources. Original research is not permitted.
@@ -52,7 +51,37 @@ All CannaGrow content adheres to published [Editorial Guidelines](/about/editori
 4. **Evidence hierarchy** — Peer-reviewed meta-analyses and systematic reviews are preferred over individual studies, which are preferred over anecdotal reports.
 5. **Clear labeling of uncertainty** — Where scientific consensus does not exist, this is stated explicitly.
 
-For full details, see the [Editorial Guidelines](/about/editorial) page.
+---
+
+## Frequently Asked Questions
+
+### Is this medical advice?
+
+No. CannaGrow is an educational encyclopedia. While we summarize research on cannabis and health conditions, nothing on this site should be interpreted as a diagnosis, treatment recommendation, or substitute for professional medical consultation. Always consult a qualified healthcare provider for medical decisions.
+
+### Is this legal advice?
+
+No. We summarize the legal status of cannabis in various jurisdictions for educational purposes. Laws change frequently and vary at the federal, state, and local levels. Always verify current laws in your specific jurisdiction with a qualified legal professional.
+
+### Can I reuse CannaGrow content?
+
+Yes. All original content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may share and adapt the material as long as you attribute CannaGrow and distribute derivative works under the same license. See the [Content Licensing](#content-licensing) section below for details.
+
+### Who writes CannaGrow?
+
+Content is created by contributors with diverse backgrounds — scientists, cultivators, historians, legal professionals, chemists, and experienced enthusiasts. All submissions are held to the same editorial standards regardless of the author's credentials. Quality of sourcing and writing matters more than titles.
+
+### How often is the wiki updated?
+
+CannaGrow is actively maintained. New content is added through community contributions via our GitHub repository. Major sections (cultivation, genetics, equipment, consumption) have received significant updates in recent months. Check the home page for recently added content.
+
+### Can I request a topic be covered?
+
+Yes. Open a [GitHub Issue](https://github.com/tinypanda31/cannagrow-wiki/issues) or start a [Discussion](https://github.com/tinypanda31/cannagrow-wiki/discussions) describing the topic you would like to see. Contributors and editors review requests and prioritize based on community interest and content gaps.
+
+### How do I know if the information is accurate?
+
+Every page cites sources where applicable, follows our [Editorial Guidelines](/about/editorial), and is subject to review before publication. If you find an error, the fastest way to report it is through a GitHub Issue or Pull Request.
 
 ---
 
@@ -72,20 +101,17 @@ CannaGrow welcomes contributions from anyone with relevant knowledge or experien
 
 ### Who Can Contribute?
 
-We welcome contributors from all backgrounds:
-
 | Background | Valuable Contributions |
 |------------|----------------------|
 | Scientists and researchers | Literature reviews, pharmacology summaries, data analysis |
 | Medical professionals | Clinical research summaries, pharmacological information |
-| Cultivators and horticulturists | Growing guides, nutrient management, pest control |
+| Cultivators and horticulturists | Growing guides, nutrient management, pest and disease control |
 | Historians and researchers | Historical documentation, cultural context |
 | Legal professionals | Legal analysis, regulatory summaries |
 | Chemists | Extraction methods, compound profiles, analytical techniques |
 | Enthusiasts with expertise | Terminology, strain documentation, consumption methods |
 
-**✅ Note** Credentials are not required to contribute, but all submissions are held to the same editorial standards regardless of the contributor's background. Quality of sourcing and writing matters more than titles.
-
+> Credentials are not required to contribute, but all submissions are held to the same editorial standards regardless of the contributor's background. Quality of sourcing and writing matters more than titles.
 
 ---
 

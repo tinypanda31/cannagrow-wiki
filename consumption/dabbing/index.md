@@ -85,9 +85,9 @@ Nearly any cannabis concentrate can be dabbed. The most common include:
 | **Wax** | 60-80% | Soft, opaque; easy to scoop | Common; user-friendly |
 | **Budder/Badder** | 60-80% | Creamy; easy to dose | Very popular consistency |
 | **Rosin** | 50-80% | Solventless; full-spectrum flavor | Premium; clean |
-| **Live Resin** | 60-85% | Exceptional terpene flavor | Premium flavor experience. See [Live Resin](/extraction/live-resin). |
-| **Live Rosin** | 60-90%+ | Maximum flavor and purity; solventless. See [Live Rosin](/extraction/live-rosin). | Most premium; most expensive |
-| **Distillate** | 90-99%+ | Extremely potent; less flavor | Highest THC; fewer terpenes. See [Distillate](/extraction/distillate). |
+| **Live Resin** | 60-85% | Exceptional terpene flavor | Premium flavor experience. See [Live Resin](/extraction/refinement/live-resin). |
+| **Live Rosin** | 60-90%+ | Maximum flavor and purity; solventless. See [Live Rosin](/extraction/refinement/live-rosin). | Most premium; most expensive |
+| **Distillate** | 90-99%+ | Extremely potent; less flavor | Highest THC; fewer terpenes. See [Distillate](/extraction/refinement/distillate). |
 | **THCA Diamonds** | 95-99% THCA | Pure, crystalline; very potent | Highest purity; minimal terpenes unless in sauce |
 | **Sauce** | Variable (THCA crystals in terpene liquid) | Extremely flavorful | High terpene content |
 | **Dry sift/Kief** | 30-60% | Can be dabbed but less refined | Budget option |
@@ -260,9 +260,9 @@ See [Extraction](/extraction/index) for information on how concentrates are prod
 - [Vaporizing](/consumption/vaping/index) -- Lower-potency vaporization
 - [Smoking](/consumption/smoking/index) -- Flower combustion
 - [Extraction](/extraction/index) -- How concentrates are made
-- [Live Resin](/extraction/live-resin) -- Premium dabbing concentrate
-- [Live Rosin](/extraction/live-rosin) -- Premium solventless dabbing concentrate
-- [Distillate](/extraction/distillate) -- High-purity dabbing oil
+- [Live Resin](/extraction/refinement/live-resin) -- Premium dabbing concentrate
+- [Live Rosin](/extraction/refinement/live-rosin) -- Premium solventless dabbing concentrate
+- [Distillate](/extraction/refinement/distillate) -- High-purity dabbing oil
 - [Cannabinoids](/science/cannabinoids) -- Compounds in concentrates
 - [Terpenes](/science/terpenes) -- Flavor compounds preserved in concentrates
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance

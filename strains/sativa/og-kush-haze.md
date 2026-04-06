@@ -128,4 +128,4 @@ OG Kush Haze presents moderate growing challenges due to the combination of its 
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

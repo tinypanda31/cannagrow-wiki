@@ -131,4 +131,4 @@ Snowlander is among the easiest indica cultivars to grow, inheriting the legenda
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index) | [Strain Template Guide](/strains/template)

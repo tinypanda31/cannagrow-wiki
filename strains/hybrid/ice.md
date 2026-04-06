@@ -132,4 +132,4 @@ Ice is one of the easiest strains to grow, benefiting from the resilient, adapta
 
 ---
 
-[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/index) | [Strain Template Guide](/strains/template)

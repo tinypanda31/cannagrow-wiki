@@ -128,4 +128,4 @@ Purple Kush is one of the more straightforward indica strains to grow. Its compa
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index) | [Strain Template Guide](/strains/template)

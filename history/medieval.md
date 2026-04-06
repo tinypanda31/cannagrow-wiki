@@ -10,7 +10,7 @@ tags: history, medieval, islamic world, hemp industry, victorian medicine, colon
 
 The period from the fall of the Western Roman Empire (c. 500 CE) through the early 19th century encompasses some of the most consequential developments in cannabis history. During this millennium and a half, cannabis served as the backbone of European naval power through the hemp industry, became central to Islamic cultural and intellectual life through hashish, spread to sub-Saharan Africa and the Americas, and entered the Western medical establishment as a recognized therapeutic agent. This era laid the groundwork for both the prohibition movement of the 20th century and the modern medical cannabis movement that would follow.
 
-**✅ Note** This article covers cannabis history from approximately 500 CE through the early 19th century. For the ancient period, see [Ancient Origins](/history/ancient-origins). For the prohibition era, see [The Prohibition Era](/history/prohibition-era).
+**✅ Note** This article covers cannabis history from approximately 500 CE through the early 19th century. For the ancient period, see [Ancient Origins](/history/ancient/origins). For the prohibition era, see [The Prohibition Era](/history/prohibition/prohibition-era).
 
 
 ---
@@ -41,7 +41,7 @@ The **legend of the Assassins** (Hashshashin) is perhaps the most famous -- and 
 
 Some **Sufi** mystical orders in the Islamic world incorporated hashish into their spiritual practices, using it as an aid to meditation and spiritual experience -- paralleling the use of bhang in Hindu tradition. This practice was controversial within Islamic law, and the legal status of hashish fluctuated across different dynasties and regions.
 
-Several rulers attempted to suppress hashish use. In 1378, the Ottoman Emir Soudoun Scheikhouni issued one of the earliest recorded edicts against hashish, ordering the destruction of cannabis crops and the punishment of users. Similar prohibitions appeared periodically throughout the medieval Islamic world, though they were rarely as comprehensive or as effectively enforced as the global prohibition campaigns of the 20th century. See [The Prohibition Era](/history/prohibition-era) for the modern parallel.
+Several rulers attempted to suppress hashish use. In 1378, the Ottoman Emir Soudoun Scheikhouni issued one of the earliest recorded edicts against hashish, ordering the destruction of cannabis crops and the punishment of users. Similar prohibitions appeared periodically throughout the medieval Islamic world, though they were rarely as comprehensive or as effectively enforced as the global prohibition campaigns of the 20th century. See [The Prohibition Era](/history/prohibition/prohibition-era) for the modern parallel.
 
 ---
 
@@ -211,7 +211,7 @@ These products were legal, widely available, and used by patients across the soc
 
 ### Clinical Literature
 
-The 19th century produced a substantial clinical literature on cannabis. A search of medical journals from the period reveals hundreds of articles on cannabis's therapeutic applications. The **American Medical Association** did not oppose cannabis -- on the contrary, it opposed the prohibition measures that would later be introduced, as documented in the [Prohibition Era](/history/prohibition-era) article.
+The 19th century produced a substantial clinical literature on cannabis. A search of medical journals from the period reveals hundreds of articles on cannabis's therapeutic applications. The **American Medical Association** did not oppose cannabis -- on the contrary, it opposed the prohibition measures that would later be introduced, as documented in the [Prohibition Era](/history/prohibition/prohibition-era) article.
 
 Key 19th century medical publications on cannabis include:
 
@@ -283,7 +283,7 @@ By the end of the 19th century, cannabis occupied an unassailable position in th
 - **Culturally significant** in both the Islamic world and the European intellectual tradition
 - **Scientific classified** within the Linnaean taxonomic system
 
-Everything was in place for cannabis to continue its gradual integration into modern medicine. Instead, the early 20th century would bring a dramatic and unexpected reversal. See [The Prohibition Era](/history/prohibition-era) for the story of how cannabis was criminalized despite its established medical and industrial credentials.
+Everything was in place for cannabis to continue its gradual integration into modern medicine. Instead, the early 20th century would bring a dramatic and unexpected reversal. See [The Prohibition Era](/history/prohibition/prohibition-era) for the story of how cannabis was criminalized despite its established medical and industrial credentials.
 
 ---
 
@@ -291,8 +291,8 @@ Everything was in place for cannabis to continue its gradual integration into mo
 
 | Page | Description |
 |------|-------------|
-| [Ancient Origins](/history/ancient-origins) | Cannabis in prehistory and ancient civilizations |
-| [The Prohibition Era](/history/prohibition-era) | How cannabis became criminalized in the 20th century |
+| [Ancient Origins](/history/ancient/origins) | Cannabis in prehistory and ancient civilizations |
+| [The Prohibition Era](/history/prohibition/prohibition-era) | How cannabis became criminalized in the 20th century |
 | [Cannabinoids Overview](/science/cannabinoids) | The chemical compounds Victorian physicians worked with empirically |
 | [Consumption Methods](/consumption/index) | Historical and modern routes of administration |
 | [Strains Index](/strains/index) | Historical cultivars and landrace varieties |

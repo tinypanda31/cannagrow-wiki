@@ -130,4 +130,4 @@ Magic Melon is among the more forgiving indica-dominant cultivars to grow. The s
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index) | [Strain Template Guide](/strains/template)

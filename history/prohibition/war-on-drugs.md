@@ -10,7 +10,7 @@ tags: history, war on drugs, nixon, controlled substances act, mass incarceratio
 
 The phrase "War on Drugs" encapsulates the most aggressive and consequential escalation of drug prohibition in world history. Beginning with President Richard Nixon's formal declaration in 1971, the United States -- and subsequently much of the world -- pursued a strategy of criminalization, incarceration, and interdiction that would cost trillions of dollars, imprison millions of people, devastate communities of color, and suppress scientific research on cannabis for an entire generation. Yet this same period also witnessed the birth of the medical cannabis movement that would ultimately begin to reverse the prohibition established in the 1930s.
 
-**✅ Note** This article covers the War on Drugs from 1970 through approximately 2000. For the earlier prohibition period, see [The Prohibition Era](/history/prohibition-era). For the legalization movement, see [Modern Legalization](/history/modern-legalization).
+**✅ Note** This article covers the War on Drugs from 1970 through approximately 2000. For the earlier prohibition period, see [The Prohibition Era](/history/prohibition/prohibition-era). For the legalization movement, see [Modern Legalization](/history/modern/legalization).
 
 
 ---
@@ -94,7 +94,7 @@ Under the CSA, the DEA -- in coordination with the Department of Health and Huma
 3. HHS/FDA provides a recommendation
 4. The DEA makes the final scheduling decision
 
-This process has been used to block cannabis rescheduling repeatedly over five decades. Multiple petitions to reschedule cannabis have been filed, all rejected or still pending after years of bureaucratic delay. See [Modern Legalization](/history/modern-legalization) for the eventual partial reforms of this process.
+This process has been used to block cannabis rescheduling repeatedly over five decades. Multiple petitions to reschedule cannabis have been filed, all rejected or still pending after years of bureaucratic delay. See [Modern Legalization](/history/modern/legalization) for the eventual partial reforms of this process.
 
 ---
 
@@ -206,7 +206,7 @@ The Mexican drug war was, in significant part, a consequence of American drug de
 - **The Merida Initiative**: The US provided over $3.3 billion in military aid and equipment to Mexico from 2007 to 2021, further militarizing the conflict.
 - **Demand and supply dynamics**: The US remains the world's largest consumer market for illicit drugs and the primary source of the weapons used by cartels. Prohibition creates the profit margins that sustain cartel operations, and US weapons policy has armed both sides of the conflict.
 
-See [Modern Legalization](/history/modern-legalization) for the argument that legalization and regulation would undermine cartel economics.
+See [Modern Legalization](/history/modern/legalization) for the argument that legalization and regulation would undermine cartel economics.
 
 ### Afghanistan and Cannabis
 
@@ -220,7 +220,7 @@ The international drug control treaty system, administered by the **United Natio
 - **1971 Convention on Psychotropic Substances:** Extended control to LSD, MDMA, and other substances
 - **1988 Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:** Strengthened enforcement measures. The United States threatened trade sanctions against any nation that refused to sign, using its economic dominance to coerce compliance.
 
-These treaties require signatory nations to criminalize cannabis possession, sale, and production (except for limited medical and scientific purposes). Countries wishing to legalize cannabis face the challenge of treaty withdrawal or renegotiation. Uruguay and Canada navigated this challenge when they legalized cannabis nationally. But the deeper consequence has been that dozens of nations -- particularly in the Global South -- were forced into prohibition frameworks that contradicted their own cultural traditions, medical practices, and policy preferences. Nations that resisted faced economic retaliation, aid reduction, and diplomatic isolation from the United States. See [Modern Legalization](/history/modern-legalization) for details.
+These treaties require signatory nations to criminalize cannabis possession, sale, and production (except for limited medical and scientific purposes). Countries wishing to legalize cannabis face the challenge of treaty withdrawal or renegotiation. Uruguay and Canada navigated this challenge when they legalized cannabis nationally. But the deeper consequence has been that dozens of nations -- particularly in the Global South -- were forced into prohibition frameworks that contradicted their own cultural traditions, medical practices, and policy preferences. Nations that resisted faced economic retaliation, aid reduction, and diplomatic isolation from the United States. See [Modern Legalization](/history/modern/legalization) for details.
 
 ---
 
@@ -277,7 +277,7 @@ The breakthrough came in **California** with **Proposition 215**, the **Compassi
 
 Proposition 215 passed with **55.6% of the vote** on November 5, 1996. California became the first US state to legalize medical cannabis, directly challenging the federal government's Schedule I classification and the entire framework of the War on Drugs.
 
-The passage of Proposition 215 ignited a state-by-state movement that would, over the next two decades, lead to medical cannabis legalization in the majority of US states and eventually to full recreational legalization. See [Modern Legalization](/history/modern-legalization) for the full story.
+The passage of Proposition 215 ignited a state-by-state movement that would, over the next two decades, lead to medical cannabis legalization in the majority of US states and eventually to full recreational legalization. See [Modern Legalization](/history/modern/legalization) for the full story.
 
 ---
 
@@ -306,7 +306,7 @@ The financial cost of the War on Drugs has been enormous:
 | Lost tax revenue from illicit market | $10-20 billion annually (estimated) |
 | Economic impact of collateral consequences | Hundreds of billions (lost productivity, intergenerational effects) |
 
-These costs must be weighed against the outcomes: drug availability has not significantly decreased, drug-related deaths have increased (particularly from synthetic opioids), and the social costs of mass incarceration continue to compound. See [Modern Legalization](/history/modern-legalization) for the economic argument for legalization and regulation.
+These costs must be weighed against the outcomes: drug availability has not significantly decreased, drug-related deaths have increased (particularly from synthetic opioids), and the social costs of mass incarceration continue to compound. See [Modern Legalization](/history/modern/legalization) for the economic argument for legalization and regulation.
 
 ---
 
@@ -346,7 +346,7 @@ The War on Drugs era (1970 -- 2000) was characterized by:
 - **Medical cannabis movement:** The AIDS crisis catalyzed a patient-driven movement that achieved its first victory with Proposition 215 in 1996
 - **Enormous cost:** Trillions of dollars spent with limited impact on drug availability, at enormous human and financial cost
 
-The passage of Proposition 215 in 1996 marked the beginning of the end of the prohibition era. The movement that started with dying patients demanding access to symptom relief would grow into a global legalization movement that transformed the legal landscape of cannabis worldwide. See [Modern Legalization & Renaissance](/history/modern-legalization) for the continuation of this story.
+The passage of Proposition 215 in 1996 marked the beginning of the end of the prohibition era. The movement that started with dying patients demanding access to symptom relief would grow into a global legalization movement that transformed the legal landscape of cannabis worldwide. See [Modern Legalization & Renaissance](/history/modern/legalization) for the continuation of this story.
 
 ---
 
@@ -356,7 +356,7 @@ The policies enacted during the War on Drugs era continue to shape cannabis law 
 
 - [United States](/law-policy/united-states) — The federal Schedule I framework, state-level reforms, and the ongoing legacy of prohibition-era enforcement
 - [Mexico](/law-policy/full-legalization/mexico) — From cartel war battlefield to Supreme Court-driven legalization, where over 300,000 deaths were linked to US-fueled drug war violence
-- [Colombia](/law-policy/full-legalization/colombia) — Plan Colombia's devastating impact and the country's evolving cannabis policy
+- [Colombia](/law-policy/medical/colombia) — Plan Colombia's devastating impact and the country's evolving cannabis policy
 - [Portugal](/law-policy/decriminalization/portugal) — The 2001 decriminalization model that stands in stark contrast to the War on Drugs approach, with dramatic reductions in drug-related deaths and HIV transmission
 
 ---
@@ -365,8 +365,8 @@ The policies enacted during the War on Drugs era continue to shape cannabis law 
 
 | Page | Description |
 |------|-------------|
-| [The Prohibition Era](/history/prohibition-era) | The foundations of cannabis criminalization |
-| [Modern Legalization](/history/modern-legalization) | The reversal of prohibition beginning in 1996 |
+| [The Prohibition Era](/history/prohibition/prohibition-era) | The foundations of cannabis criminalization |
+| [Modern Legalization](/history/modern/legalization) | The reversal of prohibition beginning in 1996 |
 | [Legal Landscape](/law-policy/index) | Current global cannabis legality |
 | [Cannabinoids Overview](/science/cannabinoids) | The compounds whose research was suppressed |
 | [Science](/science/index) | Modern research that the War on Drugs delayed |

@@ -130,4 +130,4 @@ Acapulco Gold is a difficult strain to grow primarily due to its pure sativa lan
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

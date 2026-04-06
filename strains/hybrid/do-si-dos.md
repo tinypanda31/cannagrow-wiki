@@ -136,4 +136,4 @@ Do-Si-Dos is moderately challenging to difficult to grow. The Cookie-family and 
 
 ---
 
-[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/index) | [Strain Template Guide](/strains/template)

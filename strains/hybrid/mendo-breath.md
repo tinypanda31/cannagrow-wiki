@@ -133,4 +133,4 @@ Mendo Breath is a moderately manageable strain with the compact indica-dominant 
 
 ---
 
-[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/index) | [Strain Template Guide](/strains/template)

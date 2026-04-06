@@ -131,4 +131,4 @@ Panama Red is among the most difficult cannabis strains to cultivate. The very l
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

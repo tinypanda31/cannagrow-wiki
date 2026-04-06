@@ -128,8 +128,8 @@ Tangie is moderately challenging to grow. Its sativa characteristics require som
 - [Strawberry Cough](/strains/sativa/strawberry-cough) -- Similar fruity, sweet-flavored sativa
 - [Green Crack](/strains/sativa/green-crack) -- Comparable mango-citrus tropical sativa
 - [Durban Poison](/strains/sativa/durban-poison) -- Similar uplifting, creative sativa effects
-- [Tangerine Dream](/strains/sativa) -- Parent lineage (Tangie is a refinement)
+- [Tangerine Dream](/strains/index) -- Parent lineage (Tangie is a refinement)
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

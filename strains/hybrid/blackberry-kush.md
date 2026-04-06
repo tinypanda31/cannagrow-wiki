@@ -131,4 +131,4 @@ Blackberry Kush is one of the easier indica-dominant strains to grow. Its compac
 
 ---
 
-[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/index) | [Strain Template Guide](/strains/template)

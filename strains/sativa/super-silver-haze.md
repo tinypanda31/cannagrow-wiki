@@ -131,8 +131,8 @@ Super Silver Haze is a challenging strain to grow, primarily due to its signific
 - [Jack Herer](/strains/sativa/jack-herer) -- Comparable award-winning sativa-dominant with Haze genetics
 - [Amnesia Haze](/strains/sativa/amnesia-haze) -- Similar Haze-dominant sativa with creative effects
 - [Durban Poison](/strains/sativa/durban-poison) -- Comparable energizing, focus-promoting sativa
-- [Haze](/strains/sativa) -- Parent lineage
+- [Haze](/strains/index) -- Parent lineage
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

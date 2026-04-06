@@ -30,8 +30,8 @@ The legal battle that led to decriminalization was fought over decades by the "d
 |------|-------------|
 | [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
 | [Uruguay](/law-policy/full-legalization/uruguay) | Cannabis law in Uruguay — the first nation to legalize |
-| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern legalization movement |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
 | [Law Policy](/law-policy/index) | Legal rights and harm reduction |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
 

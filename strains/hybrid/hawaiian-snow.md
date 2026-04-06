@@ -132,4 +132,4 @@ Hawaiian Snow is a more challenging strain to grow, primarily due to the extende
 
 ---
 
-[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/hybrid) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Hybrid Strains](/strains/index) | [Strain Template Guide](/strains/template)

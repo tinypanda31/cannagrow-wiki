@@ -131,4 +131,4 @@ Wang Tang is easy to moderate to grow. The Afghani landrace genetics bring resil
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index) | [Strain Template Guide](/strains/template)

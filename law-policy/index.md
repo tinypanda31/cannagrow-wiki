@@ -30,9 +30,9 @@ Understanding cannabis law and policy requires understanding that drug law is ne
 | [[Decriminalization]] | Profiles of nations that have removed criminal penalties: Portugal, Spain, Netherlands, Czech Republic, Switzerland |
 | [[Medical Cannabis]] | Profiles of nations with medical programs: Australia, United Kingdom, Israel, Colombia |
 | [[United States]] | Dedicated page for the complex US federal/state landscape |
-| [Prohibition Era](/history/prohibition-era) | Historical context for how prohibition emerged |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
-| [Modern Legalization](/history/modern-legalization) | The modern movement toward legalization |
+| [Prohibition Era](/history/prohibition/prohibition-era) | Historical context for how prohibition emerged |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern movement toward legalization |
 
 ---
 
@@ -80,7 +80,7 @@ The current global landscape of cannabis law did not emerge from scientific asse
 
 The cornerstone of global cannabis prohibition is the **1961 UN Single Convention on Narcotic Drugs**. This treaty obligated signatory nations to criminalize the production, supply, and possession of cannabis except for "medical and scientific purposes." The treaty placed cannabis in the most restrictive schedules alongside heroin and cocaine, despite the dramatically different risk profiles of these substances.
 
-The 1961 Convention was heavily influenced by US diplomatic pressure. Harry Anslinger, head of the US Federal Bureau of Narcotics and a central architect of cannabis prohibition (see [Prohibition Era](/history/prohibition-era)), led the US delegation and lobbied aggressively for the strictest possible scheduling. Nations that opposed strict scheduling found their resistance overruled or neutralized:
+The 1961 Convention was heavily influenced by US diplomatic pressure. Harry Anslinger, head of the US Federal Bureau of Narcotics and a central architect of cannabis prohibition (see [Prohibition Era](/history/prohibition/prohibition-era)), led the US delegation and lobbied aggressively for the strictest possible scheduling. Nations that opposed strict scheduling found their resistance overruled or neutralized:
 
 - **India** cited the findings of the **1893-94 Indian Hemp Drugs Commission**, which had examined cannabis use across the Indian subcontinent and found no basis for prohibition. India's objections were dismissed.
 - **Egypt** raised concerns about the cultural and religious significance of cannabis in certain regions, but was overruled.
@@ -109,10 +109,10 @@ The result was a global prohibition regime that reflected US political interests
 
 ### Further Reading
 
-- [Prohibition Era](/history/prohibition-era) — The emergence of cannabis prohibition in the early 20th century
-- [War On Drugs](/history/war-on-drugs) — How the War on Drugs expanded prohibition globally
-- [Modern Legalization](/history/modern-legalization) — The modern movement to dismantle prohibition
-- [Ancient Origins](/history/ancient-origins) — Cannabis use in ancient and pre-prohibition societies
+- [Prohibition Era](/history/prohibition/prohibition-era) — The emergence of cannabis prohibition in the early 20th century
+- [War On Drugs](/history/prohibition/war-on-drugs) — How the War on Drugs expanded prohibition globally
+- [Modern Legalization](/history/modern/legalization) — The modern movement to dismantle prohibition
+- [Ancient Origins](/history/ancient/origins) — Cannabis use in ancient and pre-prohibition societies
 
 ---
 
@@ -258,10 +258,10 @@ As more nations legalize, the diplomatic cost of maintaining prohibition increas
 | [Harm Reduction](/legal-safety/harm-reduction) | Practical harm reduction guidance |
 | [Sustainability](/sustainability/index) | Environmental and sustainability considerations in cannabis |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
-| [Prohibition Era](/history/prohibition-era) | Historical context for prohibition |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs era |
-| [Modern Legalization](/history/modern-legalization) | Modern legalization movements |
-| [Ancient Origins](/history/ancient-origins) | Pre-prohibition cannabis history |
+| [Prohibition Era](/history/prohibition/prohibition-era) | Historical context for prohibition |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs era |
+| [Modern Legalization](/history/modern/legalization) | Modern legalization movements |
+| [Ancient Origins](/history/ancient/origins) | Pre-prohibition cannabis history |
 
 ---
 
@@ -399,8 +399,8 @@ Until these measures accompany legalization, the transition from prohibition to 
 - [Harm Reduction](/legal-safety/harm-reduction) — Practical guidance for safer cannabis use
 - [Law Policy](/law-policy/index) — Understanding your legal rights
 - [Sustainability](/sustainability/index) — Environmental and social sustainability in cannabis
-- [War On Drugs](/history/war-on-drugs) — The War on Dogs and its lasting impact
-- [Modern Legalization](/history/modern-legalization) — How legalization movements emerged
+- [War On Drugs](/history/prohibition/war-on-drugs) — The War on Dogs and its lasting impact
+- [Modern Legalization](/history/modern/legalization) — How legalization movements emerged
 
 ---
 

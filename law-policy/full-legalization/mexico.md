@@ -28,8 +28,8 @@ Mexico also holds the **highest absolute number of cannabis arrests in Latin Ame
 |------|-------------|
 | [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
 | [United States](/law-policy/united-states) | Cannabis law in the United States — the architect of prohibition |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
-| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern legalization movement |
 | [Law Policy](/law-policy/index) | Legal rights and harm reduction |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
 

@@ -10,7 +10,7 @@ tags: history, prohibition, anslinger, marihuana tax act, reefer madness, legisl
 
 The prohibition of cannabis in the 20th century represents one of the most dramatic reversals in the history of medicine and public policy. For thousands of years, cannabis had been cultivated, traded, prescribed by physicians, and used across virtually every major civilization. Then, beginning in the early 1900s and accelerating through the 1930s, a coordinated campaign of criminalization transformed cannabis from a legitimate medicine into a feared and prohibited substance. This article examines the historical forces that drove this transformation.
 
-**✅ Note** This article covers the prohibition of cannabis from the early 20th century through approximately 1970. For the escalation of drug prohibition, see [The War on Drugs](/history/war-on-drugs). For the legalization movement, see [Modern Legalization](/history/modern-legalization).
+**✅ Note** This article covers the prohibition of cannabis from the early 20th century through approximately 1970. For the escalation of drug prohibition, see [The War on Drugs](/history/prohibition/war-on-drugs). For the legalization movement, see [Modern Legalization](/history/modern/legalization).
 
 
 ---
@@ -190,7 +190,7 @@ The Marihuana Tax Act passed on **August 2, 1937**, and took effect on **October
 - Research on cannabis was chilled by the new regulatory burden
 - Thousands of individuals were criminalized for possession and sale
 
-The act was structured as a tax law rather than a criminal prohibition, a legal strategy designed to survive constitutional challenges. This approach would be used for federal drug control until the Controlled Substances Act of 1970. See [The War on Drugs](/history/war-on-drugs) for the next phase of prohibition.
+The act was structured as a tax law rather than a criminal prohibition, a legal strategy designed to survive constitutional challenges. This approach would be used for federal drug control until the Controlled Substances Act of 1970. See [The War on Drugs](/history/prohibition/war-on-drugs) for the next phase of prohibition.
 
 ---
 
@@ -250,7 +250,7 @@ The immediate consequences of the 1937 Marihuana Tax Act were profound:
 - **Medical practice:** Physicians who had prescribed cannabis for decades could no longer do so legally. A medicine used for over a century was abruptly eliminated from the American pharmacopeia.
 - **Research:** Scientific investigation of cannabis became difficult and dangerous. Researchers faced regulatory hurdles and potential criminal liability. The promising research trajectory of the 19th century was terminated.
 - **Culture:** Cannabis use persisted underground, particularly in jazz communities and among marginalized populations. The criminalization created an illicit market that would persist for the next 60+ years.
-- **Racial justice:** The racial targeting embedded in prohibition policy would produce enforcement disparities documented extensively in later decades. See [The War on Drugs](/history/war-on-drugs) for the escalation of these disparities.
+- **Racial justice:** The racial targeting embedded in prohibition policy would produce enforcement disparities documented extensively in later decades. See [The War on Drugs](/history/prohibition/war-on-drugs) for the escalation of these disparities.
 - **Industry:** The American hemp industry was effectively destroyed. Hemp cultivation continued only under strict government licensing during World War II (the "Hemp for Victory" program, 1942 -- 1945), after which it was re-criminalized.
 
 ---
@@ -280,7 +280,7 @@ The prohibition of cannabis in the 20th century was driven by a convergence of f
 - **International coercion:** American diplomatic and economic pressure drove global prohibition through treaty mechanisms, exporting US racism to the entire world
 - **Medical establishment's failure to resist:** Despite the AMA's opposition, the broader medical community did not mount an effective defense of cannabis
 
-The consequences of this prohibition would be felt for the rest of the century and beyond. The escalation of drug prohibition under the War on Drugs, the mass incarceration it produced, the suppression of scientific research, and the racial disparities in enforcement all trace their roots to the foundations laid in the 1930s. See [The War on Drugs](/history/war-on-drugs) for the next chapter.
+The consequences of this prohibition would be felt for the rest of the century and beyond. The escalation of drug prohibition under the War on Drugs, the mass incarceration it produced, the suppression of scientific research, and the racial disparities in enforcement all trace their roots to the foundations laid in the 1930s. See [The War on Drugs](/history/prohibition/war-on-drugs) for the next chapter.
 
 ---
 
@@ -288,8 +288,8 @@ The consequences of this prohibition would be felt for the rest of the century a
 
 | Page | Description |
 |------|-------------|
-| [The War on Drugs](/history/war-on-drugs) | Escalation of prohibition under Nixon and beyond |
-| [Modern Legalization](/history/modern-legalization) | The reversal of prohibition beginning in 1996 |
+| [The War on Drugs](/history/prohibition/war-on-drugs) | Escalation of prohibition under Nixon and beyond |
+| [Modern Legalization](/history/modern/legalization) | The reversal of prohibition beginning in 1996 |
 | [Legal Landscape](/law-policy/index) | Current global legality by jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | The compounds that prohibition made difficult to study |
 | [Cannabis in the Medieval World](/history/medieval) | The medical tradition that prohibition interrupted |

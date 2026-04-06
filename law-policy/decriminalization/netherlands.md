@@ -31,8 +31,8 @@ The Dutch model has been **stable since the 1970s**, making it one of the longes
 | [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
 | [Portugal](/law-policy/decriminalization/portugal) | Cannabis law in Portugal — comprehensive decriminalization |
 | [Spain](/law-policy/decriminalization/spain) | Cannabis law in Spain — cannabis social clubs |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
-| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern legalization movement |
 | [Law Policy](/law-policy/index) | Legal rights and harm reduction |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
 

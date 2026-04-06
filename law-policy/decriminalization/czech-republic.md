@@ -30,8 +30,8 @@ Despite its progressive stance, the Czech Republic has **not moved to full legal
 | [Portugal](/law-policy/decriminalization/portugal) | Cannabis law in Portugal — comprehensive decriminalization |
 | [Netherlands](/law-policy/decriminalization/netherlands) | Cannabis law in the Netherlands — the coffee shop model |
 | [Switzerland](/law-policy/decriminalization/switzerland) | Cannabis law in Switzerland — pilot studies and evidence-based reform |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
-| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern legalization movement |
 | [Law Policy](/law-policy/index) | Legal rights and harm reduction |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
 

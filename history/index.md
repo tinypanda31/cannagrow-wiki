@@ -21,11 +21,11 @@ The story of cannabis stretches back further than written history itself. Archae
 
 | Era | Approximate Dates | Key Developments |
 |-----|-------------------|------------------|
-| [Ancient Origins](/history/ancient-origins) | 10,000 BCE -- 500 CE | First cultivation, hemp rope, Shennong's pharmacopeia, Scythian rituals, Silk Road trade |
+| [Ancient Origins](/history/ancient/origins) | 10,000 BCE -- 500 CE | First cultivation, hemp rope, Shennong's pharmacopeia, Scythian rituals, Silk Road trade |
 | [Medieval World](/history/medieval) | 500 CE -- 1800 CE | Islamic hashish traditions, European hemp industry, African dispersal, early Western medicine |
-| [Prohibition Era](/history/prohibition-era) | 1800 CE -- 1970 CE | Criminalization campaigns, Marihuana Tax Act 1937, "Reefer Madness," global prohibition |
-| [War on Drugs](/history/war-on-drugs) | 1970 CE -- 2000 CE | Nixon's declaration, Controlled Substances Act, mass incarceration, medical cannabis movement |
-| [Modern Legalization](/history/modern-legalization) | 1996 CE -- Present | California Prop 215, Colorado legalization, Canada, Uruguay, European reforms, CBD boom |
+| [Prohibition Era](/history/prohibition/prohibition-era) | 1800 CE -- 1970 CE | Criminalization campaigns, Marihuana Tax Act 1937, "Reefer Madness," global prohibition |
+| [War on Drugs](/history/prohibition/war-on-drugs) | 1970 CE -- 2000 CE | Nixon's declaration, Controlled Substances Act, mass incarceration, medical cannabis movement |
+| [Modern Legalization](/history/modern/legalization) | 1996 CE -- Present | California Prop 215, Colorado legalization, Canada, Uruguay, European reforms, CBD boom |
 
 ---
 
@@ -35,7 +35,7 @@ Each era page provides in-depth coverage of the period, including primary source
 
 ### Ancient Origins
 
-**✅ [Ancient Origins](/history/ancient-origins)** Cannabis in prehistory and ancient civilizations -- from the earliest hemp rope found in Taiwan (~8000 BCE) through the classical empires of China, India, Egypt, Persia, and the Scythian steppes. Explore the archaeological record and historical texts that document cannabis's role as fiber, medicine, and sacrament.
+**✅ [Ancient Origins](/history/ancient/origins)** Cannabis in prehistory and ancient civilizations -- from the earliest hemp rope found in Taiwan (~8000 BCE) through the classical empires of China, India, Egypt, Persia, and the Scythian steppes. Explore the archaeological record and historical texts that document cannabis's role as fiber, medicine, and sacrament.
 
 
 **Key topics:**
@@ -64,7 +64,7 @@ Each era page provides in-depth coverage of the period, including primary source
 
 ### Prohibition Era
 
-**✅ [The Prohibition Era](/history/prohibition-era)** The early 20th century saw a dramatic reversal. Through a combination of racial politics, media manipulation, and economic competition, cannabis was criminalized across the Western world. The Marihuana Tax Act of 1937 effectively prohibited cannabis in the United States, and other nations followed.
+**✅ [The Prohibition Era](/history/prohibition/prohibition-era)** The early 20th century saw a dramatic reversal. Through a combination of racial politics, media manipulation, and economic competition, cannabis was criminalized across the Western world. The Marihuana Tax Act of 1937 effectively prohibited cannabis in the United States, and other nations followed.
 
 
 **Key topics:**
@@ -78,7 +78,7 @@ Each era page provides in-depth coverage of the period, including primary source
 
 ### War on Drugs
 
-**✅ [The War on Drugs](/history/war-on-drugs)** President Nixon's 1971 declaration of a "War on Drugs" escalated prohibition to unprecedented levels. Schedule I classification under the Controlled Substances Act restricted research, fueled mass incarceration, and produced stark racial disparities in enforcement -- while the medical cannabis movement began to organize in response.
+**✅ [The War on Drugs](/history/prohibition/war-on-drugs)** President Nixon's 1971 declaration of a "War on Drugs" escalated prohibition to unprecedented levels. Schedule I classification under the Controlled Substances Act restricted research, fueled mass incarceration, and produced stark racial disparities in enforcement -- while the medical cannabis movement began to organize in response.
 
 
 **Key topics:**
@@ -93,7 +93,7 @@ Each era page provides in-depth coverage of the period, including primary source
 
 ### Modern Legalization & Renaissance
 
-**✅ [Modern Legalization & Renaissance](/history/modern-legalization)** Beginning with California's Proposition 215 in 1996, a global movement to legalize cannabis has transformed the legal landscape. Uruguay became the first country to legalize nationally in 2013, Canada followed in 2018, and European nations including Germany have moved toward reform. The CBD boom and accelerating research have sparked a scientific renaissance.
+**✅ [Modern Legalization & Renaissance](/history/modern/legalization)** Beginning with California's Proposition 215 in 1996, a global movement to legalize cannabis has transformed the legal landscape. Uruguay became the first country to legalize nationally in 2013, Canada followed in 2018, and European nations including Germany have moved toward reform. The CBD boom and accelerating research have sparked a scientific renaissance.
 
 
 **Key topics:**

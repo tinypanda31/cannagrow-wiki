@@ -339,8 +339,8 @@ Without lab equipment, monitor decarboxylation by:
 - [Edibles](/consumption/edibles/index) — Edible preparation, dosing, and the 11-hydroxy-THC pathway
 - [Tinctures](/consumption/tinctures/index) — Tincture preparation and sublingual use
 - [Extraction](/extraction/index) — Overview of all extraction methods
-- [Rosin Press](/extraction/rosin-press) — Rosin extraction (partially decarbs during pressing)
-- [Distillate](/extraction/distillate) — Distillation (requires fully decarbed feedstock)
+- [Rosin Press](/extraction/solventless/rosin-press) — Rosin extraction (partially decarbs during pressing)
+- [Distillate](/extraction/refinement/distillate) — Distillation (requires fully decarbed feedstock)
 
 ---
 

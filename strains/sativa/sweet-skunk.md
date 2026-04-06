@@ -127,4 +127,4 @@ Sweet Skunk is an easy cultivar, inheriting the forgiving nature of its Skunk #1
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

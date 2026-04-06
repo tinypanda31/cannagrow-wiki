@@ -1261,7 +1261,7 @@ For more on consumption methods, see [Consumption Methods](/consumption/index).
 - [Extraction](/extraction/index) -- Methods for isolating cannabinoids from plant material
 - [Cultivation Nutrients](/cultivation/nutrients/index) -- How nutrient management affects cannabinoid production
 - [Glossary](/glossary/index) -- Definitions of cannabis science terminology
-- [Modern Legalization](/history/modern-legalization) -- The history of cannabis legalization and its impact on research
+- [Modern Legalization](/history/modern/legalization) -- The history of cannabis legalization and its impact on research
 
 ---
 

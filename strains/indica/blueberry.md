@@ -132,4 +132,4 @@ Blueberry is a moderately easy strain to grow. Its relatively fast flowering tim
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index) | [Strain Template Guide](/strains/template)

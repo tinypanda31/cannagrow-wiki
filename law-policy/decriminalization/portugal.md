@@ -31,8 +31,8 @@ It is critical to understand that Portugal's reform was **decriminalization, not
 | [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
 | [Spain](/law-policy/decriminalization/spain) | Cannabis law in Spain — cannabis social clubs and regional variation |
 | [Netherlands](/law-policy/decriminalization/netherlands) | Cannabis law in the Netherlands — the coffee shop model |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
-| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern legalization movement |
 | [Law Policy](/law-policy/index) | Legal rights and harm reduction |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
 

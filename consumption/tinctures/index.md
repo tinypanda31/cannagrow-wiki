@@ -226,7 +226,7 @@ Understanding a tincture label is essential for proper dosing:
 - [Edibles](/consumption/edibles/index) -- Food-based alternative
 - [Topicals](/consumption/topicals/index) -- External application
 - [Cannabinoids](/science/cannabinoids) -- THC, CBD, and other compounds
-- [Extraction: Ethanol](/extraction/ethanol) -- How alcohol-based tinctures are extracted
+- [Extraction: Ethanol](/extraction/solvent-based/ethanol) -- How alcohol-based tinctures are extracted
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance
 
 ---

@@ -168,14 +168,14 @@ Different concentrates bring different qualities to edible preparation. Here is 
 
 | Extract | Potency | Flavor | Best For | Notes |
 |---------|---------|--------|----------|-------|
-| **Kief / Dry Sift** | Moderate (30-60%) | Earthy, cannabis-forward | Accessible home cooking | Most accessible; traditional method; moderate potency makes dosing forgiving. See [Kief Collection](/extraction/kief) |
-| **Hash** | High (40-70%) | Rich, traditional | Cooking and baking | Potent and time-tested; dissolves well in fats; great for traditional recipes. See [Hash Production](/extraction/hash) |
-| **Rosin** | High (50-80%) | Full-spectrum, terpene-rich | Premium clean edibles | Solventless extraction; cleanest profile; premium quality but higher cost. See [Rosin Pressing](/extraction/rosin) |
-| **BHO** | Very High (60-80%) | Strain-dependent (Live Resin) | Commercial production | **Must be lab-tested for residual solvents**; not recommended for home edible prep without verified lab results. See [BHO Extraction](/extraction/bho) |
-| **Ethanol Extract / RSO** | Very High (50-90%) | Strong, medicinal | Full-spectrum medicinal dosing | Potent full-spectrum extract; Rick Simpson Oil format; strong flavor but comprehensive cannabinoid profile. See [Ethanol Extraction](/extraction/ethanol) |
-| **CO2 Extract** | High (60-85%) | Clean, mild | Precise commercial edibles | Clean and precise; industry standard for consistent products; easy to measure. See [CO2 Extraction](/extraction/co2) |
-| **Distillate** | Highest (85-99%) | Flavorless, neutral | Precise dosing, commercial | Already decarbed; easiest to dose precisely; highest potency but lacks terpenes and minor cannabinoids. See [Distillation](/extraction/distillation) |
-| **Live Resin / Live Rosin** | High (50-75%) | Full terpene profile | Premium full-spectrum edibles | Best flavor and aroma pre-decarb; **terpene loss during decarb is expected**; premium cost. See [Live Resin](/extraction/live-resin) and [Live Rosin](/extraction/live-rosin) |
+| **Kief / Dry Sift** | Moderate (30-60%) | Earthy, cannabis-forward | Accessible home cooking | Most accessible; traditional method; moderate potency makes dosing forgiving. See [Kief Collection](/extraction/solventless/dry-sift) |
+| **Hash** | High (40-70%) | Rich, traditional | Cooking and baking | Potent and time-tested; dissolves well in fats; great for traditional recipes. See [Hash Production](/extraction/solventless/ice-water-hash) |
+| **Rosin** | High (50-80%) | Full-spectrum, terpene-rich | Premium clean edibles | Solventless extraction; cleanest profile; premium quality but higher cost. See [Rosin Pressing](/extraction/solventless/rosin-press) |
+| **BHO** | Very High (60-80%) | Strain-dependent (Live Resin) | Commercial production | **Must be lab-tested for residual solvents**; not recommended for home edible prep without verified lab results. See [BHO Extraction](/extraction/solvent-based/bho-pho) |
+| **Ethanol Extract / RSO** | Very High (50-90%) | Strong, medicinal | Full-spectrum medicinal dosing | Potent full-spectrum extract; Rick Simpson Oil format; strong flavor but comprehensive cannabinoid profile. See [Ethanol Extraction](/extraction/solvent-based/ethanol) |
+| **CO2 Extract** | High (60-85%) | Clean, mild | Precise commercial edibles | Clean and precise; industry standard for consistent products; easy to measure. See [CO2 Extraction](/extraction/solvent-based/co2) |
+| **Distillate** | Highest (85-99%) | Flavorless, neutral | Precise dosing, commercial | Already decarbed; easiest to dose precisely; highest potency but lacks terpenes and minor cannabinoids. See [Distillation](/extraction/refinement/distillate) |
+| **Live Resin / Live Rosin** | High (50-75%) | Full terpene profile | Premium full-spectrum edibles | Best flavor and aroma pre-decarb; **terpene loss during decarb is expected**; premium cost. See [Live Resin](/extraction/refinement/live-resin) and [Live Rosin](/extraction/refinement/live-rosin) |
 
 **ℹ️ For home edible preparation, **rosin**, **hash**, and **kief** are the most practical choices -- they are solventless, accessible, and forgiving to work with. **Distillate** is the easiest to dose precisely but lacks the entourage effect of full-spectrum extracts. **BHO** should only be used if verified lab-tested for residual solvents.**
 

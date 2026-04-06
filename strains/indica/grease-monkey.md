@@ -132,4 +132,4 @@ Grease Monkey is moderately challenging to grow. The GG4 genetics bring exceptio
 
 ---
 
-[Back to Strain Database](/strains/index) | [Indica Strains](/strains/indica) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Indica Strains](/strains/index) | [Strain Template Guide](/strains/template)

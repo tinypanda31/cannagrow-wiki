@@ -122,10 +122,10 @@ Casey Jones requires moderate-to-advanced growing experience due to its signific
 ## Similar Strains
 
 - [Sour Diesel](/strains/sativa/sour-diesel) -- Parent genetics; similar diesel-forward sativa with energetic effects
-- [Space Queen](/strains/sativa) -- Parent genetics; sweet, fruity sativa influence
+- [Space Queen](/strains/index) -- Parent genetics; sweet, fruity sativa influence
 - [Ghost Train Haze](/strains/sativa/ghost-train-haze) -- Comparable high-THC sativa with intense cerebral effects
 - [Super Lemon Haze](/strains/sativa/super-lemon-haze) -- Similar citrus-forward sativa with creative, energizing profile
 
 ---
 
-[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/sativa) | [Strain Template Guide](/strains/template)
+[Back to Strain Database](/strains/index) | [Sativa Strains](/strains/index) | [Strain Template Guide](/strains/template)

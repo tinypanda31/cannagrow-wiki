@@ -269,7 +269,7 @@ Across Africa, colonial administrators imposed cannabis prohibition on populatio
 
 The pattern repeated across the colonized world: cannabis traditions that had existed sustainably for centuries were criminalized by colonial administrations that viewed indigenous practices as uncivilized, and later by post-colonial governments pressured by the United States to adopt prohibition through the UN treaty system. Nations that had cultivated cannabis peacefully -- India, Jamaica, Malawi, Morocco, Afghanistan, South Africa, and many others -- found their traditions criminalized by external powers whose own relationship with the plant was defined by 80 years of manufactured panic and racial politics.
 
-See [The Prohibition Era](/history/prohibition-era) and [The War on Drugs](/history/war-on-drugs) for the detailed history of how this prohibition was constructed and enforced.
+See [The Prohibition Era](/history/prohibition/prohibition-era) and [The War on Drugs](/history/prohibition/war-on-drugs) for the detailed history of how this prohibition was constructed and enforced.
 
 ---
 

@@ -15,9 +15,9 @@ A comprehensive reference of notable cannabis cultivars, organized by type, with
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| [Indica](/strains/indica) | 69 | Traditionally broad-leafed, shorter plants; often associated with relaxing effects |
-| [Sativa](/strains/sativa) | 69 | Traditionally narrow-leafed, taller plants; often associated with uplifting effects |
-| [Hybrid](/strains/hybrid) | 70 | Crosses between indica and sativa lineages; wide range of effects |
+| [Indica](/strains/index) | 69 | Traditionally broad-leafed, shorter plants; often associated with relaxing effects |
+| [Sativa](/strains/index) | 69 | Traditionally narrow-leafed, taller plants; often associated with uplifting effects |
+| [Hybrid](/strains/index) | 70 | Crosses between indica and sativa lineages; wide range of effects |
 
 ---
 

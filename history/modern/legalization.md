@@ -14,7 +14,7 @@ dateCreated: 2026-04-05T19:25:37.745Z
 
 The modern cannabis legalization movement has achieved in three decades what abolitionists, suffragists, and civil rights activists worked generations to accomplish. Beginning with California's Proposition 215 in 1996, a wave of state-level, national, and international reforms has transformed cannabis from a criminalized substance into a legal, regulated, and increasingly mainstream product. This article traces the movement from its patient-driven origins through the accelerating reforms of the 2020s.
 
-**✅ Note** This article covers the legalization movement from 1996 through the 2020s. For the prohibition that preceded it, see [The Prohibition Era](/history/prohibition-era) and [The War on Drugs](/history/war-on-drugs). Current legal status by jurisdiction is covered in the [Legal Landscape](/law-policy/index) page.
+**✅ Note** This article covers the legalization movement from 1996 through the 2020s. For the prohibition that preceded it, see [The Prohibition Era](/history/prohibition/prohibition-era) and [The War on Drugs](/history/prohibition/war-on-drugs). Current legal status by jurisdiction is covered in the [Legal Landscape](/law-policy/index) page.
 
 
 ---
@@ -528,8 +528,8 @@ For detailed, up-to-date legal information on specific countries and policy mode
 
 | Page | Description |
 |------|-------------|
-| [The Prohibition Era](/history/prohibition-era) | How cannabis became criminalized |
-| [The War on Drugs](/history/war-on-drugs) | Escalation of prohibition and its consequences |
+| [The Prohibition Era](/history/prohibition/prohibition-era) | How cannabis became criminalized |
+| [The War on Drugs](/history/prohibition/war-on-drugs) | Escalation of prohibition and its consequences |
 | [Legal Landscape](/law-policy/index) | Current global cannabis legality by jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | THC, CBD, and the chemistry of cannabis |
 | [Strains Index](/strains/index) | Cultivars driving the legal industry |

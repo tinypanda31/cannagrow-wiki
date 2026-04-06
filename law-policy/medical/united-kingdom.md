@@ -32,8 +32,8 @@ The irony is that the UK has **one of Europe's highest cannabis usage rates**. D
 | [Australia](/law-policy/medical/australia) | Cannabis law in Australia — medical access with federal-state conflict |
 | [Israel](/law-policy/medical/israel) | Cannabis law in Israel — world-leading cannabis research |
 | [Colombia](/law-policy/medical/colombia) | Cannabis law in Colombia — export-oriented medical framework |
-| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
-| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [War On Drugs](/history/prohibition/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern/legalization) | The modern legalization movement |
 | [Law Policy](/law-policy/index) | Legal rights and harm reduction |
 | [Glossary](/glossary/index) | Cannabis terminology and definitions |
 

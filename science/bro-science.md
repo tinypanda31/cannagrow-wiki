@@ -295,7 +295,7 @@ When these cannabinoids are properly extracted, purified, and third-party tested
 
 Hemp also has enormous value beyond cannabinoids: industrial fiber for textiles and construction (hempcrete), food-grade seeds and seed oil, phytoremediation applications, and paper production. Dismissing hemp as "useless" ignores its role as one of the most versatile agricultural crops known to humanity.
 
-For information on cannabinoid science, see [Cannabinoids](/science/cannabinoids). For the history of cannabis legalization, see [Modern Legalization](/history/modern-legalization).
+For information on cannabinoid science, see [Cannabinoids](/science/cannabinoids). For the history of cannabis legalization, see [Modern Legalization](/history/modern/legalization).
 
 **ℹ️ Info**
 **Key Takeaway:** Hemp is legally defined by its THC content (≤0.3%), not by CBD levels; it is the primary source for CBD, CBG, and hemp-derived cannabinoid products worth billions of dollars globally.

@@ -73,8 +73,8 @@ Ice Cream Cake is widely reported to produce:
 
 **Intensity:** Strong. The high THC range means Ice Cream Cake is best suited to experienced users or those with established tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Ice Cream Cake presents a rich, dessert-like sensory profile:
 - **Smell:** Sweet vanilla and creamy cake with nutty undertones. The aroma is rich and dessert-like, with the Wedding Cake and Gelato parentage clearly present in the sweet, frosting-like character. The scent is noticeable and can fill a room.
 - **Taste:** Sweet vanilla and nutty flavors on inhalation, with creamy, cake-like notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate dessert-forward cultivars.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

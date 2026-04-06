@@ -52,8 +52,8 @@ The result is a concentrate that typically ranges from 50-80% cannabinoid conten
 | **Ice-water hash** | 500-1,000 PSI | Higher pressure for maximum yield from hash |
 | **Dry sift** | 400-700 PSI | Similar to kief |
 
-::: info
-PSI at the plate is different from the pressure gauge reading on a hydraulic or pneumatic press. Calculate actual plate PSI by dividing total force (pounds) by the surface area of the material being pressed (square inches). Many press manufacturers provide this calculation.
+**ℹ️ PSI at the plate is different from the pressure gauge reading on a hydraulic or pneumatic press. Calculate actual plate PSI by dividing total force (pounds) by the surface area of the material being pressed (square inches). Many press manufacturers provide this calculation.**
+
 :::
 
 ### Filter Bags
@@ -66,9 +66,7 @@ Filter bags contain the starting material during pressing, preventing plant matt
 | **70** | Ice-water hash, dry sift | Moderate | High |
 | **90** | Dry sift, kief | Fast | Moderate-high |
 | **120** | Flower, kief | Fastest | Moderate |
-| **160+** | Flower (no bag use) | Very fast | Lower |
-
-::: tip
+| **160+** | Flower (no bag use) | Very fast | Lower | tip
 Using a filter bag always improves rosin purity, but it also reduces yield slightly. For the cleanest hash rosin, use 37-micron bags with full-melt ice-water hash.
 :::
 
@@ -123,8 +121,8 @@ Temperature is the most influential variable in rosin pressing. It affects yield
 - Watch the rosin flow out from the edges of the puck onto the parchment
 - If rosin stops flowing and no more is extruding, the press is complete
 
-::: tip
-Ramping pressure -- starting light and gradually increasing -- prevents the material from "blowing out" (bursting through the parchment or bag edges). This is especially important with flower, which contains significant plant matter.
+**💡 Ramping pressure -- starting light and gradually increasing -- prevents the material from "blowing out" (bursting through the parchment or bag edges). This is especially important with flower, which contains significant plant matter.**
+
 :::
 
 **Step 5: Collect the Rosin**
@@ -237,9 +235,7 @@ Rosin is one of the **cleanest and highest-quality inputs available for edible p
 
 Rosin is **exceptional for edible use**, particularly for patients and consumers seeking premium, full-spectrum edible experiences. Both flower rosin and hash rosin work well, though hash rosin offers higher purity and potency.
 
-### Decarboxylation State After Pressing
-
-::: info
+### Decarboxylation State After Pressing info
 **Rosin is partially decarboxylated from the pressing process.** The heat applied during rosin extraction (typically 160-220 degrees F / 71-104 degrees C) begins the decarboxylation process, but it does not complete it. Rosin typically arrives in a partially activated state -- approximately 30-60% decarboxylated depending on pressing temperature and duration.
 :::
 
@@ -266,8 +262,8 @@ Rosin is **highly potent** and requires careful dosing:
 - This yields approximately 45 servings at 10mg THC each
 - **Start with 5-10mg THC equivalent** when consuming rosin-based edibles for the first time
 
-::: warning
-Rosin's potency makes overconsumption a real risk. A single gram of rosin can produce dozens of standard edible servings. Always measure carefully and label finished products clearly.
+**⚠️ Rosin's potency makes overconsumption a real risk. A single gram of rosin can produce dozens of standard edible servings. Always measure carefully and label finished products clearly.**
+
 :::
 
 ### Advantages for Edible Use
@@ -290,9 +286,7 @@ Proper storage preserves rosin quality and extends shelf life:
 | **Temperature** | Refrigerator (35-40 degrees F / 2-4 degrees C) for short-term; freezer for long-term | Cold slows degradation and preserves terpenes |
 | **Light** | Dark or opaque container; store in darkness | UV light degrades THC to CBN |
 | **Handling** | Minimize opening and exposure to air | Oxygen degrades cannabinoids and terpenes |
-| **Shelf life** | 3-6 months refrigerated; 6-12+ months frozen | Quality gradually declines over time |
-
-::: tip
+| **Shelf life** | 3-6 months refrigerated; 6-12+ months frozen | Quality gradually declines over time | tip
 When removing rosin from the refrigerator or freezer, allow the container to reach room temperature before opening. This prevents condensation from introducing moisture to the concentrate.
 :::
 

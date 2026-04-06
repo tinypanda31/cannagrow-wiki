@@ -10,8 +10,8 @@ tags: law-policy, legalization, Thailand, Asia, political instability, tradition
 
 ---
 
-::: danger
-**Disclaimer:** This page is provided for educational purposes only and does not constitute legal advice. Cannabis laws change frequently — and Thailand's have changed dramatically. Always verify current law in your jurisdiction and consult qualified legal counsel before taking any action. CannaGrow accepts no liability for actions taken based on this content.
+**🚨 **Disclaimer:** This page is provided for educational purposes only and does not constitute legal advice. Cannabis laws change frequently — and Thailand's have changed dramatically. Always verify current law in your jurisdiction and consult qualified legal counsel before taking any action. CannaGrow accepts no liability for actions taken based on this content.**
+
 :::
 
 ---
@@ -35,9 +35,7 @@ Thailand's cannabis story is significant regardless of its ultimate outcome. The
 
 ---
 
-## Current Legal Status
-
-::: warning
+## Current Legal Status warning
 **Thailand's cannabis legal status is actively unstable.** The information below reflects the situation as of early 2026, but significant changes may have occurred. Verify current law independently.
 :::
 

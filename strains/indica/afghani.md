@@ -69,8 +69,8 @@ Afghani is widely reported to produce:
 
 **Intensity:** Mild to moderate. Afghani is accessible to newer users and provides a gentle, predictable indica experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -78,9 +78,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Classic earthy, musky hash aroma with sweet undertones. The smell is often compared to traditional Afghan hashish -- deep, rich, and unmistakably "old-school" cannabis.
 - **Taste:** Earthy and sweet with a hash-like quality on the exhale. The flavor is robust and traditional, appealing to users who appreciate classic cannabis taste over modern fruity or dessert profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

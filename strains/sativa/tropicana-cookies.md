@@ -73,8 +73,8 @@ Tropicana Cookies is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, well-suited to users seeking daytime stimulation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intense orange and citrus with sweet, tropical undertones. The limonene expression is among the most pronounced of any strain, producing a genuine, immediate orange-citrus aroma that is immediately recognizable and broadly appealing.
 - **Taste:** Orange and citrus flavors on the inhale, with sweet and slightly dessert-like notes on the exhale. The Cookies genetics add a subtle sweet-bready quality that complements the citrus, creating a layered tropical flavor profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -70,8 +70,8 @@ Miami is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are functional and bright, making Miami suitable for daytime use across a range of tolerance levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The exact genetic lineage of Miami is undocumented -- phenotype expression may vary between different sources and growers.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The exact genetic lineage of Miami is undocumented -- phenotype expression may vary between different sources and growers.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus-forward with sweet and tropical undertones. The terpinolene-limonene combination creates a bright, energizing aroma dominated by citrus notes layered with sweet tropical fruit character. The overall scent is fresh, vibrant, and immediately uplifting.
 - **Taste:** Sweet citrus on the inhale with tropical fruit and slightly spicy notes on the exhale. The flavor mirrors the aroma with genuine citrus sweetness and a faint tropical fruit complexity. The finish is clean and slightly peppery.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

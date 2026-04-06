@@ -75,8 +75,8 @@ Harle-Tsu is widely reported to produce:
 
 **Intensity:** Mild. The effects are subtle and functional rather than intoxicating, making Harle-Tsu suitable for users who need to remain clear-headed during the day.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. CBD-rich strains like Harle-Tsu produce significantly less intoxication than high-THC strains. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. CBD-rich strains like Harle-Tsu produce significantly less intoxication than high-THC strains. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, woody, and herbal with subtle spicy undertones. The caryophyllene-humulene combination gives it a warm, organic quality that is pleasant without being overpowering.
 - **Taste:** Earthy and woody on the inhale, with herbal and slightly spicy notes on the exhale. The flavor is smooth and approachable, appealing to users who may be sensitive to strong cannabis taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

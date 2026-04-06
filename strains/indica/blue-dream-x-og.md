@@ -73,8 +73,8 @@ Blue Dream x OG (indica phenotype) is widely reported to produce:
 
 **Intensity:** Moderate to strong. The balanced onset makes this strain accessible to a wide range of users, while the body-heavy transition can produce strong sedation at higher doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Blue Dream x OG presents a layered sensory profile:
 - **Smell:** Berry sweetness from the Blue Dream parent sits atop a foundation of fuel and pine from OG Kush. The result is a complex aroma that is simultaneously sweet and pungent, with earthy undertones.
 - **Taste:** Berry and fuel on inhalation, with pine and earthy notes on the exhale. The flavor transitions from sweet to savory, reflecting the hybrid nature of the cross.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

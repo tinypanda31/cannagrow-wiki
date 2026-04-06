@@ -84,8 +84,8 @@ Temperature is the single most important variable in vaporizing, affecting flavo
 | **Medium** | 356-392 degrees F | 180-200 degrees C | Balanced effects; moderate body and head effects | Good flavor; some terpenes already vaporized | Moderate vapor | Afternoon/evening; general use |
 | **High** | 392-430 degrees F | 200-220 degrees C | Strong, more sedating, body-heavy effects | Diminished flavor; fewer terpenes remaining | Dense vapor | Evening; heavy effects; last sessions |
 
-::: tip
-Many experienced vaporizers start at a low temperature and gradually increase across a session. This approach captures the full range of terpenes (which vaporize at different temperatures) and provides a more complete experience.
+**💡 Many experienced vaporizers start at a low temperature and gradually increase across a session. This approach captures the full range of terpenes (which vaporize at different temperatures) and provides a more complete experience.**
+
 :::
 
 ### Compound Vaporization Temperatures
@@ -140,9 +140,7 @@ Pre-filled vape cartridges are popular but carry unique safety considerations.
 | **Cutting agents** | Propylene glycol (PG), polyethylene glycol (PEG), and medium-chain triglyceride (MCT) oil used to thin distillate; may produce harmful compounds when heated | Avoid cartridges with these additives; prefer pure distillate + terpene formulations |
 | **Heavy metals** | Low-quality heating elements can leach metals (lead, nickel, chromium) into the vapor | Purchase from reputable manufacturers; avoid cheap, untested cartridges |
 | **Pesticide concentration** | Pesticides present in the starting flower can be concentrated in the extract | Purchase lab-tested products from licensed sources |
-| **Counterfeit cartridges** | Fake branding on cartridges containing unknown, potentially dangerous substances | Purchase only from licensed dispensaries; verify packaging |
-
-::: warning
+| **Counterfeit cartridges** | Fake branding on cartridges containing unknown, potentially dangerous substances | Purchase only from licensed dispensaries; verify packaging | warning
 The 2019 EVALI outbreak was primarily linked to vitamin E acetate in illicit market THC cartridges. Always purchase cartridges from licensed, tested sources. Avoid street cartridges entirely.
 :::
 

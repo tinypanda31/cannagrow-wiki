@@ -75,8 +75,8 @@ Chemdawg is widely reported to produce:
 
 **Intensity:** Strong. Chemdawg delivers a potent experience that is cerebral-forward, best suited to users with moderate to high tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The potent cerebral effects may be overwhelming for anxiety-prone users or those with low tolerance.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The potent cerebral effects may be overwhelming for anxiety-prone users or those with low tolerance.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fuel and diesel-forward with earthy undertones and subtle citrus brightening. The fuel character is the strain's most famous and defining feature, giving it a chemical, pungent aroma that is immediately recognizable. The earthy myrcene base adds depth, while limonene provides a hint of citrus.
 - **Taste:** Fuel and diesel on the inhale, with earthy and slightly citrus notes on the exhale. The fuel flavor is potent and distinctive, appealing to users who enjoy the diesel-forward profile that Chemdawg and its descendants are famous for.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

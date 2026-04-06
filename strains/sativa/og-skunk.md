@@ -73,8 +73,8 @@ OG Skunk is widely reported to produce:
 
 **Intensity:** Moderate. The effects are energetic and euphoric, making OG Skunk suitable for social daytime settings.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bold fuel and skunky with an earthy backbone. The myrcene gives it a deep, herbal quality, while the terpinolene adds a subtle floral layer. The fuel character from OG Kush is prominent, layered over the unmistakable skunky backbone from Skunk #1, creating a pungent, complex aroma.
 - **Taste:** Fuel and skunky on the inhale, with earthy and slightly spicy notes on the exhale. The flavor is bold and classic, appealing to users who appreciate traditional, pungent cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Grease Monkey is widely reported to produce:
 
 **Intensity:** Strong. Grease Monkey's high THC range can produce intense effects, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, start with a low dose if you are inexperienced.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, start with a low dose if you are inexperienced.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Grease Monkey presents a complex, dessert-meets-gas-station sensory profile:
 - **Smell:** Sweet and fuel-forward with vanilla and earthy undertones. The GG4 parent contributes a recognizable diesel, gasoline-like quality, while the Cookies and Cream side adds a sweet, creamy vanilla character. The result is a complex aroma that balances sweetness with pungency.
 - **Taste:** Sweet and vanilla-forward on inhalation, with fuel and earthy notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate dessert-like profiles with underlying fuel complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

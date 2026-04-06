@@ -73,8 +73,8 @@ Jealousy is widely reported to produce:
 
 **Intensity:** Strong. The high THC range and indica-dominant genetics produce intense effects that are best reserved for users with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Jealousy presents a rich and inviting sensory profile:
 - **Smell:** Sweet, creamy, and earthy with subtle citrus undertones. The Gelato-Sherbet inheritance produces a dessert-like aroma that is both sweet and complex, with caryophyllene adding a spicy depth.
 - **Taste:** Creamy and sweet on inhalation, with earthy and faint citrus notes on the exhale. The flavor is smooth and rich, with limonene providing brightness that balances the heavier creamy character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

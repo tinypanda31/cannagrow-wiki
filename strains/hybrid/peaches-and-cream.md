@@ -74,8 +74,8 @@ Peaches and Cream is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience that is balanced and approachable, making it suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Peach and sweet with creamy undertones. The peach character is genuinely fruit-like, providing a sweet, juicy aroma that is layered with the creamy dessert character from the Cookies genetics. The overall smell is indulgent and approachable, with a sweetness that is reminiscent of the namesake dessert.
 - **Taste:** Peach and sweet on the inhale, with creamy and slightly earthy notes on the exhale. The flavor is smooth and dessert-like, with the peach character carrying through the experience and the creamy finish providing a satisfying conclusion. The profile appeals to users who enjoy sweet, fruit-forward genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

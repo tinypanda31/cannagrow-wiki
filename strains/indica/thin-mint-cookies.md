@@ -73,8 +73,8 @@ Thin Mint Cookies is widely reported to produce:
 
 **Intensity:** Moderate to strong. The upper end of the THC range can produce intense effects, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Thin Mint Cookies presents a distinctive mint-forward sensory profile:
 - **Smell:** Mint and sweet with earthy undertones. The caryophyllene-dominant profile gives it a peppery, slightly minty quality that is immediately recognizable, while myrcene adds a musky, herbal base. The overall aroma is sweet and complex, with a mint character that sets it apart from other GSC phenotypes.
 - **Taste:** Mint and sweet on inhalation, with earthy and slightly peppery notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate complex, mint-forward cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

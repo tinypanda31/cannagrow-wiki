@@ -73,8 +73,8 @@ Rocket Fuel is widely reported to produce:
 
 **Intensity:** Moderate to strong. The upper end of the THC range can produce intense effects, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Rocket Fuel presents a complex, citrus-meets-fuel sensory profile:
 - **Smell:** Citrus-forward with fuel and sweet undertones. The limonene-dominant profile gives it a bright, orange-citrus quality, while the caryophyllene and underlying Gelato genetics contribute a fuel-like sharpness and creamy sweetness. The overall aroma is complex and noticeable.
 - **Taste:** Citrus and sweet on inhalation, with fuel and earthy notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate complex profiles that balance fruity sweetness with fuel-forward depth.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

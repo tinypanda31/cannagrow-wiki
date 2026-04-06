@@ -73,8 +73,8 @@ Super Lemon Haze is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, suitable for a wide range of users seeking daytime creative stimulation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intense lemon and citrus with sweet undertones. The limonene expression is among the most pronounced of any strain, producing a genuine, immediate lemon-candy aroma that is immediately recognizable.
 - **Taste:** Lemon and citrus flavors on the inhale, with sweet and slightly herbal notes on the exhale. The flavor is bright and refreshing, with a lemon-candy quality that is distinctive and widely appealing.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

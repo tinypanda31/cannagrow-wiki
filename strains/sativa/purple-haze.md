@@ -73,8 +73,8 @@ Purple Haze is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear-headed and creative, making Purple Haze suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, berry, and earthy with herbal undertones. The myrcene-terpinolene combination gives it a warm, fruity quality with the berry sweetness being the most prominent feature, while the caryophyllene adds an earthy, spicy foundation.
 - **Taste:** Sweet and berry-like on the inhale, with earthy and slightly herbal notes on the exhale. The flavor is smooth and approachable, appealing to users who appreciate fruity, classic sativa profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

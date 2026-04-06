@@ -72,8 +72,8 @@ Pink Kush is widely reported to produce:
 
 **Intensity:** Strong. Pink Kush's high THC range and deeply sedating effects can be intense, making it best suited for experienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavy sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavy sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Pink Kush presents a sweet, dessert-like sensory profile:
 - **Smell:** Sweet and floral with vanilla and earthy undertones. The linalool-influenced profile gives it a soft, almost candy-like quality that is noticeably different from the fuel-forward OG Kush standard. The sweetness is prominent and recognizable, with a floral character that hints at rose or lavender.
 - **Taste:** Sweet and floral on inhalation, with vanilla and earthy notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate sweet, candy-like indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

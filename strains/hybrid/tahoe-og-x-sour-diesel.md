@@ -74,8 +74,8 @@ Tahoe OG x Sour Diesel is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 18-23% THC range delivers potent effects that build through the initial energetic phase into deeper body relaxation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The two-stage effect profile means the experience can shift significantly over time.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The two-stage effect profile means the experience can shift significantly over time.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fuel, pine, and citrus with pungent depth. The caryophyllene-dominant fuel base from both parents is layered, with the sharp Sour Diesel diesel sitting atop the deeper Tahoe OG pine-earthy character. Limonene adds bright citrus accents. The overall aroma is among the most pungent and complex fuel-forward profiles in cannabis.
 - **Taste:** Fuel and pine on the inhale, with citrus and earthy notes on the exhale. The diesel character is prominent, with the pine adding depth and the citrus providing a bright counterpoint.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

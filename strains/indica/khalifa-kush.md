@@ -72,8 +72,8 @@ Khalifa Kush is widely reported to produce:
 
 **Intensity:** Moderate to strong. The balanced onset makes Khalifa Kush accessible to a wide range of users, while the relaxing transition provides satisfying depth for regular consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Khalifa Kush presents a classic OG-derived sensory profile:
 - **Smell:** Fuel and citrus dominate the initial aroma, with earthy undertones developing as the buds are broken apart. The limonene expression is particularly pronounced, giving the strain a bright, lemony character that distinguishes it from heavier OG derivatives.
 - **Taste:** Fuel and citrus on inhalation, with earthy and slightly piney notes on the exhale. The flavor is clean and satisfying, with the citrus character carrying through from aroma to taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

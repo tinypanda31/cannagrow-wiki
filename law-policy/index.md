@@ -10,8 +10,8 @@ tags: law, policy, legalization, decriminalization, prohibition, global
 
 ---
 
-::: danger
-**Legal Disclaimer: This page is not legal advice.** Cannabis laws change frequently and vary dramatically by jurisdiction. Nothing on this page or anywhere in this section of CannaGrow should be relied upon as a substitute for consulting qualified legal counsel or verifying current law in your jurisdiction. CannaGrow accepts no liability for actions taken based on this content. Always verify current law independently.
+**🚨 **Legal Disclaimer: This page is not legal advice.** Cannabis laws change frequently and vary dramatically by jurisdiction. Nothing on this page or anywhere in this section of CannaGrow should be relied upon as a substitute for consulting qualified legal counsel or verifying current law in your jurisdiction. CannaGrow accepts no liability for actions taken based on this content. Always verify current law independently.**
+
 :::
 
 ---
@@ -65,9 +65,7 @@ A critical legal distinction in modern cannabis law is the differentiation betwe
 | Canada | ≤0.3% THC by dry weight | Aligned with US model |
 | Uruguay | ≤0.3% THC by dry weight | Aligned with international standards |
 
-This distinction is legally consequential but scientifically arbitrary. Two plants that are genetically nearly identical are treated entirely differently under law based on a single chemical threshold. This has created massive regulatory gaps and markets for **derivative cannabinoids** (delta-8-THC, THCA, HHC) that exploit the letter of hemp definitions while producing effects comparable to Schedule I cannabis products. See [[/glossary]] for definitions of specific cannabinoids.
-
-::: info
+This distinction is legally consequential but scientifically arbitrary. Two plants that are genetically nearly identical are treated entirely differently under law based on a single chemical threshold. This has created massive regulatory gaps and markets for **derivative cannabinoids** (delta-8-THC, THCA, HHC) that exploit the letter of hemp definitions while producing effects comparable to Schedule I cannabis products. See [[/glossary]] for definitions of specific cannabinoids. info
 The hemp/cannabis legal distinction is a product of political compromise, not scientific classification. Cannabis plants containing 0.31% THC are chemically and botanically indistinguishable from those containing 0.29% THC, yet they may be subject to entirely different legal regimes.
 :::
 
@@ -141,8 +139,8 @@ The following table categorizes countries by their current cannabis legal status
 |--------|-----------|-------|
 | **Decriminalized** (civil penalties only for small amounts) | Portugal, Spain, Netherlands, Czech Republic, Switzerland, Belgium, Austria, Italy, Croatia, Estonia, Chile, Argentina, Peru, Ecuador, Costa Rica, Colombia, Bolivia, Jamaica (small amounts) | Definitions of "small amount" vary widely (from 5 grams to 30 grams). Enforcement also varies significantly — decriminalization on paper does not always equal decriminalization in practice, particularly for racial minorities, immigrants, and economically disadvantaged communities. The Netherlands operates a formal toleration policy (gedoogbeleid) for coffeeshop sales. See [[/law-policy/decriminalization/portugal]], [[/law-policy/decriminalization/spain]], [[/law-policy/decriminalization/netherlands]]. |
 
-::: warning
-**Enforcement disparities persist.** In jurisdictions that have decriminalized cannabis, studies consistently show that racial minorities continue to face disproportionate enforcement action even where laws have changed. Decriminalization reforms the law but does not automatically reform policing practice, implicit bias, or structural inequality. See the **Justice Gap** section below.
+**⚠️ **Enforcement disparities persist.** In jurisdictions that have decriminalized cannabis, studies consistently show that racial minorities continue to face disproportionate enforcement action even where laws have changed. Decriminalization reforms the law but does not automatically reform policing practice, implicit bias, or structural inequality. See the **Justice Gap** section below.**
+
 :::
 
 ### Medical Only
@@ -270,9 +268,7 @@ As more nations legalize, the diplomatic cost of maintaining prohibition increas
 
 ---
 
-## Important Caveats
-
-::: warning
+## Important Caveats warning
 **Readers must be aware of the following limitations and risks when using this section.**
 :::
 

@@ -74,8 +74,8 @@ Amnesia Haze is widely reported to produce:
 
 **Intensity:** Strong. Amnesia Haze delivers potent sativa effects that are best suited to experienced users, particularly at the upper end of the THC range.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus, earthy, and sweet with herbal undertones. The aroma is bright and complex, with a noticeable citrus brightness layered over an earthy Haze foundation.
 - **Taste:** Citrus and earthy on the inhale, with sweet and slightly herbal notes on the exhale. The flavor is clean and layered, with a pleasant sweetness that complements the classic Haze earthiness.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

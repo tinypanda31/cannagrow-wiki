@@ -73,8 +73,8 @@ Garlic Cookies is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range and indica-dominant genetics produce effects that are best suited for evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Garlic Cookies presents a pungent, garlic-forward sensory profile with sweet com
 - **Smell:** Pronounced garlic and earthy aromas with sweet undertones. The GMO parent is immediately apparent in the pungent, diesel-garlic character, while the Thin Mint GSC genetics contribute a sweet, slightly minty complexity. The cured buds carry a rich, layered aroma that is both pungent and inviting -- a distinctive combination that defines the strain's identity.
 - **Taste:** Garlic and earthy flavors on inhalation, with sweet and slightly minty notes on the exhale. The flavor is bold and complex, with limonene adding citrus brightness that bridges the garlic punch with the Cookie-family sweetness. The finish carries an earthy warmth that is characteristic of GMO-derived genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Gorilla Glue #4 is widely reported to produce:
 
 **Intensity:** Very strong. GG4 is one of the most potent strains available and is best suited to experienced users with established tolerance. Newer users should start with very low doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, pine, sour, and chocolate with pungent undertones. The aroma is deep and complex, with a sour-pungent quality layered over an earthy foundation and faint chocolate notes inherited from the Chocolate Diesel parent.
 - **Taste:** Earthy and pine on the inhale, with sour and faint chocolate notes on the exhale. The flavor is bold and complex, appealing to users who appreciate deep, traditional cannabis taste profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

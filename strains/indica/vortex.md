@@ -70,8 +70,8 @@ Vortex is widely reported to produce:
 
 **Intensity:** Moderate. Vortex is accessible to less experienced users due to its moderate THC range and balanced effect profile.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Vortex presents a sweet, fruit-forward sensory profile:
 - **Smell:** Sweet and earthy with fruity undertones. The myrcene-dominant profile gives it a musky, herbal base, while terpinolene adds a fresh, slightly fruity character that lifts the heavier earthy notes. The overall aroma is sweet and recognizable, with a fruity quality that is appealing without being overpowering.
 - **Taste:** Sweet and fruity on inhalation, with earthy and slightly peppery notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate fruity indica profiles with underlying earthy depth.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

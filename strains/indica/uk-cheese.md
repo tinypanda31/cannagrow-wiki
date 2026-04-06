@@ -72,8 +72,8 @@ UK Cheese is widely reported to produce:
 
 **Intensity:** Moderate. UK Cheese's moderate THC range and balanced effect profile make it accessible to a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ UK Cheese presents a uniquely sharp and distinctive sensory profile:
 - **Smell:** Sharp cheese, earthy, and skunky. The aroma is unmistakably cheese-like, with a pungent, sharp character that is immediately recognizable and unlike most other cannabis cultivars. The Skunk #1 parentage is present in the underlying skunky depth, but the cheese character dominates. The smell is very strong and noticeable.
 - **Taste:** Cheesy and earthy on inhalation, with skunky and slightly spicy notes on the exhale. The flavor is bold and distinctive, appealing to users who appreciate unique and unconventional terpene profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Super Silver Haze is widely reported to produce:
 
 **Intensity:** Strong. The effects are pronounced and long-lasting, making SSH best suited to experienced sativa users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus, earthy, and spicy with herbal undertones. The terpinolene-caryophyllene combination gives it a bright, sharp aroma with a spicy depth that is distinctive of quality Haze genetics.
 - **Taste:** Citrus and earthy on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is clean and classic, with a pleasant citrus brightness.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

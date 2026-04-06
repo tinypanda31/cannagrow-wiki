@@ -51,8 +51,8 @@ A typical bubble bag set includes the following bags (listed from coarsest to fi
 | **45** | Prime target bag -- smaller trichomes | **Excellent quality** -- full-melt candidate |
 | **25** | Finest particles and contaminants | Variable quality; often heads-in-tails |
 
-::: info
-The 73 and 45 micron bags typically produce the highest quality hash. Trichome heads in this size range are most likely to be intact and pure, yielding full-melt hash suitable for dabbing.
+**ℹ️ The 73 and 45 micron bags typically produce the highest quality hash. Trichome heads in this size range are most likely to be intact and pure, yielding full-melt hash suitable for dabbing.**
+
 :::
 
 ### Optional but Recommended
@@ -78,9 +78,7 @@ Properly frozen starting material is essential for quality ice-water hash.
 **Using dried and cured material:**
 1. Ensure material is fully dried (60-65% relative humidity)
 2. Freeze for at least 24-48 hours before washing
-3. Note: cured material typically produces slightly lower yields than fresh frozen
-
-::: tip
+3. Note: cured material typically produces slightly lower yields than fresh frozen tip
 Fresh frozen material -- harvested and immediately frozen without drying or curing -- preserves the maximum terpene profile and is the starting material for [Live Resin](/extraction/live-resin) and [Live Rosin](/extraction/live-rosin).
 :::
 
@@ -115,8 +113,8 @@ Agitation dislodges trichome heads from the plant surface. The technique and dur
 - **Subsequent washes:** 10-15 minutes each. Each wash after the first yields progressively lower-quality material as more plant matter breaks down.
 - **Number of washes:** 5-8 washes per batch of material is typical. Quality declines noticeably after wash 3 or 4.
 
-::: warning
-Over-agitation is one of the most common beginner mistakes. Aggressive or prolonged agitation breaks plant matter into small particles that pass through the screens, contaminating the hash. Gentle, patient agitation produces cleaner results.
+**⚠️ Over-agitation is one of the most common beginner mistakes. Aggressive or prolonged agitation breaks plant matter into small particles that pass through the screens, contaminating the hash. Gentle, patient agitation produces cleaner results.**
+
 :::
 
 ### Step 5: Settling and Collection
@@ -149,9 +147,7 @@ Proper drying is arguably the most critical factor in producing hash that can be
 3. Place in a dark, dry environment with good air circulation
 4. Ideal conditions: 60-70 degrees F (15-21 degrees C), 45-55% relative humidity
 5. Drying time: 7-14 days depending on thickness and environmental conditions
-6. Hash is fully dry when it crumbles rather than smears when pressed
-
-::: tip
+6. Hash is fully dry when it crumbles rather than smears when pressed tip
 Flip or break up the hash periodically during drying to expose all surfaces to air. Uneven drying can leave moist pockets where mold develops.
 :::
 
@@ -237,8 +233,8 @@ Yields vary dramatically based on starting material:
 | Dried and cured flower | 15-40 grams | Slightly lower than fresh frozen |
 | Dried trim | 5-15 grams | Economy option |
 
-::: info
-Yield is only one metric -- quality matters far more than quantity. A small amount of full-melt hash is more valuable than a large amount of contaminated material.
+**ℹ️ Yield is only one metric -- quality matters far more than quantity. A small amount of full-melt hash is more valuable than a large amount of contaminated material.**
+
 :::
 
 ## Edible Applications
@@ -253,9 +249,7 @@ Ice-water hash is **very well suited for edibles**, particularly the lower star 
 |-------------|-------------------|-------|
 | **1-2 star** | **Ideal for edibles** | Higher plant matter and chlorophyll content makes this grade unpalatable for dabbing, but these compounds are irrelevant in edibles where flavor is masked by other ingredients |
 | **3 star** | **Good for edibles** | Moderate purity; fine for edibles, though dabbing-grade material may be better used for concentrates |
-| **4-6 star** | **Premium edibles** | Full-melt hash can absolutely be used for edibles, but the cost-to-benefit ratio is poor -- these grades command premium prices for dabbing |
-
-::: tip
+| **4-6 star** | **Premium edibles** | Full-melt hash can absolutely be used for edibles, but the cost-to-benefit ratio is poor -- these grades command premium prices for dabbing | tip
 Using 1-2 star hash for edibles is an excellent way to extract maximum value from your ice-water hash production. The plant matter that makes it unsuitable for clean dabbing does not negatively impact edible experiences.
 :::
 

@@ -70,8 +70,8 @@ Strawberry Fields is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear-headed and functional, well-suited to users seeking daytime creative stimulation without overwhelming intensity.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet strawberry with earthy undertones. The strawberry aroma is genuine and recognizable, making this one of the more convincing berry-flavored strains. The earthy base prevents the sweetness from being cloying.
 - **Taste:** Strawberry and sweet flavors on the inhale, with earthy and slightly herbal notes on the exhale. The berry flavor is distinct and pleasant, appealing to users who enjoy fruity strain profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

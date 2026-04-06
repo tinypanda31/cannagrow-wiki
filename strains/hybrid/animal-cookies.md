@@ -75,8 +75,8 @@ Animal Cookies is widely reported to produce:
 
 **Intensity:** Strong to very strong. The high THC content and potent effect progression make Animal Cookies best suited to experienced users. Beginners should start with very small doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, inexperienced users may experience overwhelming effects at standard doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, inexperienced users may experience overwhelming effects at standard doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, diesel, and earthy with subtle fuel undertones. The aroma is bold and complex, with the sweet-cookie character inherited from GSC blending with the fuel-diesel intensity from the Animal Mints side. The overall profile is pungent and noticeable.
 - **Taste:** Sweet and earthy on the inhale, with diesel and fuel notes on the exhale. The flavor is rich and layered, with a cookie-like sweetness that transitions into a heavier, fuel-forward finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

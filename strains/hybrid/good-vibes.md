@@ -74,8 +74,8 @@ Good Vibes is widely reported to produce:
 
 **Intensity:** Moderate to strong. The sativa-dominant cerebral effects are noticeable and engaging, particularly for users with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The uplifting cerebral effects may be stimulating for anxiety-prone users at higher doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The uplifting cerebral effects may be stimulating for anxiety-prone users at higher doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Tropical and citrus-forward with sweet undertones. The terpinolene and limonene combination gives it a bright, mango-tropical aroma with noticeable citrus brightness. The aroma is clean and refreshing, with the tropical character being the most prominent note.
 - **Taste:** Tropical and citrus on the inhale, with sweet and slightly herbal notes on the exhale. The mango-tropical flavor inherited from Mango Haze is prominent, with citrus brightening adding complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

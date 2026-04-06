@@ -70,8 +70,8 @@ Banana OG is widely reported to produce:
 
 **Intensity:** Strong. The 17-22% THC range combined with the rich terpene profile produces noticeable effects even at moderate doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The tropical flavor should not be confused with a lower potency -- Banana OG is a strong cultivar.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The tropical flavor should not be confused with a lower potency -- Banana OG is a strong cultivar.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Distinctive ripe banana and tropical fruit with earthy, OG Kush undertones. The myrcene dominance creates a sweet, almost candy-like fruit aroma that is immediately recognizable. Underlying earthy and diesel notes from the OG genetics add depth and prevent the profile from being one-dimensional.
 - **Taste:** Sweet banana and tropical fruit on the inhale with earthy, slightly diesel-like notes on the exhale. The flavor closely matches the aroma, which is uncommon in cannabis cultivars. The finish is smooth and sweet with a faint citrus tang from the limonene content.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Clementine is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are bright and accessible, making Clementine suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bright citrus and orange with sweet, tangy undertones. The limonene dominance makes the aroma immediately recognizable as citrus-forward -- it is one of the most distinctly orange-smelling strains available.
 - **Taste:** Orange and citrus on the inhale, with sweet, slightly tangy notes on the exhale. The flavor is clean and refreshing, closely matching the aroma and appealing to users who appreciate fruity, citrus-forward cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

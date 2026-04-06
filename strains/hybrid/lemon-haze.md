@@ -75,8 +75,8 @@ Lemon Haze is widely reported to produce:
 
 **Intensity:** Mild to moderate. The moderate THC range and sativa-leaning effects make Lemon Haze suitable for daytime use and accessible to newer consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bright lemon, citrus, and herbal with earthy undertones. The lemon aroma is the defining characteristic -- sharp, clean, and unmistakably citrus. The Haze influence adds an herbal complexity, while the Skunk genetics provide an earthy base. The overall profile is fresh, clean, and intensely lemon-forward.
 - **Taste:** Bright lemon on the inhale, with citrus, herbal, and slightly earthy notes on the exhale. The flavor is crisp and refreshing, with a clean lemon character that is among the most citrus-forward in cannabis.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -7,8 +7,8 @@ description: Comprehensive reference of 208 cannabis strains with cannabinoid pr
 
 A comprehensive reference of notable cannabis cultivars, organized by type, with detailed cannabinoid profiles, terpene data, reported effects, and cultivation notes.
 
-:::info
-**Note on Classification** -- The traditional indica/sativa/hybrid classification is a cultural convention, not a scientific one. A plant's effects are determined by its **cannabinoid and terpene profile**, not by its growth morphology. "Indica" plants tend to be shorter and broader-leafed; "sativa" plants tend to be taller and narrower-leafed. However, these morphological differences do not reliably predict psychoactive effects. Always refer to lab-tested cannabinoid and terpene data rather than type labels when evaluating a strain.
+**ℹ️ **Note on Classification** -- The traditional indica/sativa/hybrid classification is a cultural convention, not a scientific one. A plant's effects are determined by its **cannabinoid and terpene profile**, not by its growth morphology. "Indica" plants tend to be shorter and broader-leafed; "sativa" plants tend to be taller and narrower-leafed. However, these morphological differences do not reliably predict psychoactive effects. Always refer to lab-tested cannabinoid and terpene data rather than type labels when evaluating a strain.**
+
 :::
 
 ---
@@ -235,9 +235,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 204 | [Toad](/strains/hybrid/toad) | Hybrid | 18-24 | <1 | Myrcene, Caryophyllene, Linalool | Earthy, balanced, unique | All-purpose, exploration | Moderate | 55-65 days |
 | 205 | [Toxic Waste](/strains/hybrid/toxic-waste) | Hybrid | 21-27 | <1 | Caryophyllene, Myrcene, Limonene | Intense, gassy, hazardous | Evening, extreme potency | Difficult | 60-70 days |
 | 206 | [Watermelon Zkittlez](/strains/hybrid/watermelon-zkittlez) | Indica-Dominant | 18-24 | <1 | Myrcene, Caryophyllene, Linalool | Fruity, candy-like, relaxing | Evening, flavor enjoyment | Moderate | 55-65 days |
-| 207 | [Yellow OG](/strains/hybrid/yellow-og) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | Golden, classic OG, uplifting | Daytime-to-evening | Moderate | 60-70 days |
-
-:::warning
+| 207 | [Yellow OG](/strains/hybrid/yellow-og) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | Golden, classic OG, uplifting | Daytime-to-evening | Moderate | 60-70 days |warning
 **THC and CBD values are approximate ranges** based on typical lab testing data. Actual values vary significantly between phenotypes, growing conditions, harvest timing, curing methods, and testing laboratories. Always consult a Certificate of Analysis (COA) for the specific batch you are evaluating.
 :::
 
@@ -269,8 +267,8 @@ A COA is a document from an independent laboratory that verifies the cannabinoid
 | **Pesticide Screening** | Detection of agricultural chemical residues |
 | **Heavy Metals** | Lead, cadmium, mercury, and arsenic levels |
 
-:::info
-**Total THC calculation:** Total THC = THCA x 0.877 + THC. THCA (tetrahydrocannabinolic acid) is the non-psychoactive precursor that converts to THC through decarboxylation (heating). The 0.877 factor accounts for molecular weight loss during conversion.
+**ℹ️ **Total THC calculation:** Total THC = THCA x 0.877 + THC. THCA (tetrahydrocannabinolic acid) is the non-psychoactive precursor that converts to THC through decarboxylation (heating). The 0.877 factor accounts for molecular weight loss during conversion.**
+
 :::
 
 ### Understanding Lab Testing Variability
@@ -286,9 +284,7 @@ For these reasons, the values on this wiki represent **typical ranges** observed
 
 ---
 
-## Disclaimers
-
-:::warning
+## Disclaimerswarning
 **Individual Variation** -- Reported effects on these pages reflect commonly described experiences in user surveys and published literature. Individual responses vary widely based on genetics, tolerance, dose, method of consumption, setting, and concurrent substance use. Effects listed here are not guarantees or predictions of any individual's experience.
 
 **Not Medical Advice** -- Information about therapeutic or medical uses on these pages reflects commonly reported applications and published research. It does not constitute medical advice. Consult a qualified healthcare professional before using cannabis for any therapeutic purpose.

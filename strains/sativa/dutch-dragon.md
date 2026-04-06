@@ -72,8 +72,8 @@ Dutch Dragon is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear and functional, making Dutch Dragon suitable for extended daytime sessions.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pine-forward with earthy undertones and a spicy edge. The terpinolene contributes a subtle floral sweetness, while the pinene delivers a crisp, clean pine freshness that is immediately recognizable. The caryophyllene adds a peppery warmth that grounds the profile and prevents it from being one-dimensional.
 - **Taste:** Pine and earth on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is clean and classic, appealing to users who appreciate traditional pine-forward cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

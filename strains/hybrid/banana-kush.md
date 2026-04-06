@@ -76,8 +76,8 @@ Banana Kush is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 18-23% THC range delivers meaningful potency while remaining accessible to a broad range of consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Tropical banana, sweet, and earthy with subtle citrus undertones. The banana aroma is the defining characteristic, supported by an earthy Kush base and a sweet fruit top note. The overall profile is approachable and distinctly tropical.
 - **Taste:** Sweet banana on the inhale, with earthy Kush, citrus, and subtle spice notes on the exhale. The flavor is smooth and fruit-forward, making it one of the most tropical-tasting strains available.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

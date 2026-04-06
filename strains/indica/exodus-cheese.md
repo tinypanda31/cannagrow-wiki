@@ -74,8 +74,8 @@ Exodus Cheese is widely reported to produce:
 
 **Intensity:** Moderate. Exodus Cheese is accessible to less experienced users due to its moderate THC range and balanced effect profile.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Exodus Cheese is famous for its unmistakable sensory profile:
 - **Smell:** Sharp, pungent cheese aroma with earthy and skunky undertones. The caryophyllene-dominant profile gives it a peppery, almost funky quality that is immediately recognizable. Some users detect hints of aged cheddar or sour cream alongside the earthier notes.
 - **Taste:** Cheesy and earthy on inhalation, with peppery and slightly skunky notes on the exhale. The flavor is bold and distinctive, appealing to users who appreciate complex, savory cannabis profiles rather than sweet or fruity ones.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

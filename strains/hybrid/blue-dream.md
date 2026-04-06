@@ -73,8 +73,8 @@ Blue Dream is widely reported to produce:
 
 **Intensity:** Mild to moderate. Blue Dream's approachable effects make it one of the most universally accessible strains, suitable for beginners and experienced users alike.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Berry, sweet, and herbal with earthy undertones. The Blueberry inheritance gives it a recognizable sweet berry aroma, while the Haze parent adds an herbal, slightly earthy complexity.
 - **Taste:** Sweet berry on the inhale, with herbal and slightly earthy notes on the exhale. The flavor is smooth and palatable, making it one of the most broadly appealing strains by taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -75,8 +75,8 @@ Headband is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 17-24% THC range and balanced effect profile make Headband accessible to both newer and experienced consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The signature headband pressure sensation is commonly reported but not universally experienced.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The signature headband pressure sensation is commonly reported but not universally experienced.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Diesel, lemon, and earthy with pine undertones. The diesel fuel character inherited from Sour Diesel is prominent, while the lemon citrus from both parents adds a bright top note. The earthy OG Kush base provides depth. The overall profile is pungent, complex, and immediately recognizable as a cross of two legendary aromatic strains.
 - **Taste:** Diesel and lemon on the inhale, with earthy, pine, and subtle citrus notes on the exhale. The flavor is bold and layered, with the sharp diesel character softening into a lemon-earthy finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

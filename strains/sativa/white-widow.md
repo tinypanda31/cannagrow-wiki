@@ -71,8 +71,8 @@ White Widow is widely reported to produce:
 
 **Intensity:** Strong to very strong. The 18-25% THC range means White Widow can produce significant effects even at moderate doses, particularly for consumers with low tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. White Widow's high THC range means dosing should be approached carefully, particularly by inexperienced consumers. The balanced hybrid effects mean the experience can shift toward either cerebral energy or body relaxation depending on dose and individual biology.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. White Widow's high THC range means dosing should be approached carefully, particularly by inexperienced consumers. The balanced hybrid effects mean the experience can shift toward either cerebral energy or body relaxation depending on dose and individual biology.**
+
 :::
 
 ## Aroma & Flavor
@@ -80,9 +80,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and woody with pine freshness. The myrcene-dominant profile creates the characteristic earthy, musky aroma layered with pine freshness from pinene and woody depth from caryophyllene. The overall scent is rich, resinous, and complex, with the dense trichome coverage contributing to a particularly aromatic profile.
 - **Taste:** Earthy and woody on the inhale with pine and slightly spicy notes on the exhale. The flavor carries the rich, resinous character of the aroma with a smooth, earthy-woody palate and a faint pine-and-spice finish. The smooth smoke is a hallmark of well-cured White Widow flower.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

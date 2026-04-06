@@ -44,8 +44,8 @@ When cannabis topicals are applied:
 3. **Localized effects** occur at and near the application site
 4. **Systemic absorption is minimal** -- most topicals do NOT produce psychoactive effects because cannabinoids do not enter the bloodstream in significant amounts
 
-::: info
-Standard cannabis topicals are generally NON-PSYCHOACTIVE. The cannabinoids act locally on skin and underlying tissue receptors without entering systemic circulation in amounts sufficient to reach the brain. This makes topicals suitable for use during work, driving, and other activities where impairment would be a concern.
+**ℹ️ Standard cannabis topicals are generally NON-PSYCHOACTIVE. The cannabinoids act locally on skin and underlying tissue receptors without entering systemic circulation in amounts sufficient to reach the brain. This makes topicals suitable for use during work, driving, and other activities where impairment would be a concern.**
+
 :::
 
 ### Common Uses
@@ -179,9 +179,7 @@ Transdermal patches work by:
 | **Variable absorption** | Individual skin characteristics affect delivery rate |
 | **Psychoactive risk** (THC patches) | May produce unintended intoxication |
 
-## Making Cannabis-Infused Topicals at Home
-
-::: info
+## Making Cannabis-Infused Topicals at Home info
 The following is provided for educational purposes. Always comply with applicable laws regarding cannabis possession and processing.
 :::
 

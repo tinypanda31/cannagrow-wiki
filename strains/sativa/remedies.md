@@ -75,8 +75,8 @@ Remedies is widely reported to produce:
 
 **Intensity:** Very mild. The effects are subtle and purely therapeutic, with no intoxicating component. Remedies is suitable for users of all ages and tolerance levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. CBD-rich strains like Remedies produce virtually no intoxication. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. CBD-rich strains like Remedies produce virtually no intoxication. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, pine, and sweet with subtle herbal undertones. The caryophyllene-humulene combination gives it a warm, organic quality that is pleasant and approachable without being overpowering.
 - **Taste:** Earthy and pine on the inhale, with sweet and slightly herbal notes on the exhale. The flavor is smooth and gentle, appealing to users who may be sensitive to strong cannabis taste, including those new to cannabis.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

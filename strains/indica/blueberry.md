@@ -74,8 +74,8 @@ Blueberry is widely reported to produce:
 
 **Intensity:** Moderate. Blueberry's effects are enjoyable and accessible, making it suitable for a range of experience levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Blueberry is famous for its distinctive sensory profile:
 - **Smell:** Unmistakable fresh blueberry sweetness, with earthy and floral undertones. The aroma is sweet and fruity without being artificially candy-like -- it closely resembles actual ripe blueberries.
 - **Taste:** Fresh blueberry flavor on both inhale and exhale, with subtle earthy and slightly spicy undertones. The smooth, sweet flavor is one of the most recognizable in cannabis and is the primary reason for the strain's enduring popularity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

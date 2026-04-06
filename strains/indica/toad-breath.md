@@ -73,8 +73,8 @@ Toad Breath is widely reported to produce:
 
 **Intensity:** Strong. The high THC range and indica-dominant genetics produce intense effects that are best reserved for evening use and may be overwhelming for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Toad Breath presents a rich, layered sensory profile:
 - **Smell:** Sweet and fuel-forward with earthy undertones. The Toad genetics contribute a pungent, diesel-like character that is balanced by the Gelato Breath parent's sweet, dessert-like complexity. The cured buds carry a rich aroma that is simultaneously sweet and pungent.
 - **Taste:** Sweet and earthy on inhalation, with fuel notes on the exhale. The flavor is rich and layered, with limonene adding citrus brightness that prevents the profile from becoming one-dimensional. The Gelato Breath influence is most apparent in the sweet, slightly creamy finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

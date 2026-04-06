@@ -7,8 +7,8 @@ description: How to read and interpret the standard strain pages in the CannaGro
 
 Every strain page in this database follows a consistent template designed to make comparison and research straightforward. This guide explains each section, what the data means, and how to interpret it correctly.
 
-:::info
-**All strain pages use this standard structure.** If you are contributing to this wiki, follow this template for any new strain pages you create.
+**ℹ️ **All strain pages use this standard structure.** If you are contributing to this wiki, follow this template for any new strain pages you create.**
+
 :::
 
 ---
@@ -36,9 +36,7 @@ A summary table with the most frequently referenced data points:
 | **Dominant Terpenes** | The two or three most abundant terpenes by concentration |
 | **Flowering Time** | Typical range from flip to harvest under indoor conditions |
 | **Yield** | Relative yield expectation (low, moderate, high) with approximate figures |
-| **Growing Difficulty** | Easy, Moderate, or Difficult based on pest/disease resistance, training needs, and environmental sensitivity |
-
-:::warning
+| **Growing Difficulty** | Easy, Moderate, or Difficult based on pest/disease resistance, training needs, and environmental sensitivity |warning
 **Quick stats are approximate ranges.** See the sections below on variability and COAs for important context about why these numbers are ranges rather than exact values.
 :::
 
@@ -82,8 +80,8 @@ Lists the dominant and secondary terpenes found in the strain, typically with ap
 | Ocimene | Sweet, herbal, citrus |
 | Linalool | Floral, lavender |
 
-:::info
-**Terpene expression varies with growing conditions.** Temperature, humidity, light spectrum, soil composition, and harvest timing all affect terpene production. The profiles listed represent typical results under standard growing conditions but can vary significantly.
+**ℹ️ **Terpene expression varies with growing conditions.** Temperature, humidity, light spectrum, soil composition, and harvest timing all affect terpene production. The profiles listed represent typical results under standard growing conditions but can vary significantly.**
+
 :::
 
 ### 6. Effects & Experience
@@ -93,9 +91,7 @@ Describes commonly reported effects, organized by:
 - **Positive effects** -- Relaxation, euphoria, creativity, energy, focus, and so on
 - **Onset** -- How quickly effects are typically felt (varies by consumption method)
 - **Duration** -- How long effects typically last
-- **Intensity** -- General potency characterization (mild, moderate, strong, very strong)
-
-:::warning
+- **Intensity** -- General potency characterization (mild, moderate, strong, very strong)warning
 **Effects are self-reported.** Data in this section comes from user surveys, strain reviews, and published literature. Individual experiences vary widely. Factors include dose, tolerance, individual biology, consumption method, setting, and concurrent substance use. These descriptions are not predictions of any individual's experience.
 :::
 
@@ -107,9 +103,9 @@ Documents the sensory profile of the strain, including smell (aroma of the dried
 
 Lists therapeutic applications commonly associated with the strain in user reports and published research. This section is included for informational purposes only.
 
-:::danger
+**🚨 Danger**
+
 **Not Medical Advice** -- This section does not constitute medical advice. Cannabis affects individuals differently. Consult a qualified healthcare professional before using cannabis for any therapeutic purpose. Do not substitute strain descriptions for professional medical guidance.
-:::
 
 ### 9. Adverse Effects
 

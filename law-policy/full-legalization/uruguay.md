@@ -10,9 +10,9 @@ tags: law-policy, legalization, Uruguay, South America, social clubs, pharmacy m
 
 ---
 
-::: danger
+**🚨 Danger**
+
 **Disclaimer:** This page is provided for educational purposes only and does not constitute legal advice. Cannabis laws change frequently. Always verify current law in your jurisdiction and consult qualified legal counsel before taking any action. CannaGrow accepts no liability for actions taken based on this content.
-:::
 
 ---
 

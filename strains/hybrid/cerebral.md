@@ -76,8 +76,8 @@ Cerebral is widely reported to produce:
 
 **Intensity:** Mild to moderate. The moderate THC range and cerebral-leaning effects make Cerebral suitable for daytime use and accessible to newer consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, pine, and earthy with herbal undertones. The pine aroma is the defining characteristic, supported by a sweet top note and an earthy base. The overall profile is fresh and clean, reminiscent of a forest environment.
 - **Taste:** Sweet and pine-forward on the inhale, with earthy and herbal notes on the exhale. The flavor is crisp and refreshing, with a clean pine character that distinguishes it from sweeter or heavier strains.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Rodelizer is widely reported to produce:
 
 **Intensity:** Moderate. The THC range delivers an approachable sativa-forward experience that is functional and engaging, suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic effects may be unsuitable for users sensitive to sativa stimulation.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic effects may be unsuitable for users sensitive to sativa stimulation.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet and earthy with floral undertones. The terpinolene-dominant profile produces a floral, herbal sweetness that is layered with earthy depth. The overall aroma is bright and inviting, with a sweetness that is more floral and herbal than dessert-like. The floral character is the strain's most distinctive feature.
 - **Taste:** Sweet and earthy on the inhale, with floral and slightly piney notes on the exhale. The flavor is clean and refreshing, with the floral character carrying through the experience and providing a crisp, sativa-forward taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

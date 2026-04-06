@@ -70,8 +70,8 @@ Durban Poison is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional rather than overwhelming, making Durban Poison well-suited to daytime use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet anise and licorice with earthy and citrus undertones. The terpinolene-dominant profile gives it a distinctive, recognizable aroma that is sweet but not fruity -- more herbal and spice-like.
 - **Taste:** Sweet anise and licorice on the inhale, with earthy and slightly piney notes on the exhale. The flavor is clean and smooth, with a pleasant sweetness that lingers.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

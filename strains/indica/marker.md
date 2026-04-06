@@ -74,8 +74,8 @@ Marker is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range makes Marker approachable for users with some experience while still delivering meaningful depth for regular consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Marker presents a fuel-forward sensory profile with earthy and citrus complexity
 - **Smell:** Pronounced fuel and earthy aromas with citrus undertones. The OG Kush influence is immediately apparent in the diesel character, while the Afghani genetics contribute a deep, earthy sweetness. Limonene adds a faint citrus brightness that lifts the heavier notes.
 - **Taste:** Fuel and earthy flavors on inhalation, with citrus and slightly piney notes on the exhale. The flavor is pungent and robust, appealing to users who appreciate the classic West Coast diesel profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

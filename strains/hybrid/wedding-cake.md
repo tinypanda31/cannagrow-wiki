@@ -73,8 +73,8 @@ Wedding Cake is widely reported to produce:
 
 **Intensity:** Strong. The high THC content delivers potent effects best suited to experienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, vanilla, and earthy with subtle cherry and spicy undertones. The aroma is dessert-like and indulgent, with a noticeable vanilla sweetness that gives the strain its "Wedding Cake" name.
 - **Taste:** Sweet vanilla on the inhale, with earthy and slightly cherry notes on the exhale. The flavor is smooth and dessert-forward, appealing to users who appreciate sweet, indulgent cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

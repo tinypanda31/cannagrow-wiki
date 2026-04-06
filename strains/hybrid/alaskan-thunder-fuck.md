@@ -75,8 +75,8 @@ Alaskan Thunder Fuck is widely reported to produce:
 
 **Intensity:** Moderate to strong. The sativa-dominant cerebral effects can be quite intense, particularly for users with lower tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic cerebral effects may be overwhelming for anxiety-prone users at higher doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic cerebral effects may be overwhelming for anxiety-prone users at higher doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pine-forward with earthy and sweet undertones. The pinene-dominant profile gives it a fresh, forest-like aroma reminiscent of pine needles and sap. The myrcene from the Afghani parent adds an earthy depth, while subtle sweetness rounds out the bouquet.
 - **Taste:** Pine and earthy on the inhale, with a sweet and slightly spicy exhale. The flavor is clean and fresh, with the pine character being the most prominent note.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

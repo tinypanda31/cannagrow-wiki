@@ -75,8 +75,8 @@ Do-Si-Dos is widely reported to produce:
 
 **Intensity:** Strong to very strong. The high THC content (up to 28%) and heavy indica-leaning effects make Do-Si-Dos best suited to experienced users. Beginners should start with very small doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content and heavy body effects, inexperienced users may experience overwhelming sedation at standard doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content and heavy body effects, inexperienced users may experience overwhelming sedation at standard doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and flowery with fuel undertones. The aroma is rich and complex, with the Cookie-family sweetness blending with the heavy OG fuel character and a distinct flowery top note. The overall profile is deep and pungent.
 - **Taste:** Sweet and earthy on the inhale, with flowery, fuel, and subtle citrus notes on the exhale. The flavor is rich and layered, with a cookie-like sweetness that transitions into a heavier, fuel-forward finish with flowery complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

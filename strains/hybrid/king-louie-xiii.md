@@ -74,8 +74,8 @@ King Louie XIII is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience that is balanced and approachable, making it suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and tropical with sweet undertones. The Alien Tech fuel character provides a pungent base, while the tropical fruit character from the unknown parent adds a sweet, exotic sweetness. The overall aroma is layered and complex, with earthy depth, tropical brightness, and a sweet finish.
 - **Taste:** Earthy and tropical on the inhale, with sweet and slightly fuel notes on the exhale. The flavor is smooth and exotic, with the tropical fruit character carrying through the experience and the fuel finish providing a distinctive contrast.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

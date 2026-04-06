@@ -73,8 +73,8 @@ Luigi Haze is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear and energetic, making Luigi Haze suitable for extended creative sessions.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet and earthy with a distinct spicy edge. The terpinolene contributes a floral, slightly fruity sweetness, while the caryophyllene adds a peppery warmth that grounds the profile. The pinene delivers a clean pine freshness that keeps the aroma bright and inviting.
 - **Taste:** Sweet and earthy on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is smooth and classic, appealing to users who appreciate traditional Haze profiles with a sweet character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

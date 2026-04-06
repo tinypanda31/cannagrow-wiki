@@ -32,8 +32,8 @@ The simplest form of kief collection occurs as a byproduct of grinding cannabis 
 | 3-piece | Grinding + storage + catch | No screen, larger particles |
 | 4-piece | Grinding + sifting + storage + kief | Screen-based kief collection |
 
-::: tip
-A clean, dry grinder produces better kief. Sticky or moist plant material clogs the screen and reduces collection efficiency. Store grinders in a cool, dry place.
+**💡 A clean, dry grinder produces better kief. Sticky or moist plant material clogs the screen and reduces collection efficiency. Store grinders in a cool, dry place.**
+
 :::
 
 ### Accumulation and Collection
@@ -56,9 +56,7 @@ Purpose-built dry sift screens provide far superior results compared to grinder 
 | 90-120 microns | Trichome heads, minimal plant matter | Good quality kief |
 | 70-90 microns | Primarily trichome heads | High-quality kief |
 | 45-70 microns | Smallest trichome heads | Premium grade, lower yield |
-| 25-45 microns | Very small trichomes, some contaminants | Specialized sifting |
-
-::: info
+| 25-45 microns | Very small trichomes, some contaminants | Specialized sifting | info
 Smaller micron screens produce purer kief but with lower yields. Many sifters use multiple screens in sequence to separate different grades simultaneously.
 :::
 
@@ -101,8 +99,8 @@ Collection tray (finest particles)
 
 Start with properly dried and cured cannabis flower or trim. Material that is too moist will clump and clog screens; material that is too dry may shatter into fine plant particles that contaminate the kief. Ideal moisture content allows trichomes to detach cleanly without excessive plant matter breaking off.
 
-::: tip
-Some practitioners briefly freeze material (15-30 minutes) before sifting. Cold makes trichomes more brittle and easier to separate from the plant surface.
+**💡 Some practitioners briefly freeze material (15-30 minutes) before sifting. Cold makes trichomes more brittle and easier to separate from the plant surface.**
+
 :::
 
 **Step 2: Load the Screen**
@@ -185,9 +183,7 @@ Applying gentle heat along with pressure produces a more pliable, aromatic hash:
 2. Fold the parchment over the kief to create a sealed packet
 3. Apply gentle heat (approximately 100-120 degrees F / 38-49 degrees C) to soften the resin
 4. Press firmly with a flat object for 5-15 minutes
-5. Unfold and check consistency -- repeat if a firmer texture is desired
-
-::: tip
+5. Unfold and check consistency -- repeat if a firmer texture is desired tip
 Lower temperatures preserve more terpenes. Excessive heat degrades aromatic compounds and can begin decarboxylation prematurely.
 :::
 
@@ -229,9 +225,9 @@ Proper storage preserves potency, terpene profile, and usability:
 | **Humidity** | Low humidity environment (below 62% RH) | Prevents mold; moisture causes clumping |
 | **Long-term** | Freezer storage for multi-month preservation | Significantly slows degradation |
 
-::: warning
+**⚠️ Warning**
+
 When storing kief or hash in a freezer, allow the container to reach room temperature before opening. Opening a cold container in warm, humid air causes condensation that introduces moisture to the product.
-:::
 
 ## Edible Applications
 

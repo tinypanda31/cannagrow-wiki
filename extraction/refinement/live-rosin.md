@@ -9,8 +9,8 @@ Live rosin represents the pinnacle of solventless cannabis extraction. It is pro
 
 ![Live rosin hash concentrate](/uploads/images/extraction/live-rosin.jpg)
 
-::: info
-Do not confuse live rosin with [Live Resin](/extraction/live-resin). While both are made from fresh frozen material, live resin uses solvents (butane, CO2, ethanol) for extraction, while live rosin uses only ice water, heat, and pressure.
+**ℹ️ Do not confuse live rosin with [Live Resin](/extraction/live-resin). While both are made from fresh frozen material, live resin uses solvents (butane, CO2, ethanol) for extraction, while live rosin uses only ice water, heat, and pressure.**
+
 :::
 
 ## What Is Live Rosin?
@@ -35,9 +35,7 @@ The process begins at harvest. Quality live rosin starts with premium cannabis c
 - Harvest at optimal maturity
 - Trim and process material within hours (ideally minutes) of cutting
 - Seal in bags or containers and freeze immediately at 0 degrees F (-18 degrees C) or colder
-- Maintain the cold chain -- material must never thaw until processing
-
-::: tip
+- Maintain the cold chain -- material must never thaw until processing tip
 The cultivar choice is the single most important factor in live rosin quality. Resin-rich cultivars with high trichome density and complex terpene profiles produce dramatically superior live rosin.
 :::
 
@@ -62,8 +60,8 @@ The dried ice-water hash is pressed into rosin using heat and pressure.
 | **Filter bags** | 37-70 micron | 37 micron for maximum purity; 70 for higher yield |
 | **Collection** | Directly into glass jar (not parchment) | Preserving the fresh extract for curing |
 
-::: tip
-Many producers collect the freshly pressed rosin directly into small glass jars rather than scraping from parchment. This "jar tech" minimizes handling, terpene loss, and contamination.
+**💡 Many producers collect the freshly pressed rosin directly into small glass jars rather than scraping from parchment. This "jar tech" minimizes handling, terpene loss, and contamination.**
+
 :::
 
 ### Step 4: Curing (Optional)
@@ -197,9 +195,7 @@ Live rosin occupies the top tier of the cannabis concentrate market:
 
 Live rosin can be used for edibles, but like live resin, this involves trade-offs that are worth understanding before committing the most expensive concentrate type to edible preparation.
 
-### Suitability for Edibles
-
-::: info
+### Suitability for Edibles info
 **Terpene consideration:** Like live resin, live rosin's premium terpene profile is largely lost during decarboxylation. The volatile terpenes that make live rosin exceptional for dabbing evaporate at decarboxylation temperatures. However, as a solventless full-spectrum extract, live rosin remains one of the highest-quality edible inputs available.
 :::
 

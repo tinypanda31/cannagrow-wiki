@@ -74,8 +74,8 @@ Dutch Treat is widely reported to produce:
 
 **Intensity:** Moderate to strong. The sativa-dominant cerebral effects can be quite noticeable, particularly for users with lower tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The uplifting cerebral effects may be stimulating for anxiety-prone users at higher doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The uplifting cerebral effects may be stimulating for anxiety-prone users at higher doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet with pine and eucalyptus freshness. The terpinolene-dominant profile gives it a bright, floral-sweet aroma with noticeable pine and eucalyptus notes that create a refreshing, clean bouquet. The myrcene base adds an earthy foundation that prevents the sweetness from becoming one-dimensional.
 - **Taste:** Sweet and piney on the inhale, with eucalyptus-fresh and slightly earthy notes on the exhale. The flavor is clean and refreshing, with the pine-eucalyptus character being the most distinctive element.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

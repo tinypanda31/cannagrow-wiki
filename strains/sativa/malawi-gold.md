@@ -70,8 +70,8 @@ Malawi Gold is widely reported to produce:
 
 **Intensity:** Strong. The cerebral and psychedelic quality can be overwhelming for inexperienced users. Malawi Gold is best suited to users comfortable with intense, head-focused sativa effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and spicy with a warm, inviting character. The aroma is rich and layered, with a sweetness that distinguishes it from purely earthy landraces.
 - **Taste:** Sweet and earthy on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is classic and complex, representing the traditional African landrace profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

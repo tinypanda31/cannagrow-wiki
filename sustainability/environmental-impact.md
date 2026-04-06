@@ -6,9 +6,7 @@ tags: sustainability, environment, energy, water, waste, carbon-footprint, packa
 
 # Environmental Impact of the Cannabis Industry
 
-:::info
-**Page scope:** This analysis covers the environmental footprint of the commercial cannabis industry across cultivation, processing, packaging, and waste disposal. Data sources include peer-reviewed academic studies, government reports, and industry surveys. Note that much of the quantified data comes from the US legal market — global figures are less well-documented.
-:::
+**ℹ️ **Page scope:** This analysis covers the environmental footprint of the commercial cannabis industry across cultivation, processing, packaging, and waste disposal. Data sources include peer-reviewed academic studies, government reports, and industry surveys. Note that much of the quantified data comes from the US legal market — global figures are less well-documented.**
 
 :::tip Related Pages
 - [Sustainability Overview](/sustainability) — Framework for sustainable cannabis practices
@@ -58,14 +56,14 @@ Comparing the environmental footprint of prohibition-era unregulated grows to wh
 
 In nations where cannabis cultivation was never disrupted by Western prohibition -- Jamaica, India, Malawi, Afghanistan, Morocco, and others -- cannabis evolved as a sustainably grown crop. Sun-grown cannabis in living soil, rainwater-fed, harvested and cured using traditional methods, has a carbon footprint of approximately **23-90 kg CO2e per pound** -- roughly **2-5% of the footprint of indoor-grown cannabis** (1,800-2,300 kg CO2e per pound). These cultivation practices developed over centuries of agricultural tradition and represent how cannabis can and should be grown when policy does not force cultivators into hiding.
 
-:::warning Data Limitations
-Much of the quantitative data cited here comes from the US legal market. The illicit market — which still represents a significant share of cannabis supply in most jurisdictions — is inherently difficult to measure. Global figures are even less well-documented. Readers should interpret all estimates as approximations subject to revision as research methods improve and more jurisdictions establish regulated markets.
-:::
+**⚠️ Data Limitations**
 
-:::note Image Placeholder
+Much of the quantitative data cited here comes from the US legal market. The illicit market — which still represents a significant share of cannabis supply in most jurisdictions — is inherently difficult to measure. Global figures are even less well-documented. Readers should interpret all estimates as approximations subject to revision as research methods improve and more jurisdictions establish regulated markets.
+
+**📝 Image Placeholder**
+
 ![Energy-intensive indoor cannabis cultivation facility](/uploads/images/sustainability/indoor-cultivation-energy.jpg)
 *Figure 1: Modern indoor cannabis cultivation facility showing high-intensity lighting and HVAC infrastructure — the primary drivers of the industry's energy footprint.*
-:::
 
 ---
 
@@ -93,8 +91,8 @@ Indoor cannabis cultivation requires precise environmental control across multip
 | **Ventilation / Air Exchange** | 5-10% | Exhaust fans, intake fans, ducting | CO₂ supplementation requires sealed rooms with mechanical ventilation |
 | **Other** | 5-10% | Controls, irrigation pumps, dehumidifier reheat, security | Monitoring systems, water pumps, ancillary loads |
 
-:::info
-The percentages above represent typical ranges for a well-designed indoor facility. Actual distributions vary significantly based on climate zone, facility design, equipment selection, and cultivation practices. Facilities in hot-humid climates (e.g., Florida) see substantially higher HVAC and dehumidification loads than those in arid climates (e.g., Colorado).
+**ℹ️ The percentages above represent typical ranges for a well-designed indoor facility. Actual distributions vary significantly based on climate zone, facility design, equipment selection, and cultivation practices. Facilities in hot-humid climates (e.g., Florida) see substantially higher HVAC and dehumidification loads than those in arid climates (e.g., Colorado).**
+
 :::
 
 ### 2.3 Per-Pound Energy Cost
@@ -107,9 +105,7 @@ The energy intensity of indoor cannabis cultivation is most meaningfully express
 | **Electricity cost per pound (at $0.13/kWh US average)** | $260/lb | $650/lb | US national average residential rate; commercial rates may differ |
 | **kWh per kilogram of dried flower** | 4,400 kWh/kg | 11,000 kWh/kg | Metric equivalent |
 
-At the US average electricity rate of approximately **$0.13/kWh**, the electricity cost alone for producing one pound of indoor cannabis flower ranges from **$260 to $650**. In jurisdictions with higher electricity rates (e.g., California at ~$0.25/kWh, or the Northeast at ~$0.20/kWh), these costs can exceed **$1,000 per pound** in inefficient facilities.
-
-:::warning
+At the US average electricity rate of approximately **$0.13/kWh**, the electricity cost alone for producing one pound of indoor cannabis flower ranges from **$260 to $650**. In jurisdictions with higher electricity rates (e.g., California at ~$0.25/kWh, or the Northeast at ~$0.20/kWh), these costs can exceed **$1,000 per pound** in inefficient facilities.warning
 For many licensed producers, electricity is the **single largest operating expense** after labor. Facilities with outdated equipment, poor insulation, or suboptimal environmental controls can see energy costs consume 30-50% of total production costs, directly impacting profitability and product pricing.
 :::
 
@@ -123,8 +119,8 @@ The carbon footprint of electricity consumption depends on the regional grid's e
 | **Equivalent car miles driven** | ~2,000 miles | ~5,000 miles |
 | **Equivalent gallons of gasoline** | ~200 gallons | ~500 gallons |
 
-:::note
-A single pound of indoor-grown cannabis can generate as much CO₂ emissions as driving a typical passenger vehicle between **2,000 and 5,000 miles**. This is roughly equivalent to driving from New York to Los Angeles **one to two times** for every pound of flower produced.
+**📝 A single pound of indoor-grown cannabis can generate as much CO₂ emissions as driving a typical passenger vehicle between **2,000 and 5,000 miles**. This is roughly equivalent to driving from New York to Los Angeles **one to two times** for every pound of flower produced.**
+
 :::
 
 ### 2.5 Regional Comparisons
@@ -137,9 +133,7 @@ State-level estimates provide a clearer picture of the industry's aggregate impa
 | **California** | ~1,500,000 metric tons CO₂e/year | Largest legal market; mix of indoor, greenhouse, and outdoor |
 | **Oregon** | ~30,000-50,000 metric tons CO₂/year | Significant outdoor production reduces average intensity |
 | **Michigan** | ~50,000-80,000 metric tons CO₂/year | Rapidly growing market; cold climate increases heating loads |
-| **Canada (national)** | ~200,000-400,000 metric tons CO₂/year | Federal legalization; cold climate requires significant heating in winter |
-
-:::note Image Placeholder
+| **Canada (national)** | ~200,000-400,000 metric tons CO₂/year | Federal legalization; cold climate requires significant heating in winter |note Image Placeholder
 ![CO2 emissions comparison chart for cannabis cultivation methods](/uploads/images/sustainability/carbon-footprint-comparison.jpg)
 *Figure 2: Comparative carbon footprint of indoor, greenhouse, and outdoor cannabis cultivation — outdoor sun-grown cannabis produces approximately 95% fewer emissions per unit than indoor production.*
 :::
@@ -158,8 +152,8 @@ Perhaps the most striking way to understand the energy intensity of indoor canna
 | **Cannabis** | Greenhouse | ~200-800 kWh/lb | 3-25x more than outdoor |
 | **Cannabis** | Indoor (HPS) | 2,000-5,000 kWh/lb | Baseline (high end) |
 
-:::warning
-Indoor cannabis cultivation uses **10 to 100 times more energy per pound** than most field-grown crops, and significantly more than even other controlled-environment agriculture products like greenhouse tomatoes. The primary driver is the combination of high-intensity lighting and the environmental control loads (cooling, dehumidification) required to support it.
+**⚠️ Indoor cannabis cultivation uses **10 to 100 times more energy per pound** than most field-grown crops, and significantly more than even other controlled-environment agriculture products like greenhouse tomatoes. The primary driver is the combination of high-intensity lighting and the environmental control loads (cooling, dehumidification) required to support it.**
+
 :::
 
 ### 2.7 The LED Transition
@@ -174,9 +168,7 @@ The single largest energy reduction opportunity in the cannabis industry is the 
 
 If all indoor cannabis facilities in the US were to transition from HPS to high-quality LED fixtures, the industry's annual electricity consumption could drop by an estimated **40-60%** — a reduction of **1-3 billion kWh per year**. This would save an estimated **$130-390 million annually** in electricity costs and reduce CO₂ emissions by **1-3 million metric tons per year**.
 
-However, the transition is not instantaneous. LED fixtures carry higher upfront capital costs (often 2-4x the purchase price of equivalent HPS fixtures), and many existing facilities were designed around the heat output of HPS lights — meaning an LED retrofit may also require recalibrating HVAC systems. Additionally, the quality of LED fixtures on the market varies enormously, and not all products marketed as "horticultural LEDs" deliver meaningful energy savings.
-
-:::tip
+However, the transition is not instantaneous. LED fixtures carry higher upfront capital costs (often 2-4x the purchase price of equivalent HPS fixtures), and many existing facilities were designed around the heat output of HPS lights — meaning an LED retrofit may also require recalibrating HVAC systems. Additionally, the quality of LED fixtures on the market varies enormously, and not all products marketed as "horticultural LEDs" deliver meaningful energy savings.tip
 For detailed information on lighting technology selection and energy-efficient cultivation design, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation).
 :::
 
@@ -197,8 +189,8 @@ Outdoor cannabis plants have substantial water requirements, particularly during
 | **Water per acre per season** | 300,000-600,000 gallons/season | Approximate total for a 100-150 day growing season |
 | **Water per pound of dried flower (outdoor)** | 150-300 gallons/lb | Highly variable based on climate, soil, and irrigation method |
 
-:::note
-A single acre of outdoor cannabis can use as much water per day during peak summer as a **typical single-family household uses in an entire month**. At scale, this represents a significant draw on local water resources.
+**📝 A single acre of outdoor cannabis can use as much water per day during peak summer as a **typical single-family household uses in an entire month**. At scale, this represents a significant draw on local water resources.**
+
 :::
 
 ### 3.2 Indoor Water Use
@@ -234,9 +226,7 @@ Many of the world's most prominent cannabis-growing regions are located in areas
 | **Northern California (Emerald Triangle)** | Severe seasonal drought | Stream flow diversions documented reducing water availability for salmonid habitat; illegal grows exacerbate impacts |
 | **Colorado (Front Range)** | Arid to semi-arid; declining aquifer levels | Cannabis competes with agriculture and municipal needs for Colorado River Basin water |
 | **Mediterranean (Spain, Morocco)** | Increasing drought frequency | Rising temperatures and reduced precipitation strain traditional growing regions |
-| **Southern Africa (Lesotho)** | Periodic drought | Outdoor cultivation vulnerable to climate variability |
-
-:::warning
+| **Southern Africa (Lesotho)** | Periodic drought | Outdoor cultivation vulnerable to climate variability |warning
 In **Humboldt County, California**, stream flow monitoring has documented that cannabis cultivation diversions — particularly from illegal and unpermitted grows on remote hillside properties — have significantly reduced water availability for fish habitat. During dry summer months, some streams that historically supported salmon and steelhead have been observed to run dry upstream of cultivation sites due to unauthorized water diversions.
 :::
 
@@ -252,8 +242,8 @@ The most effective water conservation strategy for cannabis cultivation is the i
 | **Rainwater harvesting** | Variable reduction in municipal/aquifer draw | Collection from greenhouse and building roofs; depends on rainfall patterns |
 | **Condensate recovery** | Supplemental source | HVAC dehumidification produces clean water condensate that can be reused for irrigation |
 
-:::tip
-**Condensate recovery** is an often-overlooked opportunity. In an indoor facility, dehumidifiers can produce hundreds of gallons of clean water condensate per day. This water is essentially distilled and can be blended with nutrient solution for irrigation, offsetting fresh water demand.
+**💡 **Condensate recovery** is an often-overlooked opportunity. In an indoor facility, dehumidifiers can produce hundreds of gallons of clean water condensate per day. This water is essentially distilled and can be blended with nutrient solution for irrigation, offsetting fresh water demand.**
+
 :::
 
 ### 3.6 Water Usage Comparison by Cultivation Method
@@ -264,9 +254,7 @@ The most effective water conservation strategy for cannabis cultivation is the i
 | **Outdoor (field, flood irrigation)** | 300-500+ gal/lb | ~1,200-2,000+ L/kg | Inefficient; rarely used for cannabis but still found in some regions |
 | **Greenhouse (recirculating)** | 50-150 gal/lb | ~200-600 L/kg | Best balance of yield and water efficiency for controlled environment |
 | **Indoor (run-to-waste)** | 200-400 gal/lb | ~800-1,600 L/kg | High waste due to non-recirculating irrigation |
-| **Indoor (recirculating hydroponics)** | 30-80 gal/lb | ~120-320 L/kg | Lowest net water consumption; requires nutrient management expertise |
-
-:::note Image Placeholder
+| **Indoor (recirculating hydroponics)** | 30-80 gal/lb | ~120-320 L/kg | Lowest net water consumption; requires nutrient management expertise |note Image Placeholder
 ![Water recirculation system in commercial cannabis facility](/uploads/images/sustainability/water-recirculation-system.jpg)
 *Figure 3: Closed-loop water recirculation system in a commercial cannabis facility — recirculating hydroponics can reduce water consumption by 70-90% compared to drain-to-waste methods.*
 :::
@@ -288,8 +276,8 @@ The typical compliance process involves:
 3. **Transportation to landfill** — The mixed waste must be transported by licensed waste haulers to approved landfill or incineration facilities.
 4. **Documentation and tracking** — Every step must be documented and reported to regulatory authorities, often through seed-to-sale tracking systems.
 
-:::warning
-This means that organic plant material that could otherwise be composted or returned to soil is instead mixed with garbage and sent to a landfill — a process that generates methane emissions, consumes transportation fuel, and wastes valuable organic matter.
+**⚠️ This means that organic plant material that could otherwise be composted or returned to soil is instead mixed with garbage and sent to a landfill — a process that generates methane emissions, consumes transportation fuel, and wastes valuable organic matter.**
+
 :::
 
 ### 4.2 Scale of Waste Generation
@@ -317,9 +305,7 @@ Some jurisdictions have begun to recognize the environmental absurdity of landfi
 | **Colorado** | Exploring waste regulation reforms | Pilot programs for on-site composting at licensed facilities |
 | **Oregon** | Some composting permitted | Must be processed through licensed composting facilities |
 | **Washington** | Restricted | Limited composting options; most waste must go to landfill |
-| **Canada** | Varies by province | Some provinces allow composting; federal regulations still evolving |
-
-:::info
+| **Canada** | Varies by province | Some provinces allow composting; federal regulations still evolving |info
 **Hot composting** at temperatures of 131-160°F (55-71°C) for a minimum of 15 days has been demonstrated to effectively **destroy THC and other cannabinoids** through thermal degradation. The resulting compost is a valuable soil amendment that can be returned to cultivation operations, closing the nutrient loop. This is significantly more sustainable than landfilling and represents a model for regulatory reform.
 :::
 
@@ -340,8 +326,8 @@ A single retail unit of cannabis (e.g., a 3.5g eighth of flower) may include the
 
 The annual packaging waste from the US cannabis industry is estimated in the **tens of millions of individual units** per year. Given that the US legal market sells approximately **3-4 million pounds of cannabis annually**, and that a significant portion is sold in containers of 3.5g-7g (each with its own packaging suite), the total number of packaging units easily exceeds **100-200 million units annually**.
 
-:::warning
-The vast majority of cannabis product packaging is **not recyclable** through standard municipal recycling programs due to the combination of materials (mixed plastics, adhesives, contamination with cannabis residue) and the small size of individual components. This represents a significant and growing waste stream that has received comparatively little regulatory attention.
+**⚠️ The vast majority of cannabis product packaging is **not recyclable** through standard municipal recycling programs due to the combination of materials (mixed plastics, adhesives, contamination with cannabis residue) and the small size of individual components. This represents a significant and growing waste stream that has received comparatively little regulatory attention.**
+
 :::
 
 ### 4.5 Extraction Solvent Waste
@@ -354,9 +340,7 @@ Cannabis extraction processes — particularly hydrocarbon extraction (BHO/PHO) 
 | **Ethanol extraction** | Spent ethanol, biomass | Ethanol is less hazardous but still requires proper recovery and disposal; energy-intensive winterization |
 | **CO₂ extraction** | Minimal solvent waste | Supercritical CO₂ is recaptured and reused; primary footprint is equipment manufacturing and electricity consumption |
 | **Rosin (solventless)** | No solvent waste | Most environmentally friendly extraction method; lower yields |
-| **Ice water hash** | Water and biomass waste | Water can be filtered and discharged; biomass waste requires composting or landfilling |
-
-:::note
+| **Ice water hash** | Water and biomass waste | Water can be filtered and discharged; biomass waste requires composting or landfilling |note
 For more information on extraction methods and their operational characteristics, see [Extraction Overview](/extraction).
 :::
 
@@ -393,8 +377,8 @@ The complete carbon footprint of cannabis includes contributions from the follow
 | **Waste transport / landfilling** | Collection, transportation, and disposal of all waste streams |
 | **Product transport / distribution** | Distribution center operations, vehicle transport to retail |
 
-:::note
-The most comprehensive LCA studies to date have found that **electricity generation** — specifically the operational energy used during the cultivation phase — dominates the carbon footprint of indoor-grown cannabis, accounting for the vast majority of total lifecycle emissions.
+**📝 The most comprehensive LCA studies to date have found that **electricity generation** — specifically the operational energy used during the cultivation phase — dominates the carbon footprint of indoor-grown cannabis, accounting for the vast majority of total lifecycle emissions.**
+
 :::
 
 ### 5.2 Carbon Footprint Breakdown by Category
@@ -420,9 +404,7 @@ The cultivation method is the single most important determinant of a cannabis pr
 | **Indoor (LED, optimized)** | 2,000-3,000 kg CO₂e/kg | 900-1,400 kg CO₂e/lb | ~50-60% of baseline |
 | **Greenhouse (supplemental light)** | 800-1,500 kg CO₂e/kg | 360-680 kg CO₂e/lb | ~20-35% of baseline |
 | **Greenhouse (light-deprivation)** | 500-800 kg CO₂e/kg | 230-360 kg CO₂e/lb | ~12-20% of baseline |
-| **Outdoor / sun-grown** | 50-200 kg CO₂e/kg | 23-90 kg CO₂e/lb | ~2-5% of baseline |
-
-:::tip
+| **Outdoor / sun-grown** | 50-200 kg CO₂e/kg | 23-90 kg CO₂e/lb | ~2-5% of baseline |tip
 The difference between the highest-impact (indoor HPS) and lowest-impact (outdoor sun-grown) production methods is approximately **20-100x** in terms of carbon emissions per unit of product. This is one of the largest impact ranges of any agricultural commodity.
 :::
 
@@ -439,8 +421,8 @@ Some cannabis companies have begun pursuing **carbon neutrality** claims through
 | **Electric vehicle fleet** | Low-moderate impact | Reduces transportation emissions; small percentage of total footprint |
 | **Certification programs** | Moderate | Third-party verification adds credibility; standards vary between certifiers |
 
-:::warning
-Consumers should approach **"carbon neutral"** claims with appropriate skepticism. Without standardized, third-party-verified LCA methodologies specific to cannabis, the basis for such claims can vary enormously between companies. Some offsets purchased by companies may fund projects that would have happened anyway (lacking "additionality"), providing little real climate benefit.
+**⚠️ Consumers should approach **"carbon neutral"** claims with appropriate skepticism. Without standardized, third-party-verified LCA methodologies specific to cannabis, the basis for such claims can vary enormously between companies. Some offsets purchased by companies may fund projects that would have happened anyway (lacking "additionality"), providing little real climate benefit.**
+
 :::
 
 ### 5.5 Lifecycle Carbon Comparison Table
@@ -454,9 +436,7 @@ Consumers should approach **"carbon neutral"** claims with appropriate skepticis
 | **Indoor extract (BHO)** | 3,500 kg | 300 kg | 150 kg | 50 kg | **~4,000 kg** |
 | **Indoor extract (CO₂)** | 3,500 kg | 200 kg | 150 kg | 50 kg | **~3,900 kg** |
 | **Outdoor concentrate (rosin)** | 100 kg | 50 kg | 150 kg | 50 kg | **~350 kg** |
-| **Indoor edible (100g)** | 50 kg (per 100g input) | 200 kg | 100 kg | 50 kg | **~400 kg** |
-
-:::note
+| **Indoor edible (100g)** | 50 kg (per 100g input) | 200 kg | 100 kg | 50 kg | **~400 kg** |note
 Extract values are per kg of concentrate. Edible values are per kg of finished edible product (with cannabis extract as one ingredient among many). The cultivation carbon cost of edibles is much lower per unit because the cannabis extract is a small fraction of the total product weight.
 :::
 
@@ -486,8 +466,8 @@ On public lands — particularly in Northern California's **"Emerald Triangle"**
 | **Habitat fragmentation** | Remote grows in forested areas clear vegetation, create roads and trails, and disrupt wildlife corridors |
 | **Soil erosion** | Terracing and vegetation removal on steep slopes leads to increased erosion and sediment loading in streams |
 
-:::info
-It is important to note that these impacts are largely attributable to the **prohibition framework** that keeps cultivation unregulated and outside the oversight of environmental regulations, rather than to cannabis cultivation itself. Legal, regulated operations are subject to environmental review, water permitting, and pesticide regulations that — when enforced — significantly mitigate these impacts.
+**ℹ️ It is important to note that these impacts are largely attributable to the **prohibition framework** that keeps cultivation unregulated and outside the oversight of environmental regulations, rather than to cannabis cultivation itself. Legal, regulated operations are subject to environmental review, water permitting, and pesticide regulations that — when enforced — significantly mitigate these impacts.**
+
 :::
 
 ### 6.3 Biodiversity Benefits of Sustainable Practices
@@ -502,9 +482,7 @@ Well-managed cannabis cultivation — particularly outdoor and greenhouse operat
 | **Hedgerow preservation** | Maintaining native hedgerows and buffer zones around cultivation areas provides wildlife habitat and corridors |
 | **Water stewardship** | Responsible water management (pond construction, rainwater capture, stream buffer maintenance) supports aquatic habitat |
 
-Certification programs like **Sun+Earth Certified** specifically recognize cannabis cultivators who demonstrate regenerative farming practices that enhance biodiversity and ecosystem health.
-
-:::tip
+Certification programs like **Sun+Earth Certified** specifically recognize cannabis cultivators who demonstrate regenerative farming practices that enhance biodiversity and ecosystem health.tip
 For more information on sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation) and [Outdoor Cultivation](/cultivation/outdoor).
 :::
 
@@ -547,8 +525,8 @@ Survey data consistently shows that cannabis consumers are interested in sustain
 | **Most valued attributes** | Organic/sun-grown methods, energy-efficient production, minimal packaging, local sourcing |
 | **Gap between interest and action** | Actual purchasing data shows lower adoption rates than survey interest, suggesting price sensitivity and limited availability of certified products |
 
-:::note
-The gap between consumer interest and actual purchasing behavior is a well-documented phenomenon in sustainable product markets broadly. Bridging this gap for cannabis requires both **education** (making sustainability information accessible and comparable at point of sale) and **price competitiveness** (ensuring sustainable products are not priced beyond the reach of typical consumers).
+**📝 The gap between consumer interest and actual purchasing behavior is a well-documented phenomenon in sustainable product markets broadly. Bridging this gap for cannabis requires both **education** (making sustainability information accessible and comparable at point of sale) and **price competitiveness** (ensuring sustainable products are not priced beyond the reach of typical consumers).**
+
 :::
 
 ### 7.4 Comparison to Other Industries
@@ -618,13 +596,12 @@ As the cannabis industry becomes more competitive and profit margins tighten, th
 
 The environmental footprint of the cannabis industry is substantial — driven primarily by the energy intensity of indoor cultivation, compounded by regulatory waste requirements and packaging demands. However, the industry also has unique advantages for sustainability: it is young enough to adopt new practices without fighting entrenched systems, it produces a high-value crop that can support premium pricing for sustainable products, and it benefits from a growing body of research and industry collaboration focused on reducing its environmental impact.
 
-The path forward requires coordinated action from regulators, cultivators, equipment manufacturers, certifiers, researchers, and consumers. The most impactful single action is the transition from indoor HPS cultivation to more energy-efficient methods — whether that means LED-equipped indoor facilities, greenhouse operations, or outdoor sun-grown production. Regulatory reform of waste and packaging requirements represents the second highest-impact lever.
-
-:::tip
+The path forward requires coordinated action from regulators, cultivators, equipment manufacturers, certifiers, researchers, and consumers. The most impactful single action is the transition from indoor HPS cultivation to more energy-efficient methods — whether that means LED-equipped indoor facilities, greenhouse operations, or outdoor sun-grown production. Regulatory reform of waste and packaging requirements represents the second highest-impact lever.tip
 For practical guidance on implementing sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation). For background on regulatory frameworks, see [Legal Landscape](/law-policy). For definitions of technical terms used throughout this page, consult the [Glossary](/glossary).
 :::
 
-:::note Related Topics
+**📝 Related Topics**
+
 - [Sustainability Overview](/sustainability) — Comprehensive framework for sustainable cannabis practices
 - [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation) — Practical sustainable growing methods and technologies
 - [Indoor Cultivation](/cultivation/indoor) — Indoor growing techniques and systems
@@ -633,7 +610,6 @@ For practical guidance on implementing sustainable cultivation practices, see [E
 - [Extraction Methods](/extraction) — Cannabis extraction technologies and processes
 - [Legal Landscape](/law-policy) — Regulatory landscape for cannabis
 - [Glossary](/glossary) — Cannabis industry terminology
-:::
 
 ---
 

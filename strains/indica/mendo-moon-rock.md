@@ -73,8 +73,8 @@ Mendo Moon Rock is widely reported to produce:
 
 **Intensity:** Moderate to strong. The moderate-to-high THC range and pure indica genetics produce effects that are best suited for evening use and may be overwhelming for inexperienced users at higher doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavily sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavily sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Mendo Moon Rock presents a grape-berry-forward sensory profile:
 - **Smell:** Pronounced grape and berry sweetness with earthy undertones. The Mendo Purps parent is immediately apparent in the recognizable grape character, while the Moon Rock genetics contribute an earthy depth and resinous richness. The cured buds carry a jam-like, fruity aroma that is sweet and inviting, with the heavy trichome coverage adding a hash-like complexity.
 - **Taste:** Sweet grape and berry flavors on inhalation, with earthy and slightly resinous notes on the exhale. The flavor is smooth and layered, with limonene providing faint citrus accents that enhance the grape character. The finish carries an earthy warmth that grounds the sweeter top notes.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

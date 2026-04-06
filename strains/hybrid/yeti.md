@@ -74,8 +74,8 @@ Yeti is widely reported to produce:
 
 **Intensity:** Strong. The heavy indica genetics deliver potent body relaxation that is best suited to evening use and experienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The heavy sedating effects may significantly impair coordination and are not suitable for any activities requiring alertness.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The heavy sedating effects may significantly impair coordination and are not suitable for any activities requiring alertness.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and pine-forward with sweet undertones. The myrcene-dominant profile gives it a deep, earthy aroma with noticeable pine freshness from the pinene content. The sweet undertones from the Northern Lights inheritance round out the profile and add a comforting quality. The overall aroma is classic heavy indica -- deep, resinous, and immediately recognizable.
 - **Taste:** Earthy and pine on the inhale, with sweet and slightly spicy notes on the exhale. The earthy flavor is prominent and grounding, while the pine character adds freshness and the sweet exhale provides a comforting finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

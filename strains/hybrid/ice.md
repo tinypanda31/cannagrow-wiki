@@ -75,8 +75,8 @@ Ice is widely reported to produce:
 
 **Intensity:** Mild to moderate. The 14-19% THC range delivers effects that are comfortable and approachable, making Ice suitable for beginners and experienced users alike.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and pine with sweet undertones. The myrcene-dominant earthy base is brightened by noticeable pine freshness from pinene, creating a clean, forest-like aroma. Sweet notes round out the profile.
 - **Taste:** Earthy and pine on the inhale, with sweet and slightly spicy notes on the exhale. The flavor is smooth and clean, with the pine character adding a refreshing element to the earthy foundation.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

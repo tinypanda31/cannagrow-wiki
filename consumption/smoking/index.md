@@ -21,8 +21,8 @@ When cannabis is lit, the burning material (the "cherry") reaches temperatures o
 4. **Inhalation delivers to lungs** -- The smoke is drawn into the lungs, where cannabinoids cross the alveolar membrane into the bloodstream
 5. **Rapid onset** -- Effects begin within 1-5 minutes as cannabinoids reach the brain
 
-::: info
-Only a portion of the cannabinoids in cannabis are actually delivered to the user when smoking. Research estimates the bioavailability of smoked THC at approximately **25-30%**, meaning roughly a quarter to a third of the THC in the material reaches systemic circulation.
+**ℹ️ Only a portion of the cannabinoids in cannabis are actually delivered to the user when smoking. Research estimates the bioavailability of smoked THC at approximately **25-30%**, meaning roughly a quarter to a third of the THC in the material reaches systemic circulation.**
+
 :::
 
 ## Smoking Methods
@@ -48,9 +48,7 @@ A joint is cannabis rolled in rolling paper, forming a cigarette-like device.
 | **Rice** | Thin, clean burn; nearly tasteless | Slow-moderate | Minimal additives; clean combustion |
 | **Wood pulp** | Thick, easy to roll | Moderate | May contain more additives |
 | **Flax** | Similar to hemp; natural | Slow | Minimal additives |
-| **Bleached (white)** | Chemically whitened | Varies | Bleaching agents (chlorine dioxide) leave trace residues; unbleached (brown) papers are preferred |
-
-::: tip
+| **Bleached (white)** | Chemically whitened | Varies | Bleaching agents (chlorine dioxide) leave trace residues; unbleached (brown) papers are preferred | tip
 Choose unbleached, additive-free rolling papers when possible. Papers labeled "organic," "unbleached," or "natural" are preferable to chemically bleached alternatives. Avoid papers with flavored or colored additives.
 :::
 
@@ -65,8 +63,8 @@ A blunt is cannabis rolled in a tobacco leaf wrap or tobacco-flavored paper.
 | **Health consideration** | **Combining cannabis with tobacco introduces nicotine (addictive) and additional harmful combustion products** |
 | **Harm reduction** | Use hemp wraps or tobacco-free alternatives to enjoy the blunt format without tobacco exposure |
 
-::: warning
-Blunts made with tobacco leaf wraps introduce nicotine -- an addictive substance -- along with tobacco-specific combustion byproducts. Regular blunt smoking may contribute to nicotine dependence. Tobacco-free hemp wraps are a safer alternative.
+**⚠️ Blunts made with tobacco leaf wraps introduce nicotine -- an addictive substance -- along with tobacco-specific combustion byproducts. Regular blunt smoking may contribute to nicotine dependence. Tobacco-free hemp wraps are a safer alternative.**
+
 :::
 
 ### Pipes
@@ -93,9 +91,7 @@ Bongs filter smoke through water before inhalation, cooling the smoke and trappi
 | **Duration** | 1-3 hours |
 | **Bioavailability** | ~25-30% (similar to other smoking methods; water filtration does not significantly increase cannabinoid delivery) |
 | **Water filtration effect** | Cools smoke; traps some water-soluble compounds (including some tar and particulates); makes inhalation smoother |
-| **Common misconception** | Water filtration does NOT make smoking "safe" -- combustion byproducts are still present and inhaled |
-
-::: info
+| **Common misconception** | Water filtration does NOT make smoking "safe" -- combustion byproducts are still present and inhaled | info
 For guidance on sourcing quality glass bongs and pipes from Chinese manufacturers, including quality inspection tips and pricing, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
 :::
 
@@ -141,8 +137,8 @@ When cannabis is burned, the resulting smoke contains hundreds of compounds, man
 | **Inhalation** | Deeper inhalation, longer hold | Shallower inhal |
 | **Epidemiological evidence** | Association with chronic bronchitis; cancer link less clear than tobacco | Strong, established link to cancer, heart disease, COPD |
 
-::: info
-While cannabis smoke contains many of the same harmful compounds as tobacco smoke, the epidemiological evidence linking cannabis smoking to cancer is less conclusive than for tobacco. This may be due to different usage patterns (fewer joints smoked per day vs. multiple cigarettes) and potential anti-tumor properties of cannabinoids. However, the absence of conclusive evidence does not mean cannabis smoking is safe -- it means the evidence is not yet definitive. Any inhalation of combustion products carries health risks.
+**ℹ️ While cannabis smoke contains many of the same harmful compounds as tobacco smoke, the epidemiological evidence linking cannabis smoking to cancer is less conclusive than for tobacco. This may be due to different usage patterns (fewer joints smoked per day vs. multiple cigarettes) and potential anti-tumor properties of cannabinoids. However, the absence of conclusive evidence does not mean cannabis smoking is safe -- it means the evidence is not yet definitive. Any inhalation of combustion products carries health risks.**
+
 :::
 
 ## Key Metrics
@@ -165,9 +161,7 @@ While cannabis smoke contains many of the same harmful compounds as tobacco smok
 | Inexpensive | May trigger coughing, especially for beginners |
 | Familiar and well-understood | Rolling skill required for joints/blunts |
 
-## Harm Reduction for Smoking
-
-::: info
+## Harm Reduction for Smoking info
 The most effective harm reduction for smoking is to switch to a non-combustion method such as vaporizing. However, for those who choose to smoke, the following practices reduce risk.
 :::
 
@@ -208,9 +202,9 @@ Regular cleaning reduces exposure to accumulated resin, bacteria, and mold:
 | **Wood pipes** | Pipe cleaners and alcohol wipes; do not soak |
 | **Metal pipes** | Isopropyl alcohol; rinse thoroughly |
 
-::: tip
+**💡 Tip**
+
 Clean equipment provides a smoother, cleaner experience and reduces the inhalation of accumulated contaminants. Establish a regular cleaning schedule based on frequency of use.
-:::
 
 ## Navigation
 

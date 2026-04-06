@@ -73,8 +73,8 @@ Lemon Skunk is widely reported to produce:
 
 **Intensity:** Moderate. The effects are bright and accessible, making Lemon Skunk suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bright lemon and citrus with underlying skunky depth. The limonene dominance makes the aroma immediately recognizable as lemon -- it is one of the most distinctly lemon-smelling strains available, with the Skunk heritage providing a pungent foundation.
 - **Taste:** Lemon and citrus on the inhale, with skunky and slightly sweet notes on the exhale. The flavor is bold and refreshing, closely matching the aroma and appealing to users who appreciate bright, citrus-forward cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

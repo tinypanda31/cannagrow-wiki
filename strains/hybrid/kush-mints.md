@@ -74,8 +74,8 @@ Kush Mints is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience with body-heavy character that is best suited to evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The body-heavy sedating effects make Kush Mints unsuitable for daytime use or activities requiring alertness.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The body-heavy sedating effects make Kush Mints unsuitable for daytime use or activities requiring alertness.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Mint and earthy with fuel undertones. The Kush earthiness provides a deep, warm base, while the Mints mint character adds a sharp, cooling top note. The fuel character from both parent families ties the profile together with a pungent, diesel-like undertone. The overall aroma is layered, complex, and distinctive.
 - **Taste:** Mint and earthy on the inhale, with fuel and slightly piney notes on the exhale. The mint flavor is clean and refreshing, complemented by the earthy depth and a fuel finish that appeals to users who enjoy the classic diesel-forward profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

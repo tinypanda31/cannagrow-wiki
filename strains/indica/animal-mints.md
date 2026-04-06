@@ -73,8 +73,8 @@ Animal Mints is widely reported to produce:
 
 **Intensity:** Strong. The high THC range makes Animal Mints a potent strain that may overwhelm inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Animal Mints presents a complex and distinctive sensory profile:
 - **Smell:** Fuel and mint dominate the initial aroma, with sweet and earthy undertones developing as the buds are broken apart. The caryophyllene-heavy profile produces a pungent, diesel-like scent tempered by cooling mint notes.
 - **Taste:** Mint and fuel on inhalation, with sweet, creamy, and earthy notes on the exhale. The flavor is complex and layered, with limonene providing citrus brightness that balances the heavier fuel character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

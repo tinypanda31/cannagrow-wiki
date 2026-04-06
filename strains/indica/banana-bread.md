@@ -73,8 +73,8 @@ Banana Bread is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range makes Banana Bread approachable for users of varying experience levels while still providing satisfying relaxation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Banana Bread presents a sweet, tropical sensory profile:
 - **Smell:** Pronounced banana and sweet aromas with earthy undertones. The Banana OG parent is immediately apparent in the unmistakable tropical fruit character, while the unknown indica contributes an earthy, slightly baked-good sweetness that gives the strain its name. The overall aroma is sweet and inviting, with a dessert-like quality.
 - **Taste:** Sweet banana flavors on inhalation, with earthy and slightly nutty notes on the exhale. The flavor is smooth and palatable, with limonene providing faint citrus accents that enhance the tropical fruit character. The finish carries a faint warmth reminiscent of freshly baked banana bread.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

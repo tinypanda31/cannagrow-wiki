@@ -74,8 +74,8 @@ Breath Mint is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience that is balanced and approachable, making it suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Mint and sweet with fuel undertones. The mint character is sharp and cooling, immediately recognizable and distinctive. The sweet Gelato Breath contribution adds a dessert-like quality, while the fuel character from both parent families provides depth and pungency. The overall aroma is layered and complex.
 - **Taste:** Mint and sweet on the inhale, with fuel, slightly earthy notes on the exhale. The mint flavor is clean and refreshing, complemented by the sweet dessert character and a fuel finish that appeals to users who enjoy complex, multi-layered profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

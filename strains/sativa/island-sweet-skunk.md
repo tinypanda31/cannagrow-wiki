@@ -70,8 +70,8 @@ Island Sweet Skunk is widely reported to produce:
 
 **Intensity:** Moderate. The 15-20% THC range and balanced terpene profile produce effects that are noticeable and pleasant without being overwhelming.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Island Sweet Skunk is a moderate-potency sativa-dominant hybrid suitable for consumers with varying tolerance levels.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Island Sweet Skunk is a moderate-potency sativa-dominant hybrid suitable for consumers with varying tolerance levels.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet and skunky with tropical fruit undertones. The classic Skunk #1 pungency is present but softened by the sativa landrace parent, producing an aroma that is more tropical and fruity than purely skunky. The myrcene content creates a sweet, almost mango-like fruit character.
 - **Taste:** Sweet tropical fruit on the inhale with skunky, earthy notes on the exhale. The flavor is more fruit-forward than the aroma, with genuine tropical fruit sweetness complemented by the classic earthy Skunk character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

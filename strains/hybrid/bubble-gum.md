@@ -75,8 +75,8 @@ Bubble Gum is widely reported to produce:
 
 **Intensity:** Moderate. The THC range delivers an approachable experience suitable for a wide range of users, from those with lower tolerance to regular consumers seeking a balanced, functional strain.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet bubblegum and fruity with earthy undertones. The bubblegum character is genuinely candy-like, making it one of the most distinctive aromas in cannabis. The sweet, fruity profile is layered with subtle earthy depth from the myrcene base, creating a complex but approachable aromatic experience.
 - **Taste:** Sweet bubblegum and fruity on the inhale, with slightly earthy and floral notes on the exhale. The flavor is smooth and candy-like, with a sweetness that carries through the entire experience. The bubblegum character is persistent and genuinely reminiscent of the confectionery.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

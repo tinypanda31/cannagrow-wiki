@@ -74,8 +74,8 @@ Marker #2 is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience that transitions from balanced to body-heavy, best suited to evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The body-heavy sedating effects make Marker #2 less suitable for daytime use.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The body-heavy sedating effects make Marker #2 less suitable for daytime use.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fuel and sweet with earthy undertones. The OG Kush fuel character is prominent, but the #2 phenotype shifts the balance toward a sweeter expression compared to the original Marker. The earthy myrcene base provides depth, while the sweet character adds an indulgent quality. The overall aroma is warm, pungent, and layered.
 - **Taste:** Fuel and sweet on the inhale, with earthy and slightly piney notes on the exhale. The flavor is robust and full-bodied, with the fuel character carrying through the experience and the sweet finish providing a pleasant contrast to the heavier earth tones.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

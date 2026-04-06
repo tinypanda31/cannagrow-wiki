@@ -73,8 +73,8 @@ God's Gift is widely reported to produce:
 
 **Intensity:** Moderate to strong. God's Gift is best suited to evening or nighttime use and may be overwhelming for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ God's Gift presents a complex and layered sensory profile:
 - **Smell:** Grape and citrus sweetness with herbal and earthy undertones. The GDP parent contributes the recognizable grape character, while OG Kush adds fuel and pine complexity. The aroma is noticeable and multifaceted.
 - **Taste:** Sweet grape and citrus flavors on inhalation, with earthy, herbal, and slightly piney notes on the exhale. The flavor is smooth and layered, appealing to users who appreciate complexity in their indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

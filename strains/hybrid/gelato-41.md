@@ -74,8 +74,8 @@ Gelato #41 is widely reported to produce:
 
 **Intensity:** Strong. The high THC content delivers potent effects best suited to experienced users, though the balanced character makes the intensity more manageable than one-directional high-THC strains.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, fruity, and lavender with dessert-like and subtle earthy undertones. The aroma is rich and layered, with a noticeable sweetness that resembles dessert or confectionery. The lavender floral character is more pronounced in the #41 phenotype than in some other Gelato selections.
 - **Taste:** Sweet and fruity on the inhale, with lavender, dessert-like, and slightly earthy notes on the exhale. The flavor is smooth and indulgent, with the lavender-floral character adding a distinctive element to the otherwise sweet-fruity profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

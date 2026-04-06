@@ -73,8 +73,8 @@ Black Jack is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear-headed and functional, making Black Jack suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, pine, and spicy with herbal undertones. The pinene-caryophyllene combination gives it a fresh, forest-like quality with a peppery edge inherited from both parent strains.
 - **Taste:** Earthy and pine on the inhale, with spicy and slightly sweet notes on the exhale. The flavor is clean and classic, appealing to users who appreciate traditional cannabis taste with added complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

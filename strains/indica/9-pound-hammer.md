@@ -74,8 +74,8 @@ The myrcene-caryophyllene-limonene combination produces 9 Pound Hammer's signatu
 
 **Intensity:** Moderate to strong. The sedating effects can be overwhelming for inexperienced users or those with low tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pronounced grape and grape candy sweetness with earthy, skunky undertones. The aroma is noticeably sweet and can fill a room when buds are ground.
 - **Taste:** Sweet grape and candy-like flavors on inhalation, with earthy and slightly skunky notes on the exhale. The flavor is smooth and palatable, making it popular among users who prefer sweeter profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

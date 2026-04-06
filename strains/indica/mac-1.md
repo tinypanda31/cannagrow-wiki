@@ -74,8 +74,8 @@ MAC-1 is widely reported to produce:
 
 **Intensity:** Moderate. The balanced effect profile makes MAC-1 accessible to a wide range of users, from moderate to experienced consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ MAC-1 presents a unique and complex sensory profile:
 - **Smell:** Sweet, floral, and citrus with earthy undertones. The linalool-heavy profile produces a distinctly floral aroma that is unusual among modern strains, complemented by citrus brightness from limonene and a spicy depth from caryophyllene.
 - **Taste:** Sweet and floral on inhalation, with citrus and earthy notes on the exhale. The flavor is clean and complex, with the floral character carrying through from aroma to taste in a way that is uniquely MAC-1.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

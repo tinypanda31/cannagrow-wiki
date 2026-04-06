@@ -74,8 +74,8 @@ Trainwreck is widely reported to produce:
 
 **Intensity:** Moderate to strong. The rapid onset and cerebral intensity are notable, but the effects remain functional and manageable for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Spicy, lemon, and pine with earthy undertones. The aroma is complex and layered, combining the peppery spice of caryophyllene with bright lemon citrus and fresh pine notes.
 - **Taste:** Spicy and lemon on the inhale, with pine and earthy notes on the exhale. The flavor is bold and distinctive, appealing to users who appreciate complex, multi-layered strain character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

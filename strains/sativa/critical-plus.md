@@ -73,8 +73,8 @@ Critical Plus is widely reported to produce:
 
 **Intensity:** Moderate. The effects are accessible and functional, making Critical Plus suitable for a wide range of users including those with lower tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and sweet with a pronounced skunky backbone. The myrcene gives it a deep, herbal quality, while the caryophyllene adds a spicy edge that grounds the profile. The terpinolene contributes a subtle floral sweetness that keeps it from being one-dimensionally pungent.
 - **Taste:** Earthy and skunky on the inhale, with sweet and slightly spicy notes on the exhale. The flavor is classic and familiar, appealing to users who appreciate traditional cannabis profiles with recognizable character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

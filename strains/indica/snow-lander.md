@@ -72,8 +72,8 @@ Snowlander is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range and Northern Lights genetics make Snowlander one of the most approachable indica options, suitable for users of varying experience levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Snowlander presents a sweet, pine-forward sensory profile:
 - **Smell:** Sweet and earthy with prominent pine aromas. The pinene presence is immediately apparent -- reminiscent of a pine forest -- while the myrcene base provides a sweet, earthy foundation. The cured buds carry a fresh, resinous aroma that is clean and inviting, with the frosty trichome coverage adding a subtle hash-like richness. The pine character is more pronounced than in typical Northern Lights phenotypes, giving Snowlander its distinctive identity.
 - **Taste:** Sweet and earthy flavors on inhalation, with pine and slightly spicy notes on the exhale. The flavor is clean and smooth, with pinene providing a crisp, forest-like character. The finish carries an earthy sweetness that is characteristic of Northern Lights genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

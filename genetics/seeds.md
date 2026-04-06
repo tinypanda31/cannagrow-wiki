@@ -12,8 +12,8 @@ tags: seeds, germination, genetics, feminized, autoflowering, propagation
 
 ## Disclaimer
 
-:::info
-This page is provided for educational and informational purposes only. Cannabis cultivation and seed production are subject to local, national, and international laws. Always comply with applicable regulations in your jurisdiction. This content does not constitute medical or legal advice.
+**ℹ️ This page is provided for educational and informational purposes only. Cannabis cultivation and seed production are subject to local, national, and international laws. Always comply with applicable regulations in your jurisdiction. This content does not constitute medical or legal advice.**
+
 :::
 
 ---
@@ -73,9 +73,7 @@ Germination is a precisely orchestrated biological process:
 5. **Root anchoring:** The radicle grows downward (positive gravitropism), anchoring the seed and beginning water/nutrient uptake.
 6. **Hypocotyl elongation:** The stem portion (hypocotyl) elongates and pushes upward (negative gravitropism), carrying the cotyledons toward the surface.
 7. **Cotyledon emergence and photosynthesis:** The cotyledons break through the growing medium surface, expand, turn green, and begin photosynthesis. The seedling is now self-sufficient.
-8. **True leaf development:** The first pair of true leaves (with the characteristic serrated cannabis leaflet pattern) emerges from the apical meristem above the cotyledons.
-
-:::tip
+8. **True leaf development:** The first pair of true leaves (with the characteristic serrated cannabis leaflet pattern) emerges from the apical meristem above the cotyledons.tip
 The germination process requires three essential conditions: **water** (to trigger imbibition), **warmth** (72-80°F / 22-27°C for optimal enzyme activity), and **oxygen** (for respiration). Without any one of these, germination will not proceed.
 :::
 
@@ -108,8 +106,8 @@ The term "regular" means the seeds have not been genetically manipulated or trea
 | **Breeding potential** — males from regular seeds can be evaluated and used as breeding parents | **Unpredictable outcomes** — unless from a stabilized IBL, individual plant performance varies |
 | **Vigor** — regular seed plants often exhibit strong hybrid vigor, especially in F1 crosses | **Time investment** — growing out males for evaluation takes time and resources |
 
-:::info
-Regular seeds are the preferred choice for breeders and phenotype hunters. For growers who simply want flower production without the hassle of sexing plants, feminized seeds (below) are usually more practical.
+**ℹ️ Regular seeds are the preferred choice for breeders and phenotype hunters. For growers who simply want flower production without the hassle of sexing plants, feminized seeds (below) are usually more practical.**
+
 :::
 
 ---
@@ -137,9 +135,7 @@ Colloidal silver is a suspension of microscopic silver particles in water. Silve
 | 5 | **Monitor for male flowers** | After 7-14 days, male pollen sacs should begin forming on the sprayed branch. These look like normal male "balls." |
 | 6 | **Collect pollen** | When pollen sacs begin to open (typically 2-3 weeks after initial spraying), collect pollen carefully using the methods described in [[/genetics/breeding]]. |
 | 7 | **Pollinate a different female** | Use the collected pollen to pollinate a *different* female plant (not the reversed one). Apply pollen to selected pistils using a brush or by dabbing. |
-| 8 | **Allow seeds to mature** | Seeds take 3-6 weeks to fully mature after pollination. Harvest when calyxes begin to dry and split. |
-
-:::warning
+| 8 | **Allow seeds to mature** | Seeds take 3-6 weeks to fully mature after pollination. Harvest when calyxes begin to dry and split. |warning
 Never consume flower from a plant treated with colloidal silver. Silver accumulation in plant tissue is not safe for consumption. The plant used for reversal should be discarded after pollen collection. Only the seeds produced from the pollination are safe to grow and consume the resulting flower from.
 :::
 
@@ -158,8 +154,8 @@ Silver thiosulfate is a chemical solution created by mixing silver nitrate (AgNO
 | 5 | **Monitor for male flowers** | Male flowers should appear within 10-14 days after the first application. |
 | 6 | **Collect pollen and pollinate** | Same as CS method — collect pollen when sacs open, pollinate a different female. |
 
-:::info
-STS is the preferred method among professional seed producers because it produces more consistent results and a higher yield of viable pollen. However, it requires handling chemical reagents (silver nitrate is corrosive and an oxidizer), so proper safety equipment (gloves, eye protection) is essential.
+**ℹ️ STS is the preferred method among professional seed producers because it produces more consistent results and a higher yield of viable pollen. However, it requires handling chemical reagents (silver nitrate is corrosive and an oxidizer), so proper safety equipment (gloves, eye protection) is essential.**
+
 :::
 
 #### Method 3: Rodelization
@@ -207,9 +203,7 @@ Not all feminized seeds are created equal. Quality depends on the breeder's prac
 
 - **Reputable breeders test for hermaphroditism tendency** — They stress-test their feminized lines (by exposing plants to environmental stress, light leaks, temperature swings) to identify and cull lines that produce hermaphrodites.
 - **Cheap seeds from stress-prone genetics** — Low-cost feminized seeds from unknown sources may come from plants that hermied naturally. The offspring inherit this tendency, leading to seeded flower crops in subsequent grows.
-- **Production method matters** — STS-produced feminized seeds are generally considered more reliable than rodelization-produced seeds because the hermaphroditism was chemically induced rather than naturally expressed.
-
-:::tip
+- **Production method matters** — STS-produced feminized seeds are generally considered more reliable than rodelization-produced seeds because the hermaphroditism was chemically induced rather than naturally expressed.tip
 When purchasing feminized seeds, research the breeder's reputation and their approach to hermaphroditism testing. A reputable breeder will openly discuss their feminization methods and quality control processes. Avoid seeds from breeders who cannot or will not provide this information.
 :::
 
@@ -311,8 +305,8 @@ Breeding CBD-rich seeds involves:
 3. **Selective breeding** — Crossing Type II plants together produces approximately 25% Type I, 50% Type II, and 25% Type III offspring. Breeders select the desired type and continue breeding to stabilize.
 4. **Stabilization** — Repeated generation breeding to fix the desired cannabinoid ratio.
 
-:::info
-The genetics of cannabinoid ratios are more complex than the simplified model above. Multiple genes and regulatory elements influence final cannabinoid expression, and environmental factors can also play a role. The Type I/II/III framework is a useful guide but not an absolute predictor.
+**ℹ️ The genetics of cannabinoid ratios are more complex than the simplified model above. Multiple genes and regulatory elements influence final cannabinoid expression, and environmental factors can also play a role. The Type I/II/III framework is a useful guide but not an absolute predictor.**
+
 :::
 
 ---
@@ -338,9 +332,7 @@ A simple field test for seed maturity:
 1. Place a seed between your thumb and forefinger (or use clean tweezers).
 2. Apply gentle but firm pressure.
 3. **Mature seed:** Resists pressure, does not crack or crush. It feels solid and dense.
-4. **Immature seed:** Cracks, crushes, or collapses under light pressure. These seeds are unlikely to germinate.
-
-:::warning
+4. **Immature seed:** Cracks, crushes, or collapses under light pressure. These seeds are unlikely to germinate.warning
 Do not apply excessive force — even mature seeds will crack under enough pressure. The squeeze test is about assessing relative firmness, not testing the seed's breaking point.
 :::
 
@@ -396,8 +388,8 @@ Proper seed storage is essential for maintaining viability over time. Cannabis s
 | **Freezer (-4°F / -20°C), sealed with desiccant** | 5-10+ years | Long-term seed banking |
 | **Cryogenic (liquid nitrogen, -320°F / -196°C)** | 25+ years | Professional seed bank preservation |
 
-:::warning
-When removing seeds from freezer storage, allow the container to reach room temperature *before opening* (approximately 4-6 hours). Opening a cold container in warm, humid air causes condensation on the seeds, which can trigger premature germination or mold growth.
+**⚠️ When removing seeds from freezer storage, allow the container to reach room temperature *before opening* (approximately 4-6 hours). Opening a cold container in warm, humid air causes condensation on the seeds, which can trigger premature germination or mold growth.**
+
 :::
 
 ---
@@ -419,9 +411,7 @@ The first and easiest test:
 The float test involves placing seeds in a glass of room-temperature water:
 
 - **Seeds that sink** are generally considered more likely to be viable (denser, mature).
-- **Seeds that float** are often considered non-viable (hollow, immature).
-
-:::info
+- **Seeds that float** are often considered non-viable (hollow, immature).info
 The float test is controversial among experienced growers. Some viable seeds float due to air pockets in the shell, and some non-viable seeds sink. The float test should be used as one indicator among several, not as a definitive test. If you use the float test, plant floating seeds immediately — they begin the germination process once wet and cannot be re-dried and stored.
 :::
 
@@ -533,8 +523,8 @@ This is the fastest and most reliable method, combining the benefits of water so
 | **Peeking too often** | Disrupts humidity, temperature, and risks damaging the emerging taproot | Check at 12-hour intervals, not every hour. |
 | **Starting with heavy nutrients** | Burns the delicate seedling | Use plain, pH-adjusted water or very light seedling nutrients for the first 1-2 weeks. |
 
-:::tip
-Label every germination container with the strain name, date, and germination method. This information is invaluable for tracking which methods work best for which genetics.
+**💡 Label every germination container with the strain name, date, and germination method. This information is invaluable for tracking which methods work best for which genetics.**
+
 :::
 
 ---
@@ -602,9 +592,7 @@ The transition from seedling to vegetative growth is gradual and occurs approxim
 - Begin light nutrient feeding if using inert media (coco, hydroponics).
 - Reduce humidity to vegetative range (50-70% RH).
 - If transplanting is needed (for photoperiod plants started in small containers), this is the appropriate time.
-- For autoflowers: Continue in final container — do not transplant autos after the seedling stage.
-
-:::info
+- For autoflowers: Continue in final container — do not transplant autos after the seedling stage.info
 The seedling stage is the most vulnerable period in a cannabis plant's lifecycle. Many losses occur during this stage due to overwatering, damping-off, light stress, or transplant shock. Patience and gentle care during these first 2-3 weeks pay dividends throughout the plant's life.
 :::
 

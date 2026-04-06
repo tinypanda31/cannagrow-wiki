@@ -73,8 +73,8 @@ Black Diamond is widely reported to produce:
 
 **Intensity:** Moderate to strong. The moderate-to-high THC range and pure indica genetics produce effects that are best suited for evening use and may be overwhelming for inexperienced users at higher doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavily sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavily sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Black Diamond presents a rich, berry-forward sensory profile:
 - **Smell:** Pronounced berry and sweet aromas with earthy undertones. The Blackberry parent is immediately apparent in the dark fruit sweetness, while the Diamond OG genetics contribute an earthy depth and faint fuel undertone. The cured buds carry a rich, jam-like aroma that is sweet and inviting.
 - **Taste:** Sweet berry flavors on inhalation, with earthy and slightly fuel-tinged notes on the exhale. The flavor is smooth and layered, with limonene providing faint citrus accents that enhance the berry character. The finish carries an earthy warmth that grounds the sweeter top notes.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

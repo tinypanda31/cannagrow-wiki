@@ -73,8 +73,8 @@ Strawberry Cough is widely reported to produce:
 
 **Intensity:** Mild to moderate. The moderate THC range makes Strawberry Cough accessible and manageable for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Distinctive sweet strawberry with berry and earthy undertones. The strawberry character is pronounced and easily recognizable, closely resembling fresh strawberries.
 - **Taste:** Sweet strawberry on the inhale, with berry and slightly earthy notes on the exhale. The flavor is smooth and enjoyable, though the flower's texture is known to induce coughing in some users -- hence the name. The coughing is not necessarily related to the THC content but rather to the physical characteristics of the smoke.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

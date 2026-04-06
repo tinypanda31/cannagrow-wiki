@@ -73,8 +73,8 @@ Critical Kush is widely reported to produce:
 
 **Intensity:** Moderate to strong. The upper end of the THC range can produce intense effects, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Critical Kush presents a classic OG-influenced sensory profile:
 - **Smell:** Earthy and sweet with noticeable citrus undertones. The myrcene-dominant profile gives it a musky, herbal quality, while limonene adds a bright orange-citrus accent that lifts the heavier earthy notes.
 - **Taste:** Sweet and earthy on inhalation, with citrus and slightly spicy notes on the exhale. The flavor is smooth and recognizable, appealing to users who appreciate traditional indica profiles with a citrus twist.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

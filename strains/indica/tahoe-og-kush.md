@@ -72,8 +72,8 @@ Tahoe OG Kush is widely reported to produce:
 
 **Intensity:** Strong. The high THC range and indica-dominant genetics produce intense effects that are best suited for users with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Tahoe OG Kush presents a classic yet distinctive OG sensory profile:
 - **Smell:** Earthy pine and lemon dominate the aroma, with fuel undertones from the classic OG genetics. The limonene and pinene expression is more pronounced than in many OG derivatives, giving Tahoe OG a brighter, cleaner scent profile.
 - **Taste:** Pine and lemon on inhalation, with earthy and fuel notes on the exhale. The flavor is clean and satisfying, with the lemon character carrying through from aroma to taste in a way that distinguishes Tahoe OG from heavier, fuel-forward OG phenotypes.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

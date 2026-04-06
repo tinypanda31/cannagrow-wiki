@@ -73,8 +73,8 @@ Purple Mango is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range makes Purple Mango one of the more approachable indica-dominant options, suitable for users of varying experience levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Purple Mango presents a tropical-grape sensory profile:
 - **Smell:** Pronounced tropical mango and grape sweetness with earthy undertones. The Mango parent is immediately apparent in the rich, tropical fruit character, while the Purple genetics contribute a sweet grape note that creates a layered, dual-fruit aroma. The cured buds carry a fresh, fruity aroma that is sweet and inviting, with myrcene providing an earthy foundation that grounds the sweeter top notes.
 - **Taste:** Sweet mango and grape flavors on inhalation, with earthy and slightly citrus notes on the exhale. The flavor is smooth and palatable, with limonene providing citrus accents that bridge the tropical and grape characters. The finish carries a faint herbal sweetness that is characteristic of myrcene-dominant profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

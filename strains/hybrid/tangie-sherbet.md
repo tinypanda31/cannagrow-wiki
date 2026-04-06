@@ -74,8 +74,8 @@ Tangie Sherbet is widely reported to produce:
 
 **Intensity:** Moderate to strong. The balanced hybrid genetics produce effects that are noticeable and evolving, with the cerebral phase giving way to body relaxation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The initial cerebral effects may be stimulating, while the later body effects can be sedating at higher doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The initial cerebral effects may be stimulating, while the later body effects can be sedating at higher doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus-forward with sweet and berry undertones. The limonene-dominant profile gives it a bright, tangerine-like citrus aroma that is immediately noticeable. The Sherbert genetics add a sweet, berry-rich undertone that rounds out the citrus brightness with dessert-like depth. The overall aroma is layered and complex, with the citrus character being most prominent but the sweet-berry foundation clearly present.
 - **Taste:** Citrus on the inhale, with sweet berry and dessert-like notes on the exhale. The tangerine-citrus flavor from Tangie is bright and clean on the initial taste, while the Sherbert inheritance brings a sweet, berry-rich exhale that adds depth and complexity. The transition from citrus to sweet berry on the palate mirrors the effect progression.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

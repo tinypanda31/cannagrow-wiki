@@ -74,8 +74,8 @@ Tangerine Dream is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear and creative, making Tangerine Dream suitable for extended creative sessions.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Powerful tangerine and citrus with an earthy backbone. The limonene delivers an intense tangerine character that genuinely evokes the aroma of fresh-peeled citrus fruit, while the terpinolene adds a subtle floral brightness. The caryophyllene provides a light spicy edge that grounds the profile and prevents it from being one-dimensionally fruity.
 - **Taste:** Tangerine and citrus on the inhale, with earthy and slightly herbal notes on the exhale. The flavor is smooth and genuinely citrus-forward, with the tangerine character carrying through from aroma to taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

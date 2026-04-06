@@ -41,8 +41,8 @@ Sublingual administration is the primary method for consuming cannabis tinctures
 | **Swallowed (ingested like an edible)** | Through digestive system and liver | 30-90 minutes | 4-8 hours | ~10-20% |
 | **Combined (hold, then swallow)** | Both sublingual and digestive | 15-45 min (initial) + 30-90 min (secondary) | 4-8 hours | ~15-35% |
 
-::: tip
-For the fastest onset and most efficient absorption, hold the tincture under your tongue for 60-90 seconds before swallowing. This maximizes sublingual absorption while any remaining product is then processed through the digestive system.
+**💡 For the fastest onset and most efficient absorption, hold the tincture under your tongue for 60-90 seconds before swallowing. This maximizes sublingual absorption while any remaining product is then processed through the digestive system.**
+
 :::
 
 ## Key Metrics
@@ -73,9 +73,7 @@ Tincture potency is typically labeled as total milligrams of cannabinoids per bo
 | **Full dropper (1ml standard)** | 1.0 ml | 20-30 drops (varies by dropper and liquid viscosity) |
 | **Half dropper** | 0.5 ml | 10-15 drops |
 | **Quarter dropper** | 0.25 ml | 5-8 drops |
-| **Single drop** | ~0.03-0.05 ml | 1 drop |
-
-::: warning
+| **Single drop** | ~0.03-0.05 ml | 1 drop | warning
 Droppers are not perfectly calibrated across manufacturers. Always check the product label for specific mg/ml information and use the provided dropper. When in doubt, start with a fraction of a dropper and wait for effects before consuming more.
 :::
 
@@ -158,9 +156,9 @@ See [Cannabinoids](/science/cannabinoids) for information on individual compound
 
 ## How to Make Tincture at Home
 
-::: info
+**ℹ️ Info**
+
 The following is provided for educational purposes. Always comply with applicable laws regarding cannabis possession and processing.
-:::
 
 ### Green Dragon (Alcohol-Based Tincture)
 

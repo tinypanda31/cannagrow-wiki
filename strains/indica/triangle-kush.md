@@ -72,8 +72,8 @@ Triangle Kush is widely reported to produce:
 
 **Intensity:** Strong. The indica-dominant genetics and moderate-to-high THC range produce intense effects that are best reserved for evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Triangle Kush presents a classic OG-derived sensory profile:
 - **Smell:** Fuel and earthy notes dominate the initial aroma, with citrus undertones from limonene providing brightness. The caryophyllene-heavy profile produces a pungent, diesel-like scent that is unmistakably OG Kush in character.
 - **Taste:** Fuel and earthy flavors on inhalation, with citrus and slightly piney notes on the exhale. The flavor is pungent and satisfying, with the classic OG Kush taste that cannabis enthusiasts recognize immediately.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

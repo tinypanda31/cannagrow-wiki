@@ -75,8 +75,8 @@ Girl Scout Cookies is widely reported to produce:
 
 **Intensity:** Strong. The high THC content, particularly in premium pheno-hunts, delivers potent effects best suited to experienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, mint, and cherry with subtle fuel undertones from the OG Kush parent. The aroma is complex and layered, with a noticeable sweetness that is distinguishable from purely fruity strains.
 - **Taste:** Sweet and earthy on the inhale, with mint, cherry, and slightly spicy notes on the exhale. The flavor is rich and dessert-like, making it one of the most flavorful strains in cannabis.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

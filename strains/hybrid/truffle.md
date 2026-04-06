@@ -75,8 +75,8 @@ Truffle is widely reported to produce:
 
 **Intensity:** Strong. The high THC content and balanced effect profile make Truffle best suited to experienced users, though the balanced nature keeps it approachable.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, nutty, and earthy with dessert-like and subtle citrus undertones. The aroma is rich and complex, with a sweet dessert character inherited from Wedding Cake, a distinctive nutty note from the Jealousy influence, and an earthy base. The overall profile is luxurious and layered.
 - **Taste:** Sweet and nutty on the inhale, with earthy, dessert-like, and subtle citrus notes on the exhale. The flavor is smooth and indulgent, with a rich sweetness that transitions into a nutty-earthy finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

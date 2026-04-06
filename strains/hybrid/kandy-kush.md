@@ -74,8 +74,8 @@ Kandy Kush is widely reported to produce:
 
 **Intensity:** Moderate. The 17-22% THC range delivers effects that are noticeable and satisfying without being overwhelming for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, fuel, and earthy with pine undertones. The OG Kush fuel-earthy base is sweetened by the Trainwreck-derived candy-like character, creating a complex sweet-fuel profile. Limonene adds bright citrus accents.
 - **Taste:** Sweet and fuel-like on the inhale, with earthy and slightly spicy notes on the exhale. The flavor carries the candy-like sweetness that gives the strain its name, layered over the pungent fuel-earthy foundation.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

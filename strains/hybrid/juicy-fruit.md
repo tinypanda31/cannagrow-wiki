@@ -74,8 +74,8 @@ Juicy Fruit is widely reported to produce:
 
 **Intensity:** Moderate. The 16-21% THC range delivers effects that are engaging and satisfying while remaining approachable for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Tropical fruit, sweet, and citrus with candy-like character. The limonene-dominant profile produces an intense tangerine-citrus aroma that is remarkably close to tropical fruit chewing gum. Supporting terpinolene adds floral-herbal brightness.
 - **Taste:** Sweet tropical fruit on the inhale, with tangerine citrus and candy-like notes on the mid-palate. The exhale carries earthy and slightly herbal undertones, rounding out the otherwise sweet profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

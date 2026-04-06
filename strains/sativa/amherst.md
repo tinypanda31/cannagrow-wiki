@@ -70,8 +70,8 @@ Amherst is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are functional and clear-headed rather than overwhelming.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fresh pine needles with sweet undertones and earthy depth. The terpinolene content adds a floral, almost herbal brightness that complements the dominant pine character. The overall aroma is clean and invigorating.
 - **Taste:** Piney and sweet on the inhale with an earthy, slightly woody exhale. The sweetness becomes more pronounced as the flower is combusted or vaporized, and the finish is smooth with a faint citrus hint from the limonene content.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

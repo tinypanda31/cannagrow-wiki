@@ -72,8 +72,8 @@ Golden God is widely reported to produce:
 
 **Intensity:** Moderate. The THC range makes Golden God accessible to users with some cannabis experience while still delivering meaningful indica effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Golden God presents a classic landrace indica sensory profile:
 - **Smell:** Sweet and earthy with hashy undertones. The aroma is warm and musky, reminiscent of traditional Afghan hashish, with a sweetness that rounds out the earthy base. Golden trichomes give the buds a distinctive visual appeal.
 - **Taste:** Sweet and earthy on inhalation, with hashy and slightly spicy notes on the exhale. The flavor is smooth and traditional, appealing to users who appreciate classic indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

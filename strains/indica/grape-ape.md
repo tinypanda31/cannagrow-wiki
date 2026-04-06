@@ -74,8 +74,8 @@ Grape Ape is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range makes Grape Ape accessible to less experienced users while still providing satisfying depth for regular consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Grape Ape is famous for its distinctive sensory profile:
 - **Smell:** Pronounced grape and berry sweetness with earthy undertones. The purple buds carry a wine-like, fruity aroma that is immediately recognizable. The myrcene base provides an earthy foundation that grounds the sweeter top notes.
 - **Taste:** Sweet grape and berry flavors on inhalation, with earthy and slightly spicy notes on the exhale. The flavor is smooth and palatable, with limonene providing faint citrus accents that enhance the fruit character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Sour Diesel is widely reported to produce:
 
 **Intensity:** Strong. Sour Diesel delivers potent, fast-acting effects that are best suited to experienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Diesel fuel, citrus, and pungent skunk with earthy undertones. The diesel aroma is immediate and unmistakable -- it is the defining characteristic of Sour Diesel and one of the most recognizable smells in cannabis.
 - **Taste:** Diesel and citrus on the inhale, with a pungent, slightly skunky exhale. The flavor is bold and assertive, appealing to users who appreciate strong, distinctive cannabis taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Strawberry Banana is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 18-23% THC range delivers potent effects that build into comfortable body relaxation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Strawberry, banana, and sweet with fruity smoothie-like character. The myrcene-dominant banana base is sweetened by strawberry-berry notes from limonene, creating a remarkably fruit smoothie-like aroma. The sweetness is prominent and approachable.
 - **Taste:** Strawberry and banana on the inhale, with sweet and slightly earthy notes on the exhale. The flavor is smooth and fruit-forward, with both berry and banana characters clearly present.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

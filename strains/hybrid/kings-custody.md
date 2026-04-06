@@ -74,8 +74,8 @@ King's Custody is widely reported to produce:
 
 **Intensity:** Moderate to strong. The balanced hybrid genetics produce effects that are noticeable but well-managed across a range of tolerance levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and pine-forward with sweet undertones. The myrcene provides an earthy foundation, while the pinene delivers a fresh pine character that is distinctive and regionally characteristic. The sweet undertones round out the profile and add broad palatability.
 - **Taste:** Earthy and pine on the inhale, with sweet and slightly spicy notes on the exhale. The pine flavor is prominent and fresh, with the sweet character becoming more pronounced on the exhale.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

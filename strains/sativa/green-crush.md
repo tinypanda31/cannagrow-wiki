@@ -70,8 +70,8 @@ Green Crush is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are functional and sustaining rather than overwhelming, making Green Crush suitable for all-day daytime use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Despite the name similarity to Green Crack, Green Crush may express subtle differences in effect profile depending on the specific phenotype.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Despite the name similarity to Green Crack, Green Crush may express subtle differences in effect profile depending on the specific phenotype.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus-forward with sweet and earthy undertones. The terpinolene content creates a bright, herbal-citrus aroma. The earthy undertones from myrcene and caryophyllene add depth and prevent the profile from being one-dimensionally fruity.
 - **Taste:** Sweet citrus on the inhale with earthy, slightly spicy notes on the exhale. The flavor is clean and smooth, with citrus most prominent on the palate and an earthy-spicy finish providing contrast.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

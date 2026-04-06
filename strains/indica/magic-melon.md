@@ -72,8 +72,8 @@ Magic Melon is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range makes Magic Melon one of the more approachable indica-dominant options, suitable for users of varying experience levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Magic Melon presents a sweet, melon-forward sensory profile:
 - **Smell:** Pronounced sweet melon aromas with fruity and earthy undertones. The melon character is immediate and unmistakable -- reminiscent of fresh cantaloupe or honeydew -- while the myrcene base provides an earthy foundation that grounds the sweeter top notes. The cured buds carry a fresh, fruity aroma that is inviting and distinct from the more common berry and grape profiles in the indica market.
 - **Taste:** Sweet melon flavors on inhalation, with earthy and slightly citrus notes on the exhale. The flavor is smooth and palatable, with limonene providing citrus accents that enhance the melon character. The finish carries a faint herbal sweetness that is characteristic of myrcene-dominant profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

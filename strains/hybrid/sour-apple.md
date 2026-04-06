@@ -74,8 +74,8 @@ Sour Apple is widely reported to produce:
 
 **Intensity:** Moderate. The 16-21% THC range delivers effects that are engaging and stimulating while remaining approachable for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Diesel, apple, and citrus with sharp, pungent character. The caryophyllene-dominant fuel base from Sour Diesel is brightened by crisp green apple and fresh citrus notes. The combination is distinctive, with the diesel and apple characters both clearly present.
 - **Taste:** Diesel and apple on the inhale, with citrus and slightly earthy notes on the exhale. The diesel character is prominent, with the green apple sweetness adding a sharp, fresh counterpoint.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

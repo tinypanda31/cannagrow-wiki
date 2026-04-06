@@ -77,8 +77,8 @@ Harlequin is widely reported to produce:
 
 **Intensity:** Mild to moderate. The effects are subtle and functional rather than overwhelming, making Harlequin suitable for users who need to remain clear-headed during the day.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. CBD-rich strains like Harlequin produce significantly less intoxication than high-THC strains.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. CBD-rich strains like Harlequin produce significantly less intoxication than high-THC strains.**
+
 :::
 
 ## Aroma & Flavor
@@ -86,9 +86,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and sweet with subtle mango and herbal undertones. The aroma is warm and inviting without being overpowering, reflecting the balanced cannabinoid profile.
 - **Taste:** Earthy and mango-like on the inhale, with sweet and slightly spicy notes on the exhale. The flavor is smooth and approachable, appealing to users who may be sensitive to strong cannabis taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Cookies and Cream is widely reported to produce:
 
 **Intensity:** Moderate. The balanced euphoric onset makes this strain approachable for a wide range of users, while the body relaxation provides satisfying depth.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Cookies and Cream presents a sweet and inviting sensory profile:
 - **Smell:** Sweet vanilla and earthy notes dominate, with subtle spicy undertones from caryophyllene. The aroma is reminiscent of baked goods, with a creamy sweetness that is immediately recognizable.
 - **Taste:** Sweet and vanilla-forward on inhalation, with earthy and slightly nutty notes on the exhale. The flavor is smooth and palatable, with limonene providing citrus accents that prevent the profile from becoming overly sweet.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Runtz (indica-leaning phenotype) is widely reported to produce:
 
 **Intensity:** Moderate to strong. The indica-leaning phenotype emphasizes the heavier end of Runtz's effect range, making it best suited for evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Runtz presents an intensely sweet, candy-forward sensory profile:
 - **Smell:** Sweet, fruity, and candy-like with grape, berry, and tropical fruit undertones. The aroma is unmistakably sweet and reminiscent of fruit candy, with the Zkittlez and Gelato parentage clearly present. The smell is noticeable and pleasant.
 - **Taste:** Sweet fruity and candy-like flavors on inhalation, with grape, berry, and slightly creamy notes on the exhale. The flavor is smooth and highly palatable, making Runtz popular among users who appreciate dessert-forward cultivars.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

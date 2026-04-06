@@ -73,8 +73,8 @@ Lamb's Bread is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and spiritual, making Lamb's Bread suitable for users seeking a meaningful, reflective sativa experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and herbal with subtle tropical undertones. The terpinolene-myrcene combination gives it a warm, organic quality that reflects the Jamaican landrace origins -- sweet and inviting with herbal complexity.
 - **Taste:** Sweet and earthy on the inhale, with herbal and slightly tropical notes on the exhale. The flavor is warm and approachable, reflecting the Caribbean heritage of the genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

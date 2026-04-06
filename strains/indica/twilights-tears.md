@@ -70,8 +70,8 @@ Twilight's Tears is widely reported to produce:
 
 **Intensity:** Strong. Twilight's Tears' deeply sedating effects can be intense, making it best suited for experienced users or evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavily sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the heavily sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Twilight's Tears presents an earthy, pine-forward sensory profile:
 - **Smell:** Earthy and pine-forward with sweet undertones. The myrcene-dominant profile gives it a heavy, herbal quality, while pinene adds a fresh, forest-like character. The overall aroma is deep and noticeable, with a pine character that evokes conifer forests and a subtle sweetness that rounds out the profile.
 - **Taste:** Earthy and piney on inhalation, with sweet and slightly peppery notes on the exhale. The flavor is smooth and recognizable, appealing to users who appreciate traditional, earthy indica profiles with a pine twist.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

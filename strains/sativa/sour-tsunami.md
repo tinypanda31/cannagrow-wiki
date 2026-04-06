@@ -75,8 +75,8 @@ Sour Tsunami is widely reported to produce:
 
 **Intensity:** Mild to moderate. The effects are functional and therapeutic, with the CBD content significantly moderating THC's intoxicating impact.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. CBD-rich strains like Sour Tsunami produce significantly less intoxication than high-THC strains. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. CBD-rich strains like Sour Tsunami produce significantly less intoxication than high-THC strains. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Diesel, citrus, and earthy with herbal undertones. The caryophyllene-limonene combination gives it a pungent, diesel-forward quality with a bright citrus edge inherited from the Diesel lineage, while the humulene adds earthy depth.
 - **Taste:** Diesel and citrus on the inhale, with earthy and slightly herbal notes on the exhale. The flavor is bold and recognizable, appealing to users who appreciate the classic Diesel taste profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

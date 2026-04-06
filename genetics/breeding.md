@@ -12,8 +12,8 @@ tags: genetics, breeding, seeds, cultivation, landrace, phenotypes
 
 ## Disclaimer
 
-:::info
-This page is provided for educational and informational purposes only. Cannabis cultivation and breeding are subject to local, national, and international laws. Always comply with applicable regulations in your jurisdiction. This content does not constitute medical or legal advice.
+**ℹ️ This page is provided for educational and informational purposes only. Cannabis cultivation and breeding are subject to local, national, and international laws. Always comply with applicable regulations in your jurisdiction. This content does not constitute medical or legal advice.**
+
 :::
 
 ---
@@ -83,9 +83,7 @@ Collecting and storing pollen properly is essential for controlled breeding:
    - **Short-term (1-2 weeks):** Refrigerator at 34-40°F (1-4°C). Viability drops significantly after ~2 weeks.
    - **Medium-term (1-3 months):** Freezer at 0°F (-18°C) with a desiccant packet. Viability decreases over time but many crosses are still possible.
    - **Long-term:** Cryogenic storage (liquid nitrogen) — used by professional seed banks for multi-year preservation.
-4. **Adding desiccant:** A small amount of silica gel or powdered milk in the storage container helps absorb moisture and extends viability.
-
-:::warning
+4. **Adding desiccant:** A small amount of silica gel or powdered milk in the storage container helps absorb moisture and extends viability.warning
 Always label stored pollen clearly with the male plant's identity, collection date, and storage method. Unlabeled pollen is useless for breeding. Use freezer-proof labels or a dedicated breeding log.
 :::
 
@@ -130,8 +128,8 @@ A complete breeding project from initial cross to stable cultivar can take **1-4
 
 Selective breeding through phenotype hunting is the most common and accessible breeding approach. It requires no specialized equipment beyond a grow space, seeds, and careful observation — but it does demand patience and meticulous record-keeping.
 
-:::info
-A **phenotype** ("pheno") is the observable expression of a plant's genetics — its structure, aroma, color, potency, flowering time, yield, disease resistance, and all other visible and measurable traits. Two plants grown from seeds of the same cross can look and perform very differently because each seed carries a unique combination of the parents' genes. See also [[/glossary]] for terminology.
+**ℹ️ A **phenotype** ("pheno") is the observable expression of a plant's genetics — its structure, aroma, color, potency, flowering time, yield, disease resistance, and all other visible and measurable traits. Two plants grown from seeds of the same cross can look and perform very differently because each seed carries a unique combination of the parents' genes. See also [[/glossary]] for terminology.**
+
 :::
 
 ### The Step-by-Step Process
@@ -199,9 +197,7 @@ Use the following table to systematically evaluate each plant in your breeding p
 | **Cannabinoid profile** | THC, CBD, CBG, CBN percentages | HPLC lab testing or reliable field test kits |
 | **Yield** | Wet and dry weight per plant | Scale measurement at harvest |
 | **Effect** | Subjective experience, duration, body vs. head effect | Standardized evaluation forms (consumer panels or personal notes) |
-| **Curing quality** | How flower performs after drying and curing | Post-cure aroma, flavor, smoke quality, bag appeal |
-
-:::tip
+| **Curing quality** | How flower performs after drying and curing | Post-cure aroma, flavor, smoke quality, bag appeal |tip
 Maintain a breeding journal — physical or digital — with entries for every plant, every cross, every observation. Photograph plants at each stage. The most successful breeders are the ones with the best records. Without documentation, breeding is just gambling.
 :::
 
@@ -235,8 +231,8 @@ Understanding the generational framework is essential for any breeder. Each gene
 | **F6+** | Low — approaching IBL | Final stabilization; strain naming | 10-20 plants |
 | **IBL** | Very low — true breeding | Stable cultivar; can be used as a parent in new crosses | N/A (stable line) |
 
-:::info
-The generation labels (F1, F2, etc.) describe the relationship to the original cross, not the quality of the plants. An F6 plant is not inherently "better" than an F1 plant — it is simply more genetically uniform. Some of the most famous strains in cannabis history are F1 hybrids (e.g., Blue Dream, Girl Scout Cookies in their original form).
+**ℹ️ The generation labels (F1, F2, etc.) describe the relationship to the original cross, not the quality of the plants. An F6 plant is not inherently "better" than an F1 plant — it is simply more genetically uniform. Some of the most famous strains in cannabis history are F1 hybrids (e.g., Blue Dream, Girl Scout Cookies in their original form).**
+
 :::
 
 ---
@@ -283,9 +279,7 @@ This process typically takes **2-4 years** of dedicated breeding work.
 | Predictable outcome — you know 90%+ of the genetics | Requires maintaining the recurrent parent (via cloning or seed stock) |
 | Efficient way to add disease resistance, autoflowering, or other single traits | May inadvertently carry over unwanted linked traits (genetic linkage) |
 | Can rescue a great plant that cannot be cloned | Inbreeding depression possible if recurrent parent is already inbred |
-| Useful for stabilizing a specific phenotype quickly | Each backcross adds a full generation (8-16 weeks) to the timeline |
-
-:::warning
+| Useful for stabilizing a specific phenotype quickly | Each backcross adds a full generation (8-16 weeks) to the timeline |warning
 Backcrossing is not a substitute for proper selective breeding. It is a tool for transferring specific traits. If you backcross without careful selection at each generation, you may fix unwanted traits alongside the desired ones. Always evaluate the full trait profile, not just the single trait you are targeting.
 :::
 
@@ -315,8 +309,8 @@ Plants to cull from the breeding pool:
 - Plants with off-target aroma or flavor profiles
 - Plants that flower significantly earlier or later than the target window
 
-:::tip
-Culling does not mean destroying the plant. Culled plants can still produce flower, be used for extraction, or serve as clones for personal use. They are simply removed from the *breeding* population.
+**💡 Culling does not mean destroying the plant. Culled plants can still produce flower, be used for extraction, or serve as clones for personal use. They are simply removed from the *breeding* population.**
+
 :::
 
 ### Population Size
@@ -439,9 +433,7 @@ The resulting polyhybrid population will exhibit enormous variation. The breeder
 
 ---
 
-## Male Selection
-
-:::warning
+## Male Selectionwarning
 One of the most common mistakes in cannabis breeding is neglecting male selection. The male contributes 50% of the genetics to every seed, yet males produce no flower and are often chosen by default rather than by design.
 :::
 
@@ -490,8 +482,8 @@ Female cannabis plants carry two X chromosomes (XX). When a female is reversed (
 | **Silver Thiosulfate (STS)** | Mix silver nitrate and sodium thiosulfate to create STS solution. Spray on selected branches. More effective and reliable than CS. | Very High | Preferred by professional breeders. Requires chemical handling precautions. |
 | **Rodelization** | Leave an unpollinated female in flower 2-4 weeks past normal harvest. Stress from "no male available" triggers natural hermaphroditism ("bananas"/"nanners"). | Low-Moderate | No chemicals needed, but less reliable. Seeds may carry hermaphroditism tendency. |
 
-:::info
-When using CS or STS, only spray the branch you intend to reverse. Cover the rest of the plant to prevent chemical contact. The reversed flowers produce pollen but no viable seeds on that same plant — use the pollen to pollinate a *different* female plant. Never consume flower from a plant treated with colloidal silver or STS.
+**ℹ️ When using CS or STS, only spray the branch you intend to reverse. Cover the rest of the plant to prevent chemical contact. The reversed flowers produce pollen but no viable seeds on that same plant — use the pollen to pollinate a *different* female plant. Never consume flower from a plant treated with colloidal silver or STS.**
+
 :::
 
 ### Why This Accelerates Breeding Programs
@@ -597,9 +589,7 @@ The cannabis gene pool is vast and largely unmapped. Maintaining broad genetic d
 
 - **Disease resistance:** Future pathogens may require genes currently present only in obscure landraces or hemp varieties.
 - **Climate adaptation:** As growing conditions change, genetics adapted to different climates will become increasingly valuable.
-- **Cannabinoid diversity:** Minor cannabinoids (CBG, CBC, CBN, THCV, CBDV) may prove valuable for various applications. Genetics that produce these compounds at elevated levels should be preserved.
-
-:::tip
+- **Cannabinoid diversity:** Minor cannabinoids (CBG, CBC, CBN, THCV, CBDV) may prove valuable for various applications. Genetics that produce these compounds at elevated levels should be preserved.tip
 Support breeders who are working on preservation, diversity, and ethical practices. Purchase seeds from transparent breeders who document lineage and credit their source genetics. The choices you make as a grower and breeder shape the future of cannabis genetics.
 :::
 

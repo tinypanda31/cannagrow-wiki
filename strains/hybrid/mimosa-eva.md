@@ -75,8 +75,8 @@ Mimosa is widely reported to produce:
 
 **Intensity:** Moderate. The 17-22% THC range and balanced sativa-leaning effects make Mimosa suitable for daytime use and accessible to a broad range of consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bright orange, citrus, and berry with sweet herbal undertones. The orange-citrus aroma inherited from Clementine is the dominant character, while the berry sweetness from Purple Punch adds depth. The overall profile is vibrant, fruity, and approachable.
 - **Taste:** Citrus-orange on the inhale, with berry, sweet, and slightly herbal notes on the exhale. The flavor is bright and fruit-forward, with a clean citrus character that transitions into a sweet berry finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

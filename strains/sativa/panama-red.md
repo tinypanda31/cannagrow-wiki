@@ -70,8 +70,8 @@ Panama Red is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, though the cerebral quality can be pronounced for users sensitive to pure sativa genetics.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, woody, and spicy with warm, inviting undertones. The aroma is rich and classic, with a woody-spicy character that distinguishes it from fruity modern hybrids.
 - **Taste:** Earthy and woody on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is traditional and refined, representing the classic Central American landrace profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

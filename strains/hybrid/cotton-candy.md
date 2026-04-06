@@ -74,8 +74,8 @@ Cotton Candy is widely reported to produce:
 
 **Intensity:** Mild to moderate. Cotton Candy's moderate THC range and balanced genetics produce approachable effects suitable for beginners and experienced users alike.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, candy-like, and fruity with earthy and citrus undertones. The aroma is reminiscent of spun sugar and fruit, with the Purple Skunk inheritance giving it a pronounced sweetness that is rounded out by the myrcene earthy base from the Power Plant parent.
 - **Taste:** Sweet candy and fruity on the inhale, with earthy and slightly citrus notes on the exhale. The candy-like flavor is prominent and authentic, making it one of the more convincing sweet-flavored strains.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

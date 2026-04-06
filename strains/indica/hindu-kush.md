@@ -70,8 +70,8 @@ Hindu Kush is widely reported to produce:
 
 **Intensity:** Mild to moderate. Hindu Kush provides a gentle, manageable indica experience that is well-suited to users who find modern high-THC strains overwhelming.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and woody with distinctive sandalwood and sweet undertones. The caryophyllene content gives it a spicy, incense-like quality that differentiates it from the more purely musky Afghani profile.
 - **Taste:** Earthy, woody, and slightly sweet on the inhale, with sandalwood and herbal notes on the exhale. The smoke is smooth and the flavor is classic and traditional.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

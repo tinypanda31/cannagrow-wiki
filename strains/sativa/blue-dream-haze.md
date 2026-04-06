@@ -73,8 +73,8 @@ Blue Dream Haze is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear-headed and functional, suitable for a wide range of users seeking daytime stimulation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Berry sweetness with citrus brightness and herbal undertones. The Haze influence adds a complex herbal-spicy layer to the Blue Dream fruitiness.
 - **Taste:** Berry and citrus flavors on the inhale, with herbal and slightly spicy notes on the exhale. The flavor is layered and complex, combining fruit sweetness with classic Haze character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

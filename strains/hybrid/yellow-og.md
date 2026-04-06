@@ -74,8 +74,8 @@ Yellow OG is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience that transitions from balanced to body-heavy, making it versatile for different times of day.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fuel and citrus with earthy undertones. The OG Kush fuel character is prominent, but the Yellow OG phenotype shifts the balance toward a brighter, citrus-forward expression. The earthy myrcene base provides depth, while the citrus limonene adds a refreshing brightness. The overall aroma is layered, with fuel pungency, citrus brightness, and earthy warmth.
 - **Taste:** Fuel and citrus on the inhale, with earthy and slightly piney notes on the exhale. The flavor is robust and full-bodied, with the fuel character carrying through the experience and the citrus finish providing a refreshing contrast to the heavier earth tones.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

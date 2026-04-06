@@ -73,8 +73,8 @@ Trinity is widely reported to produce:
 
 **Intensity:** Moderate to strong. Trinity is best suited to experienced users or those with established tolerance due to its potent indica effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Trinity presents a bold, fuel-forward sensory profile:
 - **Smell:** Diesel, earthy, and pine with fuel undertones. The aroma is pungent and recognizable as a fuel-forward indica, with a deep earthy base, fresh pine notes, and a diesel character that suggests possible OG Kush family influence. The smell is strong and noticeable.
 - **Taste:** Diesel and earthy flavors on inhalation, with pine and slightly peppery notes on the exhale. The flavor is bold and traditional, appealing to users who appreciate fuel-forward indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

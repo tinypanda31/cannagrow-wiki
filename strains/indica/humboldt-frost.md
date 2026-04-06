@@ -72,8 +72,8 @@ Humboldt Frost is widely reported to produce:
 
 **Intensity:** Moderate. The THC range and the balanced-to-body-heavy effect pattern make Humboldt Frost versatile for late afternoon through evening use by users with some cannabis experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Humboldt Frost presents a pine-forward, earthy sensory profile:
 - **Smell:** Pronounced pine and earthy aromas with sweet undertones. The pinene presence is immediately apparent -- reminiscent of a walk through a Northern California redwood forest -- while the myrcene base provides a deep, earthy foundation. The cured buds carry a frosty, resinous aroma that is fresh and inviting, with a faint sweetness that softens the heavier pine and earth notes.
 - **Taste:** Pine and earthy flavors on inhalation, with sweet and slightly spicy notes on the exhale. The flavor is clean and fresh, with pinene providing a crisp, forest-like character that is distinctive among indica cultivars. The finish carries an earthy warmth that grounds the pine freshness.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Jack the Ripper is widely reported to produce:
 
 **Intensity:** Strong. Jack the Ripper delivers potent, fast-acting effects that are best suited to experienced sativa users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus, pine, and peppery with floral undertones. The terpinolene-pinene combination gives it a fresh, bright quality that is immediately recognizable, with the caryophyllene adding a spicy edge.
 - **Taste:** Citrus and pine on the inhale, with peppery and slightly floral notes on the exhale. The flavor is clean and complex, appealing to users who appreciate bright, layered sativa profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

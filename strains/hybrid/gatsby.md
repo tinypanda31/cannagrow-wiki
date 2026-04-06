@@ -74,8 +74,8 @@ Gatsby is widely reported to produce:
 
 **Intensity:** Moderate to strong. The G13 lineage contributes potency that is noticeable but well-managed by the balanced hybrid genetics.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet and earthy with diesel undertones. The aroma is layered, with the sweet primary notes sitting over an earthy foundation from the myrcene and caryophyllene. The diesel character is noticeable but not overpowering, adding a pungent complexity that hints at the strain's potent genetics.
 - **Taste:** Sweet and earthy on the inhale, with diesel and slightly spicy notes on the exhale. The flavor is smooth and layered, with the diesel character becoming more pronounced on the exhale.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

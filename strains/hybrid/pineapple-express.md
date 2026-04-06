@@ -73,8 +73,8 @@ Pineapple Express is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, making Pineapple Express well-suited to daytime and social use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pineapple, tropical fruit, and citrus with earthy and spicy undertones. The tropical aroma is pronounced and easily recognizable, closely resembling fresh pineapple and tropical fruits.
 - **Taste:** Pineapple and tropical citrus on the inhale, with earthy and slightly spicy notes on the exhale. The flavor is smooth and vibrant, delivering a full tropical experience that is both sweet and complex.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

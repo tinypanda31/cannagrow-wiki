@@ -70,8 +70,8 @@ Maconga is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, making Maconga well-suited to daytime use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, spicy, and citrus with herbal undertones. The aroma is complex and layered, with an earthy foundation overlaid by spicy and bright citrus notes.
 - **Taste:** Earthy and spicy on the inhale, with citrus and slightly herbal notes on the exhale. The flavor is robust and distinctive, appealing to users who appreciate complex, traditional cannabis taste profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

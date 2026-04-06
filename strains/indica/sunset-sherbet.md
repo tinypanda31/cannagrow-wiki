@@ -73,8 +73,8 @@ Sunset Sherbet is widely reported to produce:
 
 **Intensity:** Moderate. The balanced euphoric onset makes Sunset Sherbet approachable for a wide range of users, while the body relaxation provides satisfying depth.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Sunset Sherbet presents a sweet and complex sensory profile:
 - **Smell:** Sweet, fruity, and berry with earthy undertones. The aroma is reminiscent of a fruit-forward dessert, with caryophyllene adding a spicy depth that prevents the profile from becoming one-dimensionally sweet.
 - **Taste:** Sweet berry and fruity flavors on inhalation, with earthy and slightly spicy notes on the exhale. The flavor is smooth and palatable, with limonene providing citrus brightness that enhances the fruit character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

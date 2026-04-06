@@ -7,8 +7,8 @@ description: "Educational overview of butane and propane hash oil extraction, sa
 
 Butane hash oil (BHO) and propane hash oil (PHO) are cannabis concentrates produced by passing liquid butane, propane, or a blend of both through cannabis material to dissolve cannabinoids, terpenes, and other compounds. The solvent is then evaporated and purged, leaving behind a concentrated resin.
 
-::: danger
-BUTANE AND PROPANE EXTRACTION CARRY EXTREME SAFETY RISKS INCLUDING FIRE, EXPLOSION, AND ASPHYXIATION. OPEN BLASTING (USING BUTANE IN OPEN OR IMPROVISED SYSTEMS) HAS CAUSED NUMEROUS FATALITIES, SEVERE BURNS, AND PROPERTY DESTRUCTION. THIS SECTION IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY. HYDROCARBON EXTRACTION SHOULD ONLY BE PERFORMED BY TRAINED PROFESSIONALS USING CERTIFIED CLOSED-LOOP EQUIPMENT IN PROPERLY VENTILATED, CODE-COMPLANT FACILITIES.
+**🚨 BUTANE AND PROPANE EXTRACTION CARRY EXTREME SAFETY RISKS INCLUDING FIRE, EXPLOSION, AND ASPHYXIATION. OPEN BLASTING (USING BUTANE IN OPEN OR IMPROVISED SYSTEMS) HAS CAUSED NUMEROUS FATALITIES, SEVERE BURNS, AND PROPERTY DESTRUCTION. THIS SECTION IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY. HYDROCARBON EXTRACTION SHOULD ONLY BE PERFORMED BY TRAINED PROFESSIONALS USING CERTIFIED CLOSED-LOOP EQUIPMENT IN PROPERLY VENTILATED, CODE-COMPLANT FACILITIES.**
+
 :::
 
 ![Professional closed-loop BHO extraction system](/uploads/images/extraction/closed-loop-system.jpg)
@@ -27,9 +27,7 @@ This distinction is the single most important safety factor in hydrocarbon extra
 
 ### Open Blasting -- NEVER ATTEMPT
 
-Open blasting involves filling an open-ended tube or container with cannabis material and butane from a lighter refill canister, then allowing the butane to evaporate into the open air or an unventilated space.
-
-::: danger
+Open blasting involves filling an open-ended tube or container with cannabis material and butane from a lighter refill canister, then allowing the butane to evaporate into the open air or an unventilated space. danger
 Open blasting is extremely dangerous and should never be attempted. Risks include:
 - **Explosion:** Butane is heavier than air and pools in low areas, creating explosive atmospheres
 - **Fire:** Any spark -- from a light switch, static electricity, or pilot light -- can ignite accumulated butane
@@ -126,8 +124,8 @@ Even after initial solvent separation, residual hydrocarbons remain in the extra
 | **Heat-only purging** | Extract left in a warm, well-ventilated area | Several days to weeks | Less effective; not suitable for regulated markets |
 | **Vacuum chamber** | Extract placed in vacuum chamber without heat | 24-48 hours | Moderate effectiveness |
 
-::: info
-In regulated markets, residual solvent levels are strictly tested and regulated. Products must meet specific limits (typically below 5,000 parts per million for butane, varying by jurisdiction) before they can be sold.
+**ℹ️ In regulated markets, residual solvent levels are strictly tested and regulated. Products must meet specific limits (typically below 5,000 parts per million for butane, varying by jurisdiction) before they can be sold.**
+
 :::
 
 ## Types of BHO/PHO Concentrates
@@ -200,9 +198,7 @@ BHO/PHO is **widely used in commercial edible production** and serves as the sta
 
 ### Suitability for Edibles
 
-BHO/PHO is **well suited for edibles** when properly processed. The concentrated cannabinoid content makes it an efficient and potent edible ingredient. However, there are critical safety steps that must be followed.
-
-::: warning
+BHO/PHO is **well suited for edibles** when properly processed. The concentrated cannabinoid content makes it an efficient and potent edible ingredient. However, there are critical safety steps that must be followed. warning
 **Residual solvent warning:** BHO/PHO must be properly purged of residual solvents BEFORE decarboxylation for edible use. If residual butane or propane remains in the extract, the decarboxylation heating process can cause these solvents to concentrate rather than evaporate, potentially resulting in a product with higher residual solvent levels than the starting material. **Only use lab-tested BHO/PHO with verified residual solvent levels for edible conversion.**
 :::
 
@@ -217,8 +213,8 @@ BHO/PHO contains cannabinoids primarily in their acidic forms (THCA, CBDA) and *
 - The extract will bubble vigorously during decarboxylation as CO2 is released -- this is normal
 - Ensure adequate ventilation during decarboxylation, as any remaining trace solvents will be released during heating
 
-::: danger
-**Do NOT decarboxylate BHO/PHO that has not been properly purged.** Residual solvents heated in an enclosed oven can create fire hazards and will concentrate in the final product. Only use lab-tested material with confirmed low residual solvent levels.
+**🚨 **Do NOT decarboxylate BHO/PHO that has not been properly purged.** Residual solvents heated in an enclosed oven can create fire hazards and will concentrate in the final product. Only use lab-tested material with confirmed low residual solvent levels.**
+
 :::
 
 See [Decarboxylation](/science/decarboxylation) for complete temperature and time guidance.
@@ -246,9 +242,7 @@ BHO/PHO potency varies depending on extraction quality and consistency:
 
 For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles).
 
-## Legal Considerations
-
-::: warning
+## Legal Considerations warning
 Hydrocarbon cannabis extraction is heavily regulated or entirely illegal in many jurisdictions. Always research and comply with local laws before any extraction activity.
 :::
 

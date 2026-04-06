@@ -73,8 +73,8 @@ Death Star is widely reported to produce:
 
 **Intensity:** Strong. Death Star is best suited to experienced users or those with established tolerance. The high THC range combined with heavy indica effects can be overwhelming for inexperienced consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Death Star presents a bold, fuel-forward sensory profile:
 - **Smell:** Strong diesel fuel and skunk with earthy undertones. The Sour Diesel influence is unmistakable in the pungent fuel aroma, while the Sensi Star parent adds earthy depth. The smell is noticeable and can fill a room.
 - **Taste:** Fuel and skunky flavors on inhalation, with earthy and slightly sweet notes on the exhale. The smoke is moderately smooth, though the potency of the flower can make the experience intense.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

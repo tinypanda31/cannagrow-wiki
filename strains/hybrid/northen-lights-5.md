@@ -74,8 +74,8 @@ Northern Lights #5 is widely reported to produce:
 
 **Intensity:** Moderate to strong. The pure indica genetics deliver potent body relaxation that is deeply satisfying.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The sedating body effects may impair coordination and are not suitable for activities requiring alertness.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The sedating body effects may impair coordination and are not suitable for activities requiring alertness.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and spicy with pine undertones. The myrcene provides a sweet-earthy foundation, while caryophyllene adds a noticeable spicy warmth. The pinene contributes a fresh pine character that adds brightness and depth. The overall aroma is classic indica -- warm, comforting, and immediately recognizable to experienced users.
 - **Taste:** Sweet and earthy on the inhale, with spicy and pine notes on the exhale. The flavor is smooth and classic, with the sweet-earthy character carrying through to a spicy, slightly piney finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

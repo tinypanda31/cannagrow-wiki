@@ -73,8 +73,8 @@ Purple Punch is widely reported to produce:
 
 **Intensity:** Moderate to strong. Purple Punch is best suited to evening use and may be overwhelming for inexperienced users at higher doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Purple Punch presents a rich, dessert-like sensory profile:
 - **Smell:** Pronounced grape and blueberry sweetness with vanilla and earthy undertones. The GDP parent contributes the recognizable grape character, while a creamy vanilla quality adds a dessert-like dimension. The aroma is sweet and noticeable.
 - **Taste:** Sweet grape and blueberry flavors on inhalation, with vanilla and slightly earthy notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate sweet, fruity profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

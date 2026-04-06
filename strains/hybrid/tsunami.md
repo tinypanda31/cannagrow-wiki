@@ -76,8 +76,8 @@ Tsunami is widely reported to produce:
 
 **Intensity:** Mild to moderate. The moderate THC range and balanced effects make Tsunami one of the most universally accessible strains, suitable for beginners and experienced users alike.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, pine, and flowery with herbal undertones. The earthy base from myrcene is the foundation, while pine from pinene adds a fresh, clean top note. The flowery character from linalool provides sweetness. The overall profile is natural, clean, and approachable.
 - **Taste:** Earthy and pine on the inhale, with flowery, herbal, and subtle sweet notes on the exhale. The flavor is smooth and natural, with an earthy-pine character that transitions into a flowery-sweet finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

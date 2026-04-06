@@ -70,8 +70,8 @@ Frankenstein is widely reported to produce:
 
 **Intensity:** Moderate to strong. The sedating effects can be intense, particularly for inexperienced users or at higher doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Frankenstein presents an intense, fuel-forward sensory profile:
 - **Smell:** Pungent and fuel-forward with earthy, musky undertones. The myrcene-dominant profile gives it a heavy, herbal quality, while caryophyllene adds a peppery sharpness. The overall aroma is intense and noticeable, often described as "funky" or "gassy."
 - **Taste:** Earthy and fuel-like on inhalation, with pungent, peppery notes on the exhale. The flavor is bold and not for those who prefer sweet or fruity profiles. Users who enjoy heavy, traditional indica flavors tend to appreciate this strain.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

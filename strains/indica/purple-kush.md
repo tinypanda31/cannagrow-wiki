@@ -72,8 +72,8 @@ Purple Kush is widely reported to produce:
 
 **Intensity:** Moderate. The effects are pronounced but not overwhelming, suitable for both experienced users and those with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and sweet with grape and fruity undertones. The myrcene-dominant profile gives a rich, musky base, while the Purple Afghani genetics contribute a distinctive grape-like sweetness.
 - **Taste:** Earthy and sweet on the inhale, with grape and slight fruity flavors. The exhale carries a mild earthy hash quality inherited from its Kush lineage. The smoke is generally smooth.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

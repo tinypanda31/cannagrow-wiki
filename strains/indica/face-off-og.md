@@ -72,8 +72,8 @@ Face Off OG is widely reported to produce:
 
 **Intensity:** Strong. The sedating nature of Face Off OG makes it best suited for evening or nighttime use and for users with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Face Off OG presents a classic OG sensory profile:
 - **Smell:** Fuel and earthy pine dominate the aroma, with citrus lemon notes from limonene providing brightness. The classic OG Kush scent is unmistakable, with added depth from the heavy myrcene expression.
 - **Taste:** Fuel and pine on inhalation, with earthy and lemon notes on the exhale. The flavor is pungent and satisfying, with the characteristic OG Kush taste that cannabis enthusiasts recognize immediately.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Sage is widely reported to produce:
 
 **Intensity:** Moderate. The sativa-dominant cerebral effects are clear and focused, with an approachable intensity suitable for a broad range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The focused cerebral effects may be stimulating for anxiety-prone users at higher doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The focused cerebral effects may be stimulating for anxiety-prone users at higher doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Herbal and pine-forward with earthy undertones. The terpinolene-dominant profile gives it a distinctive herbal, sage-like aroma that is immediately recognizable. The pinene adds a fresh pine character, while the caryophyllene provides a subtle spicy warmth. The overall aroma is clean, fresh, and distinctly herbal.
 - **Taste:** Herbal and pine on the inhale, with earthy and slightly spicy notes on the exhale. The sage-like herbal flavor is prominent and distinctive, with the pine character adding freshness and the earthy exhale providing depth.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

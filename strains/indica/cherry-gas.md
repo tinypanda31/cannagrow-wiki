@@ -73,8 +73,8 @@ Cherry Gas is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range and the two-phase effect pattern (euphoria followed by body heaviness) make Cherry Gas well-suited for evening use by users with some cannabis experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Cherry Gas presents a distinctive cherry-and-fuel sensory profile:
 - **Smell:** Pronounced cherry and sweet aromas with prominent fuel undertones. The Cherry Pie genetics contribute their recognizable cherry character, while the gas parent adds a pungent, diesel-like depth. The cured buds carry a rich, layered aroma that is simultaneously sweet and industrial -- a striking contrast that defines the strain's identity.
 - **Taste:** Cherry and sweet flavors on inhalation, with fuel and earthy notes on the exhale. The flavor is bold and complex, with limonene adding citrus brightness that bridges the cherry sweetness with the fuel depth. The finish carries a pungent warmth that is characteristic of gas-forward genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

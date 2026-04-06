@@ -10,9 +10,9 @@ tags: law-policy, medical cannabis, Australia, TGA, SAS, federal-state conflict,
 
 ---
 
-::: danger
+**🚨 Danger**
+
 **Disclaimer:** This page is provided for educational purposes only and does not constitute legal advice. Cannabis laws change frequently. Always verify current law in your jurisdiction and consult qualified legal counsel before taking action. CannaGrow accepts no liability for actions taken based on this content.
-:::
 
 ---
 

@@ -73,8 +73,8 @@ Cinex is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, making Cinex one of the best daytime sativas available.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bright citrus and orange with pine undertones. The limonene-terpinolene combination gives it a fresh, sunny quality that is immediately recognizable and uplifting.
 - **Taste:** Citrus and orange on the inhale, with pine and slightly floral notes on the exhale. The flavor is clean and refreshing, appealing to users who appreciate bright, complex citrus profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

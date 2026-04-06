@@ -73,8 +73,8 @@ Neville's Haze is widely reported to produce:
 
 **Intensity:** Strong. Neville's Haze delivers potent, long-lasting effects that are best suited to experienced sativa users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The intensely cerebral nature of Neville's Haze may be overwhelming for users sensitive to sativa effects.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The intensely cerebral nature of Neville's Haze may be overwhelming for users sensitive to sativa effects.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and spicy with herbal and pine undertones. The terpinolene dominance gives it a floral, almost perfumed quality that is distinctive of original Haze genetics, with the caryophyllene adding a spicy, peppery edge.
 - **Taste:** Sweet and earthy on the inhale, with spicy and pine notes on the exhale. The flavor is classic Haze -- clean, herbal, and complex, appealing to users who appreciate traditional sativa taste profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

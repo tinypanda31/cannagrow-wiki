@@ -73,8 +73,8 @@ Lemon Iced Tea is widely reported to produce:
 
 **Intensity:** Moderate. The effects are bright and accessible, making Lemon Iced Tea suitable for a wide range of users and social settings.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Powerful lemon and citrus with a sweet, refreshing finish. The limonene delivers an intense lemon character that genuinely evokes the aroma of a cold lemon drink, while the terpinolene adds a subtle floral brightness. The caryophyllene provides a light spicy edge that keeps the profile from being one-dimensionally citrus.
 - **Taste:** Lemon and citrus on the inhale, with sweet and slightly herbal notes on the exhale. The flavor is genuinely refreshing and smooth, with the lemon character carrying through from aroma to taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

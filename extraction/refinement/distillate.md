@@ -24,8 +24,8 @@ Typical distillate composition:
 | **Terpenes** | 0-5% | Most terpenes are removed during distillation; may be reintroduced later |
 | **Residual compounds** | 0-2% | Trace amounts of other compounds not fully separated |
 
-::: info
-Distillate is primarily composed of a single cannabinoid (usually THC or CBD) because the distillation process isolates compounds by boiling point. This means distillate lacks the full spectrum of cannabinoids, terpenes, and flavonoids present in the original plant -- a trade-off between purity and the entourage effect.
+**ℹ️ Distillate is primarily composed of a single cannabinoid (usually THC or CBD) because the distillation process isolates compounds by boiling point. This means distillate lacks the full spectrum of cannabinoids, terpenes, and flavonoids present in the original plant -- a trade-off between purity and the entourage effect.**
+
 :::
 
 ## Short-Path Distillation Process
@@ -141,9 +141,7 @@ Distillate is among the most potent cannabis products available:
 | **CBD distillate** | 80-98%+ total CBD |
 | **CBG distillate** | 85-95%+ CBG |
 | **Vape cartridges (filled)** | 75-95% cannabinoids (distillate + terpenes) |
-| **Flower (for comparison)** | 10-30% cannabinoids |
-
-::: tip
+| **Flower (for comparison)** | 10-30% cannabinoids | tip
 The extreme potency of distillate means that dosing must be carefully controlled. A single gram of 95% THC distillate contains 950mg of THC -- equivalent to approximately 95 standard 10mg edible servings.
 :::
 
@@ -163,8 +161,8 @@ Distillate's extreme concentration makes it one of the most precise edible ingre
 3. Use a syringe to measure precise volumes for each batch
 4. Mix thoroughly into your edible base
 
-::: tip
-When working with distillate for edibles, always prepare a "master mixture" -- dissolve the distillate in a measured amount of carrier oil first, then use that mixture in your recipe. This is far more accurate than trying to measure tiny amounts of sticky distillate directly into a batch of food.
+**💡 When working with distillate for edibles, always prepare a "master mixture" -- dissolve the distillate in a measured amount of carrier oil first, then use that mixture in your recipe. This is far more accurate than trying to measure tiny amounts of sticky distillate directly into a batch of food.**
+
 :::
 
 ## Uses
@@ -186,9 +184,7 @@ Distillate is one of the **most widely used extract types in commercial edible m
 
 ### Suitability for Edibles
 
-Distillate is **exceptionally well suited for edibles** and is the industry-standard input for regulated edible production. Unlike most other extract types, distillate arrives **already fully decarboxylated** as a result of the distillation process, which requires decarboxylation before the crude extract can be distilled. This eliminates the need for a separate decarboxylation step.
-
-::: info
+Distillate is **exceptionally well suited for edibles** and is the industry-standard input for regulated edible production. Unlike most other extract types, distillate arrives **already fully decarboxylated** as a result of the distillation process, which requires decarboxylation before the crude extract can be distilled. This eliminates the need for a separate decarboxylation step. info
 **Distillate is already decarboxylated.** The distillation process described on this page requires that crude extract be fully decarboxylated before distillation begins (to prevent CO2 gas from interfering with the vacuum). As a result, the finished distillate contains cannabinoids in their activated neutral forms (THC, CBD) rather than their acidic precursors. No additional decarboxylation is needed before edible use.
 
 For background on the decarboxylation process that distillate has already undergone, see [Decarboxylation](/science/decarboxylation).

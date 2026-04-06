@@ -72,8 +72,8 @@ Cosmic Collapse is widely reported to produce:
 
 **Intensity:** Strong. The moderate-to-high THC range and pure heavy indica genetics produce intense sedating effects that are best reserved for evening use and may be overwhelming for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery. Start with a low dose to assess individual tolerance.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery. Start with a low dose to assess individual tolerance.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Cosmic Collapse presents a pungent, fuel-forward sensory profile:
 - **Smell:** Pronounced fuel and earthy aromas with a pungent, almost aggressive intensity. The fuel character is immediate and unmistakable, while the earthy undertones add depth and weight. The pungent quality is distinctive -- an almost animalic richness that sets Cosmic Collapse apart from more refined or subtle cultivars. Limonene provides a faint citrus lift that is barely perceptible beneath the heavier notes.
 - **Taste:** Fuel and earthy flavors on inhalation, with pungent and slightly spicy notes on the exhale. The flavor is robust and unapologetically pungent, appealing to users who appreciate the raw, diesel-forward profile that defines classic heavy indica character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

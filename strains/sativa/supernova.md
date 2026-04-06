@@ -73,8 +73,8 @@ Supernova is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, making Supernova suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and pine with herbal undertones. The terpinolene-pinene combination gives it a fresh, forest-like quality that is bright and inviting, while the caryophyllene from the Northern Lights heritage adds an earthy, spicy foundation.
 - **Taste:** Sweet and earthy on the inhale, with pine and slightly spicy notes on the exhale. The flavor is clean and classic, appealing to users who appreciate traditional sativa taste with added depth from the Northern Lights genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

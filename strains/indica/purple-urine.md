@@ -73,8 +73,8 @@ Purple Urine is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range makes Purple Urine accessible to a wide range of users while still providing satisfying depth.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Purple Urine presents a distinctive grape-forward sensory profile:
 - **Smell:** Grape and berry sweetness dominate the aroma, with earthy undertones from the myrcene base. The cured buds carry a wine-like, fruity aroma that is immediately recognizable as characteristic of the purple genetics family.
 - **Taste:** Sweet grape and berry flavors on inhalation, with earthy and slightly spicy notes on the exhale. The flavor is smooth and palatable, with limonene providing faint citrus accents that enhance the fruit character.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

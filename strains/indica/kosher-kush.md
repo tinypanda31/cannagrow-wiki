@@ -72,8 +72,8 @@ Kosher Kush is widely reported to produce:
 
 **Intensity:** Strong. Kosher Kush is best suited to experienced users or those with established tolerance due to its high THC content and heavy indica effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Kosher Kush presents a classic OG-forward sensory profile:
 - **Smell:** Earthy, pine, and woody with fuel undertones. The aroma is pungent and recognizable as OG Kush lineage, with a deep earthy base, fresh pine notes, and a subtle fuel character. The smell is strong and noticeable.
 - **Taste:** Earthy and pine-forward on inhalation, with woody and slightly fuel-like notes on the exhale. The flavor is bold and traditional, appealing to users who appreciate classic OG profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

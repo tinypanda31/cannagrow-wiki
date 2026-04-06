@@ -70,8 +70,8 @@ Chocolate Thai is widely reported to produce:
 
 **Intensity:** Strong. The cerebral and psychedelic quality can be overwhelming for inexperienced users or those unaccustomed to pure sativa landrace effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and chocolate-like with spicy undertones. The aroma is warm and dark, reminiscent of dark chocolate and earth, with a distinctive spicy edge that sets it apart from sweet or fruity strains.
 - **Taste:** Chocolate and earthy flavors on the inhale, with spicy and slightly woody notes on the exhale. The chocolate character is genuine and recognizable, making this one of the few strains with a true chocolate-like flavor profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

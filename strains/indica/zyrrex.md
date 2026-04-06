@@ -70,8 +70,8 @@ Zyrrex is widely reported to produce:
 
 **Intensity:** Moderate to strong. The upper end of the THC range can produce intense effects, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Zyrrex presents a fuel-forward, complex sensory profile:
 - **Smell:** Fuel-forward with earthy and sweet undertones. The myrcene-dominant profile gives it a heavy, herbal quality, while caryophyllene adds a peppery sharpness. The limonene presence introduces a subtle sweetness that softens the fuel character. The overall aroma is intense and noticeable, with a complexity that rewards close attention.
 - **Taste:** Fuel and earthy on inhalation, with sweet and slightly peppery notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate fuel-forward indica profiles with underlying sweetness.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

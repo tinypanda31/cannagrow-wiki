@@ -73,8 +73,8 @@ Slurricane is widely reported to produce:
 
 **Intensity:** Moderate to strong. Slurricane is best suited to evening use and may be overwhelming for inexperienced users at higher doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Slurricane presents a rich, dessert-like sensory profile:
 - **Smell:** Pronounced grape and berry sweetness with earthy and floral undertones. The Purple Punch parent contributes the recognizable grape character, while the Do-Si-Dos side adds an earthy, slightly floral complexity. The overall aroma is sweet and fruity, with a dessert-like quality.
 - **Taste:** Sweet grape and berry flavors on inhalation, with earthy and slightly floral notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate sweet, fruity indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

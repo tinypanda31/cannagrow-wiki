@@ -73,8 +73,8 @@ LA Confidential is widely reported to produce:
 
 **Intensity:** Moderate. The effects are smooth and manageable, making LA Confidential accessible to users across experience levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pine and earthy aromas with skunky undertones. The pinene presence gives it a fresh, sharp quality that is layered over the classic earthy indica base. The aroma is moderately pungent but refined.
 - **Taste:** Smooth pine and earthy flavors on the inhale, with a clean, slightly skunky exhale. LA Confidential is particularly noted for the smoothness of its smoke, which is frequently described as clean and non-irritating.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

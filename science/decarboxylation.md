@@ -48,10 +48,9 @@ When heat is applied, the carboxyl group is released as carbon dioxide gas (CO�
 | CBCA (C₂₂H₃₀O₄) | CBC (C₂₁H₃₀O₂) | -COOH → -H + CO₂ release | ~12.3% |
 | THCA-A | Δ9-THC + CBN (degradation) | -COOH, then oxidation | ~12.3%+ |
 
-::: info
-**Why does raw cannabis not get you high?**
+**ℹ️ **Why does raw cannabis not get you high?****
+
 When you eat raw cannabis flower (juicing, salads), you consume THCA, not THC. THCA has documented anti-inflammatory and neuroprotective properties but does not produce intoxication. This is why juicing raw cannabis is popular among people seeking therapeutic benefits without psychoactive effects.
-:::
 
 ### Decarboxylation Is a First-Order Reaction
 
@@ -129,8 +128,8 @@ This is the most common and accessible decarboxylation method.
 | **260°F (127°C)** | 20-25 min | ~95%+ | Poor (~30%) | Maximum conversion; significant terpene degradation; risk of THC→CBN if overshoot |
 | **300°F+ (149°C+)** | 10-15 min | ~95%+ | Very poor (~15%) | **Not recommended** — rapid degradation, significant CBN formation |
 
-::: warning
-**Avoid exceeding 300°F (149°C).** At these temperatures, THC begins degrading to CBN (cannabinol) at a significant rate, and terpenes evaporate rapidly. The resulting material may have reduced potency and altered effects.
+**⚠️ **Avoid exceeding 300°F (149°C).** At these temperatures, THC begins degrading to CBN (cannabinol) at a significant rate, and terpenes evaporate rapidly. The resulting material may have reduced potency and altered effects.**
+
 :::
 
 ### Visual and Olfactory Cues
@@ -177,9 +176,7 @@ Concentrates decarboxylate differently than flower due to their different physic
 | **CO₂ Extract** | Oil | 220-240°F (104-116°C) | 30-45 min | Already partially decarbed by supercritical process |
 | **Distillate** | Syrup | Already decarbed | N/A | Distillation process includes decarboxylation; ready to use |
 | **Live Resin** | Sap/sauce | 220°F (104°C) | 20-30 min | High terpene content — use lower temp to preserve; expect significant aroma |
-| **Live Rosin** | Sap/budder | 220°F (104°C) | 20-30 min | Premium full-spectrum — gentle decarb preserves maximum terpene profile |
-
-::: tip
+| **Live Rosin** | Sap/budder | 220°F (104°C) | 20-30 min | Premium full-spectrum — gentle decarb preserves maximum terpene profile | tip
 **Rosin already receives heat during pressing** (180-220°F for 30 seconds to 3 minutes), so it is often partially decarbed. For edible use, a shorter supplemental decarb (20 minutes at 220°F) is usually sufficient.
 :::
 
@@ -261,9 +258,9 @@ Without lab equipment, monitor decarboxylation by:
 | **Aroma** | Grassy, vegetal | Toasted, nutty | Burnt, acrid |
 | **Edible effect** (test dose) | Weak, delayed | Strong, predictable | Sedating (CBN-heavy) |
 
-::: warning
+**⚠️ Warning**
+
 **Always test a small dose** of your first decarbed batch in an edible before committing a full batch to a recipe. This verifies your decarb was successful and helps you calibrate dosing.
-:::
 
 ---
 

@@ -75,8 +75,8 @@ Toad is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range delivers a meaningful experience that transitions from balanced to body-heavy, making it versatile for different times of day.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fuel and earthy with sweet undertones. The fuel character is pungent and diesel-like, suggesting OG or Chemdawg-derived genetics. The earthy myrcene base provides depth, while the sweet character adds a subtle indulgence that keeps the profile from becoming one-dimensional. The overall aroma is warm, layered, and complex.
 - **Taste:** Fuel and earthy on the inhale, with sweet and slightly piney notes on the exhale. The flavor is robust and full-bodied, with the fuel character carrying through the experience and the sweet finish providing a pleasant contrast to the heavier earth tones.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

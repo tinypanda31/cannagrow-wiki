@@ -73,8 +73,8 @@ Moby Dick is widely reported to produce:
 
 **Intensity:** Strong. Moby Dick delivers potent, long-lasting effects that are best suited to experienced sativa users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, citrus, and spicy with herbal undertones. The myrcene-caryophyllene combination gives it a warm, organic quality with a bright citrus edge from the terpinolene and limonene.
 - **Taste:** Earthy and citrus on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is rich and layered, appealing to users who appreciate complex, multi-dimensional sativa profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

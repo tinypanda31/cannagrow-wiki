@@ -73,8 +73,8 @@ Zombie Kush is widely reported to produce:
 
 **Intensity:** Strong. The deeply sedating nature of Zombie Kush makes it best suited for evening or nighttime use and for users seeking maximum body relaxation.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Zombie Kush presents a classic indica sensory profile:
 - **Smell:** Earthy and sweet with pronounced hash-like undertones. The Afghani genetics contribute a resinous, traditional indica aroma that is complemented by the fuel-earth character inherited from the Critical Kush side of the lineage. The cured buds carry a rich, spicy-sweet scent.
 - **Taste:** Earthy and sweet on inhalation, with hash and slightly spicy notes on the exhale. The flavor is smooth and traditional, with limonene providing faint citrus accents that prevent the profile from becoming one-dimensionally earthy.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

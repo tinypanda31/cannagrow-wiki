@@ -70,8 +70,8 @@ Northern Lights is widely reported to produce:
 
 **Intensity:** Moderate. Northern Lights is accessible to less experienced users due to its moderate THC range and smooth, non-overwhelming effect profile.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Northern Lights presents a classic indica aroma profile:
 - **Smell:** Sweet and earthy with spicy, herbal undertones. The myrcene-dominant profile gives it a musky, herbal quality that is recognizable as traditional indica.
 - **Taste:** Sweet and mildly spicy on the exhale, with earthy and woody notes. The smoke is generally smooth, which has contributed to the strain's popularity among vaporizer users.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Toad Stool is widely reported to produce:
 
 **Intensity:** Strong to very strong. The high THC range and the combined potency of both parent genetics produce intense effects that are best reserved for evening use and may be overwhelming for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the potent body high and high THC content, start with a low dose and avoid use before driving or operating machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the potent body high and high THC content, start with a low dose and avoid use before driving or operating machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Toad Stool presents a pungent, fuel-and-garlic sensory profile:
 - **Smell:** Pronounced fuel and garlic aromas with earthy undertones. The GMO parent is immediately apparent in the unmistakable garlic-diesel character, while the Toad genetics add a raw, pungent depth. The cured buds carry a rich, aggressive aroma that is both pungent and complex -- a striking combination that defines the strain's identity. Limonene provides a faint citrus lift that is barely perceptible beneath the heavier fuel and garlic notes.
 - **Taste:** Fuel and garlic flavors on inhalation, with earthy and slightly spicy notes on the exhale. The flavor is bold and unapologetically pungent, appealing to users who appreciate the raw diesel-garlic profile that defines modern gas genetics. The finish carries an earthy warmth that is characteristic of both parent strains.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

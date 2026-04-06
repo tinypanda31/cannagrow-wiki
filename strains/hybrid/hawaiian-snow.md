@@ -74,8 +74,8 @@ Hawaiian Snow is widely reported to produce:
 
 **Intensity:** Moderate to strong. The sativa-dominant cerebral effects are clear and noticeable, particularly for users with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic cerebral effects may be overwhelming for anxiety-prone users at higher doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic cerebral effects may be overwhelming for anxiety-prone users at higher doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Tropical and sweet with floral notes. The terpinolene-dominant profile gives it a bright, sweet aroma with noticeable tropical and floral character. The myrcene from the Hawaiian parent adds an earthy foundation, while the floral notes create a distinctive bouquet that sets it apart from more earthy-forward sativas.
 - **Taste:** Tropical and sweet on the inhale, with floral and slightly earthy notes on the exhale. The tropical flavor is prominent and authentic, with the floral notes adding a sophisticated complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

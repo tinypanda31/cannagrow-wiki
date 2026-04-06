@@ -15,8 +15,8 @@ Cannabis can be consumed through a variety of methods, each with distinct charac
 
 For example, if a product contains 10mg of THC and has a bioavailability of 20%, approximately 2mg of THC enters systemic circulation. The remainder is lost to metabolism, incomplete absorption, or destruction during consumption.
 
-::: info
-Bioavailability varies significantly between consumption methods and between individuals. Factors include body composition, metabolism, tolerance, stomach contents (for edibles), and individual physiology. The figures provided are approximate averages from research studies.
+**ℹ️ Bioavailability varies significantly between consumption methods and between individuals. Factors include body composition, metabolism, tolerance, stomach contents (for edibles), and individual physiology. The figures provided are approximate averages from research studies.**
+
 :::
 
 ## Comparison of All Consumption Methods
@@ -41,9 +41,7 @@ The harm levels above are relative assessments based on current research. Key fa
 | **Low** | Minimal risks; no combustion; some considerations for product quality | Edibles, Tinctures |
 | **Low-Moderate** | Reduced harmful byproducts compared to smoking; equipment safety considerations | Vaporizing (dry herb) |
 | **Moderate** | Some health risks from combustion byproducts or high-concentration exposure | Smoking |
-| **Moderate-High** | Significant risks from high potency concentrations or combustion of concentrates | Dabbing |
-
-::: warning
+| **Moderate-High** | Significant risks from high potency concentrations or combustion of concentrates | Dabbing | warning
 These harm assessments refer specifically to the method of consumption and its direct physical health effects. They do not account for impairment-related risks (such as driving under the influence), mental health considerations, dependency potential, or legal consequences. See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive safety guidance.
 :::
 
@@ -60,8 +58,8 @@ Recommended starting methods:
 3. **Vaporizing** (low temperature) -- If inhalation is preferred, vaporizing is safer than smoking
 4. **Topicals** -- For localized relief without psychoactive effects
 
-::: tip
-Regardless of method, the golden rule is **"start low and go slow."** Begin with the lowest possible dose and wait the full onset time before consuming more. This is especially critical with edibles, where delayed onset leads many people to overconsume.
+**💡 Regardless of method, the golden rule is **"start low and go slow."** Begin with the lowest possible dose and wait the full onset time before consuming more. This is especially critical with edibles, where delayed onset leads many people to overconsume.**
+
 :::
 
 ### For Medical Patients
@@ -102,9 +100,7 @@ Experienced consumers may explore:
 | **Moderate** | 5-15 mg | Standard recreational dose |
 | **Experienced** | 15-30 mg | Strong effects |
 | **High tolerance** | 30-50+ mg | Medical patients or very experienced consumers |
-| **Clinical** | 50-100+ mg | Under medical supervision only |
-
-::: warning
+| **Clinical** | 50-100+ mg | Under medical supervision only | warning
 These are general guidelines. Individual sensitivity varies dramatically. Factors including body weight, metabolism, tolerance, genetics, and even gut microbiome affect how a given dose will affect an individual. Always start at the low end of the range appropriate for your experience level.
 :::
 

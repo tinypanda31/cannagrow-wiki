@@ -73,8 +73,8 @@ Bubba Kush is widely reported to produce:
 
 **Intensity:** Moderate to strong. The sedating effects can be intense, particularly at the upper end of the THC range.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Distinctive coffee and chocolate notes layered over an earthy, kush foundation. The limonene adds a faint citrus sweetness that rounds out the profile. The aroma is rich and pungent but not overwhelmingly loud.
 - **Taste:** Coffee, dark chocolate, and earthy flavors on the inhale, with a smooth, slightly sweet exhale. The flavor is robust and distinctive, making it one of the more recognizable strains by taste alone.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

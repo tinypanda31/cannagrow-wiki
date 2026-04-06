@@ -73,8 +73,8 @@ Skywalker OG is widely reported to produce:
 
 **Intensity:** Strong to very strong. Skywalker OG is best suited to experienced users or those with established tolerance. Newer users should start with low doses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Spicy, herbal, and jet fuel with citrus undertones. The OG Kush influence is clearly present in the fuel-forward profile, while the Skywalker parent adds herbal and spicy depth. The aroma is pungent and noticeable.
 - **Taste:** Spicy and herbal on the inhale, with jet fuel and faint citrus notes on the exhale. The smoke is moderately smooth, though the potency of the flower can make the experience intense for less experienced users.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Toxic Waste is widely reported to produce:
 
 **Intensity:** Strong. The combination of Chemdawg genetics delivers a potent experience that is cerebral-forward but balanced, best suited to users with moderate to high tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The potent cerebral effects may be overwhelming for anxiety-prone users or those with low tolerance.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The potent cerebral effects may be overwhelming for anxiety-prone users or those with low tolerance.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intensely fuel and diesel-forward with earthy undertones. The Chemdawg diesel character is pushed to a particularly pungent expression, giving Toxic Waste one of the most recognizable fuel aromas among Chemdawg derivatives. The earthy myrcene base adds depth, while subtle limonene provides a hint of citrus brightening against the heavy fuel character.
 - **Taste:** Fuel and diesel on the inhale, with earthy and slightly piney notes on the exhale. The fuel flavor is potent and distinctive, carrying the Chemdawg diesel character through the entire experience. The flavor profile appeals strongly to users who enjoy the diesel-forward genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

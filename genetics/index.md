@@ -55,9 +55,9 @@ The genetics of a cannabis plant determine much of its potential:
 | ***C. sativa* subsp. *indica*** | Hindu Kush mountain region (Afghanistan, Pakistan) | Short, broad leaves, fast flowering, relaxing profiles | Foundation of "indica" breeding; Kush landraces |
 | ***C. sativa* subsp. *ruderalis*** | Central/Eastern Europe, Russia | Small, hardy, autoflowering, low THC | Source of autoflowering genetics; crossed with sativa/indica for auto strains |
 
-::: info
+**ℹ️ Info**
+
 **Modern taxonomy note:** Most botanists classify all cannabis as a single species (*Cannabis sativa* L.) with multiple subspecies. The indica/sativa distinction popular in consumer culture does **not** reliably predict effects — cannabinoid and terpene profiles are far more determinative. See [[/science/terpenes]] for details.
-:::
 
 ### Genotype vs. Phenotype
 

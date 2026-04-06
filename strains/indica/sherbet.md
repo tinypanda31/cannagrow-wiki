@@ -73,8 +73,8 @@ Sherbert is widely reported to produce:
 
 **Intensity:** Moderate. Sherbert's moderate THC range makes it accessible to users with some cannabis experience while still delivering meaningful indica-dominant effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Sherbert presents a sweet, fruity sensory profile:
 - **Smell:** Sweet, fruity, and cherry-like with earthy undertones. The aroma is noticeably sweet and dessert-like, with the GSC parentage contributing earthy-sweet complexity. The smell is pleasant and noticeable without being overwhelming.
 - **Taste:** Sweet fruity and cherry-like flavors on inhalation, with earthy and slightly creamy notes on the exhale. The flavor is smooth and palatable, making Sherbert popular among users who appreciate sweet, dessert-forward profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

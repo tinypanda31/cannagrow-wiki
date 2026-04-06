@@ -72,8 +72,8 @@ Gold Star is widely reported to produce:
 
 **Intensity:** Moderate. The effects are accessible and cheerful, making Gold Star suitable for a wide range of users including those who prefer milder sativa experiences.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Tropical and sweet with a distinct floral character. The terpinolene contributes a bright, fruity sweetness, while the myrcene adds a lush, tropical fruit quality that genuinely evokes Hawaiian terroir. The caryophyllene provides a subtle spicy edge that keeps the profile from being one-dimensionally sweet.
 - **Taste:** Tropical and floral on the inhale, with sweet and slightly spicy notes on the exhale. The flavor is smooth and genuinely tropical, appealing to users who appreciate fruity, island-inspired cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

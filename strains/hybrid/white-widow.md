@@ -73,8 +73,8 @@ White Widow is widely reported to produce:
 
 **Intensity:** Moderate to strong. The balanced effects make White Widow accessible to a wide range of users and suitable for various settings.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy, woody, and pine with subtle sweet undertones. The aroma is classic and traditional, representing a balanced profile rather than an extreme fruity or fuel-forward character.
 - **Taste:** Earthy and woody on the inhale, with pine and slightly sweet notes on the exhale. The flavor is smooth and classic, appealing to users who appreciate traditional cannabis taste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -70,8 +70,8 @@ Pineapple Haze is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are functional and bright, making Pineapple Haze suitable for daytime use across a range of tolerance levels.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The extended flowering time of this strain reflects its Haze genetics, which also contribute to the intensity and duration of effects.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The extended flowering time of this strain reflects its Haze genetics, which also contribute to the intensity and duration of effects.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Tropical pineapple sweetness with pine and herbal undertones. The terpinolene content creates a bright, floral-citrus aroma layered with sweet tropical fruit character. The overall scent is sweet, fruity, and immediately recognizable as a tropical sativa.
 - **Taste:** Sweet pineapple and tropical fruit on the inhale with pine and slightly earthy notes on the exhale. The flavor carries genuine tropical fruit sweetness complemented by the herbal-pine character of Haze genetics. The finish is smooth with a faint spicy quality and lingering tropical fruit aftertaste.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

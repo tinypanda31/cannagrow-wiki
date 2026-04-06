@@ -73,8 +73,8 @@ Tangie is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, making Tangie well-suited to daytime use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intense tangerine, orange, and citrus with sweet and slightly earthy undertones. The citrus aroma is overwhelming and unmistakable -- one of the most intensely citrus-scented strains in cannabis.
 - **Taste:** Fresh tangerine and orange on the inhale, with sweet citrus and slightly earthy notes on the exhale. The flavor closely mirrors the aroma, delivering a full citrus experience that is both smooth and vibrant.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

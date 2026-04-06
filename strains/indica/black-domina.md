@@ -75,8 +75,8 @@ Black Domina is widely reported to produce:
 
 **Intensity:** Moderate. While the sedating effects are pronounced, the moderate THC range makes Black Domina accessible to users with some cannabis experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -86,9 +86,7 @@ Black Domina presents a classic hash-forward sensory profile:
 - **Smell:** Deeply earthy and hashy with peppery and pine undertones. The aroma is pungent and reminiscent of traditional hashish, with a musky quality inherited from its Afghan and Hash Plant genetics.
 - **Taste:** Earthy and hashy on inhalation, with peppery and pine notes on the exhale. The flavor is bold and traditional, appealing to users who appreciate classic indica profiles over modern fruity or dessert-like cultivars.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

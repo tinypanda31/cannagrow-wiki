@@ -75,8 +75,8 @@ Fire OG Kush is widely reported to produce:
 
 **Intensity:** Strong. The high THC content and potent OG-derived effects make Fire OG Kush best suited to experienced users. The effects are balanced between cerebral and body, though they lean slightly more toward physical relaxation as the experience progresses.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, inexperienced users may experience overwhelming effects at standard doses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, inexperienced users may experience overwhelming effects at standard doses.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intense fuel, pine, and earthy with citrus undertones. The fuel aroma is more pronounced than in standard OG Kush, with a sharp, pungent quality that is immediately recognizable. The pine character is also elevated, and the citrus limonene notes provide a subtle brightness. The overall profile is bold, complex, and deeply OG.
 - **Taste:** Fuel and pine on the inhale, with earthy, citrus, and subtle spice notes on the exhale. The flavor is bold and classic, with an intense fuel character that transitions into a pine-forward finish with earthy depth.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -73,8 +73,8 @@ Wang Tang is widely reported to produce:
 
 **Intensity:** Moderate. Wang Tang's moderate THC range makes it accessible to less experienced users while still delivering meaningful indica effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Wang Tang presents a classic, hash-forward sensory profile:
 - **Smell:** Earthy and hash-like with sweet undertones. The myrcene-dominant profile gives it a heavy, herbal quality that is reminiscent of traditional Afghan hashish, while caryophyllene adds a peppery sharpness. The overall aroma is deep and earthy, with a sweetness that rounds out the profile.
 - **Taste:** Earthy and hash-like on inhalation, with sweet and slightly peppery notes on the exhale. The flavor is smooth and traditional, appealing to users who appreciate classic indica profiles rather than modern sweet or fruity varieties.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

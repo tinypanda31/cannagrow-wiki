@@ -74,8 +74,8 @@ Lemon OG is widely reported to produce:
 
 **Intensity:** Moderate. The 17-22% THC range delivers effects that are engaging and satisfying while remaining approachable for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intense lemon and fuel with earthy undertones. The limonene-dominant lemon character is sharp and bright, sitting clearly atop the deep fuel-earthy OG Kush base. The combination is distinctive and easily recognizable.
 - **Taste:** Lemon and fuel on the inhale, with earthy and slightly spicy notes on the exhale. The lemon character is prominent throughout the flavor profile, with the fuel-earthy Kush base providing depth and complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

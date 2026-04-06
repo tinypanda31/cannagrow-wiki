@@ -73,8 +73,8 @@ Green Crack is widely reported to produce:
 
 **Intensity:** Moderate to strong. The energizing effects are pronounced but functional, allowing users to remain productive and engaged.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Mango, citrus, and tropical fruit sweetness with earthy undertones. The aroma is bright and fruity without being overly candy-like.
 - **Taste:** Mango and citrus flavors on the inhale, with earthy and slightly spicy notes on the exhale. The tropical fruit flavor is distinct and enjoyable, making it a favorite among flavor-conscious users.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Apples and Bananas is widely reported to produce:
 
 **Intensity:** Moderate. The 17-22% THC range delivers effects that are noticeable and satisfying without being overwhelming for most users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fruity, sweet, and tropical with apple and banana notes layered over an earthy-herbal base. The citrus brightness from the Critical Orange Punch parent adds a fresh top note to the deeper tropical banana character from Banana OG.
 - **Taste:** Sweet tropical fruit on the inhale, with apple crispness and ripe banana on the mid-palate. The exhale carries earthy and slightly spicy undertones from the caryophyllene content, rounding out the otherwise sweet profile.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

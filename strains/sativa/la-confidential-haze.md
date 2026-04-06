@@ -73,8 +73,8 @@ LA Confidential Haze is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear and functional, making LA Confidential Haze suitable for demanding daytime sessions.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pine-forward with earthy undertones and a distinct spicy edge. The caryophyllene contributes a peppery warmth, while the terpinolene adds a subtle floral layer that keeps the profile from being one-dimensional. The myrcene provides an herbal backbone connecting to the LA Confidential heritage.
 - **Taste:** Pine and earth on the inhale, with spicy and slightly herbal notes on the exhale. The flavor is clean and classic, appealing to users who appreciate traditional, earth-forward cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

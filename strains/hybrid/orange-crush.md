@@ -75,8 +75,8 @@ Orange Crush is widely reported to produce:
 
 **Intensity:** Mild to moderate. The moderate THC range and balanced effects make Orange Crush one of the most universally accessible strains, suitable for beginners and experienced users alike.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Bright orange, citrus, and sweet with berry undertones. The orange aroma is the defining characteristic -- clean, vibrant, and unmistakably citrus. The Blueberry inheritance adds a subtle berry sweetness beneath the citrus top note. The overall profile is fresh, fruity, and highly approachable.
 - **Taste:** Orange-citrus on the inhale, with sweet, berry, and slightly earthy notes on the exhale. The flavor is bright and fruit-forward, with a clean citrus character that transitions into a sweet berry finish inherited from Blueberry.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

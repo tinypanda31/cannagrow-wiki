@@ -11,8 +11,8 @@ Dabbing is the consumption of cannabis concentrates by vaporizing a small amount
 
 Dabbing has become one of the most popular ways to consume cannabis concentrates, offering exceptional potency, efficiency, and flavor when performed correctly. However, the extremely high concentrations involved and the use of high-temperature equipment require knowledge, care, and appropriate safety precautions.
 
-::: warning
-Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaporizing) or [Edibles](/consumption/edibles) before considering dabbing.
+**⚠️ Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaporizing) or [Edibles](/consumption/edibles) before considering dabbing.**
+
 :::
 
 ## What Is Dabbing?
@@ -37,9 +37,7 @@ The process:
 | **Heat source** | Butane torch or e-nail (electronic heating element) | $10-$30 (torch); $100-$300+ (e-nail) |
 | **Carb cap** | Cover placed over the banger to control airflow and temperature | $5-$50+ |
 | **Dab tool** | Small implement (metal, glass, or ceramic) for handling concentrates | $3-$20 |
-| **Concentrate container** | Non-stick container for storing concentrates (silicone or glass) | $3-$15 |
-
-::: info
+| **Concentrate container** | Non-stick container for storing concentrates (silicone or glass) | $3-$15 | info
 For guidance on sourcing quality dab rigs, bubblers, and other glass pieces from Chinese manufacturers, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
 :::
 
@@ -109,8 +107,8 @@ Dabbing temperature is the single most important variable affecting the dabbing 
 | **High temp** | 600-700 degrees F | 316-371 degrees C | **Big clouds** -- maximum vapor production; harsher on throat; more terpene degradation; less flavor nuance |
 | **Red-hot** | 700+ degrees F | 371+ degrees C | **Not recommended** -- burns concentrate rather than vaporizing; harsh; wastes concentrate; produces combustion byproducts |
 
-::: tip
-Low-temperature dabbing (315-450 degrees F) is widely considered the best approach for flavor and smoothness. It preserves the full terpene profile of the concentrate and produces less irritating vapor. High-temperature dabbing produces bigger clouds but degrades terpenes and creates a harsher experience.
+**💡 Low-temperature dabbing (315-450 degrees F) is widely considered the best approach for flavor and smoothness. It preserves the full terpene profile of the concentrate and produces less irritating vapor. High-temperature dabbing produces bigger clouds but degrades terpenes and creates a harsher experience.**
+
 :::
 
 ### Estimating Temperature Without a Thermometer
@@ -122,9 +120,7 @@ When using a torch without an e-nail or infrared thermometer, temperature estima
 | **Red-hot** | 900+ degrees F (482+ degrees C) | Immediately |
 | **Fading red glow** | 700-800 degrees F (371-427 degrees C) | 10-15 seconds |
 | **No visible glow** | 500-600 degrees F (260-316 degrees C) | 30-45 seconds |
-| **Cool to the touch** (not recommended to test) | Near room temperature | 2+ minutes |
-
-::: warning
+| **Cool to the touch** (not recommended to test) | Near room temperature | 2+ minutes | warning
 Do not rely solely on visual cues for temperature estimation. Using an infrared thermometer or an e-nail with a temperature display is strongly recommended for accurate, consistent dabbing.
 :::
 
@@ -196,9 +192,9 @@ Do not rely solely on visual cues for temperature estimation. Using an infrared 
 
 ## Beginner Guidelines
 
-::: danger
+**🚨 Danger**
+
 If you have never dabbed before, please read these guidelines carefully. Dabbing is significantly more intense than smoking flower or consuming edibles.
-:::
 
 ### Beginner Safety Rules
 

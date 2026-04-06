@@ -74,8 +74,8 @@ Watermelon Zkittlez is widely reported to produce:
 
 **Intensity:** Moderate. The THC range delivers a meaningful indica-dominant experience that is calming and approachable, making it suitable for a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fruity, candy, and watermelon with sweet undertones. The Zkittlez candy character provides a sweet, confectionery base, while the watermelon expression adds a juicy, fresh fruit brightness. The overall aroma is layered and indulgent, with a sweetness that is genuinely reminiscent of candy and watermelon.
 - **Taste:** Fruity and candy-like on the inhale, with watermelon and slightly floral notes on the exhale. The flavor is smooth and dessert-like, with the watermelon character carrying through the experience and the candy finish providing a satisfying, sweet conclusion. The profile appeals strongly to users who enjoy fruit-forward, candy-like genetics.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

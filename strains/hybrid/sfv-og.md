@@ -74,8 +74,8 @@ SFV OG is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 18-23% THC range and OG-derived effects make SFV OG suitable for experienced users, though the moderate range keeps it accessible.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Intense fuel, pine, and citrus with earthy undertones. The fuel aroma is the defining characteristic -- sharp, pungent, and unmistakably OG. The pine character adds a fresh counterpoint, while the citrus limonene provides brightness. The overall profile is bold, complex, and deeply OG.
 - **Taste:** Fuel and pine on the inhale, with citrus, earthy, and subtle spice notes on the exhale. The flavor is bold and classic, with an intense fuel character that transitions into a pine-citrus finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

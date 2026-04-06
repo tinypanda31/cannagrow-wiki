@@ -73,8 +73,8 @@ Bluehead is widely reported to produce:
 
 **Intensity:** Moderate to strong. The Neville's Haze heritage ensures a long-lasting, pronounced cerebral experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Berry and citrus with pine undertones. The Blueberry heritage produces a sweet, fruity aroma that is immediately recognizable, while the Haze genetics add a fresh, herbal complexity.
 - **Taste:** Berry and citrus on the inhale, with sweet, pine, and slightly herbal notes on the exhale. The flavor is rich and layered, appealing to users who appreciate complex, fruity cannabis profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

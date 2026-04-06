@@ -73,8 +73,8 @@ Toad Cookies is widely reported to produce:
 
 **Intensity:** Moderate to strong. The THC range and the two-phase effect pattern (euphoria followed by body heaviness) make Toad Cookies well-suited for evening use by users with some cannabis experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Toad Cookies presents a sweet, earthy, and fuel-forward sensory profile:
 - **Smell:** Sweet and earthy with fuel undertones. The GSC genetics contribute their recognizable sweet, earthy character with faint hints of mint, while the Toad parent adds a diesel-like depth. The cured buds carry a rich, layered aroma that is both inviting and pungent.
 - **Taste:** Sweet and earthy on inhalation, with fuel and slightly minty notes on the exhale. The flavor is smooth and complex, with limonene adding citrus brightness that lifts the heavier earth and fuel notes.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

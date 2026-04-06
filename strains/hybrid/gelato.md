@@ -73,8 +73,8 @@ Gelato is widely reported to produce:
 
 **Intensity:** Strong. The high THC content delivers potent effects best suited to experienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, fruity, and lavender with dessert-like and subtle earthy undertones. The aroma is rich and layered, with a noticeable sweetness that resembles dessert or gelato ice cream.
 - **Taste:** Sweet and fruity on the inhale, with lavender, dessert-like, and slightly earthy notes on the exhale. The flavor is smooth and indulgent, making it one of the most dessert-forward strains in cannabis.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

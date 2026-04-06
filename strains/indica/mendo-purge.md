@@ -73,8 +73,8 @@ Mendo Purp is widely reported to produce:
 
 **Intensity:** Moderate. Mendo Purp is accessible to less experienced users due to its moderate THC range and smooth effect profile.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Mendo Purp presents a sweet, fruit-forward sensory profile:
 - **Smell:** Grape and berry sweetness with earthy undertones. The myrcene-dominant profile gives it an herbal, musky base, while limonene adds a bright citrus accent. The overall aroma is sweet and fruity, with a recognizable grape character similar to other purple California indicas.
 - **Taste:** Sweet grape and berry flavors on inhalation, with earthy and slightly floral notes on the exhale. The flavor is smooth and palatable, contributing to the strain's popularity among users who appreciate fruity indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

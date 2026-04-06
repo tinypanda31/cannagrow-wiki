@@ -70,8 +70,8 @@ Casey Jones is widely reported to produce:
 
 **Intensity:** Strong to very strong. The 18-23% THC range means this strain can be overwhelming for inexperienced users or those with low tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Casey Jones is a high-THC sativa-dominant cultivar -- start with a low dose and allow time for full effects before consuming more. Anxiety and paranoia are more likely at higher doses with this cultivar.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Casey Jones is a high-THC sativa-dominant cultivar -- start with a low dose and allow time for full effects before consuming more. Anxiety and paranoia are more likely at higher doses with this cultivar.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** A complex blend of diesel fuel, sweet berries, and citrus. The diesel-forward character from East Coast Sour Diesel is immediately noticeable, but the sweet berry and citrus notes from Space Queen soften the profile.
 - **Taste:** Diesel and berry on the inhale with a citrus exhale. The Space Queen genetics introduce genuine fruit sweetness rather than just chemical sweetness. The finish is tangy and slightly peppery.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

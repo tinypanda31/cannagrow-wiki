@@ -74,8 +74,8 @@ Zkittlez is widely reported to produce:
 
 **Intensity:** Mild to moderate. The moderate THC range and calming effects make Zkittlez accessible to a wide range of users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Fruity, candy, and tropical with grape and citrus undertones. The aroma is intensely sweet and fruity, closely resembling fruit-flavored candy. It is one of the most candy-like strains in cannabis.
 - **Taste:** Fruity candy on the inhale, with tropical, grape, and slightly citrus notes on the exhale. The flavor is sweet and indulgent, closely mirroring the aroma and delivering a full candy experience.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

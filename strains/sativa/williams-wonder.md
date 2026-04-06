@@ -73,8 +73,8 @@ Williams Wonder is widely reported to produce:
 
 **Intensity:** Moderate. The effects are clear-headed and functional, well-suited to users seeking daytime creative stimulation without overwhelming intensity.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pine, earthy, and sweet with subtle herbal undertones. The pinene expression gives it a fresh, forest-like quality, while the myrcene adds a smooth sweetness that softens the sharper pine notes.
 - **Taste:** Pine and earthy flavors on the inhale, with sweet and slightly herbal notes on the exhale. The flavor is clean and classic, appealing to users who appreciate traditional cannabis taste with a sweet edge.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

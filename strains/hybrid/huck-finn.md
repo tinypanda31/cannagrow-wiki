@@ -73,8 +73,8 @@ Huck Finn is widely reported to produce:
 
 **Intensity:** Moderate. The 16-21% THC range delivers effects that are noticeable and engaging while remaining approachable for most users, including those with moderate tolerance.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Pine, earthy, and citrus with fresh herbal undertones. The terpinolene-dominant profile gives it a bright, floral-herbal character with citrus accents. Pinene contributes the sharp pine freshness, while caryophyllene adds earthy depth to the overall profile.
 - **Taste:** Pine and earthy on the inhale, with citrus and slightly herbal notes on the exhale. The flavor is fresh and clean, with the pine character being the most prominent element.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -75,8 +75,8 @@ Platinum Cookies is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 17-24% THC range and balanced effect profile make Platinum Cookies accessible to both newer and experienced consumers.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, earthy, and mint with subtle citrus undertones. The Cookie-family sweetness is the dominant aroma, supported by an earthy base and a distinctive mint note that sets it apart from other Cookie varieties. The overall profile is sweet, complex, and approachable.
 - **Taste:** Sweet and earthy on the inhale, with mint, citrus, and subtle spice notes on the exhale. The flavor is smooth and layered, with a cookie-like sweetness that transitions into a minty-earthy finish.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

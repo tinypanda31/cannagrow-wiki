@@ -70,8 +70,8 @@ Acapulco Gold is widely reported to produce:
 
 **Intensity:** Moderate to strong. The effects are clear-headed and functional, though the euphoric quality can be pronounced for users sensitive to sativa-dominant effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and sweet with distinctive toffee-like caramel notes and subtle citrus undertones. The aroma is warm and inviting, with an earthy depth that distinguishes it from fruit-forward modern hybrids.
 - **Taste:** Earthy sweetness on the inhale with a smooth toffee-like flavor, followed by mild citrus and spicy notes on the exhale. The taste is rich and layered, reflecting its landrace complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

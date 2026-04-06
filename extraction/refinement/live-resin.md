@@ -44,8 +44,8 @@ In the live resin process:
 
 Freshly harvested cannabis plants or branches are trimmed (removing large stems and fan leaves) and placed directly into a freezer at 0 degrees F (-18 degrees C) or colder. The speed of this step is critical -- every hour between harvest and freezing represents terpene loss.
 
-::: tip
-Professional live resin producers often freeze material on-site at the cultivation facility to minimize the time between harvest and freezing. Cold-chain logistics are maintained throughout the entire supply chain.
+**💡 Professional live resin producers often freeze material on-site at the cultivation facility to minimize the time between harvest and freezing. Cold-chain logistics are maintained throughout the entire supply chain.**
+
 :::
 
 ### Step 2: Extraction
@@ -117,9 +117,7 @@ Live resin commands a significant price premium over cured resin concentrates du
 | **Quality material requirement** -- Only high-quality, clean cultivars without pesticides produce premium live resin |
 | **Market demand** -- Strong consumer preference for live resin supports higher pricing |
 
-## Storage Requirements
-
-::: warning
+## Storage Requirements warning
 Live resin must be kept cold to preserve its terpene profile. Exposure to heat, light, and oxygen rapidly degrades the volatile compounds that make live resin special.
 :::
 
@@ -175,17 +173,15 @@ Live resin sauce is a specific consistency of live resin in which the extract ha
 
 This separation occurs naturally as the concentrate ages. The sauce is exceptionally rich in terpenes and provides an intensely flavorful dabbing experience. Some producers encourage this separation, while others prefer a homogeneous consistency.
 
-::: info
-Live resin sauce should not be confused with [Live Rosin](/extraction/live-rosin), which is a completely different product made from ice-water hash pressed into rosin. The names are similar but the production methods and products are distinct.
+**ℹ️ Live resin sauce should not be confused with [Live Rosin](/extraction/live-rosin), which is a completely different product made from ice-water hash pressed into rosin. The names are similar but the production methods and products are distinct.**
+
 :::
 
 ## Edible Applications
 
 Live resin can be used for edibles, but the decision to do so involves trade-offs that consumers should understand before committing this premium concentrate to edible preparation.
 
-### Suitability for Edibles
-
-::: warning
+### Suitability for Edibles warning
 **Honest assessment:** While live resin can be used for edibles, the premium terpene profile that makes it desirable for dabbing is largely lost during decarboxylation. The elevated temperatures required for decarboxylation (220-240 degrees F / 104-116 degrees C) drive off many of the volatile terpenes that make live resin special. Consider using live resin for edibles only if you have material that is past its prime for dabbing or if you specifically want the full-spectrum cannabinoid profile in your edible product.
 :::
 

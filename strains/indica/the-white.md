@@ -73,8 +73,8 @@ The White is widely reported to produce:
 
 **Intensity:** Strong to very strong. The White is best suited to experienced users or those with established tolerance due to its very high THC content.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ The White presents a bold, fuel-forward sensory profile:
 - **Smell:** Strong fuel and earthy with citrus undertones. The aroma is pungent and recognizable as Triangle Kush lineage, with a deep fuel base, earthy depth, and a citrus brightness that rounds out the profile. The smell is strong and noticeable.
 - **Taste:** Fuel and earthy flavors on inhalation, with citrus and slightly peppery notes on the exhale. The smoke is moderately smooth, though the potency of the flower and the heavy trichome coverage can make the experience intense.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

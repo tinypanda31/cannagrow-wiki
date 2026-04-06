@@ -74,8 +74,8 @@ Runtz Muffin is widely reported to produce:
 
 **Intensity:** Strong. The 19-24% THC range delivers potent effects best suited to experienced users, though the balanced character makes the intensity more manageable than one-directional high-THC strains.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet, fruity, and candy-like with vanilla undertones. The Zkittlez-derived tropical fruit candy character is the most prominent element, supported by Wedding Cake's vanilla sweetness. The aroma is rich and indulgent, closely resembling confectionery.
 - **Taste:** Sweet tropical fruit and candy on the inhale, with vanilla and slightly earthy notes on the exhale. The flavor is smooth and dessert-forward, with the candy-like character being the most distinctive element.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -74,8 +74,8 @@ Mendo Breath is widely reported to produce:
 
 **Intensity:** Moderate to strong. The 18-23% THC range delivers potent effects that build into heavy body relaxation best suited for evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, it is not recommended for daytime use or when operating vehicles or machinery.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, it is not recommended for daytime use or when operating vehicles or machinery.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Grape, vanilla, and earthy with sweet dessert-like character. The myrcene-dominant earthy base is sweetened by grape and vanilla notes, creating a complex dessert-like aroma. The grape character is particularly noticeable, inherited from the Mendo Purp parent.
 - **Taste:** Grape and vanilla on the inhale, with earthy and slightly spicy notes on the exhale. The flavor is rich and sweet, with the grape-vanilla combination being the most distinctive element.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

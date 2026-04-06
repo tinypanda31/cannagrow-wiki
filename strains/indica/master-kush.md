@@ -73,8 +73,8 @@ Master Kush is widely reported to produce:
 
 **Intensity:** Moderate. Master Kush is accessible to users with some cannabis experience and provides a smooth, non-overwhelming indica experience.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Do not operate vehicles or machinery after consumption.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Master Kush presents a classic, refined indica sensory profile:
 - **Smell:** Earthy with citrus and incense-like undertones. The aroma is clean and well-balanced, with the Hindu Kush landrace genetics contributing earthy depth and the Dutch selection adding citrus brightness. A subtle incense quality gives the strain its distinctive aromatic character.
 - **Taste:** Earthy and citrus on inhalation, with incense-like and slightly spicy notes on the exhale. The flavor is smooth and refined, making it popular among users who appreciate clean, classic indica profiles.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -45,8 +45,8 @@ Temperature is critical for ethanol extraction quality:
 | **Refrigerated (35-40 degrees F / 2-4 degrees C)** | Moderate extraction with reduced chlorophyll |
 | **Frozen (-40 to 0 degrees F / -40 to -18 degrees C)** | Cleanest extraction; ethanol's selectivity is reduced at low temperatures, extracting fewer undesirable compounds |
 
-::: tip
-Freezing both the plant material and the ethanol before extraction significantly reduces the co-extraction of chlorophyll, lipids, and water-soluble compounds, producing a cleaner crude extract.
+**💡 Freezing both the plant material and the ethanol before extraction significantly reduces the co-extraction of chlorophyll, lipids, and water-soluble compounds, producing a cleaner crude extract.**
+
 :::
 
 ### Step 3: Wash/Extraction
@@ -79,9 +79,7 @@ The ethanol must be removed from the extract, leaving behind concentrated cannab
 | **Heat and fan** | Gentle warming with ventilation | Small scale | Low |
 | **Rotary evaporator (rotovap)** | Vacuum-assisted evaporation at low temperature with solvent recovery | Lab to commercial | $2,000-$15,000+ |
 | **Distillation** | Boiling and condensing ethanol for recovery | Commercial | $5,000-$50,000+ |
-| **Falling film evaporator** | Continuous thin-film evaporation | Industrial | $20,000-$100,000+ |
-
-::: info
+| **Falling film evaporator** | Continuous thin-film evaporation | Industrial | $20,000-$100,000+ | info
 Ethanol recovery is both economically important and environmentally responsible. Professional systems recover 90-98% of the ethanol used, making it cost-effective to reuse the solvent across multiple batches.
 :::
 
@@ -97,8 +95,8 @@ Ethanol extracts lipids, fats, and waxes from cannabis plant material -- especia
 4. Filter the cold solution through filter paper or a micron filter to remove the precipitated fats/waxes
 5. Recover the ethanol from the filtered solution as described above
 
-::: tip
-Short, cold washes (QWET technique) naturally extract fewer lipids and waxes, reducing or eliminating the need for winterization.
+**💡 Short, cold washes (QWET technique) naturally extract fewer lipids and waxes, reducing or eliminating the need for winterization.**
+
 :::
 
 ## QWET (Quick Wash Ethanol Technique)
@@ -161,9 +159,7 @@ The combination of temperature and wash time dramatically affects extract compos
 | **Denatured ethanol issues** | Some ethanol is denatured with bitter or toxic additives to avoid alcohol taxation; these additives contaminate the extract |
 | **Terpene loss** | Ethanol's volatility during recovery strips some volatile terpenes |
 
-## Denatured Ethanol Warning
-
-::: warning
+## Denatured Ethanol Warning warning
 Some ethanol is "denatured" -- additives are mixed in to make it undrinkable, avoiding beverage alcohol taxes. Common denaturants include methanol (toxic), isopropyl alcohol, denatonium benzoate (extremely bitter), and other chemicals. Always use food-grade or lab-grade undenatured ethanol for extraction. Check the product specification before purchasing.
 :::
 
@@ -193,11 +189,9 @@ Ethanol extracts -- whether produced as QWET, full-spectrum crude oil, or RSO --
 **For material decarbed before extraction:**
 If the plant material was decarboxylated prior to ethanol extraction (as noted in the QWET process), the resulting extract will already contain activated cannabinoids and may not require additional decarboxylation. However, pre-extraction decarboxylation is rarely 100% complete, so a brief post-extraction decarb (15-20 minutes at 220 degrees F) ensures full activation.
 
-::: info
-**Decarboxylation math for RSO/ethanol extract:** 1 gram of RSO at approximately 70% total cannabinoids contains ~700mg of cannabinoids. If approximately 70% of those are THC (post-decarb), that equals roughly 490mg THC -- or approximately 49 standard 10mg edible servings from a single gram.
+**ℹ️ **Decarboxylation math for RSO/ethanol extract:** 1 gram of RSO at approximately 70% total cannabinoids contains ~700mg of cannabinoids. If approximately 70% of those are THC (post-decarb), that equals roughly 490mg THC -- or approximately 49 standard 10mg edible servings from a single gram.**
 
 This is why precise measurement is essential. A common kitchen scale is not precise enough for individual dosing -- use a milligram scale or dilute the extract in a known volume of carrier oil for accurate measurement.
-:::
 
 See [Decarboxylation](/science/decarboxylation) for complete temperature and time guidance, including how to calculate decarboxylation percentage and optimize for specific cannabinoid ratios.
 

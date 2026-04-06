@@ -74,8 +74,8 @@ CBD Critical Mass is widely reported to produce:
 
 **Intensity:** Mild. The high CBD and low-moderate THC produce a gentle experience focused on therapeutic relief rather than intoxication.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. CBD Critical Mass is bred for therapeutic use and is generally well-tolerated, but individual responses to CBD:THC ratios vary.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. CBD Critical Mass is bred for therapeutic use and is generally well-tolerated, but individual responses to CBD:THC ratios vary.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Earthy and sweet with herbal undertones. The caryophyllene-dominant profile gives it a spicy, peppery base with an earthy-sweet foundation from humulene and myrcene. The herbal character is noticeable and adds a natural, plant-like complexity to the profile.
 - **Taste:** Earthy and sweet on the inhale, with herbal and slightly spicy notes on the exhale. The flavor is clean and approachable, with the earthy-sweet character being the most prominent element.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

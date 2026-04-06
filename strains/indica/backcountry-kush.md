@@ -72,8 +72,8 @@ Backcountry Kush is widely reported to produce:
 
 **Intensity:** Moderate. The moderate THC range makes Backcountry Kush accessible to less experienced users while still providing satisfying depth for regular consumers who appreciate traditional indica character.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -83,9 +83,7 @@ Backcountry Kush presents a classic, earthy sensory profile:
 - **Smell:** Pronounced earthy and hash-like aromas with sweet undertones. The hash character is immediately recognizable -- reminiscent of traditional hand-rubbed charas or pressed hashish from Central Asia. The myrcene base provides a deep, earthy foundation, while limonene adds a faint citrus sweetness that prevents the profile from becoming one-dimensional.
 - **Taste:** Earthy and hash-forward on inhalation, with sweet and slightly spicy notes on the exhale. The flavor is robust and traditional, appealing to users who appreciate the classic indica profile that predates modern sweet and fruity breeding trends.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

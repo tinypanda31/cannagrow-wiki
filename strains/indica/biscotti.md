@@ -73,8 +73,8 @@ Biscotti is widely reported to produce:
 
 **Intensity:** Strong. The high THC range and indica-dominant genetics produce intense effects that are best reserved for evening use.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Biscotti presents a rich and complex sensory profile:
 - **Smell:** Sweet, nutty, and earthy with fuel undertones. The Gelato inheritance provides a dessert-like sweetness that is balanced by the diesel punch of South Florida OG. The cured buds carry a biscuit-like aroma that is warm and inviting.
 - **Taste:** Sweet and nutty on inhalation, with earthy and fuel notes on the exhale. The flavor is rich and layered, with limonene adding citrus brightness that prevents the profile from becoming one-dimensional.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

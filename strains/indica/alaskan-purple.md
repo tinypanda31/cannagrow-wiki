@@ -70,8 +70,8 @@ Alaskan Purple is widely reported to produce:
 
 **Intensity:** Moderate to strong. The upper end of the THC range can produce intense sedation, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -81,9 +81,7 @@ Alaskan Purple presents a distinctive sensory profile:
 - **Smell:** Grape and earthy sweetness dominate the aroma, with subtle spicy and herbal undertones from caryophyllene. The cured buds often carry a wine-like sweetness reminiscent of its Purple Urine ancestry.
 - **Taste:** Sweet grape and berry flavors on inhalation, with earthy and slightly spicy notes on the exhale. The flavor is smooth and moderately sweet, with limonene providing faint citrus accents.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

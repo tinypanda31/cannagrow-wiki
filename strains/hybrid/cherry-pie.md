@@ -76,8 +76,8 @@ Cherry Pie is widely reported to produce:
 
 **Intensity:** Moderate. The 16-24% THC range and balanced effect profile make Cherry Pie accessible to a broad range of consumers, from newer users (at the lower end) to experienced consumers (at the upper end).
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -85,9 +85,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet cherry, grape, and earthy with subtle pine undertones. The cherry-grape fruit character inherited from Granddaddy Purple is the dominant aroma, supported by an earthy Kush base and a fresh pine lift. The overall profile is sweet and approachable with meaningful complexity.
 - **Taste:** Sweet cherry and grape on the inhale, with earthy, pine, and subtle spice notes on the exhale. The flavor is fruit-forward with an earthy finish, making it one of the most cherry-forward strains available.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

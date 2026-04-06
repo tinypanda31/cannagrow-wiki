@@ -73,8 +73,8 @@ Ghost Train Haze is widely reported to produce:
 
 **Intensity:** Very strong. Ghost Train Haze is among the most potent sativa strains available. Users should approach with caution and start with low doses, especially if inexperienced with high-THC sativa effects.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. This strain is extremely potent -- not suitable for inexperienced users. Start with a low dose. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. This strain is extremely potent -- not suitable for inexperienced users. Start with a low dose. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -82,9 +82,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Citrus, sour, and pine with earthy undertones. The aroma is bright and sharp, with a sour-citrus edge that is immediately distinctive. The Haze influence adds herbal complexity.
 - **Taste:** Citrus and sour flavors on the inhale, with pine and earthy notes on the exhale. The flavor is sharp and stimulating, matching the intense cerebral effect.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

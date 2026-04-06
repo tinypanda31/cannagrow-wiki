@@ -73,8 +73,8 @@ Orange Kush is widely reported to produce:
 
 **Intensity:** Moderate to strong. The upper end of the THC range can produce intense effects, particularly for inexperienced users.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
+
 :::
 
 ## Aroma & Flavor
@@ -84,9 +84,7 @@ Orange Kush presents a vibrant, citrus-forward sensory profile:
 - **Smell:** Pronounced orange and citrus sweetness with earthy and fuel undertones. The limonene-dominant profile gives it a bright, almost fresh-squeezed orange quality, while the OG Kush parent contributes an underlying earthy, slightly fuel-like sharpness that grounds the sweetness.
 - **Taste:** Orange and citrus flavors on inhalation, with earthy and slightly fuel-forward notes on the exhale. The flavor is smooth and palatable, making it popular among users who appreciate fruity profiles with underlying Kush complexity.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

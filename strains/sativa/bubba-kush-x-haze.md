@@ -70,8 +70,8 @@ Bubba Kush x Haze is widely reported to produce:
 
 **Intensity:** Moderate to strong. The two-phase effect means the experience evolves over time rather than remaining static.
 
-:::warning
-Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The transition from energetic to relaxing effects means dosing should be approached carefully -- a dose that feels uplifting initially may become more sedating as the experience progresses.
+**⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The transition from energetic to relaxing effects means dosing should be approached carefully -- a dose that feels uplifting initially may become more sedating as the experience progresses.**
+
 :::
 
 ## Aroma & Flavor
@@ -79,9 +79,7 @@ Effects are self-reported and vary by individual, dose, tolerance, and consumpti
 - **Smell:** Sweet and earthy with spicy undertones. The Haze genetics contribute a bright, floral sweetness while the Bubba Kush parent adds deep earthy and musky notes. The caryophyllene content introduces a noticeable peppery spice.
 - **Taste:** Sweet and earthy on the inhale with a spicy, slightly peppery exhale. The flavor carries the earthy-sweet character of Bubba Kush with the brighter, more floral notes of Haze layered on top. The finish is warm and slightly spicy.
 
-## Medical Uses
-
-:::danger
+## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
 :::
 

@@ -62,7 +62,7 @@ Selecting the right strain for your space and experience level is critical. See 
 | **Fast turnaround desired** | Autoflowering varieties | Seed to harvest in 8-10 weeks regardless of light cycle |
 | **Maximum yield** | High-yielding photoperiod hybrids | Respond well to training and optimized environments |
 
-See [Basics](/genetics/basics) for genotype vs. phenotype, [Seeds](/genetics/seeds/index) for seed selection and germination science, and [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) for the autoflowering vs. photoperiod decision.
+See [Basics](/genetics/basics) for genotype vs. phenotype, [Seeds](/genetics/seeds) for seed selection and germination science, and [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) for the autoflowering vs. photoperiod decision.
 
 ### Autoflower vs. Photoperiod
 
@@ -201,7 +201,7 @@ Always check for light stress: if leaf tips curl upward ("tacoing") or leaves de
 
 ### Germination Methods
 
-See [Seeds](/genetics/seeds/index) for detailed germination science.
+See [Seeds](/genetics/seeds) for detailed germination science.
 
 #### Paper Towel Method (Most Common)
 
@@ -564,7 +564,7 @@ Your first grow will not be perfect — and that is fine. Cannabis is a forgivin
 |------|-------------|
 | [Cultivation](/cultivation/index) | Cultivation overview and all grow methods |
 | [Basics](/genetics/basics) | Understanding cannabis genetics |
-| [Seeds](/genetics/seeds/index) | Seed selection and germination science |
+| [Seeds](/genetics/seeds) | Seed selection and germination science |
 | [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) | Choosing the right plant type |
 | [Cannabinoids](/science/cannabinoids) | How cannabinoids work in the body |
 | [Terpenes](/science/terpenes) | Terpene profiles and the entourage effect |

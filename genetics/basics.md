@@ -521,7 +521,7 @@ Understanding chemotype is essential for cultivators because it determines the e
 - **Type III** cultivars are grown for medical markets, particularly where psychoactive effects are contraindicated
 - **Type IV** cultivars are an emerging market segment with growing demand
 - **Type V** cultivars are grown for industrial hemp (fiber, grain) or for extraction of non-cannabinoid compounds (terpenes, flavonoids) tip
-When selecting [Seeds|Genetics](/genetics/seeds|genetics) for cultivation, start by identifying the desired chemotype for your market or personal needs. Within a chemotype category, use [Terpenes|Terpene Profiles](/science/terpenes|terpene profiles) and documented lineage to differentiate between cultivars. This approach is far more reliable than using indica/sativa labels for selection.
+When selecting [Seeds](/genetics/seeds) for cultivation, start by identifying the desired chemotype for your market or personal needs. Within a chemotype category, use [Terpenes](/science/terpenes) and documented lineage to differentiate between cultivars. This approach is far more reliable than using indica/sativa labels for selection.
 
 ---
 

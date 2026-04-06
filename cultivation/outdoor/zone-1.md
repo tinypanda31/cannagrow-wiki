@@ -116,7 +116,7 @@ See [Strains](/strains/index) for the full database. For Zone 1, prioritize:
 
 ### Indoor Seed Starting (April)
 
-1. Germinate autoflower seeds using the paper towel method (see [Seeds](/genetics/seeds/index))
+1. Germinate autoflower seeds using the paper towel method (see [Seeds](/genetics/seeds))
 2. Plant directly into final 5-gallon containers — **autoflowers do not tolerate transplanting well**
 3. Provide 18-20 hours of light under LED (200-400 PPFD)
 4. Maintain 72-78°F with a heat mat
@@ -246,7 +246,7 @@ Zone 1 has **lower pest pressure** than most zones, but cold-adapted pests still
 |------|-------------|
 | [Grow Guide](/cultivation/outdoor/grow-guide) | Complete outdoor grow guide with soil recipes, companion planting, and organic IPM |
 | [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) | Understanding autoflowering genetics |
-| [Seeds](/genetics/seeds/index) | Seed selection and germination |
+| [Seeds](/genetics/seeds) | Seed selection and germination |
 | [Strains](/strains/index) | Strain database (filter for autoflowering, cold-tolerant varieties) |
 | [Harvest Dry](/cultivation/harvest-dry) | Harvest and drying procedures |
 | [Cure Store](/cultivation/cure-store) | Curing and long-term storage |

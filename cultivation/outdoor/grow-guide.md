@@ -204,7 +204,7 @@ Starting seeds indoors gives outdoor plants a **4-6 week head start** on the sea
 
 1. **Timing:** Start seeds indoors 4-6 weeks before your area's last frost date. For most of the US, this means **mid-March to mid-April**.
 2. **Containers:** Use starter cubes, solo cups with drainage holes, or plug trays
-3. **Medium:** Seed starter mix or moistened paper towel method (see germination methods in [Seeds](/genetics/seeds/index))
+3. **Medium:** Seed starter mix or moistened paper towel method (see germination methods in [Seeds](/genetics/seeds))
 4. **Light:** Sunny south-facing window or a small LED grow light (18/6 cycle)
 5. **Temperature:** 72-78°F (22-26°C)
 6. **Water:** Light misting — seedlings are fragile
@@ -530,7 +530,7 @@ Your USDA Hardiness Zone determines your frost dates, growing season length, and
 | [Cultivation](/cultivation/index) | Cultivation overview and all grow methods |
 | [Grow Guide](/cultivation/indoor/grow-guide) | Complete indoor grow guide from seed to cure |
 | [Basics](/genetics/basics) | Understanding cannabis genetics |
-| [Seeds](/genetics/seeds/index) | Seed selection and germination science |
+| [Seeds](/genetics/seeds) | Seed selection and germination science |
 | [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) | Choosing the right plant type |
 | [Cannabinoids](/science/cannabinoids) | How cannabinoids work in the body |
 | [Terpenes](/science/terpenes) | Terpene profiles and the entourage effect |

@@ -32,7 +32,7 @@ The general ethanol extraction process follows these steps:
 
 Cannabis flower or trim is prepared for extraction:
 - **Dried material** -- Standard dried and cured flower or trim, ground to moderate consistency
-- **Fresh frozen material** -- For [Live Resin](/extraction/live-resin) production, material is frozen immediately after harvest
+- **Fresh frozen material** -- For [Live Resin](/extraction/refinement/live-resin) production, material is frozen immediately after harvest
 - **Decarboxylated material** -- If the target product requires activated cannabinoids (for edibles, tinctures), material is heated to convert THCA to THC before extraction
 
 ### Step 2: Chill Material and Ethanol
@@ -154,8 +154,9 @@ The combination of temperature and wash time dramatically affects extract compos
 | **Denatured ethanol issues** | Some ethanol is denatured with bitter or toxic additives to avoid alcohol taxation; these additives contaminate the extract |
 | **Terpene loss** | Ethanol's volatility during recovery strips some volatile terpenes |
 
-## Denatured Ethanol Warning warning
-Some ethanol is "denatured" -- additives are mixed in to make it undrinkable, avoiding beverage alcohol taxes. Common denaturants include methanol (toxic), isopropyl alcohol, denatonium benzoate (extremely bitter), and other chemicals. Always use food-grade or lab-grade undenatured ethanol for extraction. Check the product specification before purchasing.
+## Denatured Ethanol Warning
+
+**🚨 Danger** Some ethanol is "denatured" -- additives are mixed in to make it undrinkable, avoiding beverage alcohol taxes. Common denaturants include methanol (toxic), isopropyl alcohol, denatonium benzoate (extremely bitter), and other chemicals. Always use food-grade or lab-grade undenatured ethanol for extraction. Check the product specification before purchasing.
 
 ## Commercial Ethanol Extraction Systems
 
@@ -198,16 +199,16 @@ Ethanol-extracted cannabis is the starting material for many products:
 | **Tinctures** -- See [Tinctures & Sublingual](/consumption/tinctures/index) | Ethanol extracts diluted to specific cannabinoid concentrations in dropper bottles |
 | **Edibles** -- See [Edibles](/consumption/edibles/index) | Ethanol extract infused into food products or used as a direct ingredient |
 | **RSO (Rick Simpson Oil)** | High-dose full-extract ethanol concentrate; typically dark, thick, and full-spectrum |
-| **Distillate feedstock** | Ethanol crude is the starting material for [Distillate](/extraction/distillate) production |
+| **Distillate feedstock** | Ethanol crude is the starting material for [Distillate](/extraction/refinement/distillate) production |
 | **Isolate production** | Further refinement of ethanol extract produces THCA, CBD, and other cannabinoid isolates |
 | **Vape cartridge oil** | After winterization and distillation, ethanol extract can be formulated for vape cartridges |
 
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [BHO/PHO](/extraction/bho-pho) -- Hydrocarbon extraction
-- [CO2 Extraction](/extraction/co2) -- Supercritical CO2 extraction
-- [Distillate](/extraction/distillate) -- Refined from ethanol crude
+- [BHO/PHO](/extraction/solvent-based/bho-pho) -- Hydrocarbon extraction
+- [CO2 Extraction](/extraction/solvent-based/co2) -- Supercritical CO2 extraction
+- [Distillate](/extraction/refinement/distillate) -- Refined from ethanol crude
 - [Tinctures](/consumption/tinctures/index) -- Ethanol-based tincture products
 - [Edibles](/consumption/edibles/index) -- Products made from ethanol extracts
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

@@ -266,8 +266,8 @@ For detailed edible preparation techniques, dosing strategies, and recipes, see 
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [Ice-Water Hash](/extraction/ice-water-hash) -- Higher-quality solventless extraction
-- [Rosin Press](/extraction/rosin-press) -- Press kief or hash into rosin
+- [Ice-Water Hash](/extraction/solventless/ice-water-hash) -- Higher-quality solventless extraction
+- [Rosin Press](/extraction/solventless/rosin-press) -- Press kief or hash into rosin
 - [Cannabinoids](/science/cannabinoids) -- Understanding extracted compounds
 - [Terpenes](/science/terpenes) -- Aromatic compounds in kief and hash
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

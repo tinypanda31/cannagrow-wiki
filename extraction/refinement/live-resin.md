@@ -115,8 +115,9 @@ Live resin commands a significant price premium over cured resin concentrates du
 | **Quality material requirement** -- Only high-quality, clean cultivars without pesticides produce premium live resin |
 | **Market demand** -- Strong consumer preference for live resin supports higher pricing |
 
-## Storage Requirements warning
-Live resin must be kept cold to preserve its terpene profile. Exposure to heat, light, and oxygen rapidly degrades the volatile compounds that make live resin special.
+## Storage Requirements
+
+**⚠️ Warning** Live resin must be kept cold to preserve its terpene profile. Exposure to heat, light, and oxygen rapidly degrades the volatile compounds that make live resin special.
 
 | Factor | Recommendation |
 |--------|---------------|
@@ -170,14 +171,15 @@ Live resin sauce is a specific consistency of live resin in which the extract ha
 
 This separation occurs naturally as the concentrate ages. The sauce is exceptionally rich in terpenes and provides an intensely flavorful dabbing experience. Some producers encourage this separation, while others prefer a homogeneous consistency.
 
-**ℹ️ Live resin sauce should not be confused with [Live Rosin](/extraction/live-rosin), which is a completely different product made from ice-water hash pressed into rosin. The names are similar but the production methods and products are distinct.**
+**ℹ️ Live resin sauce should not be confused with [Live Rosin](/extraction/refinement/live-rosin), which is a completely different product made from ice-water hash pressed into rosin. The names are similar but the production methods and products are distinct.**
 
 ## Edible Applications
 
 Live resin can be used for edibles, but the decision to do so involves trade-offs that consumers should understand before committing this premium concentrate to edible preparation.
 
-### Suitability for Edibles warning
-**Honest assessment:** While live resin can be used for edibles, the premium terpene profile that makes it desirable for dabbing is largely lost during decarboxylation. The elevated temperatures required for decarboxylation (220-240 degrees F / 104-116 degrees C) drive off many of the volatile terpenes that make live resin special. Consider using live resin for edibles only if you have material that is past its prime for dabbing or if you specifically want the full-spectrum cannabinoid profile in your edible product.
+### Suitability for Edibles
+
+**⚠️ Warning** **Honest assessment:** While live resin can be used for edibles, the premium terpene profile that makes it desirable for dabbing is largely lost during decarboxylation. The elevated temperatures required for decarboxylation (220-240 degrees F / 104-116 degrees C) drive off many of the volatile terpenes that make live resin special. Consider using live resin for edibles only if you have material that is past its prime for dabbing or if you specifically want the full-spectrum cannabinoid profile in your edible product.
 
 That said, live resin edibles do offer a **full-spectrum cannabinoid experience** that is difficult to achieve with refined extracts. The complete cannabinoid profile -- including minor cannabinoids like CBG, CBC, and CBN -- is preserved through the decarboxylation process, potentially delivering a more nuanced edible effect compared to distillate-based products.
 
@@ -217,9 +219,9 @@ For detailed edible preparation techniques and dosing strategies, see [Edibles](
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [BHO/PHO](/extraction/bho-pho) -- Most common live resin extraction method
-- [Live Rosin](/extraction/live-rosin) -- Solventless alternative from fresh frozen
-- [Distillate](/extraction/distillate) -- Refined alternative
+- [BHO/PHO](/extraction/solvent-based/bho-pho) -- Most common live resin extraction method
+- [Live Rosin](/extraction/refinement/live-rosin) -- Solventless alternative from fresh frozen
+- [Distillate](/extraction/refinement/distillate) -- Refined alternative
 - [Dabbing](/consumption/dabbing/index) -- How live resin is consumed
 - [Cannabinoids](/science/cannabinoids) -- Compounds in live resin
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved in live resin

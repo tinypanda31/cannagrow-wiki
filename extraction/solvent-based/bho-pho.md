@@ -135,7 +135,7 @@ The consistency of BHO/PHO is influenced by extraction parameters, purge conditi
 | **Wax** | Opaque, crumbly, waxy | Faster purge or more agitation during purging | Easy to handle; less visually appealing |
 | **Budder/Badder** | Creamy, whipped, spreadable | Whipping during or after purging; controlled nucleation | Easy to dose; popular consistency |
 | **Crumble** | Dry, crumbly, honeycomb texture | Extended purge at moderate temperatures | Very dry; easy to break apart |
-| **Live Resin** | Varies (sauce, badder, sugar) | Made from fresh frozen material; see [Live Resin](/extraction/live-resin) | Maximum terpene preservation; intense flavor |
+| **Live Resin** | Varies (sauce, badder, sugar) | Made from fresh frozen material; see [Live Resin](/extraction/refinement/live-resin) | Maximum terpene preservation; intense flavor |
 | **Sauce** | Liquid terpene fraction with THCA crystals | Phase separation during extended curing | High terpene content; crystals form over time |
 | **Sugar** | Granular, crystalline THCA in terpene sauce | Controlled crystallization | High THCA content; good terpene profile |
 | **THCA Diamonds** | Large, pure THCA crystals | Extended crystallization in terpene sauce (weeks to months) | 95-99%+ THCA purity; separated from terpenes |
@@ -238,22 +238,23 @@ BHO/PHO potency varies depending on extraction quality and consistency:
 
 For detailed edible preparation techniques, infusion methods, and dosing strategies, see [Edibles](/consumption/edibles/index).
 
-## Legal Considerations warning
-Hydrocarbon cannabis extraction is heavily regulated or entirely illegal in many jurisdictions. Always research and comply with local laws before any extraction activity.
+## Legal Considerations
+
+**⚠️ Warning** Hydrocarbon cannabis extraction is heavily regulated or entirely illegal in many jurisdictions. Always research and comply with local laws before any extraction activity.
 
 - In **legal cannabis markets**, hydrocarbon extraction typically requires specific licensing, facility approval, fire marshal inspection, and environmental permits
 - Some jurisdictions **prohibit hydrocarbon extraction** entirely, allowing only CO2, ethanol, or solventless methods
 - **Home extraction** with hydrocarbons is illegal in virtually all jurisdictions
 - **Open blasting** is illegal almost everywhere and carries criminal penalties
 
-See [Legal & Safety](/legal-safety) for general guidance on cannabis law.
+See [Legal & Safety](/legal-safety/harm-reduction) for general guidance on cannabis law.
 
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [Ethanol Extraction](/extraction/ethanol) -- Safer solvent-based alternative
-- [CO2 Extraction](/extraction/co2) -- Solventless residual alternative
-- [Live Resin](/extraction/live-resin) -- BHO from fresh frozen material
+- [Ethanol Extraction](/extraction/solvent-based/ethanol) -- Safer solvent-based alternative
+- [CO2 Extraction](/extraction/solvent-based/co2) -- Solventless residual alternative
+- [Live Resin](/extraction/refinement/live-resin) -- BHO from fresh frozen material
 - [Dabbing](/consumption/dabbing/index) -- How BHO/PHO concentrates are consumed
 - [Cannabinoids](/science/cannabinoids) -- Compounds extracted
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved

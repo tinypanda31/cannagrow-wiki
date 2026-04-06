@@ -9,16 +9,16 @@ Live rosin represents the pinnacle of solventless cannabis extraction. It is pro
 
 ![Live rosin hash concentrate](/uploads/images/extraction/live-rosin.jpg)
 
-**ℹ️ Do not confuse live rosin with [Live Resin](/extraction/live-resin). While both are made from fresh frozen material, live resin uses solvents (butane, CO2, ethanol) for extraction, while live rosin uses only ice water, heat, and pressure.**
+**ℹ️ Do not confuse live rosin with [Live Resin](/extraction/refinement/live-resin). While both are made from fresh frozen material, live resin uses solvents (butane, CO2, ethanol) for extraction, while live rosin uses only ice water, heat, and pressure.**
 
 ## What Is Live Rosin?
 
 Live rosin is a multi-step solventless concentrate:
 
 1. **Fresh freeze** -- Cannabis is frozen immediately after harvest, never dried or cured
-2. **Ice-water extraction** -- Frozen material is processed through [Ice-Water Hash](/extraction/ice-water-hash) production
+2. **Ice-water extraction** -- Frozen material is processed through [Ice-Water Hash](/extraction/solventless/ice-water-hash) production
 3. **Freeze drying** -- The collected hash is freeze-dried to preserve quality
-4. **Rosin pressing** -- The dried hash is pressed using [Rosin Press](/extraction/rosin-press) heat and pressure
+4. **Rosin pressing** -- The dried hash is pressed using [Rosin Press](/extraction/solventless/rosin-press) heat and pressure
 5. **Curing (optional)** -- The pressed rosin may be cured to achieve specific consistencies
 
 The entire process uses no chemical solvents -- only ice, water, heat, and pressure -- making live rosin one of the cleanest cannabis products possible.
@@ -38,7 +38,7 @@ The cultivar choice is the single most important factor in live rosin quality. R
 
 ### Step 2: Ice-Water Hash Production
 
-The frozen material is processed into ice-water hash using the standard bubble hash technique. See [Ice-Water Hash](/extraction/ice-water-hash) for the complete process.
+The frozen material is processed into ice-water hash using the standard bubble hash technique. See [Ice-Water Hash](/extraction/solventless/ice-water-hash) for the complete process.
 
 **Key considerations for live rosin hash:**
 - **Quality over quantity** -- Only the highest grades (73 and 45 micron, full-melt) are used for live rosin
@@ -190,8 +190,9 @@ Live rosin occupies the top tier of the cannabis concentrate market:
 
 Live rosin can be used for edibles, but like live resin, this involves trade-offs that are worth understanding before committing the most expensive concentrate type to edible preparation.
 
-### Suitability for Edibles info
-**Terpene consideration:** Like live resin, live rosin's premium terpene profile is largely lost during decarboxylation. The volatile terpenes that make live rosin exceptional for dabbing evaporate at decarboxylation temperatures. However, as a solventless full-spectrum extract, live rosin remains one of the highest-quality edible inputs available.
+### Suitability for Edibles
+
+**ℹ️ Note** **Terpene consideration:** Like live resin, live rosin's premium terpene profile is largely lost during decarboxylation. The volatile terpenes that make live rosin exceptional for dabbing evaporate at decarboxylation temperatures. However, as a solventless full-spectrum extract, live rosin remains one of the highest-quality edible inputs available.
 
 For patients seeking whole-plant edible experiences, live rosin edibles deliver the complete cannabinoid and (remaining) terpene profile. Even after decarboxylation, some less-volatile terpenes and the full spectrum of cannabinoids, flavonoids, and other plant compounds remain present in the extract.
 
@@ -233,9 +234,9 @@ For detailed edible preparation techniques, infusion methods, and dosing strateg
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [Ice-Water Hash](/extraction/ice-water-hash) -- First step in live rosin production
-- [Rosin Press](/extraction/rosin-press) -- Pressing hash into rosin
-- [Live Resin](/extraction/live-resin) -- Solvent-based fresh frozen alternative
+- [Ice-Water Hash](/extraction/solventless/ice-water-hash) -- First step in live rosin production
+- [Rosin Press](/extraction/solventless/rosin-press) -- Pressing hash into rosin
+- [Live Resin](/extraction/refinement/live-resin) -- Solvent-based fresh frozen alternative
 - [Dabbing](/consumption/dabbing/index) -- How live rosin is consumed
 - [Cannabinoids](/science/cannabinoids) -- Compounds in live rosin
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved

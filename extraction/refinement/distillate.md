@@ -13,7 +13,7 @@ Distillate is one of the most versatile cannabis products, serving as the base f
 
 ## What Is Distillate?
 
-Distillate is the product of multi-stage refinement of cannabis crude extract (produced by [BHO/PHO](/extraction/bho-pho), [ethanol](/extraction/ethanol), or [CO2](/extraction/co2) extraction). Through distillation, cannabinoids are isolated from the complex mixture of compounds present in crude extract.
+Distillate is the product of multi-stage refinement of cannabis crude extract (produced by [BHO/PHO](/extraction/solvent-based/bho-pho), [ethanol](/extraction/solvent-based/ethanol), or [CO2](/extraction/solvent-based/co2) extraction). Through distillation, cannabinoids are isolated from the complex mixture of compounds present in crude extract.
 
 Typical distillate composition:
 
@@ -139,8 +139,9 @@ Distillate is among the most potent cannabis products available:
 | **CBD distillate** | 80-98%+ total CBD |
 | **CBG distillate** | 85-95%+ CBG |
 | **Vape cartridges (filled)** | 75-95% cannabinoids (distillate + terpenes) |
-| **Flower (for comparison)** | 10-30% cannabinoids | tip
-The extreme potency of distillate means that dosing must be carefully controlled. A single gram of 95% THC distillate contains 950mg of THC -- equivalent to approximately 95 standard 10mg edible servings.
+| **Flower (for comparison)** | 10-30% cannabinoids |
+
+**💡 Tip** The extreme potency of distillate means that dosing must be carefully controlled. A single gram of 95% THC distillate contains 950mg of THC -- equivalent to approximately 95 standard 10mg edible servings.
 
 ### Enhanced Edible Dosing Example
 
@@ -259,9 +260,9 @@ Lab results for distillate typically include:
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [BHO/PHO](/extraction/bho-pho) -- Common distillate feedstock
-- [Ethanol Extraction](/extraction/ethanol) -- Common distillate feedstock
-- [CO2 Extraction](/extraction/co2) -- Common distillate feedstock
+- [BHO/PHO](/extraction/solvent-based/bho-pho) -- Common distillate feedstock
+- [Ethanol Extraction](/extraction/solvent-based/ethanol) -- Common distillate feedstock
+- [CO2 Extraction](/extraction/solvent-based/co2) -- Common distillate feedstock
 - [Vaporizing](/consumption/vaping/index) -- Vape cartridges use distillate
 - [Edibles](/consumption/edibles/index) -- Distillate for edibles
 - [Cannabinoids](/science/cannabinoids) -- Compounds in distillate

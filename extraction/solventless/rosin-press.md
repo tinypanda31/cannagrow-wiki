@@ -64,8 +64,9 @@ Filter bags contain the starting material during pressing, preventing plant matt
 | **70** | Ice-water hash, dry sift | Moderate | High |
 | **90** | Dry sift, kief | Fast | Moderate-high |
 | **120** | Flower, kief | Fastest | Moderate |
-| **160+** | Flower (no bag use) | Very fast | Lower | tip
-Using a filter bag always improves rosin purity, but it also reduces yield slightly. For the cleanest hash rosin, use 37-micron bags with full-melt ice-water hash.
+| **160+** | Flower (no bag use) | Very fast | Lower |
+
+**💡 Tip** Using a filter bag always improves rosin purity, but it also reduces yield slightly. For the cleanest hash rosin, use 37-micron bags with full-melt ice-water hash.
 
 ## Temperature and Time Guidelines
 
@@ -230,8 +231,9 @@ Rosin is one of the **cleanest and highest-quality inputs available for edible p
 
 Rosin is **exceptional for edible use**, particularly for patients and consumers seeking premium, full-spectrum edible experiences. Both flower rosin and hash rosin work well, though hash rosin offers higher purity and potency.
 
-### Decarboxylation State After Pressing info
-**Rosin is partially decarboxylated from the pressing process.** The heat applied during rosin extraction (typically 160-220 degrees F / 71-104 degrees C) begins the decarboxylation process, but it does not complete it. Rosin typically arrives in a partially activated state -- approximately 30-60% decarboxylated depending on pressing temperature and duration.
+### Decarboxylation State After Pressing
+
+**ℹ️ Note** **Rosin is partially decarboxylated from the pressing process.** The heat applied during rosin extraction (typically 160-220 degrees F / 71-104 degrees C) begins the decarboxylation process, but it does not complete it. Rosin typically arrives in a partially activated state -- approximately 30-60% decarboxylated depending on pressing temperature and duration.
 
 For reliable and consistent edible dosing, **supplemental decarboxylation is recommended**:
 
@@ -284,9 +286,9 @@ When removing rosin from the refrigerator or freezer, allow the container to rea
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [Dry Sift & Kief](/extraction/dry-sift-kief) -- Make kief to press into rosin
-- [Ice-Water Hash](/extraction/ice-water-hash) -- Make hash to press into rosin
-- [Live Rosin](/extraction/live-rosin) -- Premium rosin from fresh frozen hash
+- [Dry Sift & Kief](/extraction/solventless/dry-sift) -- Make kief to press into rosin
+- [Ice-Water Hash](/extraction/solventless/ice-water-hash) -- Make hash to press into rosin
+- [Live Rosin](/extraction/refinement/live-rosin) -- Premium rosin from fresh frozen hash
 - [Cannabinoids](/science/cannabinoids) -- Compounds in rosin
 - [Terpenes](/science/terpenes) -- Aromatic compounds preserved in rosin
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

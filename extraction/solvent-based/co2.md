@@ -214,10 +214,10 @@ For detailed edible preparation techniques, infusion methods, and dosing strateg
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [BHO/PHO](/extraction/bho-pho) -- Hydrocarbon extraction
-- [Ethanol Extraction](/extraction/ethanol) -- Alcohol-based extraction
-- [Distillate](/extraction/distillate) -- Further refining of CO2 crude
-- [Live Resin](/extraction/live-resin) -- CO2 can be used for live resin
+- [BHO/PHO](/extraction/solvent-based/bho-pho) -- Hydrocarbon extraction
+- [Ethanol Extraction](/extraction/solvent-based/ethanol) -- Alcohol-based extraction
+- [Distillate](/extraction/refinement/distillate) -- Further refining of CO2 crude
+- [Live Resin](/extraction/refinement/live-resin) -- CO2 can be used for live resin
 - [Cannabinoids](/science/cannabinoids) -- Compounds extracted
 - [Terpenes](/science/terpenes) -- Aromatic compounds
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

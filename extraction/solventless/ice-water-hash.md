@@ -77,7 +77,7 @@ Properly frozen starting material is essential for quality ice-water hash.
 1. Ensure material is fully dried (60-65% relative humidity)
 2. Freeze for at least 24-48 hours before washing
 3. Note: cured material typically produces slightly lower yields than fresh frozen tip
-Fresh frozen material -- harvested and immediately frozen without drying or curing -- preserves the maximum terpene profile and is the starting material for [Live Resin](/extraction/live-resin) and [Live Rosin](/extraction/live-rosin).
+Fresh frozen material -- harvested and immediately frozen without drying or curing -- preserves the maximum terpene profile and is the starting material for [Live Resin](/extraction/refinement/live-resin) and [Live Rosin](/extraction/refinement/live-rosin).
 
 ### Step 2: Set Up the Bubble Bags
 
@@ -161,7 +161,7 @@ Freeze drying (lyophilization) is the gold standard for ice-water hash drying:
 
 ## Pressing Hash into Rosin
 
-Ice-water hash can be pressed into rosin using heat and pressure, creating an even more refined and versatile concentrate. See [Rosin Press](/extraction/rosin-press) for detailed instructions.
+Ice-water hash can be pressed into rosin using heat and pressure, creating an even more refined and versatile concentrate. See [Rosin Press](/extraction/solventless/rosin-press) for detailed instructions.
 
 **General guidelines for hash rosin:**
 - Press temperature: 160-180 degrees F (71-82 degrees C)
@@ -299,9 +299,9 @@ Properly dried and stored ice-water hash maintains quality for months to years:
 ## Navigation
 
 - [Extraction Overview](/extraction/index) -- All extraction methods
-- [Dry Sift & Kief](/extraction/dry-sift-kief) -- Simpler solventless method
-- [Rosin Press](/extraction/rosin-press) -- Press hash into rosin
-- [Live Rosin](/extraction/live-rosin) -- Ice-water hash from fresh frozen, pressed
+- [Dry Sift & Kief](/extraction/solventless/dry-sift) -- Simpler solventless method
+- [Rosin Press](/extraction/solventless/rosin-press) -- Press hash into rosin
+- [Live Rosin](/extraction/refinement/live-rosin) -- Ice-water hash from fresh frozen, pressed
 - [Cannabinoids](/science/cannabinoids) -- Compounds preserved in hash
 - [Terpenes](/science/terpenes) -- Aromatic compounds in hash
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

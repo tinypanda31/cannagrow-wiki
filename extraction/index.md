@@ -66,9 +66,9 @@ Solventless extraction relies on physical separation rather than chemical dissol
 
 **Key solventless techniques:**
 
-- **[Dry Sift & Kief](/extraction/dry-sift-kief)** -- Mechanical separation of trichomes using screens
-- **[Ice-Water Hash](/extraction/ice-water-hash)** -- Trichome separation using ice water and filtration bags
-- **[Rosin Press](/extraction/rosin-press)** -- Heat and pressure extraction from flower or hash
+- **[Dry Sift & Kief](/extraction/solventless/dry-sift)** -- Mechanical separation of trichomes using screens
+- **[Ice-Water Hash](/extraction/solventless/ice-water-hash)** -- Trichome separation using ice water and filtration bags
+- **[Rosin Press](/extraction/solventless/rosin-press)** -- Heat and pressure extraction from flower or hash
 
 ### Solvent-Based Methods Overview
 
@@ -79,9 +79,9 @@ Solvent-based extraction -- particularly with hydrocarbons like butane and propa
 
 **Key solvent-based techniques:**
 
-- **[BHO/PHO Extraction](/extraction/bho-pho)** -- Butane and propane hash oil extraction
-- **[Ethanol Extraction](/extraction/ethanol)** -- Food-grade ethanol washing
-- **[CO2 Extraction](/extraction/co2)** -- Supercritical and subcritical carbon dioxide extraction
+- **[BHO/PHO Extraction](/extraction/solvent-based/bho-pho)** -- Butane and propane hash oil extraction
+- **[Ethanol Extraction](/extraction/solvent-based/ethanol)** -- Food-grade ethanol washing
+- **[CO2 Extraction](/extraction/solvent-based/co2)** -- Supercritical and subcritical carbon dioxide extraction
 
 ## Quality and Purity Considerations
 
@@ -92,7 +92,7 @@ The quality of any extract is fundamentally limited by the quality of the starti
 - **Cultivar selection** -- Resin-rich cultivars with high trichome density produce better extracts
 - **Cultivation practices** — Clean growing practices (no pesticides, heavy metals, or PGRs) are essential
 - **Harvest timing** -- Proper harvest window affects cannabinoid and terpene profile; see [Harvest & Drying](/cultivation/harvest-dry)
-- **Fresh frozen vs. cured** -- Fresh frozen material preserves more terpenes; see [Live Resin](/extraction/live-resin) and [Live Rosin](/extraction/live-rosin)
+- **Fresh frozen vs. cured** -- Fresh frozen material preserves more terpenes; see [Live Resin](/extraction/refinement/live-resin) and [Live Rosin](/extraction/refinement/live-rosin)
 - **Curing and storage** -- Properly cured flower has different extraction characteristics than fresh material
 
 ### Lab Testing
@@ -116,7 +116,7 @@ Professional lab testing verifies extract quality and safety through several ana
 
 ### General Safety Principles
 
-1. **Know the law** -- Cannabis extraction is regulated or illegal in many jurisdictions. Always research local laws before attempting any extraction method. See [Legal & Safety](/legal-safety) for general guidance.
+1. **Know the law** -- Cannabis extraction is regulated or illegal in many jurisdictions. Always research local laws before attempting any extraction method. See [Legal & Safety](/legal-safety/harm-reduction) for general guidance.
 2. **Ventilation** -- Any extraction involving solvents or heat requires adequate ventilation.
 3. **Personal protective equipment (PPE)** -- Gloves, eye protection, and appropriate respiratory protection are essential for solvent-based methods.
 4. **Fire safety** -- Hydrocarbon solvents are extremely flammable. Have fire extinguishers rated for chemical fires available.
@@ -134,8 +134,9 @@ Professional lab testing verifies extract quality and safety through several ana
 | BHO/PHO | Fire, explosion, asphyxiation | **Very High** |
 | Ethanol | Flammability, fire | Moderate |
 | CO2 extraction | High-pressure equipment failure | Moderate-High |
-| Distillation | Heat, vacuum equipment, burns | Moderate-High | danger
-Open blasting (using butane in open tubes or containers) is extremely dangerous and has caused numerous fatalities and property damage. This practice should never be attempted. Only certified closed-loop extraction systems operated by trained professionals are acceptable for hydrocarbon extraction.
+| Distillation | Heat, vacuum equipment, burns | Moderate-High |
+
+**🚨 Danger** Open blasting (using butane in open tubes or containers) is extremely dangerous and has caused numerous fatalities and property damage. This practice should never be attempted. Only certified closed-loop extraction systems operated by trained professionals are acceptable for hydrocarbon extraction.
 
 ## From Extract to Edible: The Pipeline
 
@@ -155,15 +156,15 @@ Cannabis Plant Material → Extraction → Decarboxylation → Edible Incorporat
 
 | Extraction Method | Edible Suitability | Decarb Needed? | Key Notes |
 |------------------|-------------------|----------------|-----------|
-| **[Dry Sift & Kief](/extraction/dry-sift-kief)** | Excellent | Yes | Traditional edible ingredient; easy to infuse into butter/oil; see [Edible Applications](/extraction/dry-sift-kief) on the dry sift page |
-| **[Ice-Water Hash](/extraction/ice-water-hash)** | Excellent (especially 1-3 star) | Yes | Lower grades ideal for edibles; plant matter content irrelevant in food; see [Edible Applications](/extraction/ice-water-hash) |
-| **[Rosin Press](/extraction/rosin-press)** | Exceptional | Partial (supplemental recommended) | Cleanest solventless input; partially decarbed from pressing; see [Edible Applications](/extraction/rosin-press) |
-| **[BHO/PHO](/extraction/bho-pho)** | Good (with precautions) | Yes | Must be properly purged before decarbing; only use lab-tested material; see [Edible Applications](/extraction/bho-pho) |
-| **[Ethanol Extraction](/extraction/ethanol)** | Excellent | Yes | Dominant method for tinctures and RSO; see [Decarboxylation for Ethanol Extracts](/extraction/ethanol) |
-| **[CO2 Extraction](/extraction/co2)** | Very Good | Partial (supplemental recommended) | Widely used commercially; partially decarbed from extraction; see [Edible Applications](/extraction/co2) |
-| **[Distillate](/extraction/distillate)** | Exceptional | No (already decarbed) | Industry standard for edibles; flavorless and precisely dosable; see [Edible Applications](/extraction/distillate) |
-| **[Live Resin](/extraction/live-resin)** | Moderate | Yes | Premium terpenes lost during decarb; best used when past prime for dabbing; see [Edible Applications](/extraction/live-resin) |
-| **[Live Rosin](/extraction/live-rosin)** | Good (premium) | Yes | Highest-quality solventless input; terpenes partially lost during decarb; see [Edible Applications](/extraction/live-rosin) |
+| **[Dry Sift & Kief](/extraction/solventless/dry-sift)** | Excellent | Yes | Traditional edible ingredient; easy to infuse into butter/oil; see [Edible Applications](/extraction/solventless/dry-sift) on the dry sift page |
+| **[Ice-Water Hash](/extraction/solventless/ice-water-hash)** | Excellent (especially 1-3 star) | Yes | Lower grades ideal for edibles; plant matter content irrelevant in food; see [Edible Applications](/extraction/solventless/ice-water-hash) |
+| **[Rosin Press](/extraction/solventless/rosin-press)** | Exceptional | Partial (supplemental recommended) | Cleanest solventless input; partially decarbed from pressing; see [Edible Applications](/extraction/solventless/rosin-press) |
+| **[BHO/PHO](/extraction/solvent-based/bho-pho)** | Good (with precautions) | Yes | Must be properly purged before decarbing; only use lab-tested material; see [Edible Applications](/extraction/solvent-based/bho-pho) |
+| **[Ethanol Extraction](/extraction/solvent-based/ethanol)** | Excellent | Yes | Dominant method for tinctures and RSO; see [Decarboxylation for Ethanol Extracts](/extraction/solvent-based/ethanol) |
+| **[CO2 Extraction](/extraction/solvent-based/co2)** | Very Good | Partial (supplemental recommended) | Widely used commercially; partially decarbed from extraction; see [Edible Applications](/extraction/solvent-based/co2) |
+| **[Distillate](/extraction/refinement/distillate)** | Exceptional | No (already decarbed) | Industry standard for edibles; flavorless and precisely dosable; see [Edible Applications](/extraction/refinement/distillate) |
+| **[Live Resin](/extraction/refinement/live-resin)** | Moderate | Yes | Premium terpenes lost during decarb; best used when past prime for dabbing; see [Edible Applications](/extraction/refinement/live-resin) |
+| **[Live Rosin](/extraction/refinement/live-rosin)** | Good (premium) | Yes | Highest-quality solventless input; terpenes partially lost during decarb; see [Edible Applications](/extraction/refinement/live-rosin) |
 
 ### Key Considerations for Edible Preparation
 
@@ -182,19 +183,19 @@ Once your extract is decarboxylated and incorporated into an edible base (butter
 ## Navigation
 
 ### Solventless Extraction
-- [Dry Sift & Kief](/extraction/dry-sift-kief) -- Mechanical trichome separation
-- [Ice-Water Hash](/extraction/ice-water-hash) -- Bubble hash production
-- [Rosin Press](/extraction/rosin-press) -- Heat and pressure extraction
+- [Dry Sift & Kief](/extraction/solventless/dry-sift) -- Mechanical trichome separation
+- [Ice-Water Hash](/extraction/solventless/ice-water-hash) -- Bubble hash production
+- [Rosin Press](/extraction/solventless/rosin-press) -- Heat and pressure extraction
 
 ### Solvent-Based Extraction
-- [BHO/PHO](/extraction/bho-pho) -- Butane and propane hash oil
-- [Ethanol](/extraction/ethanol) -- Alcohol-based extraction
-- [CO2](/extraction/co2) -- Supercritical CO2 extraction
+- [BHO/PHO](/extraction/solvent-based/bho-pho) -- Butane and propane hash oil
+- [Ethanol](/extraction/solvent-based/ethanol) -- Alcohol-based extraction
+- [CO2](/extraction/solvent-based/co2) -- Supercritical CO2 extraction
 
 ### Refined Products
-- [Distillate](/extraction/distillate) -- Highly purified cannabinoid oil
-- [Live Resin](/extraction/live-resin) -- Fresh frozen solvent extracts
-- [Live Rosin](/extraction/live-rosin) -- Fresh frozen solventless extracts
+- [Distillate](/extraction/refinement/distillate) -- Highly purified cannabinoid oil
+- [Live Resin](/extraction/refinement/live-resin) -- Fresh frozen solvent extracts
+- [Live Rosin](/extraction/refinement/live-rosin) -- Fresh frozen solventless extracts
 
 ## Related Resources
 

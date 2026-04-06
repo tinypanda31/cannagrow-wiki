@@ -100,6 +100,8 @@ This is the single most important rule for edible consumption:
 
 **ℹ️ Raw cannabis contains cannabinoids in their acidic forms (THCA, CBDA), which are NOT psychoactive. Before cannabis can be infused into edibles, it must be **decarboxylated** -- heated to convert THCA into psychoactive THC.**
 
+> **For a complete step-by-step home decarboxylation guide, cannabutter and oil infusion methods, dosing calculations, recipe substitution, and a classic infused brownie recipe, see the full [Cooking with Cannabis](/consumption/cooking) guide.**
+
 ### Decarboxylation Process
 
 **Step 1: Grind**
@@ -181,9 +183,9 @@ Different concentrates bring different qualities to edible preparation. Here is 
 
 ## Making Cannabutter (Cannabis-Infused Butter)
 
-Cannabutter is the most common edible infusion base:
+Cannabutter is the most common edible infusion base. For a complete step-by-step guide including cannabutter, infused oil, dosing calculations, and recipe substitution, see the full [Cooking with Cannabis](/consumption/cooking) guide.
 
-### Step-by-Step
+### Quick Reference
 
 **Step 1: Decarboxylate**
 Decarboxylate your cannabis as described above.
@@ -290,10 +292,12 @@ If you suspect your pet has consumed cannabis, contact a veterinarian or animal 
 ## Navigation
 
 - [Consumption Overview](/consumption/index) -- All consumption methods
+- **[Cooking with Cannabis](/consumption/cooking)** — Complete home decarb, cannabutter, oil, dosing calculations, recipe substitution, and brownie recipe
 - [Tinctures](/consumption/tinctures/index) -- Liquid alternative to edibles
 - [Smoking](/consumption/smoking/index) -- Inhalation alternative
 - [Vaporizing](/consumption/vaping/index) -- Inhalation alternative
 - [Cannabinoids](/science/cannabinoids) -- THC, CBD, and 11-hydroxy-THC
+- [Decarboxylation Science](/science/decarboxylation) -- Detailed chemistry of THCA → THC conversion
 - [Extraction](/extraction/index) -- How edible concentrates are made
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance
 

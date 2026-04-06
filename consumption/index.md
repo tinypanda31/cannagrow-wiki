@@ -25,6 +25,7 @@ For example, if a product contains 10mg of THC and has a bioavailability of 20%,
 | **[Vaporizing](/consumption/vaping/index)** | 2-5 minutes | 1-2.5 hours | ~46% | Fewer harmful byproducts; efficient; less odor; precise temperature | Equipment cost; battery safety; cartridge quality concerns | Low-Moderate |
 | **[Dabbing](/consumption/dabbing/index)** | Immediate | 1-3 hours | High (~60-80%) | Extremely potent; efficient; fast onset; flavorful | Very high THC; equipment cost; learning curve; lung irritation at high temps | Moderate-High |
 | **[Edibles](/consumption/edibles/index)** | 30 min - 2 hours | 4-12 hours | ~10-20% | Long-lasting; discrete; no lung exposure; precise doses available | Delayed onset leads to overconsumption; 11-hydroxy-THC can be overwhelming | Low |
+| **[Cooking with Cannabis](/consumption/cooking)** | N/A (ingredient prep) | N/A | N/A | Home decarb, cannabutter/oil, dosing math, recipe substitution, brownie recipe | Requires careful dosing calculations; homemade potency varies | Low |
 | **[Tinctures/Sublingual](/consumption/tinctures/index)** | 15-45 min | 4-6 hours | ~15-35% | Discreet; precise dosing; fast for non-inhalation; no lung irritation | Taste (can be masked); slower than inhalation; alcohol base may irritate | Low |
 | **[Topicals](/consumption/topicals/index)** | 15-45 min (localized) | 2-8 hours | Variable (localized) | No lung exposure; localized relief; discreet; non-psychoactive (most) | Limited to localized effect; absorption varies; quality varies | Very Low |
 | **[Transdermal Patches](/consumption/topicals/index)** | 30-60 min | 8-72 hours | Systemic (variable) | Sustained release; discreet; no lung exposure; systemic effect | Slow onset; skin sensitivity; limited availability | Very Low |
@@ -135,6 +136,7 @@ See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive guidance in
 - [Vaporizing](/consumption/vaping/index) -- Dry herb and concentrate vaporizers
 - [Dabbing](/consumption/dabbing/index) -- Concentrate consumption
 - [Edibles](/consumption/edibles/index) -- Food and beverage infusions
+- [Cooking with Cannabis](/consumption/cooking) — Home decarb, cannabutter, oil, dosing, brownie recipe
 - [Tinctures & Sublingual](/consumption/tinctures/index) -- Liquid extracts
 - [Topicals & Transdermals](/consumption/topicals/index) -- Skin applications
 

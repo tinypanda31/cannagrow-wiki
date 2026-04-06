@@ -302,6 +302,7 @@ Consumption Overview | `/consumption` | Consumption |
 Smoking | `/consumption/smoking` | Consumption |
 Vaporizing | `/consumption/vaping` | Consumption |
 Edibles | `/consumption/edibles` | Consumption |
+Cooking with Cannabis | `/consumption/cooking` | Consumption |
 Tinctures & Sublingual | `/consumption/tinctures` | Consumption |
 Topicals & Transdermals | `/consumption/topicals` | Consumption |
 Dabbing | `/consumption/dabbing` | Consumption |
@@ -362,7 +363,7 @@ Harm Reduction | `/legal-safety/harm-reduction` | Legal |
 
 ---
 
-**Total Pages: 306**
+**Total Pages: 307**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

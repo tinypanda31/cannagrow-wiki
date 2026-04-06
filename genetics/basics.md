@@ -58,7 +58,7 @@ While genetics set the potential, environmental factors determine how much of th
 
 ### The Cultivation-Genetics Relationship
 
-Successful cultivation begins with selecting genetics appropriate for the growing environment and desired outcomes. A cultivator growing in a short outdoor season in a northern climate benefits from fast-flowering or [Autoflower Vs Photoperiod|Autoflowering](/genetics/autoflower-vs-photoperiod|autoflowering) genetics. A commercial indoor facility with optimized environmental controls may prioritize high-yielding photoperiod cultivars with specific [Terpenes|Terpene Profiles](/science/terpenes|terpene profiles). Understanding genetics allows cultivators to make informed [Seeds|Seed And Clone Selection](/genetics/seeds|seed and clone selection) decisions rather than relying on marketing claims alone.
+Successful cultivation begins with selecting genetics appropriate for the growing environment and desired outcomes. A cultivator growing in a short outdoor season in a northern climate benefits from fast-flowering or [Autoflowering](/genetics/autoflower-vs-photoperiod) genetics. A commercial indoor facility with optimized environmental controls may prioritize high-yielding photoperiod cultivars with specific [Terpene Profiles](/science/terpenes). Understanding genetics allows cultivators to make informed [Seed and Clone Selection](/genetics/seeds) decisions rather than relying on marketing claims alone.
 
 ---
 
@@ -89,8 +89,9 @@ Phenotypic traits in cannabis include:
 - Flowering duration and yield
 - Cannabinoid percentages and terpene concentrations
 - Aroma and flavor profiles
-- Resistance to mold, pests, and environmental stress tip
-**Simple Analogy**: If the genotype is a recipe written in a cookbook, the phenotype is the actual dish served on the plate. The recipe (genotype) dictates what ingredients and steps are possible, but the skill of the cook, the quality of ingredients, and the kitchen conditions (environment) determine how the final dish (phenotype) turns out.
+- Resistance to mold, pests, and environmental stress
+
+**💡 Tip** **Simple Analogy**: If the genotype is a recipe written in a cookbook, the phenotype is the actual dish served on the plate. The recipe (genotype) dictates what ingredients and steps are possible, but the skill of the cook, the quality of ingredients, and the kitchen conditions (environment) determine how the final dish (phenotype) turns out.
 
 ### Why Two Seeds from the Same Parents Differ
 
@@ -101,7 +102,7 @@ This means that every seed from the same cross is genetically unique. Consider t
 - **Parent A**: High-THC, lemon-terpene phenotype, tall sativa-dominant structure
 - **Parent B**: High-CBD, earthy-terpene phenotype, compact indica-dominant structure
 
-Their offspring (F1 generation) will each inherit a different mix of alleles from both parents. Some offspring may be high-THC like Parent A, others high-CBD like Parent B, and still others may exhibit intermediate cannabinoid ratios. Some may express the lemon terpene profile, others the earthy profile, and some may produce entirely new combinations. This genetic variability is the engine that drives [Breeding|Breeding Programs](/genetics/breeding|breeding programs) forward.
+Their offspring (F1 generation) will each inherit a different mix of alleles from both parents. Some offspring may be high-THC like Parent A, others high-CBD like Parent B, and still others may exhibit intermediate cannabinoid ratios. Some may express the lemon terpene profile, others the earthy profile, and some may produce entirely new combinations. This genetic variability is the engine that drives [Breeding Programs](/genetics/breeding) forward.
 
 ### Pheno-Hunting
 
@@ -170,7 +171,7 @@ The cannabis genome contains approximately **30,000–40,000 genes**, of which s
 
 **Terpene Synthase Genes**
 - Multiple terpene synthase (TPS) genes code for enzymes that produce monoterpenes (e.g., limonene, myrcene, pinene, terpinolene) and sesquiterpenes (e.g., caryophyllene, humulene, farnesene)
-- The specific combination of active TPS genes determines the [Terpenes|Terpene Profile](/science/terpenes|terpene profile) of each cultivar
+- The specific combination of active TPS genes determines the [Terpene Profile](/science/terpenes) of each cultivar
 
 **Structural and Developmental Genes**
 - Genes controlling plant height, internode length, leaf morphology, and branching architecture
@@ -371,8 +372,9 @@ A **landrace** is a locally adapted, traditional variety of cannabis that evolve
 | Adapted to local environmental conditions | Adapted to cultivation conditions (indoor/greenhouse/outdoor) |
 | Broad genetic base (resilient to changing conditions) | Narrow genetic base (may be vulnerable to specific stresses) |
 | Not optimized for maximum yield | Optimized for specific traits (potency, yield, terpene profile) |
-| Historically used by indigenous populations | Commercially distributed worldwide | tip
-**True landraces are becoming increasingly rare**. Decades of hybridization, habitat destruction, international eradication programs, and political instability in traditional cannabis-growing regions have threatened or eliminated many landrace populations. Cannabis preservation organizations and seed banks are actively working to collect, preserve, and document remaining landrace genetics before they are lost.
+| Historically used by indigenous populations | Commercially distributed worldwide |
+
+**💡 Tip** **True landraces are becoming increasingly rare**. Decades of hybridization, habitat destruction, international eradication programs, and political instability in traditional cannabis-growing regions have threatened or eliminated many landrace populations. Cannabis preservation organizations and seed banks are actively working to collect, preserve, and document remaining landrace genetics before they are lost.
 
 ### Why Landraces Are the Genetic Foundation of All Modern Breeding
 
@@ -419,7 +421,7 @@ Key historical periods in landrace collection and hybridization:
 
 ![Collection of landrace cannabis specimens showing morphological diversity across geographic origins — leaf samples, bud structure, and plant architecture comparison](/uploads/images/genetics/landrace-collection.jpg)
 
-**💡 Cultivators interested in preserving genetic diversity should consider growing landrace cultivars alongside modern hybrids. Landraces offer unique genetics not found in the modern hybrid pool and provide valuable genetic diversity for [Breeding|Breeding Programs](/genetics/breeding|breeding programs). They also offer insights into how cannabis adapts to specific environmental conditions, which can inform cultivation practices.**
+**💡 Cultivators interested in preserving genetic diversity should consider growing landrace cultivars alongside modern hybrids. Landraces offer unique genetics not found in the modern hybrid pool and provide valuable genetic diversity for [Breeding Programs](/genetics/breeding). They also offer insights into how cannabis adapts to specific environmental conditions, which can inform cultivation practices.**
 
 ---
 

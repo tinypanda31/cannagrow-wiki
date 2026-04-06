@@ -126,7 +126,7 @@ Yeti is a straightforward strain to grow, primarily due to the Northern Lights g
 
 ## Similar Strains
 
-- [Northern Lights #5](/strains/hybrid/northern-lights-5) -- Parent lineage
+- [Northern Lights #5](/strains/hybrid/northen-lights-5) -- Parent lineage
 - [King's Custody](/strains/hybrid/kings-custody) -- Comparable balanced hybrid with earthy-pine character
 - [9 Pound Hammer](/strains/indica/9-pound-hammer) -- Similar heavy, sedating indica
 - [Blackberry Kush](/strains/hybrid/blackberry-kush) -- Comparable indica-dominant with relaxing body effects

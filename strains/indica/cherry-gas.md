@@ -124,7 +124,7 @@ Cherry Gas benefits from attentive growing practices. The gas parent genetics of
 
 ## Similar Strains
 
-- [Cherry Pie](/strains/indica/cherry-pie) -- Direct parent lineage with comparable cherry sweetness
+- [Cherry Pie](/strains/hybrid/cherry-pie) -- Direct parent lineage with comparable cherry sweetness
 - [Granddaddy Purple](/strains/indica/granddaddy-purple) -- Grandparent lineage with similar berry sweetness
 - [Black Diamond](/strains/indica/black-diamond) -- Comparable berry-forward indica with heavy sedation
 - [Rocket Fuel](/strains/indica/rocket-fuel) -- Similar fuel-forward profile and body-heavy effects

@@ -125,7 +125,7 @@ King's Custody is a moderately manageable strain to grow. Its Pacific Northwest 
 ## Similar Strains
 
 - [Yeti](/strains/hybrid/yeti) -- Comparable balanced hybrid with earthy-pine character
-- [Northern Lights #5](/strains/hybrid/northern-lights-5) -- Similar Pacific Northwest classic with earthy profile
+- [Northern Lights #5](/strains/hybrid/northen-lights-5) -- Similar Pacific Northwest classic with earthy profile
 - [Marionberry](/strains/hybrid/marionberry) -- Comparable Pacific Northwest regional hybrid
 - [Sage](/strains/hybrid/sage) -- Similar balanced hybrid with pine and herbal notes
 

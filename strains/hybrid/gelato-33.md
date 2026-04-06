@@ -128,7 +128,7 @@ Gelato #33 shares the growing characteristics of the broader Gelato lineage. The
 
 - [Gelato #41](/strains/hybrid/gelato-41) -- Related Gelato phenotype with similar sweet, balanced character
 - [Girl Scout Cookies](/strains/hybrid/girl-scout-cookies) -- Parent lineage through Thin Mint GSC
-- [Sunset Sherbet](/strains/hybrid/sunset-sherbet) -- Parent lineage with similar dessert-forward character
+- [Sunset Sherbet](/strains/indica/sunset-sherbet) -- Parent lineage with similar dessert-forward character
 - [Wedding Cake](/strains/hybrid/wedding-cake) -- Similar sweet, dessert-like hybrid with GSC genetics
 
 ---

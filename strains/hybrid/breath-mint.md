@@ -125,7 +125,7 @@ Breath Mint shares the growing characteristics of both parent families. The bala
 
 ## Similar Strains
 
-- [Mints](/strains/hybrid/mints) -- Direct parent lineage with similar mint and fuel character
+- [Mints](/strains/hybrid/kush-mints) -- Direct parent lineage with similar mint and fuel character
 - [Gelato #33](/strains/hybrid/gelato-33) -- Related Gelato family member with sweet, balanced effects
 - [Kush Mints](/strains/hybrid/kush-mints) -- Related Mints cross with similar mint-forward profile
 - [Animal Mints](/strains/indica/animal-mints) -- Mints family member with comparable fuel and body effects

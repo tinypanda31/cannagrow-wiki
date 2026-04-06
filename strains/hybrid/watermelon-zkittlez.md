@@ -125,7 +125,7 @@ Watermelon Zkittlez shares the growing characteristics of the Zkittlez lineage. 
 
 ## Similar Strains
 
-- [Zkittlez](/strains/indica/zkittlez) -- Direct parent lineage with similar candy-like aromatic expression
+- [Zkittlez](/strains/hybrid/zkittlez) -- Direct parent lineage with similar candy-like aromatic expression
 - [Strawberry Banana](/strains/hybrid/strawberry-banana) -- Fruity-sweet hybrid with comparable dessert-forward character
 - [Bubble Gum](/strains/hybrid/bubble-gum) -- Sweet, candy-like hybrid with balanced calming effects
 - [Peaches and Cream](/strains/hybrid/peaches-and-cream) -- Similar fruity-sweet hybrid with dessert-forward character

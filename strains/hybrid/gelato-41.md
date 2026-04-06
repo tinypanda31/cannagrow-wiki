@@ -128,7 +128,7 @@ Gelato #41 shares the growing characteristics of the broader Gelato lineage. The
 - [Gelato](/strains/hybrid/gelato) -- Original Gelato cross; same parent lineage
 - [Girl Scout Cookies](/strains/hybrid/girl-scout-cookies) -- Parent lineage through Thin Mint GSC
 - [Wedding Cake](/strains/hybrid/wedding-cake) -- Similar sweet, dessert-like hybrid with GSC genetics
-- [Sunset Sherbet](/strains/hybrid/sunset-sherbet) -- Parent lineage; similar dessert-forward character
+- [Sunset Sherbet](/strains/indica/sunset-sherbet) -- Parent lineage; similar dessert-forward character
 
 ---
 

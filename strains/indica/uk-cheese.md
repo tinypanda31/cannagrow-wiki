@@ -124,7 +124,7 @@ UK Cheese is relatively straightforward to grow, benefiting from the resilience 
 
 ## Similar Strains
 
-- [Skunk #1](/strains/hybrid/skunk-1) -- Parent lineage with comparable resilience and growing ease
+- [Skunk #1](/strains/sativa/skunk-1) -- Parent lineage with comparable resilience and growing ease
 - [Big Bud](/strains/indica/big-bud) -- Similar indica-dominant structure; parent of Cheese crosses
 - [Master Kush](/strains/indica/master-kush) -- Classic European indica with comparable reliable profile
 - [Death Star](/strains/indica/death-star) -- Similar skunky, fuel-forward aroma profile

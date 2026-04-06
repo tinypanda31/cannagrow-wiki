@@ -128,7 +128,7 @@ Runtz Muffin is a moderately manageable strain that rewards cultivators with den
 - [Zkittlez](/strains/hybrid/zkittlez) -- Parent lineage; intense candy-like fruit character
 - [Wedding Cake](/strains/hybrid/wedding-cake) -- Parent lineage; vanilla-sweet dessert character
 - [Gelato](/strains/hybrid/gelato) -- Similar balanced dessert hybrid with sweet-fruity profile
-- [Runtz](/strains/hybrid/runtz) -- Related Zkittlez x Gelato cross; similar candy-like character
+- [Runtz](/strains/indica/runtz) -- Related Zkittlez x Gelato cross; similar candy-like character
 
 ---
 

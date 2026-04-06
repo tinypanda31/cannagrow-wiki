@@ -58,14 +58,14 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 29 | [9 Pound Hammer](/strains/indica/9-pound-hammer) | Indica | 18-23 | <1 | Myrcene, Caryophyllene | Heavy sedation, pain relief | Nighttime, sleep | Easy | 50-55 days |
 | 30 | [Black Domina](/strains/indica/black-domina) | Indica | 14-18 | <1 | Myrcene, Pinene | Deep relaxation, calm | Evening, stress | Easy | 45-55 days |
 | 31 | [Death Star](/strains/indica/death-star) | Indica-Dominant | 18-23 | <1 | Myrcene, Caryophyllene | Potent body high, euphoria | Evening, relaxation | Moderate | 55-65 days |
-| 32 | [God's Gift](/strains/indica/gods-gift) | Indica | 20-27 | <1 | Myrcene, Caryophyllene | Heavy sedation, euphoria | Nighttime, pain relief | Moderate | 60-65 days |
+| 32 | [God's Gift](/strains/indica/god-s-gift) | Indica | 20-27 | <1 | Myrcene, Caryophyllene | Heavy sedation, euphoria | Nighttime, pain relief | Moderate | 60-65 days |
 | 33 | [Golden God](/strains/indica/golden-god) | Indica | 16-20 | <1 | Myrcene, Humulene | Calming, grounding | Evening, meditation | Easy | 50-55 days |
 | 34 | [Ice Cream Cake](/strains/indica/ice-cream-cake) | Indica-Dominant | 20-25 | <1 | Caryophyllene, Myrcene, Limonene | Relaxing, euphoric, sweet | Evening, dessert-like flavor | Moderate | 55-65 days |
 | 35 | [Kosher Kush](/strains/indica/kosher-kush) | Indica | 20-25 | <1 | Myrcene, Caryophyllene | Heavy body high, happy | Evening, stress relief | Moderate | 60-65 days |
 | 36 | [Master Kush](/strains/indica/master-kush) | Indica | 16-20 | <1 | Myrcene, Caryophyllene | Full-body relaxation, earthy | Evening, classic indica | Easy | 50-55 days |
 | 37 | [Purple Punch](/strains/indica/purple-punch) | Indica-Dominant | 18-20 | <1 | Myrcene, Caryophyllene, Linalool | Sedating, sweet grape flavor | Nighttime, sleep | Moderate | 55-65 days |
 | 38 | [Runtz](/strains/indica/runtz) | Indica-Dominant | 19-24 | <1 | Caryophyllene, Limonene, Linalool | Euphoric, balanced, fruity | Evening, mood elevation | Difficult | 60-70 days |
-| 39 | [Sherbert](/strains/indica/sherbert) | Indica-Dominant | 15-19 | <1 | Caryophyllene, Myrcene, Linalool | Relaxing, creative, sweet | Evening, flavor enjoyment | Moderate | 55-65 days |
+| 39 | [Sherbert](/strains/indica/sherbet) | Indica-Dominant | 15-19 | <1 | Caryophyllene, Myrcene, Linalool | Relaxing, creative, sweet | Evening, flavor enjoyment | Moderate | 55-65 days |
 | 40 | [Tahoe OG](/strains/indica/tahoe-og) | Indica-Dominant | 18-25 | <1 | Myrcene, Limonene, Caryophyllene | Potent relaxation, lemon-earthy | Evening, experienced users | Moderate | 55-65 days |
 | 41 | [The White](/strains/indica/the-white) | Indica-Dominant | 18-22 | <1 | Caryophyllene, Myrcene, Limonene | Calming, resinous, euphoric | Evening, concentrate production | Difficult | 60-70 days |
 | 42 | [Trinity](/strains/indica/trinity) | Indica | 17-21 | <1 | Myrcene, Humulene, Caryophyllene | Deep relaxation, earthy | Nighttime, pain relief | Moderate | 55-60 days |
@@ -93,7 +93,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 64 | [Fire OG Kush](/strains/hybrid/fire-og-kush) | Indica-Dominant | 20-25 | <1 | Myrcene, Limonene, Caryophyllene | Potent, relaxing, classic OG | Evening, experienced users | Difficult | 60-70 days |
 | 65 | [Headband](/strains/hybrid/headband) | Hybrid | 17-24 | <1 | Caryophyllene, Myrcene, Limonene | Pressure-relief, balanced, smooth | Daytime-to-evening | Moderate | 55-65 days |
 | 66 | [Lemon Haze](/strains/hybrid/lemon-haze) | Sativa-Dominant | 15-22 | <1 | Limonene, Caryophyllene, Terpinolene | Uplifting, citrus, energetic | Daytime, mood elevation | Moderate | 55-65 days |
-| 67 | [Mimosa](/strains/hybrid/mimosa) | Sativa-Dominant | 18-24 | <1 | Caryophyllene, Myrcene, Pinene | Euphoric, citrus, social | Daytime, social activity | Moderate | 55-65 days |
+| 67 | [Mimosa](/strains/hybrid/mimosa-eva) | Sativa-Dominant | 18-24 | <1 | Caryophyllene, Myrcene, Pinene | Euphoric, citrus, social | Daytime, social activity | Moderate | 55-65 days |
 | 68 | [Orange Crush](/strains/hybrid/orange-crush) | Sativa-Dominant | 15-20 | <1 | Limonene, Myrcene, Caryophyllene | Bright, citrus, uplifting | Daytime, citrus flavor | Easy | 55-65 days |
 | 69 | [Platinum Cookies](/strains/hybrid/platinum-cookies) | Indica-Dominant | 17-24 | <1 | Caryophyllene, Myrcene, Limonene | Relaxing, sweet, classic | Evening, dessert-like | Moderate | 55-65 days |
 | 70 | [SFV OG](/strains/hybrid/sfv-og) | Indica-Dominant | 18-22 | <1 | Myrcene, Limonene, Caryophyllene | Potent, earthy, OG classic | Evening, relaxation | Difficult | 60-65 days |
@@ -105,7 +105,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 76 | [Frankenstein](/strains/indica/frankenstein) | Indica | 16-20 | <1 | Myrcene, Pinene, Caryophyllene | Heavy, earthy, sedating | Nighttime, sleep | Easy | 45-55 days |
 | 77 | [Grease Monkey](/strains/indica/grease-monkey) | Indica-Dominant | 20-26 | <1 | Myrcene, Limonene, Caryophyllene | Potent, gassy, relaxing | Evening, experienced users | Moderate | 55-65 days |
 | 78 | [Johnny Silver](/strains/indica/johnny-silver) | Indica | 17-22 | <1 | Caryophyllene, Myrcene, Linalool | Calming, resinous, smooth | Evening, concentrate production | Moderate | 55-60 days |
-| 79 | [Mendo Purp](/strains/indica/mendo-purp) | Indica | 16-21 | <1 | Myrcene, Caryophyllene, Linalool | Deep relaxation, grape, sweet | Nighttime, flavor | Moderate | 55-65 days |
+| 79 | [Mendo Purp](/strains/indica/mendo-purge) | Indica | 16-21 | <1 | Myrcene, Caryophyllene, Linalool | Deep relaxation, grape, sweet | Nighttime, flavor | Moderate | 55-65 days |
 | 80 | [Orange Kush](/strains/indica/orange-kush) | Indica | 18-23 | <1 | Limonene, Myrcene, Caryophyllene | Citrus, relaxing, euphoric | Evening, mood elevation | Moderate | 55-65 days |
 | 81 | [Pink Kush](/strains/indica/pink-kush) | Indica | 20-26 | <1 | Myrcene, Caryophyllene, Linalool | Potent body high, sweet floral | Nighttime, experienced users | Difficult | 60-70 days |
 | 82 | [Rocket Fuel](/strains/indica/rocket-fuel) | Indica | 22-28 | <1 | Caryophyllene, Myrcene, Limonene | Intense, gassy, heavy | Experienced users, evening | Difficult | 60-70 days |
@@ -140,14 +140,14 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 111 | [Hawaiian Snow](/strains/hybrid/hawaiian-snow) | Sativa-Dominant | 18-24 | <1 | Terpinolene, Pinene, Caryophyllene | Tropical, cerebral, energetic | Daytime, productivity | Difficult | 70-85 days |
 | 112 | [King's Custody](/strains/hybrid/kings-custody) | Indica-Dominant | 19-25 | <1 | Myrcene, Caryophyllene, Linalool | Heavy, regal, sedating | Evening, experienced users | Moderate | 60-70 days |
 | 113 | [Marionberry](/strains/hybrid/marionberry) | Indica-Dominant | 17-22 | <1 | Myrcene, Linalool, Caryophyllene | Berry, relaxing, smooth | Evening, flavor | Moderate | 55-65 days |
-| 114 | [Northern Lights #5](/strains/hybrid/northern-lights-5) | Indica-Dominant | 16-22 | <1 | Myrcene, Caryophyllene | Classic indica, deep relaxation | Evening, breeding | Easy | 45-55 days |
+| 114 | [Northern Lights #5](/strains/hybrid/northen-lights-5) | Indica-Dominant | 16-22 | <1 | Myrcene, Caryophyllene | Classic indica, deep relaxation | Evening, breeding | Easy | 45-55 days |
 | 115 | [Pennywise](/strains/hybrid/pennywise) | Hybrid | 8-15 | 8-15 | Myrcene, Caryophyllene, Pinene | Balanced, therapeutic, mild | Medical, daytime-to-evening | Easy | 55-65 days |
 | 116 | [Sage](/strains/hybrid/sage) | Sativa-Dominant | 17-23 | <1 | Caryophyllene, Pinene, Limonene | Earthy, focused, uplifting | Daytime, creative work | Moderate | 60-70 days |
 | 117 | [Tangie Sherbert](/strains/hybrid/tangie-sherbert) | Hybrid | 18-24 | <1 | Limonene, Caryophyllene, Myrcene | Citrus, sweet, balanced | Daytime-to-evening, flavor | Moderate | 55-65 days |
 | 118 | [Yeti](/strains/hybrid/yeti) | Indica-Dominant | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | Potent, frosty, heavy body | Evening, resin production | Difficult | 60-70 days |
 | 119 | [Alaskan Purple](/strains/indica/alaskan-purple) | Indica | 18-23 | <1 | Myrcene, Caryophyllene, Linalool | Deep relaxation, earthy-sweet | Nighttime, stress relief | Moderate | 55-65 days |
 | 120 | [Animal Mints](/strains/indica/animal-mints) | Indica | 25-32 | <1 | Caryophyllene, Myrcene, Limonene | Potent body high, calming | Evening, experienced users | Difficult | 60-70 days |
-| 121 | [Blue Dream x OG](/strains/indica/blue-dream-og) | Indica-Dominant | 18-24 | <1 | Myrcene, Caryophyllene, Limonene | Balanced relaxation, euphoric | Evening, stress relief | Moderate | 55-65 days |
+| 121 | [Blue Dream x OG](/strains/indica/blue-dream-x-og) | Indica-Dominant | 18-24 | <1 | Myrcene, Caryophyllene, Limonene | Balanced relaxation, euphoric | Evening, stress relief | Moderate | 55-65 days |
 | 122 | [Biscotti](/strains/indica/biscotti) | Indica | 20-25 | <1 | Caryophyllene, Limonene, Linalool | Sweet, relaxing, euphoric | Evening, flavor enjoyment | Moderate | 55-65 days |
 | 123 | [Cookies and Cream](/strains/indica/cookies-and-cream) | Indica | 18-23 | <1 | Caryophyllene, Myrcene, Limonene | Mellow, sweet, balanced | Evening, dessert-like | Easy | 55-60 days |
 | 124 | [Face Off OG](/strains/indica/face-off-og) | Indica | 18-24 | <1 | Myrcene, Caryophyllene, Limonene | Heavy body high, OG classic | Evening, experienced users | Moderate | 55-65 days |
@@ -163,7 +163,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 134 | [AK-47](/strains/sativa/ak-47) | Sativa | 15-20 | <1 | Caryophyllene, Myrcene, Pinene | Uplifting, creative, mellow | Daytime, productivity | Easy | 55-65 days |
 | 135 | [Amherst](/strains/sativa/amherst) | Sativa | 16-22 | <1 | Terpinolene, Caryophyllene, Pinene | Clear-headed, focused, smooth | Daytime, creative work | Moderate | 60-70 days |
 | 136 | [Banana OG](/strains/sativa/banana-og) | Sativa | 18-24 | <1 | Myrcene, Caryophyllene, Limonene | Tropical, uplifting, relaxing | Daytime-to-evening | Moderate | 55-65 days |
-| 137 | [Bubba Kush x Haze](/strains/sativa/bubba-kush-haze) | Sativa-Dominant | 16-22 | <1 | Myrcene, Terpinolene, Caryophyllene | Balanced, earthy, cerebral | Daytime-to-evening | Moderate | 60-70 days |
+| 137 | [Bubba Kush x Haze](/strains/sativa/bubba-kush-x-haze) | Sativa-Dominant | 16-22 | <1 | Myrcene, Terpinolene, Caryophyllene | Balanced, earthy, cerebral | Daytime-to-evening | Moderate | 60-70 days |
 | 138 | [Casey Jones](/strains/sativa/casey-jones) | Sativa | 18-24 | <1 | Terpinolene, Caryophyllene, Pinene | Energetic, focused, uplifting | Daytime, productivity | Moderate | 60-70 days |
 | 139 | [Durban Venom](/strains/sativa/durban-venom) | Sativa | 17-23 | <1 | Terpinolene, Caryophyllene, Ocimene | Pure energy, creative, classic | Daytime, landrace heritage | Moderate | 65-75 days |
 | 140 | [Green Crush](/strains/sativa/green-crush) | Sativa | 16-22 | <1 | Myrcene, Caryophyllene, Pinene | Energetic, focused, bright | Daytime, active use | Easy | 55-65 days |
@@ -189,7 +189,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 160 | [Runtz Muffin](/strains/hybrid/runtz-muffin) | Hybrid | 19-25 | <1 | Caryophyllene, Limonene, Linalool | Fruity, euphoric, balanced | Evening, flavor, mood | Difficult | 60-70 days |
 | 161 | [Sour Apple](/strains/hybrid/sour-apple) | Sativa-Dominant | 17-23 | <1 | Limonene, Caryophyllene, Myrcene | Tart, energetic, uplifting | Daytime, citrus flavor | Moderate | 55-65 days |
 | 162 | [Strawberry Banana](/strains/hybrid/strawberry-banana) | Hybrid | 18-26 | <1 | Myrcene, Caryophyllene, Linalool | Berry, relaxing, sweet | Evening, flavor enjoyment | Moderate | 55-65 days |
-| 163 | [Tahoe OG x Sour Diesel](/strains/hybrid/tahoe-og-sour-diesel) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | OG-diesel, balanced, potent | Daytime-to-evening | Difficult | 60-70 days |
+| 163 | [Tahoe OG x Sour Diesel](/strains/hybrid/tahoe-og-x-sour-diesel) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | OG-diesel, balanced, potent | Daytime-to-evening | Difficult | 60-70 days |
 | 164 | [Marker](/strains/indica/marker) | Indica | 18-24 | <1 | Myrcene, Caryophyllene, Limonene | Deep relaxation, gassy, earthy | Nighttime, stress relief | Moderate | 55-65 days |
 | 165 | [Toad Breath](/strains/indica/toad-breath) | Indica | 19-25 | <1 | Myrcene, Caryophyllene, Linalool | Heavy body high, sedating | Evening, sleep | Moderate | 60-70 days |
 | 166 | [Toad Cookies](/strains/indica/toad-cookies) | Indica | 20-26 | <1 | Caryophyllene, Myrcene, Linalool | Potent, sweet, relaxing | Evening, experienced users | Difficult | 60-70 days |
@@ -198,12 +198,12 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 169 | [Black Diamond](/strains/indica/black-diamond) | Indica | 20-26 | <1 | Myrcene, Caryophyllene, Linalool | Potent body high, luxurious | Nighttime, experienced users | Difficult | 60-70 days |
 | 170 | [Cherry Gas](/strains/indica/cherry-gas) | Indica | 21-27 | <1 | Caryophyllene, Myrcene, Limonene | Gassy, sweet cherry, sedating | Evening, heavy relaxation | Moderate | 55-65 days |
 | 171 | [Cosmic Collapse](/strains/indica/cosmic-collapse) | Indica | 22-28 | <1 | Myrcene, Caryophyllene, Limonene | Intense, heavy, spacey | Nighttime, experienced users | Difficult | 60-70 days |
-| 172 | [Garlic Cookies](/strains/indica/garlic-cookies) | Indica | 19-25 | <1 | Caryophyllene, Myrcene, Limonene | Pungent, relaxing, savory | Evening, unique flavor | Moderate | 55-65 days |
+| 172 | [Garlic Cookies](/strains/indica/garlic-cookie) | Indica | 19-25 | <1 | Caryophyllene, Myrcene, Limonene | Pungent, relaxing, savory | Evening, unique flavor | Moderate | 55-65 days |
 | 173 | [Humboldt Frost](/strains/indica/humboldt-frost) | Indica | 20-26 | <1 | Myrcene, Caryophyllene, Linalool | Frosty, potent, calming | Evening, resin production | Difficult | 60-70 days |
 | 174 | [Magic Melon](/strains/indica/magic-melon) | Indica | 16-22 | <1 | Myrcene, Linalool, Caryophyllene | Sweet, mellow, fruity | Evening, dessert-like | Easy | 55-60 days |
 | 175 | [Mendo Moon Rock](/strains/indica/mendo-moon-rock) | Indica | 24-30 | <1 | Caryophyllene, Myrcene, Limonene | Ultra-potent, heavy, concentrated | Nighttime, extraction | Difficult | 60-70 days |
 | 176 | [Purple Mango](/strains/indica/purple-mango) | Indica | 17-23 | <1 | Myrcene, Caryophyllene, Linalool | Tropical, relaxing, colorful | Evening, flavor enjoyment | Moderate | 55-65 days |
-| 177 | [Snowlander](/strains/indica/snowlander) | Indica | 15-21 | <1 | Myrcene, Pinene, Caryophyllene | Calming, pine, cold-climate hardy | Evening, northern grows | Easy | 50-60 days |
+| 177 | [Snowlander](/strains/indica/snow-lander) | Indica | 15-21 | <1 | Myrcene, Pinene, Caryophyllene | Calming, pine, cold-climate hardy | Evening, northern grows | Easy | 50-60 days |
 | 178 | [Toad Stool](/strains/indica/toad-stool) | Indica | 20-26 | <1 | Myrcene, Caryophyllene, Linalool | Trippy, sedating, earthy | Nighttime, heavy relaxation | Moderate | 55-65 days |
 | 179 | [Blue Velvet](/strains/sativa/blue-velvet) | Sativa | 16-22 | <1 | Myrcene, Caryophyllene, Linalool | Smooth, uplifting, creative | Daytime, mood elevation | Moderate | 60-70 days |
 | 180 | [Chocolope](/strains/sativa/chocolope) | Sativa | 18-24 | <1 | Caryophyllene, Terpinolene, Myrcene | Chocolate, energetic, classic | Daytime, productivity | Moderate | 60-70 days |
@@ -213,7 +213,7 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 184 | [LA Confidential Haze](/strains/sativa/la-confidential-haze) | Sativa | 18-24 | <1 | Terpinolene, Caryophyllene, Myrcene | Smooth haze, cerebral, focused | Daytime, creative work | Moderate | 65-75 days |
 | 185 | [Lemon Iced Tea](/strains/sativa/lemon-iced-tea) | Sativa | 17-23 | <1 | Limonene, Caryophyllene, Myrcene | Refreshing, citrus, bright | Daytime, summer vibes | Easy | 55-65 days |
 | 186 | [Luigi Haze](/strains/sativa/luigi-haze) | Sativa | 19-25 | <1 | Terpinolene, Caryophyllene, Pinene | Intense, creative, energetic | Daytime, experienced users | Difficult | 70-80 days |
-| 187 | [Northern Lights #5 x Haze](/strains/sativa/northern-lights-5-haze) | Sativa-Dominant | 17-23 | <1 | Terpinolene, Myrcene, Caryophyllene | Balanced, classic, cerebral | Daytime, heritage genetics | Moderate | 60-70 days |
+| 187 | [Northern Lights #5 x Haze](/strains/sativa/northern-lights-haze) | Sativa-Dominant | 17-23 | <1 | Terpinolene, Myrcene, Caryophyllene | Balanced, classic, cerebral | Daytime, heritage genetics | Moderate | 60-70 days |
 | 188 | [OG Skunk](/strains/sativa/og-skunk) | Sativa | 16-22 | <1 | Myrcene, Caryophyllene, Limonene | Pungent, energetic, classic | Daytime, OG heritage | Easy | 55-65 days |
 | 189 | [Purple Train Wreck](/strains/sativa/purple-train-wreck) | Sativa | 18-24 | <1 | Terpinolene, Myrcene, Caryophyllene | Fast-acting, colorful, potent | Daytime, experienced users | Difficult | 65-75 days |
 | 190 | [Silver Pearl](/strains/sativa/silver-pearl) | Sativa | 15-21 | <1 | Caryophyllene, Myrcene, Pinene | Smooth, bright, elegant | Daytime, refined experience | Moderate | 60-70 days |

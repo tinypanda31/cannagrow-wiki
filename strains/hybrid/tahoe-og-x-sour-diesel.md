@@ -126,7 +126,7 @@ Tahoe OG x Sour Diesel is a moderately manageable strain that benefits from the 
 
 ## Similar Strains
 
-- [Tahoe OG](/strains/hybrid/tahoe-og) -- Parent lineage; fuel-pine OG Kush phenotype
+- [Tahoe OG](/strains/indica/tahoe-og) -- Parent lineage; fuel-pine OG Kush phenotype
 - [Sour Diesel](/strains/sativa/sour-diesel) -- Parent lineage; iconic fuel-diesel sativa
 - [SFV OG](/strains/hybrid/sfv-og) -- Related OG Kush phenotype with similar fuel-pine character
 - [Headband](/strains/hybrid/headband) -- Comparable hybrid with OG genetics and fuel character

@@ -129,7 +129,7 @@ CBD Critical Mass is one of the easier high-CBD strains to grow, benefiting from
 - [Pennywise](/strains/hybrid/pennywise) -- Comparable high-CBD balanced ratio cultivar
 - [Cannatonic](/strains/hybrid/cannatonic) -- Similar balanced CBD:THC therapeutic strain
 - [Harlequin](/strains/sativa/harlequin) -- Well-known high-CBD strain with clear-headed effects
-- [Critical Mass](/strains/indica/critical-mass) -- Parent lineage; original genetics
+- [Critical Mass](/strains/hybrid/cbd-critical-mass) -- Parent lineage; original genetics
 
 ---
 

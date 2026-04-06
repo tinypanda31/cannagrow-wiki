@@ -126,7 +126,7 @@ Kush Mints benefits from attentive growing practices typical of Kush and Mints g
 
 ## Similar Strains
 
-- [Mints](/strains/hybrid/mints) -- Direct parent lineage with similar mint and fuel character
+- [Mints](/strains/hybrid/kush-mints) -- Direct parent lineage with similar mint and fuel character
 - [Marker](/strains/indica/marker) -- Mints parent lineage with comparable fuel and earthy profile
 - [Animal Mints](/strains/indica/animal-mints) -- Related Mints cross with similar body-heavy effects
 - [Kush Mints](/strains/hybrid/kush-mints) -- Same strain; reference for related Kush crosses

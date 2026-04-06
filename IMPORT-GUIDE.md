@@ -371,4 +371,4 @@ Common issues:
 
 ---
 
-*For questions or issues, refer to the [Wiki.js Documentation](https://docs.requarks.io) or the CannaGrow [[about|About]] page.*
+*For questions or issues, refer to the [Wiki.js Documentation](https://docs.requarks.io) or the CannaGrow [[About CannaGrow](/about/about)] page.*

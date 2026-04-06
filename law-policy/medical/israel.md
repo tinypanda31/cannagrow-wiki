@@ -28,14 +28,14 @@ Israel's position is paradoxical: a **scientific pioneer** with relatively progr
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/law-policy/medical/australia]] | Cannabis law in Australia — medical access challenges |
-| [[/law-policy/medical/united-kingdom]] | Cannabis law in the United Kingdom — strict medical access |
-| [[/law-policy/medical/colombia]] | Cannabis law in Colombia — export-oriented medical framework |
-| [[/science/cannabinoids]] | Cannabinoid science — THC, CBD, and the endocannabinoid system |
-| [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/glossary/index]] | Cannabis terminology and definitions |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Australia](/law-policy/medical/australia) | Cannabis law in Australia — medical access challenges |
+| [United Kingdom](/law-policy/medical/united-kingdom) | Cannabis law in the United Kingdom — strict medical access |
+| [Colombia](/law-policy/medical/colombia) | Cannabis law in Colombia — export-oriented medical framework |
+| [Cannabinoids](/science/cannabinoids) | Cannabinoid science — THC, CBD, and the endocannabinoid system |
+| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
 
 ---
 

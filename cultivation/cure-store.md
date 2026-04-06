@@ -253,6 +253,8 @@ Long-term storage preparation:
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete indoor grow with jar curing methods, humidity targets, and long-term storage
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete outdoor grow with post-harvest processing and curing for sun-grown flower
 - **[Harvesting & Drying](/cultivation/harvest-dry)** -- The step before curing; proper drying is essential for successful curing
 - **[Cannabinoids](/science/cannabinoids)** -- How storage affects THC, CBD, CBN, and other compounds over time
 - **[Terpenes](/science/terpenes)** -- Terpene preservation during curing and storage

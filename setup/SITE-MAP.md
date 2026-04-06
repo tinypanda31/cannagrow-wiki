@@ -27,12 +27,22 @@
 | 14 | Environmental Control | `/cultivation/indoor/environment` | Cultivation |
 | 15 | Hydroponics | `/cultivation/indoor/hydroponics` | Cultivation |
 | 16 | Outdoor Growing | `/cultivation/outdoor` | Cultivation |
-| 17 | Greenhouse Cultivation | `/cultivation/greenhouse` | Cultivation |
-| 18 | Nutrients & Feeding | `/cultivation/nutrients` | Cultivation |
-| 19 | Plant Training Techniques | `/cultivation/training` | Cultivation |
-| 20 | Pest & Disease Management | `/cultivation/pests-diseases` | Cultivation |
-| 21 | Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
-| 22 | Curing & Storage | `/cultivation/cure-store` | Cultivation |
+| 17 | Outdoor Grow Guide | `/cultivation/outdoor/grow-guide` | Cultivation |
+| 18 | Zone 1 Outdoor Guide | `/cultivation/outdoor/zone-1` | Cultivation |
+| 19 | Zone 2 Outdoor Guide | `/cultivation/outdoor/zone-2` | Cultivation |
+| 20 | Zone 3 Outdoor Guide | `/cultivation/outdoor/zone-3` | Cultivation |
+| 21 | Zone 4 Outdoor Guide | `/cultivation/outdoor/zone-4` | Cultivation |
+| 22 | Zone 5 Outdoor Guide | `/cultivation/outdoor/zone-5` | Cultivation |
+| 23 | Zone 6 Outdoor Guide | `/cultivation/outdoor/zone-6` | Cultivation |
+| 24 | Zone 7 Outdoor Guide | `/cultivation/outdoor/zone-7` | Cultivation |
+| 25 | Zone 8 Outdoor Guide | `/cultivation/outdoor/zone-8` | Cultivation |
+| 26 | Zone 9 Outdoor Guide | `/cultivation/outdoor/zone-9` | Cultivation |
+| 27 | Greenhouse Cultivation | `/cultivation/greenhouse` | Cultivation |
+| 28 | Nutrients & Feeding | `/cultivation/nutrients` | Cultivation |
+| 29 | Plant Training Techniques | `/cultivation/training` | Cultivation |
+| 30 | Pest & Disease Management | `/cultivation/pests-diseases` | Cultivation |
+| 31 | Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
+| 32 | Curing & Storage | `/cultivation/cure-store` | Cultivation |
 
 ## Genetics & Breeding
 | # | Page Title | Path | Category |
@@ -349,7 +359,7 @@
 
 ---
 
-**Total Pages: 285**
+**Total Pages: 295**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

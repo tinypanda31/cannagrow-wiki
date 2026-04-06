@@ -1038,7 +1038,7 @@ A common misconception among new cannabis consumers is that **THC percentage is 
 
 > **Key takeaway:** When choosing a strain, look at the **terpene and cannabinoid profile**, not the indica/sativa label. A lab-tested product with detailed terpene data will tell you far more about the expected experience than any categorical label.
 
-For a deeper dive into this and other cannabis myths, see [[/science/bro-science]].
+For a deeper dive into this and other cannabis myths, see [Bro Science](/science/bro-science).
 
 ---
 

@@ -26,13 +26,13 @@ The law was championed by then-Parliamentary Secretary for the Rights of Persons
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/law-policy/full-legalization/germany]] | Cannabis law in Germany — the largest EU economy to legalize |
-| [[/law-policy/full-legalization/luxembourg]] | Cannabis law in Luxembourg — home cultivation legalization |
-| [[/law-policy/full-legalization/uruguay]] | Cannabis law in Uruguay — the social club model pioneer |
-| [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/glossary/index]] | Cannabis terminology and definitions |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Germany](/law-policy/full-legalization/germany) | Cannabis law in Germany — the largest EU economy to legalize |
+| [Luxembourg](/law-policy/full-legalization/luxembourg) | Cannabis law in Luxembourg — home cultivation legalization |
+| [Uruguay](/law-policy/full-legalization/uruguay) | Cannabis law in Uruguay — the social club model pioneer |
+| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
 
 ---
 

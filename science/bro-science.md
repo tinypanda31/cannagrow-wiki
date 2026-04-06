@@ -8,7 +8,7 @@ tags: science, myths, debunking, indica, sativa, brain-cells, addiction, edibles
 
 ![Cannabis science research](/uploads/images/science/bro-science.jpg)
 
-**ℹ️ **Path:** `/science/bro-science` | **Category:** Cannabis Science | **Related:** [[/science/cannabinoids]], [[/science/terpenes]], [[/glossary/index]]**
+**ℹ️ **Path:** `/science/bro-science` | **Category:** Cannabis Science | **Related:** [Cannabinoids](/science/cannabinoids), [Terpenes](/science/terpenes), [Glossary](/glossary/index)**
 
 ---
 
@@ -106,7 +106,7 @@ Recent consumer studies have further confirmed that chemotype is a better predic
 
 This myth persists because it is simple, intuitive, and convenient. "I want an indica for sleep" is easier than "I want a product with high myrcene, moderate THC, and some CBD." The dispensary industry perpetuates it because it provides a simple taxonomy for products that are, in reality, chemically complex and individually variable. But as the industry matures and consumers become more educated, there is a growing movement toward chemotype-based labeling — organizing products by their actual chemical profiles rather than outdated botanical categories.
 
-For readers interested in the science of how terpenes shape cannabis effects, see [[/science/terpenes]]. For the genetics behind strain classification, see [[/genetics/basics]].
+For readers interested in the science of how terpenes shape cannabis effects, see [Terpenes](/science/terpenes). For the genetics behind strain classification, see [Basics](/genetics/basics).
 
 **ℹ️ Info**
 **Key Takeaway:** Indica and sativa are botanical classifications based on plant structure, not effect predictors; cannabinoid and terpene profiles (chemotype) determine how cannabis feels, not subspecies labels.
@@ -139,7 +139,7 @@ These withdrawal symptoms typically peak within the first week of cessation and 
 
 It is crucial to maintain appropriate perspective here. Cannabis is *less addictive* than many legal substances (alcohol, nicotine, prescription opioids). The majority of cannabis users do not develop dependence. And the severity of cannabis withdrawal, while real, is generally manageable compared to withdrawal from substances like alcohol or benzodiazepines (which can be fatal without medical supervision). However, acknowledging these facts does not require claiming that cannabis dependence is impossible. Honest advocacy for cannabis normalization and legalization is better served by accurate representations of risk than by denial.
 
-For more information on responsible cannabis use and risk reduction, see [[/legal-safety/harm-reduction]].
+For more information on responsible cannabis use and risk reduction, see [Harm Reduction](/legal-safety/harm-reduction).
 
 **ℹ️ Info**
 **Key Takeaway:** Cannabis dependence is real — approximately 9-10% of users develop Cannabis Use Disorder, with higher rates among daily users; while less addictive than many substances, "completely non-addictive" is scientifically inaccurate.
@@ -176,7 +176,7 @@ Additionally, there are indirect ways in which cannabis overconsumption can cont
 
 The responsible way to frame this information is: cannabis has an exceptionally high safety margin regarding fatal overdose — higher than almost any other psychoactive substance. However, consuming too much cannabis can produce acute effects that are unpleasant, distressing, and occasionally medically significant. Responsible dosing, particularly with edibles, remains important.
 
-For more on responsible consumption practices, see [[/legal-safety/responsible-use]].
+For more on responsible consumption practices, see [Responsible Use](/legal-safety/responsible-use).
 
 **ℹ️ Info**
 **Key Takeaway:** No fatal cannabis overdoses have ever been documented, but acute overconsumption ("greening out") can cause severe distress and occasionally requires medical attention — responsible dosing still matters.
@@ -207,7 +207,7 @@ Additional important nuances:
 - **Dabbing** (inhaling concentrated cannabis extracts) can produce far more intense *acute* effects than any edible simply due to the sheer dose delivered in a single inhalation. A single dab can deliver 50-90 mg of THC in seconds — a dose that would require consuming multiple standard edibles to match. The acute intensity of a dab can exceed the peak intensity of an edible, even if the edible's effects last longer.
 - **Individual variation** in liver enzyme activity (particularly CYP2C9 polymorphisms) means that different people convert THC to 11-hydroxy-THC at different rates, making edibles disproportionately more intense for some users than others.
 
-For detailed information on edible consumption, see [[/consumption/edibles/index]]. For the science of cannabinoid metabolism, see [[/science/cannabinoids]].
+For detailed information on edible consumption, see [Edibles](/consumption/edibles/index). For the science of cannabinoid metabolism, see [Cannabinoids](/science/cannabinoids).
 
 **ℹ️ Info**
 **Key Takeaway:** Edibles produce more intense experiences per absorbed milligram due to 11-hydroxy-THC conversion, but total bioavailability is lower than inhalation — "stronger" depends on how you measure it.
@@ -235,7 +235,7 @@ So why do some growers swear by flushing? There are several possible explanation
 
 **Practical recommendation:** A short flush period (3-7 days) is unlikely to harm your plants and may provide some benefit in terms of reducing salt buildup in the medium. However, flushing should not be relied upon as a substitute for proper nutrient management throughout the grow. Getting your nutrient levels right during the entire cultivation cycle is far more important than any last-week intervention. And if you want better-tasting cannabis, invest your effort in mastering the post-harvest drying and curing process — that is where the science clearly shows flavor improvements occur.
 
-For more on cannabis nutrient management, see [[/cultivation/nutrients/index]]. For proper curing techniques, see [[/cultivation/cure-store]].
+For more on cannabis nutrient management, see [Nutrients](/cultivation/nutrients/index). For proper curing techniques, see [Cure Store](/cultivation/cure-store).
 
 **ℹ️ Info**
 **Key Takeaway:** Scientific studies show flushing has minimal impact on nutrient content or flavor; proper drying and curing after harvest is the proven method for improving taste and smoothness.
@@ -295,7 +295,7 @@ When these cannabinoids are properly extracted, purified, and third-party tested
 
 Hemp also has enormous value beyond cannabinoids: industrial fiber for textiles and construction (hempcrete), food-grade seeds and seed oil, phytoremediation applications, and paper production. Dismissing hemp as "useless" ignores its role as one of the most versatile agricultural crops known to humanity.
 
-For information on cannabinoid science, see [[/science/cannabinoids]]. For the history of cannabis legalization, see [[/history/modern-legalization]].
+For information on cannabinoid science, see [Cannabinoids](/science/cannabinoids). For the history of cannabis legalization, see [Modern Legalization](/history/modern-legalization).
 
 **ℹ️ Info**
 **Key Takeaway:** Hemp is legally defined by its THC content (≤0.3%), not by CBD levels; it is the primary source for CBD, CBG, and hemp-derived cannabinoid products worth billions of dollars globally.
@@ -323,7 +323,7 @@ Individual factors also play an enormous role in how THC affects anxiety:
 
 The claim that THC "always" causes anxiety is contradicted by both the scientific literature and the lived experience of a substantial portion of cannabis consumers who use the plant specifically for anxiety management. The more accurate statement is: THC can either reduce or increase anxiety depending on dose, CBD content, individual biology, and context. Understanding these variables is essential for responsible and beneficial use.
 
-For more on cannabinoid science, see [[/science/cannabinoids]]. For guidance on responsible use, see [[/legal-safety/responsible-use]].
+For more on cannabinoid science, see [Cannabinoids](/science/cannabinoids). For guidance on responsible use, see [Responsible Use](/legal-safety/responsible-use).
 
 **ℹ️ Info**
 **Key Takeaway:** THC has a biphasic response to anxiety — low doses can reduce it, high doses can increase it — and CBD significantly modulates THC's anxiogenic potential through negative allosteric modulation of CB1 receptors.
@@ -368,7 +368,7 @@ It is important to be honest about this evidence landscape. Cannabis has **real,
 
 Exaggerating claims — particularly the assertion that cannabis "cures cancer" — is not only scientifically dishonest but actively harmful to patients who may delay or forego proven treatments in pursuit of unvalidated alternatives. Responsible cannabis advocacy embraces the real evidence rather than inflating it.
 
-For more on cannabinoid science and medical applications, see [[/science/cannabinoids]].
+For more on cannabinoid science and medical applications, see [Cannabinoids](/science/cannabinoids).
 
 **ℹ️ Info**
 **Key Takeaway:** Cannabis has legitimate, evidence-backed medical applications (chronic pain, nausea, epilepsy, MS spasticity) but is not a cure-all; exaggerated claims undermine patient trust and scientific credibility.
@@ -383,7 +383,7 @@ For more on cannabinoid science and medical applications, see [[/science/cannabi
 
 **Reality:** The dismissal of male cannabis plants is understandable in the context of commercial flower production, where males are genuinely undesirable because they pollinate female plants, causing them to produce seeds instead of the seedless, resin-rich flower (sinsemilla) that consumers want. However, concluding that males are "completely useless" because they are unwanted in one specific context is a significant overgeneralization that ignores the essential roles male plants play in several areas.
 
-**Breeding programs.** Every cannabis strain in existence is the product of male genetics. Breeding new cultivars with desirable traits — disease resistance, specific terpene profiles, novel cannabinoid ratios, improved yield, climate adaptation — requires selecting and crossing male and female parent plants. Male plants contribute half of the genetic material to every seed, and their genetic contribution is just as important as the female's in determining the characteristics of the offspring. Professional cannabis breeders spend years evaluating male plants for desirable traits before selecting them as breeding stock. Without males, there is no breeding, and without breeding, there is no genetic improvement or preservation of cannabis cultivars. For more on cannabis breeding, see [[/genetics/breeding]].
+**Breeding programs.** Every cannabis strain in existence is the product of male genetics. Breeding new cultivars with desirable traits — disease resistance, specific terpene profiles, novel cannabinoid ratios, improved yield, climate adaptation — requires selecting and crossing male and female parent plants. Male plants contribute half of the genetic material to every seed, and their genetic contribution is just as important as the female's in determining the characteristics of the offspring. Professional cannabis breeders spend years evaluating male plants for desirable traits before selecting them as breeding stock. Without males, there is no breeding, and without breeding, there is no genetic improvement or preservation of cannabis cultivars. For more on cannabis breeding, see [Breeding](/genetics/breeding).
 
 **Hemp fiber production.** In the hemp industry, male plants are actually *preferred* for fiber production. Male hemp plants produce a finer, softer, and more flexible fiber than females. This fiber is highly valued for textiles and high-quality paper production. Female hemp plants produce coarser fiber that is more suitable for industrial applications like rope and building materials, but the male fiber commands a higher price in the textile market.
 
@@ -408,7 +408,7 @@ The reflexive destruction of male plants makes sense in the narrow context of ma
 
 Several factors explain why higher THC does not automatically mean better cannabis:
 
-**Terpene profile matters enormously.** A 30% THC strain with a flat, uninteresting terpene profile will often provide a less enjoyable — and less therapeutically useful — experience than a 20% THC strain with a rich, complex, and well-balanced terpene composition. Terpenes do not just affect flavor and aroma; they actively shape the psychoactive and therapeutic effects of cannabis through pharmacological interactions with cannabinoids and with human biology (see [[/science/terpenes]] for a detailed exploration). The terpene profile determines whether a session feels vibrant and creative, calm and focused, or heavy and sedating — often more than the THC percentage does.
+**Terpene profile matters enormously.** A 30% THC strain with a flat, uninteresting terpene profile will often provide a less enjoyable — and less therapeutically useful — experience than a 20% THC strain with a rich, complex, and well-balanced terpene composition. Terpenes do not just affect flavor and aroma; they actively shape the psychoactive and therapeutic effects of cannabis through pharmacological interactions with cannabinoids and with human biology (see [Terpenes](/science/terpenes) for a detailed exploration). The terpene profile determines whether a session feels vibrant and creative, calm and focused, or heavy and sedating — often more than the THC percentage does.
 
 **The entourage effect.** The entourage effect is the theory that the full spectrum of cannabis compounds — cannabinoids, terpenes, and flavonoids — work synergistically to produce effects that are greater than the sum of their individual parts. While the entourage effect is still being rigorously studied and some aspects remain debated, there is growing evidence that balanced ratios of THC, CBD, CBG, CBN, and terpenes produce more nuanced and therapeutically useful effects than THC maximization alone. Many patients find that a 1:1 THC:CBD product provides better symptom relief with fewer side effects than a high-THC product.
 
@@ -420,7 +420,7 @@ Several factors explain why higher THC does not automatically mean better cannab
 
 The most informed approach to evaluating cannabis quality considers the **complete chemical profile**: THC percentage, CBD and minor cannabinoid content, terpene composition, cultivation quality, curing quality, freshness, and — most importantly — how the product actually makes the individual user feel. THC percentage is one data point among many, not the definitive measure of quality.
 
-For more on terpenes, see [[/science/terpenes]]. For cannabinoid science, see [[/science/cannabinoids]].
+For more on terpenes, see [Terpenes](/science/terpenes). For cannabinoid science, see [Cannabinoids](/science/cannabinoids).
 
 **ℹ️ Info**
 **Key Takeaway:** THC percentage is one factor among many; terpene diversity, minor cannabinoid ratios, cultivation quality, and individual preference often matter more than raw potency for overall experience quality.
@@ -476,7 +476,7 @@ Critical thinking is not the enemy of cannabis culture — it is its best defens
 
 The science of cannabis is still young. Every year brings new discoveries about the endocannabinoid system, new understanding of terpene pharmacology, and new clinical evidence for therapeutic applications. Some of the claims on this page may be refined or revised as that research progresses. That is not a weakness of science — it is its greatest strength.
 
-For readers who want to go deeper into the science of cannabis, explore the rest of our [[/science/index]] section, including detailed pages on [[/science/cannabinoids]] and [[/science/terpenes]]. For cultivation information, see [[/genetics/basics]], [[/genetics/breeding]], [[/cultivation/nutrients/index]], and [[/cultivation/cure-store]]. For consumption methods, see [[/consumption/edibles/index]]. For safety and responsibility, see [[/legal-safety/responsible-use]] and [[/legal-safety/harm-reduction]]. For definitions of technical terms, consult our [[/glossary/index]].
+For readers who want to go deeper into the science of cannabis, explore the rest of our [Science](/science/index) section, including detailed pages on [Cannabinoids](/science/cannabinoids) and [Terpenes](/science/terpenes). For cultivation information, see [Basics](/genetics/basics), [Breeding](/genetics/breeding), [Nutrients](/cultivation/nutrients/index), and [Cure Store](/cultivation/cure-store). For consumption methods, see [Edibles](/consumption/edibles/index). For safety and responsibility, see [Responsible Use](/legal-safety/responsible-use) and [Harm Reduction](/legal-safety/harm-reduction). For definitions of technical terms, consult our [Glossary](/glossary/index).
 
 **💡 Tip**
 

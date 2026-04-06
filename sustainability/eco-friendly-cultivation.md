@@ -6,8 +6,6 @@ tags: sustainability, organic, living-soil, energy-efficiency, water-conservatio
 
 # Eco-Friendly Cultivation Practices
 
-**ℹ️ **Path:** `/sustainability/eco-friendly-cultivation` | **Part of:** [[/sustainability/index]] | **Related:** [[/sustainability/environmental-impact]]**
-
 ---
 
 ## Introduction
@@ -90,7 +88,7 @@ Many experienced growers use a hybrid strategy that combines the soil-building b
 
 This hybrid model reduces total synthetic input by 50-80% while maintaining the ability to correct deficiencies quickly. It is one of the most pragmatic paths for growers transitioning from pure synthetic programs to more sustainable systems.
 
-For a deeper exploration of nutrient types, feeding schedules, and deficiency diagnosis, see [[/cultivation/nutrients/index]].
+For a deeper exploration of nutrient types, feeding schedules, and deficiency diagnosis, see [Nutrients](/cultivation/nutrients/index).
 
 ---
 
@@ -163,7 +161,7 @@ Cover crops are plants grown specifically to benefit the soil rather than for ha
 
 **Terminating cover crops:** Before transplanting cannabis, cover crops must be terminated. Methods include mowing and tilling under (if tilling is acceptable in your system), tarping (covering with black plastic to solarize), crimping (mechanical damage that kills the plants), or natural die-off (winter-killed species in cold climates). Allow 2-4 weeks for terminated cover crops to begin decomposing before transplanting.
 
-**ℹ️ **Hemp as a cover crop:** Industrial hemp (*Cannabis sativa* L. with <0.3% THC) makes an excellent cover crop for cannabis operations. Its deep taproot breaks up compaction, its biomass adds significant organic matter, and its genetic relationship to cannabis means it shares similar mycorrhizal associations. For breeding genetics and hemp cultivation details, see [[/genetics/breeding]].**
+**ℹ️ **Hemp as a cover crop:** Industrial hemp (*Cannabis sativa* L. with <0.3% THC) makes an excellent cover crop for cannabis operations. Its deep taproot breaks up compaction, its biomass adds significant organic matter, and its genetic relationship to cannabis means it shares similar mycorrhizal associations. For breeding genetics and hemp cultivation details, see [Breeding](/genetics/breeding).**
 
 ### Cost Comparison: Living Soil Investment
 
@@ -179,7 +177,7 @@ Cover crops are plants grown specifically to benefit the soil rather than for ha
 
 The living soil system costs more in Year 1 but becomes cheaper by Year 2-3 and continues declining as soil biology matures and self-sustains. By Year 5, many no-till living soil operations spend 40-60% less on nutrients than comparable synthetic programs, with the added benefits of improved terpene quality and elimination of flush water costs.
 
-For nutrient-specific guidance, see [[/cultivation/nutrients/index]]. For genetics and hemp cover cropping, see [[/genetics/breeding]].
+For nutrient-specific guidance, see [Nutrients](/cultivation/nutrients/index). For genetics and hemp cover cropping, see [Breeding](/genetics/breeding).
 
 ---
 
@@ -255,7 +253,7 @@ Vapor Pressure Deficit (VPD) is the difference between the actual water vapor pr
 | Solar PV installation | 30-100% grid electricity | 5-10 years (with incentives) |
 | Dehumidifier heat recapture | 5-15% heating energy | Immediate (behavior change) |
 
-For lighting-specific guidance, see [[/cultivation/indoor/lighting]]. For environmental control and VPD, see [[/cultivation/indoor/environment]].
+For lighting-specific guidance, see [Lighting](/cultivation/indoor/lighting). For environmental control and VPD, see [Environment](/cultivation/indoor/environment).
 
 ---
 
@@ -336,7 +334,7 @@ Dehumidifiers used in indoor cannabis cultivation produce condensate — water e
 | Mulching | 25-50% evaporation reduction | Outdoor, container | Very low | Replenishment each cycle |
 | Condensate recovery | 10-30% of total facility use | Indoor with dehumidifiers | Low (plumbing modifications) | Water quality testing, mineral addition |
 
-For hydroponic system details, see [[/cultivation/indoor/hydroponics]]. For outdoor cultivation methods, see [[/cultivation/outdoor/index]].
+For hydroponic system details, see [Hydroponics](/cultivation/indoor/hydroponics). For outdoor cultivation methods, see [Outdoor](/cultivation/outdoor/index).
 
 ---
 
@@ -396,7 +394,7 @@ The **Sun+Earth Certified** program (developed by the Cannabis Conservation Camp
 
 Several Sun+Earth certified farms in California's Emerald Triangle have documented measurable improvements in soil organic matter (2-4% increases over 5 years), increased beneficial insect populations, reduced water consumption (40-60% reduction through mulching and drip irrigation), and improved terpene profiles in their cannabis compared to conventional farming methods.
 
-For outdoor cultivation techniques, see [[/cultivation/outdoor/index]].
+For outdoor cultivation techniques, see [Outdoor](/cultivation/outdoor/index).
 
 ---
 
@@ -461,7 +459,7 @@ Companion planting — growing beneficial plants alongside cannabis — provides
 * **Chrysanthemum** — Contains natural pyrethrins. Acts as a pest deterrent when interplanted around cannabis perimeters.
 * **Alliums** (garlic, onion, chives) — Strong odors repel many pest insects. Also have antifungal properties that may reduce powdery mildew pressure.
 
-For comprehensive pest and disease identification and management, see [[/cultivation/pests-diseases]].
+For comprehensive pest and disease identification and management, see [Pests Diseases](/cultivation/pests-diseases).
 
 ---
 
@@ -533,7 +531,7 @@ Where regulations permit, cultivators and retailers can reduce packaging waste t
 | Single-use mylar bags | 1-5 per harvest (personal) / hundreds (commercial) | Glass jars, biodegradable films | Higher upfront cost for glass; long-term savings |
 | Runoff water | Variable (run-to-waste systems) | Capture, test, and recirculate | Saves 30-50% on water costs |
 
-For curing and storage practices, see [[/cultivation/cure-store]]. For extraction processes, see [[/extraction/index]].
+For curing and storage practices, see [Cure Store](/cultivation/cure-store). For extraction processes, see [Extraction](/extraction/index).
 
 ---
 
@@ -596,7 +594,7 @@ Historically, sun-grown cannabis has carried a stigma of lower quality compared 
 * **Appellation programs** — Similar to wine appellations, cannabis appellation programs (e.g., Humboldt County's appellation program) certify sun-grown, regionally specific cannabis that commands premium prices.
 * **Consumer education** — As awareness of the environmental impact of indoor cultivation grows, a segment of consumers actively seeks sun-grown cannabis for its lower carbon footprint and unique terpene profiles.
 
-For outdoor growing techniques, see [[/cultivation/outdoor/index]]. For greenhouse-specific guidance, see [[/cultivation/greenhouse/index]].
+For outdoor growing techniques, see [Outdoor](/cultivation/outdoor/index). For greenhouse-specific guidance, see [Greenhouse](/cultivation/greenhouse/index).
 
 ---
 
@@ -608,7 +606,7 @@ Use this checklist to audit your current practices and identify actionable impro
 
 | Action | Difficulty | Impact | Notes |
 |---|---|---|---|
-| Switch from HPS to LED lighting | Moderate | Very High | Single highest-impact change. See [[/cultivation/indoor/lighting]] |
+| Switch from HPS to LED lighting | Moderate | Very High | Single highest-impact change. See [Lighting](/cultivation/indoor/lighting) |
 | Seal grow room (foam, vapor barriers) | Moderate | Moderate-High | Reduces HVAC runtime 15-30% |
 | Install programmable environmental controller | Easy | Moderate | Prevents equipment conflicts |
 | Right-size HVAC equipment | Advanced | High | Requires professional load calculation |
@@ -621,7 +619,7 @@ Use this checklist to audit your current practices and identify actionable impro
 
 | Action | Difficulty | Impact | Notes |
 |---|---|---|---|
-| Convert to recirculating hydroponics | Advanced | Very High | 70-90% water reduction. See [[/cultivation/indoor/hydroponics]] |
+| Convert to recirculating hydroponics | Advanced | Very High | 70-90% water reduction. See [Hydroponics](/cultivation/indoor/hydroponics) |
 | Capture and reuse runoff | Easy | Moderate-High | Collection trays + EC/pH management |
 | Install drip irrigation (outdoor/greenhouse) | Moderate | Moderate-High | 30-50% water savings |
 | Apply mulch to outdoor beds | Easy | Moderate | 25-50% evaporation reduction |
@@ -655,7 +653,7 @@ Use this checklist to audit your current practices and identify actionable impro
 
 | Action | Difficulty | Impact | Notes |
 |---|---|---|---|
-| Implement IPM monitoring program | Easy | High | Scouting + sticky traps twice weekly. See [[/cultivation/pests-diseases]] |
+| Implement IPM monitoring program | Easy | High | Scouting + sticky traps twice weekly. See [Pests Diseases](/cultivation/pests-diseases) |
 | Introduce beneficial insects preventatively | Moderate | High | Predatory mites, nematodes before pest pressure builds |
 | Plant companion pest-deterrent species | Easy | Moderate | Basil, marigold, yarrow, chrysanthemum |
 | Install insect exclusion screens | Moderate | Moderate-High | On all air intents and entry points |
@@ -677,4 +675,4 @@ Use this checklist to audit your current practices and identify actionable impro
 
 **ℹ️ Info**
 
-**Next steps:** For related sustainability topics, see [[/sustainability/environmental-impact]] for the broader environmental context of cannabis cultivation. For cultivation-specific guidance, see [[/cultivation/indoor/lighting]], [[/cultivation/indoor/environment]], [[/cultivation/indoor/hydroponics]], [[/cultivation/outdoor/index]], [[/cultivation/greenhouse/index]], [[/cultivation/nutrients/index]], [[/cultivation/pests-diseases]], [[/cultivation/cure-store]], and [[/extraction/index]]. For terminology, see the [[/glossary/index]].
+**Next steps:** For related sustainability topics, see [Environmental Impact](/sustainability/environmental-impact) for the broader environmental context of cannabis cultivation. For cultivation-specific guidance, see [Lighting](/cultivation/indoor/lighting), [Environment](/cultivation/indoor/environment), [Hydroponics](/cultivation/indoor/hydroponics), [Outdoor](/cultivation/outdoor/index), [Greenhouse](/cultivation/greenhouse/index), [Nutrients](/cultivation/nutrients/index), [Pests Diseases](/cultivation/pests-diseases), [Cure Store](/cultivation/cure-store), and [Extraction](/extraction/index). For terminology, see the [Glossary](/glossary/index).

@@ -324,4 +324,4 @@ Seek professional medical or psychological support if you experience any of the 
 
 *See also: [Responsible Use](/legal-safety/responsible-use) | [Legal Landscape](/law-policy/index) | [Cannabinoids Overview](/science/cannabinoids) | [Consumption Methods](/consumption/index) | [Bro Science](/science/bro-science)*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

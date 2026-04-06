@@ -39,7 +39,13 @@ Indoor cultivation has become the dominant method for both home growers and comm
 | **Odor Management** | Requires carbon filtration during flowering |
 | **Learning Curve** | More variables to monitor and adjust than outdoor growing |
 
-> **Compare:** For a lower-cost alternative with natural sunlight, see [/cultivation/greenhouse](/cultivation/greenhouse/index). For the lowest-cost option, see [/cultivation/outdoor](/cultivation/outdoor/index). For a look at the energy and environmental footprint of indoor cultivation, see [[/sustainability/environmental-impact]].
+> **Compare:** For a lower-cost alternative with natural sunlight, see [/cultivation/greenhouse](/cultivation/greenhouse/index). For the lowest-cost option, see [/cultivation/outdoor](/cultivation/outdoor/index). For a look at the energy and environmental footprint of indoor cultivation, see [Environmental Impact](/sustainability/environmental-impact).
+
+---
+
+## Step-by-Step Indoor Grow Guide
+
+If you are looking for a complete, start-to-finish indoor grow walkthrough — including week-by-week schedules, VPD charts, nutrient tables, training timelines, troubleshooting, and harvest/curing guidance — see the full **[Indoor Grow Guide](/cultivation/indoor/grow-guide)**. That page covers every stage from germination through curing with checklists, tables, and common mistakes to avoid.
 
 ## Choosing Your Growing Space
 

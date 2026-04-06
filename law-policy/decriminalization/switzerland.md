@@ -26,14 +26,14 @@ The Swiss approach is characteristically **pragmatic, data-driven, and increment
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/law-policy/decriminalization/portugal]] | Cannabis law in Portugal — comprehensive decriminalization |
-| [[/law-policy/decriminalization/netherlands]] | Cannabis law in the Netherlands — the coffee shop model |
-| [[/law-policy/decriminalization/czech-republic]] | Cannabis law in the Czech Republic — Central Europe's most tolerant nation |
-| [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/glossary/index]] | Cannabis terminology and definitions |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Portugal](/law-policy/decriminalization/portugal) | Cannabis law in Portugal — comprehensive decriminalization |
+| [Netherlands](/law-policy/decriminalization/netherlands) | Cannabis law in the Netherlands — the coffee shop model |
+| [Czech Republic](/law-policy/decriminalization/czech-republic) | Cannabis law in the Czech Republic — Central Europe's most tolerant nation |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
 
 ---
 

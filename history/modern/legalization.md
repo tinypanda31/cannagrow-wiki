@@ -558,4 +558,4 @@ For detailed, up-to-date legal information on specific countries and policy mode
 
 ---
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

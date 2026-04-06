@@ -30,9 +30,9 @@ Understanding cannabis law and policy requires understanding that drug law is ne
 | [[Decriminalization]] | Profiles of nations that have removed criminal penalties: Portugal, Spain, Netherlands, Czech Republic, Switzerland |
 | [[Medical Cannabis]] | Profiles of nations with medical programs: Australia, United Kingdom, Israel, Colombia |
 | [[United States]] | Dedicated page for the complex US federal/state landscape |
-| [[/history/prohibition-era]] | Historical context for how prohibition emerged |
-| [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/history/modern-legalization]] | The modern movement toward legalization |
+| [Prohibition Era](/history/prohibition-era) | Historical context for how prohibition emerged |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern-legalization) | The modern movement toward legalization |
 
 ---
 
@@ -63,7 +63,7 @@ A critical legal distinction in modern cannabis law is the differentiation betwe
 | Canada | ≤0.3% THC by dry weight | Aligned with US model |
 | Uruguay | ≤0.3% THC by dry weight | Aligned with international standards |
 
-This distinction is legally consequential but scientifically arbitrary. Two plants that are genetically nearly identical are treated entirely differently under law based on a single chemical threshold. This has created massive regulatory gaps and markets for **derivative cannabinoids** (delta-8-THC, THCA, HHC) that exploit the letter of hemp definitions while producing effects comparable to Schedule I cannabis products. See [[/glossary/index]] for definitions of specific cannabinoids.
+This distinction is legally consequential but scientifically arbitrary. Two plants that are genetically nearly identical are treated entirely differently under law based on a single chemical threshold. This has created massive regulatory gaps and markets for **derivative cannabinoids** (delta-8-THC, THCA, HHC) that exploit the letter of hemp definitions while producing effects comparable to Schedule I cannabis products. See [Glossary](/glossary/index) for definitions of specific cannabinoids.
 
 **ℹ️ Info**
 The hemp/cannabis legal distinction is a product of political compromise, not scientific classification. Cannabis plants containing 0.31% THC are chemically and botanically indistinguishable from those containing 0.29% THC, yet they may be subject to entirely different legal regimes.
@@ -80,7 +80,7 @@ The current global landscape of cannabis law did not emerge from scientific asse
 
 The cornerstone of global cannabis prohibition is the **1961 UN Single Convention on Narcotic Drugs**. This treaty obligated signatory nations to criminalize the production, supply, and possession of cannabis except for "medical and scientific purposes." The treaty placed cannabis in the most restrictive schedules alongside heroin and cocaine, despite the dramatically different risk profiles of these substances.
 
-The 1961 Convention was heavily influenced by US diplomatic pressure. Harry Anslinger, head of the US Federal Bureau of Narcotics and a central architect of cannabis prohibition (see [[/history/prohibition-era]]), led the US delegation and lobbied aggressively for the strictest possible scheduling. Nations that opposed strict scheduling found their resistance overruled or neutralized:
+The 1961 Convention was heavily influenced by US diplomatic pressure. Harry Anslinger, head of the US Federal Bureau of Narcotics and a central architect of cannabis prohibition (see [Prohibition Era](/history/prohibition-era)), led the US delegation and lobbied aggressively for the strictest possible scheduling. Nations that opposed strict scheduling found their resistance overruled or neutralized:
 
 - **India** cited the findings of the **1893-94 Indian Hemp Drugs Commission**, which had examined cannabis use across the Indian subcontinent and found no basis for prohibition. India's objections were dismissed.
 - **Egypt** raised concerns about the cultural and religious significance of cannabis in certain regions, but was overruled.
@@ -109,10 +109,10 @@ The result was a global prohibition regime that reflected US political interests
 
 ### Further Reading
 
-- [[/history/prohibition-era]] — The emergence of cannabis prohibition in the early 20th century
-- [[/history/war-on-drugs]] — How the War on Drugs expanded prohibition globally
-- [[/history/modern-legalization]] — The modern movement to dismantle prohibition
-- [[/history/ancient-origins]] — Cannabis use in ancient and pre-prohibition societies
+- [Prohibition Era](/history/prohibition-era) — The emergence of cannabis prohibition in the early 20th century
+- [War On Drugs](/history/war-on-drugs) — How the War on Drugs expanded prohibition globally
+- [Modern Legalization](/history/modern-legalization) — The modern movement to dismantle prohibition
+- [Ancient Origins](/history/ancient-origins) — Cannabis use in ancient and pre-prohibition societies
 
 ---
 
@@ -136,7 +136,7 @@ The following table categorizes countries by their current cannabis legal status
 
 | Status | Countries | Notes |
 |--------|-----------|-------|
-| **Decriminalized** (civil penalties only for small amounts) | Portugal, Spain, Netherlands, Czech Republic, Switzerland, Belgium, Austria, Italy, Croatia, Estonia, Chile, Argentina, Peru, Ecuador, Costa Rica, Colombia, Bolivia, Jamaica (small amounts) | Definitions of "small amount" vary widely (from 5 grams to 30 grams). Enforcement also varies significantly — decriminalization on paper does not always equal decriminalization in practice, particularly for racial minorities, immigrants, and economically disadvantaged communities. The Netherlands operates a formal toleration policy (gedoogbeleid) for coffeeshop sales. See [[/law-policy/decriminalization/portugal]], [[/law-policy/decriminalization/spain]], [[/law-policy/decriminalization/netherlands]]. |
+| **Decriminalized** (civil penalties only for small amounts) | Portugal, Spain, Netherlands, Czech Republic, Switzerland, Belgium, Austria, Italy, Croatia, Estonia, Chile, Argentina, Peru, Ecuador, Costa Rica, Colombia, Bolivia, Jamaica (small amounts) | Definitions of "small amount" vary widely (from 5 grams to 30 grams). Enforcement also varies significantly — decriminalization on paper does not always equal decriminalization in practice, particularly for racial minorities, immigrants, and economically disadvantaged communities. The Netherlands operates a formal toleration policy (gedoogbeleid) for coffeeshop sales. See [Portugal](/law-policy/decriminalization/portugal), [Spain](/law-policy/decriminalization/spain), [Netherlands](/law-policy/decriminalization/netherlands). |
 
 **⚠️ **Enforcement disparities persist.** In jurisdictions that have decriminalized cannabis, studies consistently show that racial minorities continue to face disproportionate enforcement action even where laws have changed. Decriminalization reforms the law but does not automatically reform policing practice, implicit bias, or structural inequality. See the **Justice Gap** section below.**
 
@@ -144,7 +144,7 @@ The following table categorizes countries by their current cannabis legal status
 
 | Status | Countries | Notes |
 |--------|-----------|-------|
-| **Medical Only** | Australia, United Kingdom, Israel (occupied Palestine), Poland, Greece, Brazil, New Zealand, Ireland, Finland, Denmark, Norway (special permission), Sweden (very restricted) | Medical access with prescription or specialist recommendation. Quality, affordability, and insurance coverage vary dramatically. Israel (occupied Palestine) is a world leader in cannabis research — Israeli scientists isolated THC, CBD, and the endocannabinoid system (see [[/science/cannabinoids]]). However, Israeli cannabis policy must be understood in the context of occupation: the British Mandate criminalized hashish in Palestine as part of colonial control, and Israeli authorities subsequently maintained and expanded that prohibition, disproportionately impacting Palestinian communities whose cannabis culture predates criminalization. See [[/law-policy/medical/israel]] for the full profile. The UK's medical program has been widely criticized for being prohibitively expensive and inaccessible. Australia's program is functional but bureaucratic. |
+| **Medical Only** | Australia, United Kingdom, Israel (occupied Palestine), Poland, Greece, Brazil, New Zealand, Ireland, Finland, Denmark, Norway (special permission), Sweden (very restricted) | Medical access with prescription or specialist recommendation. Quality, affordability, and insurance coverage vary dramatically. Israel (occupied Palestine) is a world leader in cannabis research — Israeli scientists isolated THC, CBD, and the endocannabinoid system (see [Cannabinoids](/science/cannabinoids)). However, Israeli cannabis policy must be understood in the context of occupation: the British Mandate criminalized hashish in Palestine as part of colonial control, and Israeli authorities subsequently maintained and expanded that prohibition, disproportionately impacting Palestinian communities whose cannabis culture predates criminalization. See [Israel](/law-policy/medical/israel) for the full profile. The UK's medical program has been widely criticized for being prohibitively expensive and inaccessible. Australia's program is functional but bureaucratic. |
 
 ### Strictly Illegal
 
@@ -245,23 +245,23 @@ As more nations legalize, the diplomatic cost of maintaining prohibition increas
 
 | Page | Coverage |
 |------|----------|
-| **[[Full Legalization]]** | Detailed country profiles for nations with full recreational legalization: [[/law-policy/full-legalization/uruguay]], [[/law-policy/full-legalization/canada]], [[/law-policy/full-legalization/germany]], [[/law-policy/full-legalization/malta]], [[/law-policy/full-legalization/luxembourg]], [[/law-policy/full-legalization/mexico]], [[/law-policy/full-legalization/thailand]], [[/law-policy/full-legalization/south-africa]] |
-| **[[Decriminalization]]** | Profiles of nations that have removed criminal penalties: [[/law-policy/decriminalization/portugal]], [[/law-policy/decriminalization/spain]], [[/law-policy/decriminalization/netherlands]], [[/law-policy/decriminalization/czech-republic]], [[/law-policy/decriminalization/switzerland]] |
-| **[[Medical Cannabis]]** | Profiles of nations with medical programs: [[/law-policy/medical/australia]], [[/law-policy/medical/united-kingdom]], [[/law-policy/medical/israel]], [[/law-policy/medical/colombia]] |
-| **[[United States]]** | Dedicated page for the complex US federal/state landscape: [[/law-policy/united-states]] |
+| **[[Full Legalization]]** | Detailed country profiles for nations with full recreational legalization: [Uruguay](/law-policy/full-legalization/uruguay), [Canada](/law-policy/full-legalization/canada), [Germany](/law-policy/full-legalization/germany), [Malta](/law-policy/full-legalization/malta), [Luxembourg](/law-policy/full-legalization/luxembourg), [Mexico](/law-policy/full-legalization/mexico), [Thailand](/law-policy/full-legalization/thailand), [South Africa](/law-policy/full-legalization/south-africa) |
+| **[[Decriminalization]]** | Profiles of nations that have removed criminal penalties: [Portugal](/law-policy/decriminalization/portugal), [Spain](/law-policy/decriminalization/spain), [Netherlands](/law-policy/decriminalization/netherlands), [Czech Republic](/law-policy/decriminalization/czech-republic), [Switzerland](/law-policy/decriminalization/switzerland) |
+| **[[Medical Cannabis]]** | Profiles of nations with medical programs: [Australia](/law-policy/medical/australia), [United Kingdom](/law-policy/medical/united-kingdom), [Israel](/law-policy/medical/israel), [Colombia](/law-policy/medical/colombia) |
+| **[[United States]]** | Dedicated page for the complex US federal/state landscape: [United States](/law-policy/united-states) |
 
 ### Related Sections
 
 | Section | Description |
 |---------|-------------|
-| [[/law-policy/index]] | Legal rights and harm reduction strategies for cannabis consumers |
-| [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
-| [[/sustainability/index]] | Environmental and sustainability considerations in cannabis |
-| [[/glossary/index]] | Cannabis terminology and definitions |
-| [[/history/prohibition-era]] | Historical context for prohibition |
-| [[/history/war-on-drugs]] | The War on Drugs era |
-| [[/history/modern-legalization]] | Modern legalization movements |
-| [[/history/ancient-origins]] | Pre-prohibition cannabis history |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction strategies for cannabis consumers |
+| [Harm Reduction](/legal-safety/harm-reduction) | Practical harm reduction guidance |
+| [Sustainability](/sustainability/index) | Environmental and sustainability considerations in cannabis |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
+| [Prohibition Era](/history/prohibition-era) | Historical context for prohibition |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs era |
+| [Modern Legalization](/history/modern-legalization) | Modern legalization movements |
+| [Ancient Origins](/history/ancient-origins) | Pre-prohibition cannabis history |
 
 ---
 
@@ -283,7 +283,7 @@ Decriminalization does not always mean decriminalization in practice. Multiple s
 
 ### Federal vs. State/Local Complexity
 
-Some nations have complex federalism issues where national law differs from state, provincial, or municipal enforcement. The United States is the most prominent example (see [[/law-policy/united-states]]), but Germany also presents federalism dynamics in its implementation of the 2024 legalization law. Understanding the applicable jurisdiction requires understanding which level of government controls which aspects of cannabis policy.
+Some nations have complex federalism issues where national law differs from state, provincial, or municipal enforcement. The United States is the most prominent example (see [United States](/law-policy/united-states)), but Germany also presents federalism dynamics in its implementation of the 2024 legalization law. Understanding the applicable jurisdiction requires understanding which level of government controls which aspects of cannabis policy.
 
 ### International Travel and Border Crossings
 
@@ -396,11 +396,11 @@ Until these measures accompany legalization, the transition from prohibition to 
 
 ### Related Pages
 
-- [[/legal-safety/harm-reduction]] — Practical guidance for safer cannabis use
-- [[/law-policy/index]] — Understanding your legal rights
-- [[/sustainability/index]] — Environmental and social sustainability in cannabis
-- [[/history/war-on-drugs]] — The War on Dogs and its lasting impact
-- [[/history/modern-legalization]] — How legalization movements emerged
+- [Harm Reduction](/legal-safety/harm-reduction) — Practical guidance for safer cannabis use
+- [Law Policy](/law-policy/index) — Understanding your legal rights
+- [Sustainability](/sustainability/index) — Environmental and social sustainability in cannabis
+- [War On Drugs](/history/war-on-drugs) — The War on Dogs and its lasting impact
+- [Modern Legalization](/history/modern-legalization) — How legalization movements emerged
 
 ---
 

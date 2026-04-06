@@ -279,6 +279,8 @@ For operations scaling beyond personal cultivation:
 ## Related Pages
 
 - **[Cultivation Overview](/cultivation/index)** -- Comparison of all cultivation methods
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Step-by-step indoor grow (many techniques transfer to greenhouse: lighting, VPD, training)
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Step-by-step outdoor grow (greenhouse combines outdoor sun with indoor-like control)
 - **[Outdoor Growing](/cultivation/outdoor/index)** -- Pure outdoor cultivation techniques
 - **[Indoor Growing](/cultivation/indoor/index)** -- Supplemental lighting and indoor techniques used in greenhouses
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Supplemental lighting options for greenhouses

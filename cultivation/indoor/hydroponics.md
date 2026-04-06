@@ -324,6 +324,7 @@ Total: ~$175-305
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete step-by-step indoor grow with nutrient schedules for soilless and hydro systems
 - **[Indoor Growing Overview](/cultivation/indoor/index)** -- Foundational indoor growing knowledge
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Lighting requirements for hydroponic grows
 - **[Environmental Control](/cultivation/indoor/environment)** -- Temperature management including reservoir cooling

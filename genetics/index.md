@@ -38,10 +38,10 @@ The genetics of a cannabis plant determine much of its potential:
 
 | Page | Coverage |
 |------|----------|
-| [[/genetics/basics]] | Cannabis genetics fundamentals — genotype vs. phenotype, chromosomes, inheritance patterns, landraces, subspecies classification (indica/sativa/ruderalis), chemotypes, and why the indica/sativa distinction is scientifically imprecise |
-| [[/genetics/breeding]] | Breeding methodology — selective breeding, backcrossing, F1/F2/F3 generations, trait stabilization, polyhybrids, inbreeding vs. outcrossing, male selection, phenotype hunting, and creating stable cultivars |
-| [[/genetics/seeds]] | Seed types and production — regular seeds, feminized seeds (colloidal silver, Rodelization, STS), autoflowering seeds, fast-flowering seeds, CBD-rich seeds, seed selection, storage, viability testing, and germination |
-| [[/genetics/autoflower-vs-photoperiod]] | Comprehensive comparison — genetics origins, flowering triggers, light cycle requirements, yield differences, pros/cons of each, cultivation differences, and which growers should choose which type |
+| [Basics](/genetics/basics) | Cannabis genetics fundamentals — genotype vs. phenotype, chromosomes, inheritance patterns, landraces, subspecies classification (indica/sativa/ruderalis), chemotypes, and why the indica/sativa distinction is scientifically imprecise |
+| [Breeding](/genetics/breeding) | Breeding methodology — selective breeding, backcrossing, F1/F2/F3 generations, trait stabilization, polyhybrids, inbreeding vs. outcrossing, male selection, phenotype hunting, and creating stable cultivars |
+| [Seeds](/genetics/seeds) | Seed types and production — regular seeds, feminized seeds (colloidal silver, Rodelization, STS), autoflowering seeds, fast-flowering seeds, CBD-rich seeds, seed selection, storage, viability testing, and germination |
+| [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) | Comprehensive comparison — genetics origins, flowering triggers, light cycle requirements, yield differences, pros/cons of each, cultivation differences, and which growers should choose which type |
 
 ---
 
@@ -57,7 +57,7 @@ The genetics of a cannabis plant determine much of its potential:
 
 **ℹ️ Info**
 
-**Modern taxonomy note:** Most botanists classify all cannabis as a single species (*Cannabis sativa* L.) with multiple subspecies. The indica/sativa distinction popular in consumer culture does **not** reliably predict effects — cannabinoid and terpene profiles are far more determinative. See [[/science/terpenes]] for details.
+**Modern taxonomy note:** Most botanists classify all cannabis as a single species (*Cannabis sativa* L.) with multiple subspecies. The indica/sativa distinction popular in consumer culture does **not** reliably predict effects — cannabinoid and terpene profiles are far more determinative. See [Terpenes](/science/terpenes) for details.
 
 ### Genotype vs. Phenotype
 
@@ -82,11 +82,11 @@ The genetics of a cannabis plant determine much of its potential:
 
 Understanding genetics and breeding is foundational to nearly every other section:
 
-- **[[/strains/index]]** — Every strain profile in our database is the product of breeding decisions. Understanding genetics helps you interpret strain data.
-- **[[/cultivation/index]]** — Growing techniques differ significantly for autoflowering vs. photoperiod plants, and breeding affects disease resistance, structure, and nutrient needs.
-- **[[/science/cannabinoids]]** — Cannabinoid profiles are genetically determined. Chemotype classification (Type I-IV) is a genetic trait.
-- **[[/science/terpenes]]** — Terpene synthase gene expression varies between genetics, creating diverse aroma profiles.
-- **[[/cultivation/outdoor/index]]** — Landrace genetics evolved for specific climates; understanding origins helps outdoor strain selection.
+- **[Strains](/strains/index)** — Every strain profile in our database is the product of breeding decisions. Understanding genetics helps you interpret strain data.
+- **[Cultivation](/cultivation/index)** — Growing techniques differ significantly for autoflowering vs. photoperiod plants, and breeding affects disease resistance, structure, and nutrient needs.
+- **[Cannabinoids](/science/cannabinoids)** — Cannabinoid profiles are genetically determined. Chemotype classification (Type I-IV) is a genetic trait.
+- **[Terpenes](/science/terpenes)** — Terpene synthase gene expression varies between genetics, creating diverse aroma profiles.
+- **[Outdoor](/cultivation/outdoor/index)** — Landrace genetics evolved for specific climates; understanding origins helps outdoor strain selection.
 
 ---
 
@@ -103,7 +103,7 @@ Understanding genetics and breeding is foundational to nearly every other sectio
 | **Reverse breeding** | Creating feminized seeds by inducing a female plant to produce male pollen |
 | **Rodelization** | A natural stress-induced hermaphroditism where a female plant produces male flowers late in flower |
 
-For a more complete glossary, see [[/glossary/index]].
+For a more complete glossary, see [Glossary](/glossary/index).
 
 ---
 
@@ -111,13 +111,13 @@ For a more complete glossary, see [[/glossary/index]].
 
 **If you are new to cannabis genetics**, we recommend reading in this order:
 
-1. [[/genetics/basics]] — Build foundational understanding
-2. [[/genetics/autoflower-vs-photoperiod]] — Understand the biggest genetic division in modern cannabis
-3. [[/genetics/seeds]] — Learn about seed types and how to choose, store, and germinate
-4. [[/genetics/breeding]] — Explore breeding methodology (for advanced growers and breeders)
+1. [Basics](/genetics/basics) — Build foundational understanding
+2. [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) — Understand the biggest genetic division in modern cannabis
+3. [Seeds](/genetics/seeds) — Learn about seed types and how to choose, store, and germinate
+4. [Breeding](/genetics/breeding) — Explore breeding methodology (for advanced growers and breeders)
 
 ---
 
-*This section is continuously updated as cannabis genetics research advances. For editorial standards and sourcing policies, see [[/about/editorial]].*
+*This section is continuously updated as cannabis genetics research advances. For editorial standards and sourcing policies, see [Editorial](/about/editorial).*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

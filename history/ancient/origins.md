@@ -319,4 +319,4 @@ The foundations laid in antiquity would shape humanity's relationship with canna
 
 ---
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

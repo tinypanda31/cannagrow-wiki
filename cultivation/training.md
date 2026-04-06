@@ -272,6 +272,8 @@ Training is not always appropriate. Avoid training in these situations:
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete indoor grow with week-by-week training timeline and technique selection by grow stage
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete outdoor grow with training for sun-grown plants and trellis netting setup
 - **[Indoor Growing](/cultivation/indoor/index)** -- Training is especially valuable in space-limited indoor environments
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Training maximizes light utilization across the canopy
 - **[Greenhouse Cultivation](/cultivation/greenhouse/index)** -- ScrOG and LST are effective in greenhouse settings

@@ -18,19 +18,19 @@ tags: law-policy, legalization, Uruguay, South America, social clubs, pharmacy m
 
 Uruguay holds a singular place in cannabis history: it is the **first country in the world to fully legalize recreational cannabis**. On December 10, 2013, under President Jose Mujica, Law 19.172 was signed, creating a state-regulated cannabis market that allows adult access through three distinct channels — pharmacy sales to registered users, home cultivation, and nonprofit cannabis social clubs. No nation had previously attempted to construct a fully legal, state-regulated recreational cannabis framework from the ground up. Uruguay's model is not a commercial market modeled on alcohol or tobacco; it is explicitly designed as a public health and anti-trafficking intervention, with the state assuming direct regulatory control over production, pricing, and distribution.
 
-Uruguay's decision to legalize was driven not by popular demand but by political leadership. Public opinion polling at the time of passage showed a majority of Uruguayans opposed legalization. President Mujica, a former Tupamaro guerrilla and political prisoner during Uruguay's 1973-1985 military dictatorship, framed the policy as a matter of pragmatic harm reduction and a direct challenge to the failed prohibition model imposed on Latin America by the United States. The policy represented Uruguay asserting sovereignty over its own drug policy in a region that had borne the human cost of the [[/history/war-on-drugs|War on Drugs]] without having any voice in its design.
+Uruguay's decision to legalize was driven not by popular demand but by political leadership. Public opinion polling at the time of passage showed a majority of Uruguayans opposed legalization. President Mujica, a former Tupamaro guerrilla and political prisoner during Uruguay's 1973-1985 military dictatorship, framed the policy as a matter of pragmatic harm reduction and a direct challenge to the failed prohibition model imposed on Latin America by the United States. The policy represented Uruguay asserting sovereignty over its own drug policy in a region that had borne the human cost of the [War On Drugs|War On Drugs](/history/war-on-drugs|War on Drugs) without having any voice in its design.
 
 ### Related Pages
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/law-policy/full-legalization/canada]] | Cannabis law in Canada — the second nation to legalize |
-| [[/law-policy/full-legalization/germany]] | Cannabis law in Germany — the largest economy to legalize |
-| [[/history/modern-legalization]] | The modern legalization movement |
-| [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/glossary/index]] | Cannabis terminology and definitions |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Canada](/law-policy/full-legalization/canada) | Cannabis law in Canada — the second nation to legalize |
+| [Germany](/law-policy/full-legalization/germany) | Cannabis law in Germany — the largest economy to legalize |
+| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
 
 ---
 
@@ -56,7 +56,7 @@ Uruguay's decision to legalize was driven not by popular demand but by political
 
 Cannabis has been present in Uruguay since the colonial era. Like much of Latin America, cannabis was introduced by European colonizers and gradually integrated into folk medicine and informal agricultural practice. However, Uruguay did not have the deep cultural or religious cannabis traditions found in parts of Africa, South Asia, or the Caribbean. Cannabis use remained relatively limited throughout the nineteenth and early twentieth centuries.
 
-Uruguay adopted prohibition in line with the global wave of drug criminalization in the mid-twentieth century, influenced by the same international treaty frameworks that shaped prohibition worldwide (see [[/law-policy/index|Cannabis Law & Policy]] for the global context). The 1961 UN Single Convention on Narcotic Drugs obligated Uruguay — as a signatory — to criminalize cannabis production, supply, and possession except for medical and scientific purposes.
+Uruguay adopted prohibition in line with the global wave of drug criminalization in the mid-twentieth century, influenced by the same international treaty frameworks that shaped prohibition worldwide (see [Index|Cannabis Law & Policy](/law-policy/index|Cannabis Law & Policy) for the global context). The 1961 UN Single Convention on Narcotic Drugs obligated Uruguay — as a signatory — to criminalize cannabis production, supply, and possession except for medical and scientific purposes.
 
 By the 2000s, cannabis use in Uruguay was comparable to other South American nations, and the regional dynamics of drug trafficking were increasingly visible. Uruguay, with a population of approximately 3.4 million and relatively low levels of violent crime compared to its neighbors, faced growing concern about drug trafficking organizations operating in the Rio de la Plata region. The country's location between Argentina and Brazil — two of Latin America's largest nations — made it a transit point for cocaine and other substances moving toward Atlantic markets.
 

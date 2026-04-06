@@ -264,6 +264,8 @@ A complete harvest day checklist:
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete indoor grow with harvest timing, trichome inspection, drying environment, and curing procedures
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete outdoor grow with harvest timing for sun-grown cannabis, field drying, and post-harvest processing
 - **[Curing & Storage](/cultivation/cure-store)** -- The next step after drying; jar curing and long-term storage
 - **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Flushing discussion and final feeding decisions
 - **[Trichomes and Cannabinoids](/science/cannabinoids)** -- Understanding what trichome maturity means for cannabinoid content

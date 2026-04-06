@@ -246,6 +246,7 @@ Even indoors, seasonal changes can affect your grow space:
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete step-by-step indoor grow with VPD charts by growth stage, temperature/RH targets, and environmental checklists
 - **[Lighting Systems](/cultivation/indoor/lighting)** -- Light selection and heat management
 - **[Indoor Growing Overview](/cultivation/indoor/index)** -- Complete indoor growing guide
 - **[Hydroponics](/cultivation/indoor/hydroponics)** -- Reservoir temperature management in hydro systems

@@ -28,15 +28,15 @@ Colombia's 2015 medical cannabis framework **predates most of Latin America's re
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/law-policy/medical/australia]] | Cannabis law in Australia — medical access challenges |
-| [[/law-policy/medical/israel]] | Cannabis law in Israel — world-leading research |
-| [[/law-policy/full-legalization/uruguay]] | Cannabis law in Uruguay — the first nation to legalize |
-| [[/law-policy/full-legalization/mexico]] | Cannabis law in Mexico — the Supreme Court pathway |
-| [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/glossary/index]] | Cannabis terminology and definitions |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Australia](/law-policy/medical/australia) | Cannabis law in Australia — medical access challenges |
+| [Israel](/law-policy/medical/israel) | Cannabis law in Israel — world-leading research |
+| [Uruguay](/law-policy/full-legalization/uruguay) | Cannabis law in Uruguay — the first nation to legalize |
+| [Mexico](/law-policy/full-legalization/mexico) | Cannabis law in Mexico — the Supreme Court pathway |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
 
 ---
 

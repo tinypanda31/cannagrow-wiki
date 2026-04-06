@@ -6,7 +6,7 @@ tags: sustainability, environment, energy, water, waste, organic, carbon-footpri
 
 # Sustainability & Cannabis
 
-**ℹ️ This page is part of the **CannaGrow** knowledge base, covering the environmental dimensions of cannabis cultivation and production. For cultivation techniques, see [[/cultivation/index]], [[/cultivation/indoor/index]], [[/cultivation/outdoor/index]], and [[/cultivation/greenhouse/index]]. For the science of the plant, see [[/science/cannabinoids]] and [[/genetics/breeding]].**
+**ℹ️ This page is part of the **CannaGrow** knowledge base, covering the environmental dimensions of cannabis cultivation and production. For cultivation techniques, see [Cultivation](/cultivation/index), [Indoor](/cultivation/indoor/index), [Outdoor](/cultivation/outdoor/index), and [Greenhouse](/cultivation/greenhouse/index). For the science of the plant, see [Cannabinoids](/science/cannabinoids) and [Breeding](/genetics/breeding).**
 
 ![Aerial view of a sun-grown cannabis farm with rows of plants under natural sunlight, surrounded by green fields and solar panels](/uploads/images/sustainability/solar-powered-cannabis-farm.jpg)
 
@@ -64,7 +64,7 @@ Indoor cannabis cultivation is among the most energy-intensive agricultural oper
 
 A 2019 study estimated that legal indoor cannabis production in the United States generates approximately **2.3 million metric tons of CO2 equivalent annually**. A single large indoor facility can consume as much energy as a small data center. The shift from high-pressure sodium (HPS) to LED lighting has reduced this footprint in some operations, but the fundamental energy intensity of controlled-environment agriculture remains substantial.
 
-For detailed information on indoor cultivation energy demands, see [[/cultivation/indoor/index]].
+For detailed information on indoor cultivation energy demands, see [Indoor](/cultivation/indoor/index).
 
 ### Water Usage
 
@@ -79,7 +79,7 @@ Cannabis is a thirsty crop. Its water requirements vary significantly depending 
 
 Large-scale cannabis operations can consume **millions of gallons of water annually**. In drought-prone regions such as California, cannabis cultivation has come under scrutiny for its impact on local water resources, particularly in watersheds where outdoor grows draw from streams and wells. Indoor operations using municipal water also face sustainability questions, especially in areas experiencing water stress.
 
-For more on nutrient delivery systems and water management, see [[/cultivation/nutrients/index]].
+For more on nutrient delivery systems and water management, see [Nutrients](/cultivation/nutrients/index).
 
 ### Waste Generation
 
@@ -95,7 +95,7 @@ The typical waste stream from a cannabis operation includes:
 
 Common compliance methods include grinding plant material and mixing it with **at least 50% non-consumable waste** such as soil, compost, food waste, or paper products before sending to landfill. Some jurisdictions allow composting or incineration as alternative disposal methods.
 
-For information on extraction processes and their waste streams, see [[/extraction/index]].
+For information on extraction processes and their waste streams, see [Extraction](/extraction/index).
 
 ### Packaging
 
@@ -123,7 +123,7 @@ Synthetic nutrient runoff from large cannabis cultivation operations can contami
 - **Phosphorus** is a limiting nutrient in freshwater systems; excess phosphorus accelerates eutrophication.
 - **Salt accumulation** from synthetic fertilizer buildup can degrade soil structure over time, reducing long-term agricultural productivity.
 
-Organic and living soil approaches, detailed on [[/cultivation/nutrients/index]], offer alternatives that reduce runoff risk by relying on biologically active soil ecosystems to buffer and regulate nutrient availability.
+Organic and living soil approaches, detailed on [Nutrients](/cultivation/nutrients/index), offer alternatives that reduce runoff risk by relying on biologically active soil ecosystems to buffer and regulate nutrient availability.
 
 ### Carbon Footprint
 
@@ -138,7 +138,7 @@ The full lifecycle carbon footprint of a pound of indoor cannabis has been estim
 | Extraction and processing | 2-5% |
 | Transportation and distribution | 1-3% |
 
-Greenhouse and outdoor cultivation dramatically reduce this footprint by leveraging natural sunlight and ambient climate conditions. See [[/cultivation/greenhouse/index]] and [[/cultivation/outdoor/index]] for detailed comparisons.
+Greenhouse and outdoor cultivation dramatically reduce this footprint by leveraging natural sunlight and ambient climate conditions. See [Greenhouse](/cultivation/greenhouse/index) and [Outdoor](/cultivation/outdoor/index) for detailed comparisons.
 
 ![Laboratory technician analyzing soil samples from a cannabis cultivation site, with testing equipment and data displays visible](/uploads/images/sustainability/soil-analysis-cannabis.jpg)
 
@@ -170,7 +170,7 @@ Key environmental considerations for indoor grows:
 - Dehumidification is critical during the flowering phase to prevent mold and mildew, adding further energy demand.
 - Water usage can be reduced through recirculating hydroponic or aeroponic systems.
 
-For full details on indoor growing, see [[/cultivation/indoor/index]].
+For full details on indoor growing, see [Indoor](/cultivation/indoor/index).
 
 ### Greenhouse Cultivation
 
@@ -182,7 +182,7 @@ Key environmental advantages:
 - **Rainwater collection** systems can supplement irrigation.
 - **Thermal mass** and insulation reduce heating and cooling demands.
 
-Challenges include higher initial construction costs, greater land requirements, and the need to manage pests that enter through natural ventilation. For more on greenhouse growing, see [[/cultivation/greenhouse/index]].
+Challenges include higher initial construction costs, greater land requirements, and the need to manage pests that enter through natural ventilation. For more on greenhouse growing, see [Greenhouse](/cultivation/greenhouse/index).
 
 ### Outdoor Cultivation
 
@@ -194,7 +194,7 @@ Key environmental advantages:
 - **Lowest water footprint** when paired with rain-fed agriculture and water-wise practices.
 - **Minimal waste** — plant material can be composted on-site, returning nutrients to the soil.
 
-Challenges include weather dependency, seasonal production limits, higher exposure to pests and diseases, and the need for larger land areas. For comprehensive information on outdoor growing, see [[/cultivation/outdoor/index]].
+Challenges include weather dependency, seasonal production limits, higher exposure to pests and diseases, and the need for larger land areas. For comprehensive information on outdoor growing, see [Outdoor](/cultivation/outdoor/index).
 
 ---
 
@@ -249,23 +249,23 @@ The Sustainability section of CannaGrow is organized into the following pages:
 
 | Page | Coverage |
 |------|----------|
-| [[/sustainability/eco-friendly-cultivation]] | Practical eco-friendly growing practices — organic nutrients, living soil, regenerative farming, water conservation, energy-efficient lighting, integrated pest management, composting, waste reduction, and sun-grown cannabis |
-| [[/sustainability/environmental-impact]] | The broader environmental footprint of the cannabis industry — energy statistics, water usage data, packaging waste, regulatory waste requirements, carbon footprint lifecycle analysis, and policy recommendations |
+| [Eco Friendly Cultivation](/sustainability/eco-friendly-cultivation) | Practical eco-friendly growing practices — organic nutrients, living soil, regenerative farming, water conservation, energy-efficient lighting, integrated pest management, composting, waste reduction, and sun-grown cannabis |
+| [Environmental Impact](/sustainability/environmental-impact) | The broader environmental footprint of the cannabis industry — energy statistics, water usage data, packaging waste, regulatory waste requirements, carbon footprint lifecycle analysis, and policy recommendations |
 
 ### Related Sections Across CannaGrow
 
 | Section | Relevance to Sustainability |
 |---------|----------------------------|
-| [[/cultivation/index]] | Core cultivation techniques and methods |
-| [[/cultivation/indoor/index]] | Indoor growing — the highest-energy cultivation method |
-| [[/cultivation/outdoor/index]] | Sun-grown cannabis — the most sustainable method |
-| [[/cultivation/greenhouse/index]] | Greenhouse growing — the middle path |
-| [[/cultivation/nutrients/index]] | Organic vs. synthetic nutrients and their environmental impact |
-| [[/cultivation/pests-diseases]] | Integrated pest management as a sustainable alternative to routine pesticide use |
-| [[/extraction/index]] | Extraction methods and their environmental considerations |
-| [[/science/cannabinoids]] | The science of the plant — understanding what cultivation methods preserve |
-| [[/genetics/breeding]] | Breeding for pest resistance, drought tolerance, and environmental resilience |
-| [[/glossary/index]] | Definitions of sustainability and cultivation terms |
+| [Cultivation](/cultivation/index) | Core cultivation techniques and methods |
+| [Indoor](/cultivation/indoor/index) | Indoor growing — the highest-energy cultivation method |
+| [Outdoor](/cultivation/outdoor/index) | Sun-grown cannabis — the most sustainable method |
+| [Greenhouse](/cultivation/greenhouse/index) | Greenhouse growing — the middle path |
+| [Nutrients](/cultivation/nutrients/index) | Organic vs. synthetic nutrients and their environmental impact |
+| [Pests Diseases](/cultivation/pests-diseases) | Integrated pest management as a sustainable alternative to routine pesticide use |
+| [Extraction](/extraction/index) | Extraction methods and their environmental considerations |
+| [Cannabinoids](/science/cannabinoids) | The science of the plant — understanding what cultivation methods preserve |
+| [Breeding](/genetics/breeding) | Breeding for pest resistance, drought tolerance, and environmental resilience |
+| [Glossary](/glossary/index) | Definitions of sustainability and cultivation terms |
 
 ---
 
@@ -305,7 +305,7 @@ Transitioning from synthetic salt-based fertilizers to organic, biologically act
 - Carbon sequestration through increased soil organic matter.
 - Enhanced plant resilience to pests and disease through diverse microbial communities.
 
-See [[/cultivation/nutrients/index]] for detailed information on organic nutrient management.
+See [Nutrients](/cultivation/nutrients/index) for detailed information on organic nutrient management.
 
 ### Waste Reduction
 
@@ -322,7 +322,7 @@ Integrated Pest Management (IPM) combines biological, cultural, and mechanical c
 - **Biological controls** — Beneficial insects (predatory mites, ladybugs, nematodes) that prey on pest species.
 - **Targeted intervention** — Spot-treat with organic-approved products (neem oil, insecticidal soap, spinosad) only when thresholds are exceeded.
 
-This approach reduces pesticide use, protects beneficial insect populations, and produces cleaner end products. See [[/cultivation/pests-diseases]] for comprehensive pest management guidance.
+This approach reduces pesticide use, protects beneficial insect populations, and produces cleaner end products. See [Pests Diseases](/cultivation/pests-diseases) for comprehensive pest management guidance.
 
 ---
 
@@ -426,7 +426,7 @@ Every cultivation decision carries environmental weight. The lighting system cho
 - **Certifications provide accountability.** Third-party certifications like Clean Green, Sun+Earth, and Kind Green offer verification of sustainability claims in the absence of federal organic standards.
 - **The industry is at a formative stage.** Decisions made now about cultivation practices, packaging standards, and waste management will shape the industry's environmental trajectory for decades.
 
-For deeper exploration of sustainable growing practices, see [[/sustainability/eco-friendly-cultivation]]. For detailed environmental data and analysis, see [[/sustainability/environmental-impact]].
+For deeper exploration of sustainable growing practices, see [Eco Friendly Cultivation](/sustainability/eco-friendly-cultivation). For detailed environmental data and analysis, see [Environmental Impact](/sustainability/environmental-impact).
 
 **ℹ️ Info**
-**Explore more in CannaGrow:** [[/cultivation/index]] | [[/cultivation/indoor/index]] | [[/cultivation/outdoor/index]] | [[/cultivation/greenhouse/index]] | [[/cultivation/nutrients/index]] | [[/cultivation/pests-diseases]] | [[/extraction/index]] | [[/science/cannabinoids]] | [[/genetics/breeding]] | [[/glossary/index]]
+**Explore more in CannaGrow:** [Cultivation](/cultivation/index) | [Indoor](/cultivation/indoor/index) | [Outdoor](/cultivation/outdoor/index) | [Greenhouse](/cultivation/greenhouse/index) | [Nutrients](/cultivation/nutrients/index) | [Pests Diseases](/cultivation/pests-diseases) | [Extraction](/extraction/index) | [Cannabinoids](/science/cannabinoids) | [Breeding](/genetics/breeding) | [Glossary](/glossary/index)

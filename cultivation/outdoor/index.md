@@ -219,6 +219,28 @@ Autoflowering cannabis (containing _C. ruderalis_ genetics) offers unique advant
 | **Continental** (Midwest US, Eastern Europe) | Fast-flowering indica hybrids | Short growing season; early frost risk; cold winters |
 | **High Altitude** (Mountain regions) | UV-resistant strains; indica-dominant | Intense UV (boosts trichomes); cold nights; short season |
 
+---
+
+## USDA Hardiness Zone Guides
+
+Find your specific growing zone guide for detailed month-by-month calendars, equipment lists, nutrient schedules, and zone-specific strategies:
+
+| Zone | Frost-Free Days | Season | Guide |
+|------|----------------|--------|-------|
+| **Zone 1** | ~60-90 days | Extreme cold; greenhouse required | [[Zone 1 Guide](/cultivation/outdoor/zone-1)] |
+| **Zone 2** | ~90 days | Very cold; greenhouse for photoperiods | [[Zone 2 Guide](/cultivation/outdoor/zone-2)] |
+| **Zone 3** | ~90-110 days | Short season; autos and short-season photoperiods | [[Zone 3 Guide](/cultivation/outdoor/zone-3)] |
+| **Zone 4** | ~110-140 days | Moderate; short-season photoperiods viable | [[Zone 4 Guide](/cultivation/outdoor/zone-4)] |
+| **Zone 5** | ~150-170 days | Solid season; 2 auto runs; 8-10 week photoperiods | [[Zone 5 Guide](/cultivation/outdoor/zone-5)] |
+| **Zone 6** | ~170-190 days | Excellent; full-season varieties complete reliably | [[Zone 6 Guide](/cultivation/outdoor/zone-6)] |
+| **Zone 7** | ~200-220 days | The "sweet spot"; all types thrive | [[Zone 7 Guide](/cultivation/outdoor/zone-7)] |
+| **Zone 8** | ~240-270 days | Long season; massive plants; 2-3 auto runs | [[Zone 8 Guide](/cultivation/outdoor/zone-8)] |
+| **Zone 9** | ~300+ days | Nearly year-round; 3-4+ auto runs | [[Zone 9 Guide](/cultivation/outdoor/zone-9)] |
+
+**Finding your zone:** Use the [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/) to find your zone by zip code.
+
+---
+
 ## Security and Privacy
 
 Outdoor grows require security planning:
@@ -250,6 +272,7 @@ For commercial or large personal operations:
 
 ## Related Pages
 
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete step-by-step outdoor grow from site selection through harvest and cure — seasonal calendar, soil recipes, companion planting tables, organic IPM, and month-by-month checklists
 - **[Cultivation Overview](/cultivation/index)** -- Comparison of all cultivation methods
 - **[Greenhouse Cultivation](/cultivation/greenhouse/index)** -- A hybrid approach combining outdoor sun with environmental control
 - **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Organic soil feeding strategies

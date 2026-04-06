@@ -284,6 +284,7 @@ Monthly Cost = (Watts / 1000) × Hours/Day × Days/Month × $/kWh
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete step-by-step indoor grow with light hanging heights, PPFD targets by stage, and photoperiod schedules
 - **[Indoor Growing Overview](/cultivation/indoor/index)** -- Complete indoor growing guide
 - **[Environmental Control](/cultivation/indoor/environment)** -- Managing heat from lights, ventilation requirements
 - **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Light intensity affects nutrient demand

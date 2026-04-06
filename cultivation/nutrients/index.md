@@ -72,7 +72,7 @@ Cannabis nutrient requirements shift dramatically through the life cycle.
 | **Cost** | Often higher per feeding | Generally more economical |
 | **Best For** | Soil growing; outdoor; organic-focused growers | Hydroponics; coco; precision-focused growers |
 
-For a deeper look at how nutrient choices tie into sustainable growing practices, see [[/sustainability/eco-friendly-cultivation]].
+For a deeper look at how nutrient choices tie into sustainable growing practices, see [Eco Friendly Cultivation](/sustainability/eco-friendly-cultivation).
 
 ### Popular Nutrient Lines
 
@@ -238,6 +238,8 @@ Cal-Mag (calcium and magnesium) is one of the most common supplements in cannabi
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete indoor grow with week-by-week nutrient schedules for soil and coco
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete outdoor grow with organic soil amendments, compost tea, and living soil feeding
 - **[Hydroponics](/cultivation/indoor/hydroponics)** -- Nutrient solution management for hydroponic systems
 - **[Indoor Growing](/cultivation/indoor/index)** -- Feeding schedules for indoor soil grows
 - **[Environmental Control](/cultivation/indoor/environment)** -- How temperature and humidity affect nutrient uptake

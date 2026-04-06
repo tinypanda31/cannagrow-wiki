@@ -60,7 +60,7 @@ The three primary approaches to cannabis cultivation each offer distinct advanta
 - Many jurisdictions prohibit cultivation entirely
 - Even where legal, there may be restrictions on plant count, visibility, and security
 
-Consult local regulations before beginning any cultivation project. See [/legal-safety](/legal-safety) for general guidance on navigating legal considerations.
+Consult local regulations before beginning any cultivation project. See [law-policy/index](/law-policy/index) for general guidance on navigating legal considerations.
 
 ### Budget
 
@@ -128,7 +128,18 @@ Seed -> Germination (3-10 days) -> Seedling (2-3 weeks) -> Vegetative (3-16+ wee
 
 For detailed coverage of each cultivation method, explore the sections below.
 
-For growers interested in reducing their environmental impact, see [[/sustainability/eco-friendly-cultivation]] for guidance on sustainable cultivation practices.
+---
+
+## Step-by-Step Grow Guides
+
+If you are looking for a complete, start-to-finish walkthrough of a cannabis grow, these guides cover every stage from germination through harvest, drying, and curing:
+
+| Guide | What It Covers | Link |
+|-------|---------------|------|
+| **Indoor Grow Guide** | Full indoor grow from planning to cure — equipment, lighting, VPD, week-by-week schedule, training, nutrient tables, troubleshooting | [/cultivation/indoor/grow-guide](/cultivation/indoor/grow-guide) |
+| **Outdoor Grow Guide** | Complete outdoor sun-grown cultivation — site selection, soil preparation, seasonal calendar, companion planting, organic pest management, harvest timing | [/cultivation/outdoor/grow-guide](/cultivation/outdoor/grow-guide) |
+
+For growers interested in reducing their environmental impact, see [Eco Friendly Cultivation](/sustainability/eco-friendly-cultivation) for guidance on sustainable cultivation practices.
 
 ## Cultivation Sections
 

@@ -27,7 +27,7 @@ CannaGrow is organized into **major sections**, each covering a broad topic area
 | Extraction | [/extraction](/extraction/index) | Methods for isolating and concentrating compounds |
 | Consumption | [/consumption](/consumption/index) | Administration methods: smoking, vaping, edibles, topicals |
 | Science | [/science](/science/index) | Endocannabinoid system, research, clinical studies |
-| Legal & Safety | [/legal-safety/legal](/legal-safety/legal) | Global legality, responsible use, harm reduction |
+| Legal & Safety | [Harm Reduction](/legal-safety/harm-reduction) | Global legality, responsible use, harm reduction |
 | Glossary | [/glossary](/glossary/index) | Comprehensive cannabis terminology |
 
 Each major section contains **sub-pages** covering specific subtopics. For example, [/cultivation](/cultivation/index) links to pages on indoor growing, greenhouse cultivation, outdoor growing, nutrient management, pest control, and more.
@@ -203,11 +203,11 @@ If you need assistance navigating CannaGrow:
 
 - Check this page first — most common questions are answered here
 - Use the [search function](#using-search) for specific topics
-- Review the [About](/about) page for information about the project
+- Review the [About](/about/about) page for information about the project
 - Contact a wiki administrator if you encounter technical issues
 
 ---
 
 *Ready to explore? Return to the [Home](/home) page or jump into any section that interests you.*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

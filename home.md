@@ -84,8 +84,8 @@ CannaGrow exists to cut through the noise. Every article is:
 CannaGrow is a community project. If you have expertise in cannabis science, cultivation, history, law, or any related field, we welcome your contributions.
 
 - Read our [Editorial Guidelines](/about/editorial) to understand our standards
-- Review [How to Contribute](/about) for submission processes
-- All content is licensed under [CC BY-NC-SA 4.0](/about)
+- Review [How to Contribute](/about/about) for submission processes
+- All content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **✅ Note** All contributions are reviewed before publication. See our [Editorial Guidelines](/about/editorial) for details on our review process.
 
@@ -96,4 +96,4 @@ CannaGrow is a community project. If you have expertise in cannabis science, cul
 > Use the **search bar** at the top of any page to find specific topics. Try searching for terms like "THC," "terpenes," "indoor growing," or "decriminalization."
 ---
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

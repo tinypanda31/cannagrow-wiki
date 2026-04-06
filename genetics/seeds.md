@@ -42,7 +42,7 @@ Cannabis propagation can be achieved through two primary methods:
 
 Seeds are the preferred choice for breeders, growers seeking genetic diversity, and anyone starting without an existing mother plant. Clones are preferred for growers who want guaranteed consistency and have access to proven genetics.
 
-For foundational genetics concepts, see [[/genetics/basics]].
+For foundational genetics concepts, see [Basics](/genetics/basics).
 
 ---
 
@@ -90,7 +90,7 @@ The term "regular" means the seeds have not been genetically manipulated or trea
 
 ### Primary Use Cases
 
-- **Breeding programs:** Regular seeds are essential for any breeding work. Breeders need both male and female plants to create new crosses. See [[/genetics/breeding]] for breeding methodology.
+- **Breeding programs:** Regular seeds are essential for any breeding work. Breeders need both male and female plants to create new crosses. See [Breeding](/genetics/breeding) for breeding methodology.
 - **Phenotype hunting:** Growers looking for a unique "keeper" pheno will grow many regular seeds to find the individual plant that best expresses their desired traits.
 - **Mother plant selection:** Growers seeking a long-term mother plant often start from regular seeds, sex the plants, and select the best female as a permanent mother.
 - **Genetic preservation:** Seed banks preserve regular seed lines to maintain genetic diversity.
@@ -130,7 +130,7 @@ Colloidal silver is a suspension of microscopic silver particles in water. Silve
 | 3 | **Choose a branch to reverse** | Select a lower or isolated branch. Cover the rest of the plant with plastic to prevent CS contact with flower sites you want to keep clean. |
 | 4 | **Spray daily** | Spray the selected branch thoroughly with CS once daily, preferably at lights off or lights on. Continue for 10-21 days. |
 | 5 | **Monitor for male flowers** | After 7-14 days, male pollen sacs should begin forming on the sprayed branch. These look like normal male "balls." |
-| 6 | **Collect pollen** | When pollen sacs begin to open (typically 2-3 weeks after initial spraying), collect pollen carefully using the methods described in [[/genetics/breeding]]. |
+| 6 | **Collect pollen** | When pollen sacs begin to open (typically 2-3 weeks after initial spraying), collect pollen carefully using the methods described in [Breeding](/genetics/breeding). |
 | 7 | **Pollinate a different female** | Use the collected pollen to pollinate a *different* female plant (not the reversed one). Apply pollen to selected pistils using a brush or by dabbing. |
 | 8 | **Allow seeds to mature** | Seeds take 3-6 weeks to fully mature after pollination. Harvest when calyxes begin to dry and split. |warning
 Never consume flower from a plant treated with colloidal silver. Silver accumulation in plant tissue is not safe for consumption. The plant used for reversal should be discarded after pollen collection. Only the seeds produced from the pollination are safe to grow and consume the resulting flower from.
@@ -231,7 +231,7 @@ The result is a plant that flowers automatically while retaining most of the pho
 - **Total lifecycle:** Typically 8-12 weeks from seed to harvest.
 - **Plant size:** Generally smaller (1-4 feet) due to the ruderalis genetic contribution.
 
-For a detailed comparison of autoflowering vs. photoperiod cannabis, see [[/genetics/autoflower-vs-photoperiod]].
+For a detailed comparison of autoflowering vs. photoperiod cannabis, see [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod).
 
 ---
 
@@ -283,7 +283,7 @@ Cannabis strains are often categorized by their THC:CBD ratio:
 | Type | Ratio | Description | Use Case |
 |------|-------|-------------|----------|
 | **Type I** | THC-dominant (>0.3% THC, CBD <0.5%) | Traditional "marijuana" genetics. High THC, minimal CBD. | Recreational use, conditions where THC is the primary active compound. |
-| **Type II** | Balanced (approximately 1:1 THC:CBD) | Both cannabinoids present at meaningful levels. The "entourage effect" is theorized to be strongest at balanced ratios. See [[/science/cannabinoids]]. | Medical applications where both cannabinoids contribute to therapeutic effects. Balanced experience. |
+| **Type II** | Balanced (approximately 1:1 THC:CBD) | Both cannabinoids present at meaningful levels. The "entourage effect" is theorized to be strongest at balanced ratios. See [Cannabinoids](/science/cannabinoids). | Medical applications where both cannabinoids contribute to therapeutic effects. Balanced experience. |
 | **Type III** | CBD-dominant (<0.3% THC, high CBD) | "Hemp-type" genetics. Non-intoxicating (or minimally intoxicating). High CBD expression. | Medical/wellness applications without intoxication. Hemp industry. |
 
 ### How CBD-Rich Seeds Are Created
@@ -353,7 +353,7 @@ Select seeds that match your grow conditions:
 | **Beginner grower** | Autoflowers (forgiving, fast), resilient photoperiod indicas |
 | **Experienced grower** | Any genetics, including challenging sativas and rare landraces |
 
-See also [[/cultivation/index]] for environment-specific growing guides.
+See also [Cultivation](/cultivation/index) for environment-specific growing guides.
 
 ---
 
@@ -592,8 +592,8 @@ The seedling stage is the most vulnerable period in a cannabis plant's lifecycle
 
 ## See Also
 
-- [[/genetics/basics]] — Foundational cannabis genetics
-- [[/genetics/breeding]] — Breeding techniques and methodology
-- [[/genetics/autoflower-vs-photoperiod]] — Autoflowering vs. photoperiod comparison
-- [[/cultivation/index]] — General cultivation guide
-- [[/glossary/index]] — Cannabis cultivation terminology glossary
+- [Basics](/genetics/basics) — Foundational cannabis genetics
+- [Breeding](/genetics/breeding) — Breeding techniques and methodology
+- [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) — Autoflowering vs. photoperiod comparison
+- [Cultivation](/cultivation/index) — General cultivation guide
+- [Glossary](/glossary/index) — Cannabis cultivation terminology glossary

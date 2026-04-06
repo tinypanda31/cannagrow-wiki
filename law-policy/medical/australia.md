@@ -26,14 +26,14 @@ Australia's medical cannabis program has been **widely criticized as slow, expen
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/law-policy/medical/united-kingdom]] | Cannabis law in the United Kingdom — strict medical access |
-| [[/law-policy/medical/israel]] | Cannabis law in Israel — world-leading research |
-| [[/law-policy/medical/colombia]] | Cannabis law in Colombia — export-oriented medical framework |
-| [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/history/modern-legalization]] | The modern legalization movement |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/glossary/index]] | Cannabis terminology and definitions |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [United Kingdom](/law-policy/medical/united-kingdom) | Cannabis law in the United Kingdom — strict medical access |
+| [Israel](/law-policy/medical/israel) | Cannabis law in Israel — world-leading research |
+| [Colombia](/law-policy/medical/colombia) | Cannabis law in Colombia — export-oriented medical framework |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its global impact |
+| [Modern Legalization](/history/modern-legalization) | The modern legalization movement |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
 
 ---
 

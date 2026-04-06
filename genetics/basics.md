@@ -28,16 +28,16 @@ Understanding the genetic foundations of *Cannabis sativa* L. is essential for c
 
 ## Introduction
 
-Genetics are the blueprint from which every cannabis plant develops. Just as a building cannot exceed the structural limits defined by its architectural plans, a cannabis plant cannot express traits that its genetic code does not permit. Understanding this relationship between genetic potential and environmental expression is the foundation of both successful [[/cultivation/index]] and purposeful [[/genetics/breeding]].
+Genetics are the blueprint from which every cannabis plant develops. Just as a building cannot exceed the structural limits defined by its architectural plans, a cannabis plant cannot express traits that its genetic code does not permit. Understanding this relationship between genetic potential and environmental expression is the foundation of both successful [Cultivation](/cultivation/index) and purposeful [Breeding](/genetics/breeding).
 
 ### What Genetics Determine
 
 Genetics establish the **ceiling** of a plant's potential across numerous traits:
 
-- **Cannabinoid production capacity** — The types and maximum quantities of cannabinoids a plant can synthesize, including THC, CBD, CBG, and others (see [[/science/cannabinoids]])
-- **Terpene profile** — The aromatic and flavor compounds produced, which also influence the plant's effects and pest resistance (see [[/science/terpenes]])
+- **Cannabinoid production capacity** — The types and maximum quantities of cannabinoids a plant can synthesize, including THC, CBD, CBG, and others (see [Cannabinoids](/science/cannabinoids))
+- **Terpene profile** — The aromatic and flavor compounds produced, which also influence the plant's effects and pest resistance (see [Terpenes](/science/terpenes))
 - **Plant structure** — Height, branching pattern, internode length, and leaf morphology
-- **Flowering time** — Photoperiod-dependent or autoflowering behavior, and the duration from flowering initiation to maturity (see [[/genetics/autoflower-vs-photoperiod]])
+- **Flowering time** — Photoperiod-dependent or autoflowering behavior, and the duration from flowering initiation to maturity (see [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod))
 - **Sex expression** — Whether the plant develops as female, male, or hermaphroditic under stress
 - **Disease and pest resistance** — Natural defenses encoded in the plant's immune response genes
 - **Environmental tolerance** — Resilience to temperature extremes, humidity fluctuations, and nutrient variability
@@ -58,7 +58,7 @@ While genetics set the potential, environmental factors determine how much of th
 
 ### The Cultivation-Genetics Relationship
 
-Successful cultivation begins with selecting genetics appropriate for the growing environment and desired outcomes. A cultivator growing in a short outdoor season in a northern climate benefits from fast-flowering or [[/genetics/autoflower-vs-photoperiod|autoflowering]] genetics. A commercial indoor facility with optimized environmental controls may prioritize high-yielding photoperiod cultivars with specific [[/science/terpenes|terpene profiles]]. Understanding genetics allows cultivators to make informed [[/genetics/seeds|seed and clone selection]] decisions rather than relying on marketing claims alone.
+Successful cultivation begins with selecting genetics appropriate for the growing environment and desired outcomes. A cultivator growing in a short outdoor season in a northern climate benefits from fast-flowering or [Autoflower Vs Photoperiod|Autoflowering](/genetics/autoflower-vs-photoperiod|autoflowering) genetics. A commercial indoor facility with optimized environmental controls may prioritize high-yielding photoperiod cultivars with specific [Terpenes|Terpene Profiles](/science/terpenes|terpene profiles). Understanding genetics allows cultivators to make informed [Seeds|Seed And Clone Selection](/genetics/seeds|seed and clone selection) decisions rather than relying on marketing claims alone.
 
 ---
 
@@ -101,7 +101,7 @@ This means that every seed from the same cross is genetically unique. Consider t
 - **Parent A**: High-THC, lemon-terpene phenotype, tall sativa-dominant structure
 - **Parent B**: High-CBD, earthy-terpene phenotype, compact indica-dominant structure
 
-Their offspring (F1 generation) will each inherit a different mix of alleles from both parents. Some offspring may be high-THC like Parent A, others high-CBD like Parent B, and still others may exhibit intermediate cannabinoid ratios. Some may express the lemon terpene profile, others the earthy profile, and some may produce entirely new combinations. This genetic variability is the engine that drives [[/genetics/breeding|breeding programs]] forward.
+Their offspring (F1 generation) will each inherit a different mix of alleles from both parents. Some offspring may be high-THC like Parent A, others high-CBD like Parent B, and still others may exhibit intermediate cannabinoid ratios. Some may express the lemon terpene profile, others the earthy profile, and some may produce entirely new combinations. This genetic variability is the engine that drives [Breeding|Breeding Programs](/genetics/breeding|breeding programs) forward.
 
 ### Pheno-Hunting
 
@@ -115,7 +115,7 @@ The pheno-hunting process typically involves:
 4. **Selecting keepers** — Identifying the top 1–5% of individuals that best match breeding goals
 5. **Cloning and stabilizing** — Preserving selected phenotypes through vegetative propagation and further breeding to stabilize desirable traits
 
-**ℹ️ Pheno-hunting is why breeders often release a "population" of seeds from the same cross under different names — each named cultivar represents a specific selected phenotype. For example, a breeder may cross Gelato #33 with Sunset Sherbet and grow 200 seeds, then name the top individual "Wedding Cake" while releasing the remaining genetics as an unnamed population. See [[/strains/index]] for information on named cultivars.**
+**ℹ️ Pheno-hunting is why breeders often release a "population" of seeds from the same cross under different names — each named cultivar represents a specific selected phenotype. For example, a breeder may cross Gelato #33 with Sunset Sherbet and grow 200 seeds, then name the top individual "Wedding Cake" while releasing the remaining genetics as an unnamed population. See [Strains](/strains/index) for information on named cultivars.**
 
 ### Environmental Influence on Phenotype
 
@@ -166,11 +166,11 @@ The cannabis genome contains approximately **30,000–40,000 genes**, of which s
 - *THCA synthase* (*THCAS*) — Catalyzes the conversion of CBGA to THCA
 - *CBDA synthase* (*CBDAS*) — Catalyzes the conversion of CBGA to CBDA
 - *CBCA synthase* (*CBCAS*) — Catalyzes the conversion of CBGA to CBCA
-- These genes exist in multiple copies and variants, and their relative expression levels determine the plant's cannabinoid profile (see [[/science/cannabinoids]])
+- These genes exist in multiple copies and variants, and their relative expression levels determine the plant's cannabinoid profile (see [Cannabinoids](/science/cannabinoids))
 
 **Terpene Synthase Genes**
 - Multiple terpene synthase (TPS) genes code for enzymes that produce monoterpenes (e.g., limonene, myrcene, pinene, terpinolene) and sesquiterpenes (e.g., caryophyllene, humulene, farnesene)
-- The specific combination of active TPS genes determines the [[/science/terpenes|terpene profile]] of each cultivar
+- The specific combination of active TPS genes determines the [Terpenes|Terpene Profile](/science/terpenes|terpene profile) of each cultivar
 
 **Structural and Developmental Genes**
 - Genes controlling plant height, internode length, leaf morphology, and branching architecture
@@ -179,7 +179,7 @@ The cannabis genome contains approximately **30,000–40,000 genes**, of which s
 
 **Flowering Time Genes**
 - Photoperiod response genes that detect changes in day length and trigger the transition from vegetative growth to flowering
-- Autoflowering genes (derived from *subsp. ruderalis*) that trigger flowering based on plant age rather than photoperiod (see [[/genetics/autoflower-vs-photoperiod]])
+- Autoflowering genes (derived from *subsp. ruderalis*) that trigger flowering based on plant age rather than photoperiod (see [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod))
 
 **Stress Response and Defense Genes**
 - Genes encoding resistance to pathogens (e.g., *Botrytis*, powdery mildew)
@@ -222,7 +222,7 @@ Cannabis uses an **XY sex-determination system** similar to humans:
 
 The male parent determines the sex of the offspring because it can contribute either an X or a Y chromosome, while the female parent always contributes an X. This results in an approximately 50:50 sex ratio in seed populations.
 
-**⚠️ **Stress-Induced Hermaphroditism**: While genetic sex is determined by XX/XY chromosomes, environmental stress (light leaks during dark periods, extreme VPD, nutrient toxicity, physical damage, root rot) can cause female plants to develop male flowers (staminate flowers) — a condition called hermaphroditism or "herming." These flowers can produce pollen and fertilize other plants. Some genotypes are more prone to hermaphroditism than others, and this tendency has a genetic component. Modern breeders actively select against hermaphroditic tendencies. See [[/genetics/seeds]] for more on sex identification.**
+**⚠️ **Stress-Induced Hermaphroditism**: While genetic sex is determined by XX/XY chromosomes, environmental stress (light leaks during dark periods, extreme VPD, nutrient toxicity, physical damage, root rot) can cause female plants to develop male flowers (staminate flowers) — a condition called hermaphroditism or "herming." These flowers can produce pollen and fertilize other plants. Some genotypes are more prone to hermaphroditism than others, and this tendency has a genetic component. Modern breeders actively select against hermaphroditic tendencies. See [Seeds](/genetics/seeds) for more on sex identification.**
 
 ### Genetic Recombination and Why Breeding Two High-THC Plants Doesn't Guarantee High-THC Offspring
 
@@ -339,7 +339,7 @@ Polygenic traits are best improved through **selective breeding over multiple ge
 
 **Adaptations**: The defining adaptation of *subsp. ruderalis* is **autoflowering** — the ability to flower based on age rather than photoperiod. This evolved in response to the extremely short growing seasons of the Central Asian steppes, where plants cannot afford to wait for specific day lengths to flower. They must germinate, grow, flower, and set seed within a brief 2–3 month window. Additional adaptations include extreme cold tolerance, rapid lifecycle, and the ability to grow in poor soils.
 
-**ℹ️ *Subsp. ruderalis* is used almost exclusively as a **gene donor for the autoflowering trait**. Breeders cross ruderalis with elite sativa and indica cultivars, then backcross the autoflowering offspring to the elite parent repeatedly over multiple generations to recover the desirable traits while retaining the autoflowering gene. See [[/genetics/autoflower-vs-photoperiod]] for a detailed comparison of these flowering types.**
+**ℹ️ *Subsp. ruderalis* is used almost exclusively as a **gene donor for the autoflowering trait**. Breeders cross ruderalis with elite sativa and indica cultivars, then backcross the autoflowering offspring to the elite parent repeatedly over multiple generations to recover the desirable traits while retaining the autoflowering gene. See [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) for a detailed comparison of these flowering types.**
 
 ### Subspecies Comparison Table
 
@@ -419,7 +419,7 @@ Key historical periods in landrace collection and hybridization:
 
 ![Collection of landrace cannabis specimens showing morphological diversity across geographic origins — leaf samples, bud structure, and plant architecture comparison](/uploads/images/genetics/landrace-collection.jpg)
 
-**💡 Cultivators interested in preserving genetic diversity should consider growing landrace cultivars alongside modern hybrids. Landraces offer unique genetics not found in the modern hybrid pool and provide valuable genetic diversity for [[/genetics/breeding|breeding programs]]. They also offer insights into how cannabis adapts to specific environmental conditions, which can inform cultivation practices.**
+**💡 Cultivators interested in preserving genetic diversity should consider growing landrace cultivars alongside modern hybrids. Landraces offer unique genetics not found in the modern hybrid pool and provide valuable genetic diversity for [Breeding|Breeding Programs](/genetics/breeding|breeding programs). They also offer insights into how cannabis adapts to specific environmental conditions, which can inform cultivation practices.**
 
 ---
 
@@ -442,7 +442,7 @@ Multiple genetic studies have demonstrated that:
 
 1. **Nearly all modern strains are highly mixed hybrids.** Genetic fingerprinting studies (using DNA analysis) consistently show that commercial "indica" and "sativa" strains cannot be reliably distinguished at the genetic level. The genetic differentiation between purported indica and sativa strains is minimal compared to the variation within each group.
 
-2. **Effects are determined by chemical composition, not subspecies.** The effects a consumer experiences are determined by the specific combination of cannabinoids (THC, CBD, CBN, CBG, etc.) and terpenes (myrcene, limonene, pinene, caryophyllene, etc.) present in the flower — not by whether the plant has broad or narrow leaves. See [[/science/cannabinoids]] and [[/science/terpenes]].
+2. **Effects are determined by chemical composition, not subspecies.** The effects a consumer experiences are determined by the specific combination of cannabinoids (THC, CBD, CBN, CBG, etc.) and terpenes (myrcene, limonene, pinene, caryophyllene, etc.) present in the flower — not by whether the plant has broad or narrow leaves. See [Cannabinoids](/science/cannabinoids) and [Terpenes](/science/terpenes).
 
 3. **The names "indica" and "sativa" are more useful for describing plant structure than effects.** When breeders use these terms, they typically refer to **growth characteristics** (height, flowering time, leaf shape) rather than consumer effects. This is a legitimate use of the terminology within the breeding community.
 
@@ -463,14 +463,14 @@ The cannabis science community has developed more rigorous classification system
 
 **Chemotype Classification** (see section below): Classifies plants by their cannabinoid ratio profile (Type I through Type V) rather than by subspecies or presumed effects.
 
-**Terpene Profile Classification**: Classifies cultivars by their dominant terpenes (e.g., "myrcene-dominant," "limonene-dominant," "caryophyllene-dominant"), which has a stronger scientific basis for predicting aroma and potentially effects. See [[/science/terpenes]].
+**Terpene Profile Classification**: Classifies cultivars by their dominant terpenes (e.g., "myrcene-dominant," "limonene-dominant," "caryophyllene-dominant"), which has a stronger scientific basis for predicting aroma and potentially effects. See [Terpenes](/science/terpenes).
 
 **Genetic Lineage Classification**: Classifies cultivars by their documented breeding history and genetic parentage, which provides meaningful information for breeders and cultivators.
 
 **ℹ️ Info**
-The scientific consensus is that the indica/sativa distinction should be retired from consumer-facing product descriptions and replaced with information about cannabinoid content, terpene profiles, and documented lineage. However, these terms remain useful within the cultivation and breeding communities for describing plant morphology and growth characteristics. See [[/glossary/index]] for definitions of key terms.
+The scientific consensus is that the indica/sativa distinction should be retired from consumer-facing product descriptions and replaced with information about cannabinoid content, terpene profiles, and documented lineage. However, these terms remain useful within the cultivation and breeding communities for describing plant morphology and growth characteristics. See [Glossary](/glossary/index) for definitions of key terms.
 
-For a thorough debunking of the indica/sativa myth and other common cannabis misconceptions, see [[/science/bro-science]].
+For a thorough debunking of the indica/sativa myth and other common cannabis misconceptions, see [Bro Science](/science/bro-science).
 
 ---
 
@@ -521,7 +521,7 @@ Understanding chemotype is essential for cultivators because it determines the e
 - **Type III** cultivars are grown for medical markets, particularly where psychoactive effects are contraindicated
 - **Type IV** cultivars are an emerging market segment with growing demand
 - **Type V** cultivars are grown for industrial hemp (fiber, grain) or for extraction of non-cannabinoid compounds (terpenes, flavonoids) tip
-When selecting [[/genetics/seeds|genetics]] for cultivation, start by identifying the desired chemotype for your market or personal needs. Within a chemotype category, use [[/science/terpenes|terpene profiles]] and documented lineage to differentiate between cultivars. This approach is far more reliable than using indica/sativa labels for selection.
+When selecting [Seeds|Genetics](/genetics/seeds|genetics) for cultivation, start by identifying the desired chemotype for your market or personal needs. Within a chemotype category, use [Terpenes|Terpene Profiles](/science/terpenes|terpene profiles) and documented lineage to differentiate between cultivars. This approach is far more reliable than using indica/sativa labels for selection.
 
 ---
 
@@ -602,7 +602,7 @@ PCR-based sex testing allows cultivators to determine the genetic sex of cannabi
 
 The test detects Y-chromosome-specific DNA sequences. Plants with the Y-chromosome marker are male (XY); plants without it are female (XX). Accuracy rates exceed 99% when performed correctly.
 
-**💡 For small-scale cultivators, visual sex identification at the pre-flower stage (typically 4–6 weeks into vegetative growth) remains the most practical approach. See [[/genetics/seeds]] for guidance on identifying male and female pre-flowers. PCR-based sex testing is most valuable for large-scale operations where early male removal is economically critical.**
+**💡 For small-scale cultivators, visual sex identification at the pre-flower stage (typically 4–6 weeks into vegetative growth) remains the most practical approach. See [Seeds](/genetics/seeds) for guidance on identifying male and female pre-flowers. PCR-based sex testing is most valuable for large-scale operations where early male removal is economically critical.**
 
 **Genetic Preservation**
 
@@ -634,17 +634,17 @@ As genetic testing costs decrease and reference databases expand, the cannabis i
 - **Genomic selection**: Using genome-wide marker data to predict breeding values and accelerate improvement of complex polygenic traits
 - **Reference genome panels**: Comprehensive, publicly available genetic profiles of thousands of cultivars enabling accurate strain verification worldwide
 - **Epigenetic profiling**: Understanding how cultivation practices influence gene expression at the epigenetic level, allowing cultivators to optimize environmental conditions for specific genetic profiles info
-The pace of genetic research in cannabis is accelerating as legalization expands and research restrictions loosen. Cultivators and breeders who understand the fundamentals covered on this page will be well-positioned to leverage these advances as they become commercially available. For deeper exploration of applied breeding genetics, see [[/genetics/breeding]].
+The pace of genetic research in cannabis is accelerating as legalization expands and research restrictions loosen. Cultivators and breeders who understand the fundamentals covered on this page will be well-positioned to leverage these advances as they become commercially available. For deeper exploration of applied breeding genetics, see [Breeding](/genetics/breeding).
 
 ---
 
 ## See Also
 
-- [[/strains/index]] — Cannabis cultivar database and profiles
-- [[/cultivation/index]] — Cultivation guides and techniques
-- [[/science/cannabinoids]] — Cannabinoid chemistry and pharmacology
-- [[/science/terpenes]] — Terpene profiles and the entourage effect
-- [[/glossary/index]] — Cannabis terminology glossary
-- [[/genetics/breeding]] — Cannabis breeding techniques and methodologies
-- [[/genetics/seeds]] — Seed selection, germination, and sex identification
-- [[/genetics/autoflower-vs-photoperiod]] — Detailed comparison of autoflowering and photoperiod-dependent genetics
+- [Strains](/strains/index) — Cannabis cultivar database and profiles
+- [Cultivation](/cultivation/index) — Cultivation guides and techniques
+- [Cannabinoids](/science/cannabinoids) — Cannabinoid chemistry and pharmacology
+- [Terpenes](/science/terpenes) — Terpene profiles and the entourage effect
+- [Glossary](/glossary/index) — Cannabis terminology glossary
+- [Breeding](/genetics/breeding) — Cannabis breeding techniques and methodologies
+- [Seeds](/genetics/seeds) — Seed selection, germination, and sex identification
+- [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) — Detailed comparison of autoflowering and photoperiod-dependent genetics

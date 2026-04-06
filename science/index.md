@@ -94,7 +94,7 @@ All cannabinoids begin from a single precursor molecule:
 - **Decarboxylation** removes the carboxyl group (-COOH) from acidic cannabinoids through heat or time, converting them to their active neutral forms (THCA → THC, CBDA → CBD).
 - **Aging and oxidation** further transform cannabinoids (THC → CBN), changing the chemical profile of stored cannabis.
 
-See [[/science/cannabinoids]] for detailed profiles of every major cannabinoid, including chemical structures, formation pathways, and documented effects.
+See [Cannabinoids](/science/cannabinoids) for detailed profiles of every major cannabinoid, including chemical structures, formation pathways, and documented effects.
 
 ---
 
@@ -136,7 +136,7 @@ Terpenes are delicate and easily degraded by:
 
 Proper cultivation, harvesting, and extraction techniques are essential for preserving the full terpene profile of cannabis.
 
-See [[/science/terpenes]] for detailed profiles of every major terpene, including biochemistry, boiling points, and the entourage effect.
+See [Terpenes](/science/terpenes) for detailed profiles of every major terpene, including biochemistry, boiling points, and the entourage effect.
 
 ---
 
@@ -226,7 +226,7 @@ The route by which cannabis compounds enter the body significantly affects how q
 | **Rectal** | 15-30 min | 1-3 hours | 6-8 hours | High (13x oral) | Rectal mucosa absorption; avoids first-pass liver metabolism |
 | **Dabbing (concentrates)** | Immediate | 5-15 min | 1-3 hours | Very high | Extreme potency → rapid, intense CB1 activation |
 
-See [[/consumption/index]] for detailed coverage of each consumption method.
+See [Consumption](/consumption/index) for detailed coverage of each consumption method.
 
 ---
 
@@ -252,10 +252,10 @@ Several factors explain why the same strain or dose can produce different effect
 
 | Page | Coverage |
 |------|----------|
-| [[/science/cannabinoids]] | Detailed profiles of THC, CBD, CBG, CBN, CBC, THCV, THCA, Δ8-THC — chemical structures, formation, biosynthesis, receptor activity, effects, and lab testing |
-| [[/science/terpenes]] | Comprehensive terpene profiles, boiling points, biochemistry, the entourage effect, strain selection by terpene profile, and terpene preservation |
-| [[/science/decarboxylation]] | Complete decarboxylation guide — chemistry, time/temperature curves, methods for flower and all concentrate types, potency math |
-| [[/science/bro-science]] | Debunking 12 common cannabis myths with scientific evidence — from "weed kills brain cells" to the indica/sativa debate, flushing myths, and medical claims |
+| [Cannabinoids](/science/cannabinoids) | Detailed profiles of THC, CBD, CBG, CBN, CBC, THCV, THCA, Δ8-THC — chemical structures, formation, biosynthesis, receptor activity, effects, and lab testing |
+| [Terpenes](/science/terpenes) | Comprehensive terpene profiles, boiling points, biochemistry, the entourage effect, strain selection by terpene profile, and terpene preservation |
+| [Decarboxylation](/science/decarboxylation) | Complete decarboxylation guide — chemistry, time/temperature curves, methods for flower and all concentrate types, potency math |
+| [Bro Science](/science/bro-science) | Debunking 12 common cannabis myths with scientific evidence — from "weed kills brain cells" to the indica/sativa debate, flushing myths, and medical claims |
 
 ---
 
@@ -268,14 +268,14 @@ Several factors explain why the same strain or dose can produce different effect
 - **The Endocannabinoid System: A Brief Review** — *Handbook of Experimental Pharmacology*
 
 ### Internal Cross-References
-- [[/strains/index]] — Strain database with cannabinoid and terpene profiles
-- [[/consumption/index]] — Consumption methods and bioavailability
-- [[/extraction/index]] — Extraction methods and compound preservation
-- [[/cultivation/index]] — Cultivation practices affecting cannabinoid and terpene content
-- [[/glossary/index]] — Glossary of scientific terms
+- [Strains](/strains/index) — Strain database with cannabinoid and terpene profiles
+- [Consumption](/consumption/index) — Consumption methods and bioavailability
+- [Extraction](/extraction/index) — Extraction methods and compound preservation
+- [Cultivation](/cultivation/index) — Cultivation practices affecting cannabinoid and terpene content
+- [Glossary](/glossary/index) — Glossary of scientific terms
 
 ---
 
-*This section is continuously updated as new cannabis research is published. For editorial standards and sourcing policies, see [[/about/editorial]].*
+*This section is continuously updated as new cannabis research is published. For editorial standards and sourcing policies, see [Editorial](/about/editorial).*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

@@ -35,14 +35,14 @@ This page maps the full complexity of US cannabis law: the federal framework, th
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/history/prohibition-era]] | How cannabis prohibition emerged in the US |
-| [[/history/war-on-drugs]] | The War on Dogs and its domestic and global impact |
-| [[/history/modern-legalization]] | The modern movement toward legalization |
-| [[/law-policy/index]] | Legal rights and harm reduction |
-| [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
-| [[/glossary/index]] | Cannabis terminology and definitions |
-| [[/science/cannabinoids]] | Cannabinoid science and research |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Prohibition Era](/history/prohibition-era) | How cannabis prohibition emerged in the US |
+| [War On Drugs](/history/war-on-drugs) | The War on Dogs and its domestic and global impact |
+| [Modern Legalization](/history/modern-legalization) | The modern movement toward legalization |
+| [Law Policy](/law-policy/index) | Legal rights and harm reduction |
+| [Harm Reduction](/legal-safety/harm-reduction) | Practical harm reduction guidance |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
+| [Cannabinoids](/science/cannabinoids) | Cannabinoid science and research |
 
 ---
 
@@ -364,8 +364,8 @@ This is one of the few areas where cannabis legalization intersects directly wit
 
 ### Related Reading
 
-- [[/history/modern-legalization]] — Tribal nations as part of the modern legalization movement
-- [[/law-policy/index]] — Global context for indigenous cannabis cultivation
+- [Modern Legalization](/history/modern-legalization) — Tribal nations as part of the modern legalization movement
+- [Law Policy](/law-policy/index) — Global context for indigenous cannabis cultivation
 
 ---
 
@@ -533,15 +533,15 @@ These are not peripheral questions. They are the central questions of US cannabi
 
 | Page | Description |
 |------|-------------|
-| [[/law-policy/index]] | Global overview of cannabis law and policy |
-| [[/history/prohibition-era]] | How cannabis prohibition emerged in the US |
-| [[/history/war-on-drugs]] | The War on Drugs and its domestic and global impact |
-| [[/history/modern-legalization]] | The modern movement toward legalization |
-| [[/law-policy/index]] | Understanding your legal rights |
-| [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
-| [[/glossary/index]] | Cannabis terminology and definitions |
-| [[/science/cannabinoids]] | Cannabinoid science and research |
-| [[/sustainability/index]] | Environmental and social sustainability in cannabis |
+| [Law Policy](/law-policy/index) | Global overview of cannabis law and policy |
+| [Prohibition Era](/history/prohibition-era) | How cannabis prohibition emerged in the US |
+| [War On Drugs](/history/war-on-drugs) | The War on Drugs and its domestic and global impact |
+| [Modern Legalization](/history/modern-legalization) | The modern movement toward legalization |
+| [Law Policy](/law-policy/index) | Understanding your legal rights |
+| [Harm Reduction](/legal-safety/harm-reduction) | Practical harm reduction guidance |
+| [Glossary](/glossary/index) | Cannabis terminology and definitions |
+| [Cannabinoids](/science/cannabinoids) | Cannabinoid science and research |
+| [Sustainability](/sustainability/index) | Environmental and social sustainability in cannabis |
 
 ---
 

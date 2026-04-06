@@ -281,7 +281,7 @@ Without lab equipment, monitor decarboxylation by:
 
 - **Full decarboxylation is required** — aim for 85-95% conversion
 - Infuse decarbed material into fat (butter, coconut oil, MCT oil) — cannabinoids are lipophilic
-- See [[/consumption/edibles/index]] for detailed edible preparation and dosing guidance
+- See [Edibles](/consumption/edibles/index) for detailed edible preparation and dosing guidance
 
 ### For Tinctures
 
@@ -299,7 +299,7 @@ Without lab equipment, monitor decarboxylation by:
 
 - Same requirements as edibles — full decarboxylation before encapsulation
 - Decarbed cannabis is typically mixed with a carrier oil (MCT, olive oil) before filling capsules
-- See [[/consumption/tinctures/index]] for carrier oil selection guidance
+- See [Tinctures](/consumption/tinctures/index) for carrier oil selection guidance
 
 ---
 
@@ -334,16 +334,16 @@ Without lab equipment, monitor decarboxylation by:
 
 ## Related Pages
 
-- [[/science/cannabinoids]] — Detailed cannabinoid profiles and chemistry
-- [[/science/terpenes]] — Terpene profiles, boiling points, and preservation
-- [[/consumption/edibles/index]] — Edible preparation, dosing, and the 11-hydroxy-THC pathway
-- [[/consumption/tinctures/index]] — Tincture preparation and sublingual use
-- [[/extraction/index]] — Overview of all extraction methods
-- [[/extraction/rosin-press]] — Rosin extraction (partially decarbs during pressing)
-- [[/extraction/distillate]] — Distillation (requires fully decarbed feedstock)
+- [Cannabinoids](/science/cannabinoids) — Detailed cannabinoid profiles and chemistry
+- [Terpenes](/science/terpenes) — Terpene profiles, boiling points, and preservation
+- [Edibles](/consumption/edibles/index) — Edible preparation, dosing, and the 11-hydroxy-THC pathway
+- [Tinctures](/consumption/tinctures/index) — Tincture preparation and sublingual use
+- [Extraction](/extraction/index) — Overview of all extraction methods
+- [Rosin Press](/extraction/rosin-press) — Rosin extraction (partially decarbs during pressing)
+- [Distillate](/extraction/distillate) — Distillation (requires fully decarbed feedstock)
 
 ---
 
 *Decarboxylation is a foundational process that connects raw cannabis to the vast majority of cannabis products. Understanding it is essential for anyone working with cannabis in any form beyond smoking or vaporizing.*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

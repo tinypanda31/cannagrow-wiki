@@ -914,7 +914,7 @@ FDA-approved THC-based medications include:
 
 Research continues into THC's potential for chronic pain management, PTSD, and neurological conditions, though larger-scale clinical trials remain limited by regulatory restrictions in many jurisdictions.
 
-For a critical look at common misconceptions and exaggerated claims about cannabis compounds, see [[/science/bro-science]].
+For a critical look at common misconceptions and exaggerated claims about cannabis compounds, see [Bro Science](/science/bro-science).
 
 #### Potency Ranges
 

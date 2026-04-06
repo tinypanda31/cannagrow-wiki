@@ -404,6 +404,6 @@ If you are uncertain whether your content meets these standards:
 
 ---
 
-*See also: [About CannaGrow](/about) | [How to Use This Wiki](/about/how-to-use) | [Home](/home)*
+*See also: [About CannaGrow](/about/about) | [How to Use This Wiki](/about/how-to-use) | [Home](/home)*
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](/about).*
+*Last updated: April 2026 | CannaGrow is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

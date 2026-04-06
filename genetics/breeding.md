@@ -24,9 +24,9 @@ People breed cannabis for a wide variety of reasons:
 
 - **Creating new strains** — Combining genetics from two different cultivars to produce something novel, with a unique name, flavor profile, and effect.
 - **Improving existing traits** — Enhancing yield, potency, disease resistance, drought tolerance, mold resistance, or structural characteristics.
-- **Targeting specific cannabinoid profiles** — Breeding for higher THC, balanced THC:CBD ratios, high CBG, or other minor cannabinoid expressions. See also the [[/science/cannabinoids]] page for details on cannabinoid biosynthesis.
-- **Targeting specific terpene profiles** — Breeding for particular aromas and flavors (fuel, fruit, diesel, floral, tropical) by selecting parents with strong terpene expression. See also [[/science/terpenes]].
-- **Adapting genetics to specific growing conditions** — Breeding strains suited for outdoor northern climates, indoor tents, greenhouse environments, or high-altitude grows. See also [[/cultivation/index]].
+- **Targeting specific cannabinoid profiles** — Breeding for higher THC, balanced THC:CBD ratios, high CBG, or other minor cannabinoid expressions. See also the [Cannabinoids](/science/cannabinoids) page for details on cannabinoid biosynthesis.
+- **Targeting specific terpene profiles** — Breeding for particular aromas and flavors (fuel, fruit, diesel, floral, tropical) by selecting parents with strong terpene expression. See also [Terpenes](/science/terpenes).
+- **Adapting genetics to specific growing conditions** — Breeding strains suited for outdoor northern climates, indoor tents, greenhouse environments, or high-altitude grows. See also [Cultivation](/cultivation/index).
 - **Preserving genetics** — Maintaining and stabilizing landrace or heritage genetics before they are lost to cross-pollination, habitat destruction, or commercial homogenization.
 
 ### Breeding vs. Growing
@@ -41,7 +41,7 @@ It is important to understand the distinction between **breeding** and **growing
 | **Output** | Seeds carrying new genetics | Harvested flower biomass |
 | **Skills** | Genetics knowledge, record-keeping, patience, observation | Horticulture, environmental control, nutrient management |
 
-Many growers do both — they grow existing strains for flower while maintaining a separate breeding project to develop their own genetics. See also [[/genetics/basics]] for foundational genetics concepts.
+Many growers do both — they grow existing strains for flower while maintaining a separate breeding project to develop their own genetics. See also [Basics](/genetics/basics) for foundational genetics concepts.
 
 ---
 
@@ -127,7 +127,7 @@ A complete breeding project from initial cross to stable cultivar can take **1-4
 
 Selective breeding through phenotype hunting is the most common and accessible breeding approach. It requires no specialized equipment beyond a grow space, seeds, and careful observation — but it does demand patience and meticulous record-keeping.
 
-**ℹ️ A **phenotype** ("pheno") is the observable expression of a plant's genetics — its structure, aroma, color, potency, flowering time, yield, disease resistance, and all other visible and measurable traits. Two plants grown from seeds of the same cross can look and perform very differently because each seed carries a unique combination of the parents' genes. See also [[/glossary/index]] for terminology.**
+**ℹ️ A **phenotype** ("pheno") is the observable expression of a plant's genetics — its structure, aroma, color, potency, flowering time, yield, disease resistance, and all other visible and measurable traits. Two plants grown from seeds of the same cross can look and perform very differently because each seed carries a unique combination of the parents' genes. See also [Glossary](/glossary/index) for terminology.**
 
 ### The Step-by-Step Process
 
@@ -354,7 +354,7 @@ Every breeder must navigate the tension between inbreeding (which fixes traits) 
 Inbreeding involves crossing closely related individuals:
 
 - **Sibling crosses (sib crosses):** The most common form of inbreeding in cannabis breeding. Brother × sister from the same cross.
-- **Selfing:** A plant is crossed with itself. In cannabis, this is achieved by using a reversed female (see [[/genetics/seeds]]) to pollinate the same plant, or by using a hermaphroditic plant's own pollen. Selfing produces the most rapid fixation of traits but also the highest risk of inbreeding depression.
+- **Selfing:** A plant is crossed with itself. In cannabis, this is achieved by using a reversed female (see [Seeds](/genetics/seeds)) to pollinate the same plant, or by using a hermaphroditic plant's own pollen. Selfing produces the most rapid fixation of traits but also the highest risk of inbreeding depression.
 - **Parent-offspring crosses:** A form of backcrossing (see above).
 
 **Advantages of inbreeding:**
@@ -486,7 +486,7 @@ Female cannabis plants carry two X chromosomes (XX). When a female is reversed (
 - **Reversed female × different female:** Maintains genetic diversity. The offspring carry genetics from two different cultivars. This is the recommended approach for most breeding programs.
 - **Reversed female × self (S1):** Creates a near-clone of the mother plant in seed form. Maximum trait fixation, maximum inbreeding risk. Useful for preserving a specific exceptional plant, but the resulting S1 line should be outcrossed to restore vigor before further inbreeding.
 
-For detailed protocols on feminized seed production, see [[/genetics/seeds]].
+For detailed protocols on feminized seed production, see [Seeds](/genetics/seeds).
 
 ---
 
@@ -586,11 +586,11 @@ Support breeders who are working on preservation, diversity, and ethical practic
 
 ## See Also
 
-- [[/genetics/basics]] — Foundational cannabis genetics
-- [[/genetics/seeds]] — Seed types and production methods
-- [[/genetics/autoflower-vs-photoperiod]] — Autoflowering vs. photoperiod genetics
-- [[/strains/index]] — Strain directory and taxonomy
-- [[/science/cannabinoids]] — Cannabinoid biosynthesis and profiles
-- [[/science/terpenes]] — Terpene profiles and inheritance
-- [[/cultivation/index]] — General cultivation guide
-- [[/glossary/index]] — Cannabis cultivation terminology glossary
+- [Basics](/genetics/basics) — Foundational cannabis genetics
+- [Seeds](/genetics/seeds) — Seed types and production methods
+- [Autoflower Vs Photoperiod](/genetics/autoflower-vs-photoperiod) — Autoflowering vs. photoperiod genetics
+- [Strains](/strains/index) — Strain directory and taxonomy
+- [Cannabinoids](/science/cannabinoids) — Cannabinoid biosynthesis and profiles
+- [Terpenes](/science/terpenes) — Terpene profiles and inheritance
+- [Cultivation](/cultivation/index) — General cultivation guide
+- [Glossary](/glossary/index) — Cannabis cultivation terminology glossary

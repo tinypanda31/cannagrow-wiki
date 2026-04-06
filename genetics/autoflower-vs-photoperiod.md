@@ -32,7 +32,7 @@ This page covers:
 - The future of autoflowering genetics
 - A decision framework for choosing
 
-For foundational genetics concepts, see [[/genetics/basics]]. For seed types, see [[/genetics/seeds]]. For breeding methodology, see [[/genetics/breeding]].
+For foundational genetics concepts, see [Basics](/genetics/basics). For seed types, see [Seeds](/genetics/seeds). For breeding methodology, see [Breeding](/genetics/breeding).
 
 ---
 
@@ -98,7 +98,7 @@ Ruderalis plants are typically small (1-2 feet), sparse in flower production, an
 - **Compact size:** Usually 1-4 feet tall due to ruderalis genetic contribution.
 - **Cannot be cloned effectively:** Because flowering is age-based, a cutting from an autoflowering mother would begin flowering immediately (at the same age as the mother), resulting in a tiny, low-yielding plant.
 
-For details on seed types including autoflowering seeds, see [[/genetics/seeds]].
+For details on seed types including autoflowering seeds, see [Seeds](/genetics/seeds).
 
 ---
 
@@ -183,15 +183,15 @@ Photoperiod cannabis is the right choice when your goals, environment, or experi
 
 | Scenario | Why Photoperiod Works |
 |----------|----------------------|
-| **Breeding programs** | Photoperiod plants can be cloned, maintained as mothers, and used in controlled breeding programs over extended periods. Essential for [[/genetics/breeding]]. |
+| **Breeding programs** | Photoperiod plants can be cloned, maintained as mothers, and used in controlled breeding programs over extended periods. Essential for [Breeding](/genetics/breeding). |
 | **Maximum yield per plant** | Extended vegetative growth allows plants to reach full size, maximizing yield per individual plant. |
-| **Full training flexibility** | All training techniques are available — topping, FIM, main-lining, ScrOG, super cropping, defoliation. See [[/cultivation/training]] for techniques. |
+| **Full training flexibility** | All training techniques are available — topping, FIM, main-lining, ScrOG, super cropping, defoliation. See [Training](/cultivation/training) for techniques. |
 | **Cloning mother plants** | A photoperiod mother can be maintained indefinitely and produce unlimited clones, providing genetic consistency across multiple grows. |
 | **Commercial operations** | Predictable light scheduling, cloning capability, and maximum yield per square foot make photoperiods the standard for commercial cultivation. |
 | **Controlling vegetative size** | Growers who want to dictate exactly how large a plant gets before flowering can do so by controlling vegetative duration. |
 | **Growers with patience** | If timeline is not a constraint, the extra time invested in photoperiod cultivation is rewarded with larger plants and more growing flexibility. |
 | **Learning and experimentation** | The longer cycle gives growers time to observe, learn, and correct course. Mistakes can be remedied with extra vegetative time. |
-| **Outdoor growing in warm, long-season climates** | In equatorial or near-equatorial regions, photoperiod plants have months of vegetative growth to become massive before flowering is triggered by gradually shortening days. See [[/cultivation/outdoor/index]]. |
+| **Outdoor growing in warm, long-season climates** | In equatorial or near-equatorial regions, photoperiod plants have months of vegetative growth to become massive before flowering is triggered by gradually shortening days. See [Outdoor](/cultivation/outdoor/index). |
 | **Indoor SCROG (Screen of Green)** | Photoperiods are ideal for SCROG setups because the vegetative period can be extended to fully fill the screen before flipping to flower. |
 
 ---
@@ -206,10 +206,10 @@ Autoflowering cannabis excels in scenarios where speed, simplicity, compactness,
 |----------|------------------------|
 | **Beginners** | Autos are forgiving of light schedule mistakes (no 12/12 flip to manage), come as feminized seeds (no sexing needed), and have a fast cycle that accelerates the learning process. |
 | **Outdoor growers wanting multiple harvests** | By planting autos in succession (every 2-4 weeks), outdoor growers can achieve 2-4 harvests in a single growing season instead of one. |
-| **Short-season climates** | In northern or high-altitude regions with short growing seasons, autos can complete their full lifecycle before the first frost. See [[/cultivation/outdoor/index]]. |
+| **Short-season climates** | In northern or high-altitude regions with short growing seasons, autos can complete their full lifecycle before the first frost. See [Outdoor](/cultivation/outdoor/index). |
 | **Stealth and guerrilla grows** | Small size and fast cycle make autos ideal for discreet outdoor grows in hidden locations. They spend less time visible and are less likely to be discovered. |
 | **Perpetual harvest setups** | Indoors, autos enable a continuous harvest cycle — as one batch finishes, the next is entering flower, and a new batch is germinating. |
-| **Limited vertical space** | Autos' compact size (1-4 feet) makes them ideal for small tents, closets, or spaces with height restrictions. See [[/cultivation/indoor/index]]. |
+| **Limited vertical space** | Autos' compact size (1-4 feet) makes them ideal for small tents, closets, or spaces with height restrictions. See [Indoor](/cultivation/indoor/index). |
 | **Fast turnaround needs** | When time is critical — whether for a specific deadline, a medical need, or simply impatience — autos deliver harvestable flower in 8-12 weeks from seed. |
 | **Soil health rotation** | Autos can be used as a quick "cover crop" between photoperiod cycles, helping maintain soil biology and structure without requiring a full photoperiod commitment. |
 | **Testing new genetics** | Because autos complete their cycle quickly, they are an efficient way to evaluate new genetics before committing to a full photoperiod grow. |
@@ -226,11 +226,11 @@ Growing photoperiod and autoflowering cannabis requires different approaches. Un
 | Factor | Photoperiod Cultivation | Autoflowering Cultivation |
 |--------|----------------------|--------------------------|
 | **Medium** | Flexible — can use any medium (soil, coco, hydroponics). Nutrient programs can be adjusted throughout the lifecycle. Living soil can be built and charged during vegetative growth. | Pre-charged, nutrient-rich medium from day one. Living soil with established microbial life is ideal. There is no time to adjust or build nutrients later — the auto is on a fixed clock. Coco and hydroponics work but require precise nutrient management from the start. |
-| **Training** | All techniques available. Topping, FIM, main-lining, ScrOG, super cropping, defoliation, and monster cropping are all viable. See [[/cultivation/training]]. | Low-Stress Training (LST) only. Gently bending and tying branches to open the canopy. High-Stress Training (topping, cutting) stunts the plant, and the auto plant cannot afford lost time on its fixed clock. Defoliation should be light and minimal. |
+| **Training** | All techniques available. Topping, FIM, main-lining, ScrOG, super cropping, defoliation, and monster cropping are all viable. See [Training](/cultivation/training). | Low-Stress Training (LST) only. Gently bending and tying branches to open the canopy. High-Stress Training (topping, cutting) stunts the plant, and the auto plant cannot afford lost time on its fixed clock. Defoliation should be light and minimal. |
 | **Transplanting** | Standard progressive up-potting — start in small containers (solo cups), transplant to larger pots as the plant grows. This encourages strong root development and reduces the risk of overwatering in early stages. | **Plant directly in final container from seed.** Transplanting causes stress and root disturbance, and an auto plant loses valuable growing time recovering from transplant shock. Start in a 3-5 gallon final pot. |
 | **Lighting** | Vegetative: 18/6 (or 20/4, 24/0). Flowering: strict 12/12. Light leaks during the 12-hour dark period can cause stress, re-vegetation, or hermaphroditism. Light deprivation must be airtight. | 18-24 hours of light throughout the entire lifecycle. No dark period is required. Many auto growers run 20/4 (20 hours on, 4 hours off) as a compromise between maximum growth and equipment rest. No risk of light-leak issues during flowering. |
 | **Nutrients** | Can start with very light feeding and increase progressively through vegetative and flowering stages. Heavy feeding is possible during extended vegetative growth. Flush period before harvest is standard practice. | Generally lighter feeding overall — the shorter lifecycle means less total nutrient demand. However, the plant needs accessible nutrients from day one since there is no extended vegetative period for buildup. Avoid overfeeding — autos are generally more sensitive to nutrient burn. |
-| **Pest and Disease Management** | If pest or disease issues arise, the plant can be treated and given extra vegetative time to recover before flowering. More margin for error. | **Zero margin for error.** A pest infestation or disease outbreak during the short auto lifecycle can devastate the entire crop before it has time to recover. Preventive IPM (Integrated Pest Management) is essential. See [[/cultivation/index]] for pest management strategies. |
+| **Pest and Disease Management** | If pest or disease issues arise, the plant can be treated and given extra vegetative time to recover before flowering. More margin for error. | **Zero margin for error.** A pest infestation or disease outbreak during the short auto lifecycle can devastate the entire crop before it has time to recover. Preventive IPM (Integrated Pest Management) is essential. See [Cultivation](/cultivation/index) for pest management strategies. |
 | **Watering** | Standard watering practices — allow medium to dry appropriately between waterings, increasing volume as the plant grows. | Similar principles, but be especially careful not to overwater seedlings — the small auto root system in a large final container is prone to overwatering. Water in small circles near the seedling until roots expand. |
 | **Harvest timing** | Harvest is determined by trichome maturity (milky/amber ratio), which the grower can monitor and time precisely. | Same trichome-based assessment, but the window may be narrower — autos can mature quickly and go from "not ready" to "past peak" faster than photoperiods. Monitor closely from week 7 onward. |
 
@@ -305,7 +305,7 @@ These techniques cause the plant to pause growth for recovery — time that an a
 **Reality:** While autos are excellent for beginners, many experienced and commercial growers run autoflowering operations for specific reasons:
 
 - **Perpetual harvest efficiency** — autos allow continuous, predictable harvests on a schedule.
-- **Phenotype hunting speed** — autos complete their cycle in 8-12 weeks, allowing breeders to evaluate large numbers of genetics quickly. See [[/genetics/breeding]] for pheno-hunting.
+- **Phenotype hunting speed** — autos complete their cycle in 8-12 weeks, allowing breeders to evaluate large numbers of genetics quickly. See [Breeding](/genetics/breeding) for pheno-hunting.
 - **Market demand** — the legal cannabis market increasingly demands autoflowering genetics for home grower products.
 - **Greenhouse efficiency** — autos in greenhouse environments can produce successive harvests year-round in temperate climates.
 - **Outdoor multi-harvest strategies** — experienced outdoor growers use autos to achieve 3-4 harvests per season from the same plot.
@@ -399,7 +399,7 @@ Consider each of the following questions:
 | **Indoor, large room (4×4 ft+)** | Either — photoperiods benefit from the space; autos maximize the number of plants per cycle. |
 | **Indoor, limited height (< 5 ft)** | Autoflowering — naturally compact. Photoperiods would require heavy training. |
 | **Outdoor, warm, long season** | Photoperiod — plants have time to grow large and produce massive yields. |
-| **Outdoor, short season / cold climate** | Autoflowering — completes lifecycle before frost. See [[/cultivation/outdoor/index]]. |
+| **Outdoor, short season / cold climate** | Autoflowering — completes lifecycle before frost. See [Outdoor](/cultivation/outdoor/index). |
 | **Greenhouse** | Either — greenhouse growers successfully use both types. Autos for successive harvests; photoperiods for maximum size. |
 | **Balcony / small outdoor** | Autoflowering — stealth, compact, and fast. |
 
@@ -411,7 +411,7 @@ Consider each of the following questions:
 | **Speed / fast harvest** | Autoflowering — 8-12 weeks from seed to harvest. |
 | **Learning and skill development** | Photoperiod — more techniques and variables provide a deeper learning experience. |
 | **Discretion / stealth** | Autoflowering — small, fast, and less conspicuous. |
-| **Breeding new genetics** | Photoperiod — essential for breeding programs. See [[/genetics/breeding]]. |
+| **Breeding new genetics** | Photoperiod — essential for breeding programs. See [Breeding](/genetics/breeding). |
 | **Perpetual harvest** | Autoflowering — successive plantings enable continuous harvests. |
 | **Cloning / maintaining a mother** | Photoperiod — only photoperiods can be maintained as indefinite mothers. |
 | **Testing many genetics quickly** | Autoflowering — fast cycle allows rapid evaluation of many strains. |
@@ -450,12 +450,12 @@ Many experienced growers run **both** photoperiod and autoflowering genetics sim
 
 ## See Also
 
-- [[/genetics/basics]] — Foundational cannabis genetics
-- [[/genetics/breeding]] — Breeding techniques and methodology
-- [[/genetics/seeds]] — Seed types, selection, germination, and seedling care
-- [[/cultivation/index]] — General cultivation guide
-- [[/cultivation/indoor/index]] — Indoor growing guide
-- [[/cultivation/outdoor/index]] — Outdoor growing guide
-- [[/cultivation/training]] — Plant training techniques
-- [[/strains/index]] — Strain directory and taxonomy
-- [[/glossary/index]] — Cannabis cultivation terminology glossary
+- [Basics](/genetics/basics) — Foundational cannabis genetics
+- [Breeding](/genetics/breeding) — Breeding techniques and methodology
+- [Seeds](/genetics/seeds) — Seed types, selection, germination, and seedling care
+- [Cultivation](/cultivation/index) — General cultivation guide
+- [Indoor](/cultivation/indoor/index) — Indoor growing guide
+- [Outdoor](/cultivation/outdoor/index) — Outdoor growing guide
+- [Training](/cultivation/training) — Plant training techniques
+- [Strains](/strains/index) — Strain directory and taxonomy
+- [Glossary](/glossary/index) — Cannabis cultivation terminology glossary

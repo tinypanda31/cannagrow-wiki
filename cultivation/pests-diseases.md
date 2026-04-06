@@ -331,6 +331,8 @@ Whenever introducing new genetics (clones, seeds, plants) to an existing grow sp
 
 ## Related Pages
 
+- **[Indoor Grow Guide](/cultivation/indoor/grow-guide)** -- Complete indoor grow with pest scouting schedules, IPM timeline, and troubleshooting tables
+- **[Outdoor Grow Guide](/cultivation/outdoor/grow-guide)** -- Complete outdoor grow with companion planting, beneficial insect release, and organic IPM
 - **[Environmental Control](/cultivation/indoor/environment)** -- Environmental conditions that promote or prevent disease
 - **[Indoor Growing](/cultivation/indoor/index)** -- Maintaining a clean indoor grow space
 - **[Nutrients & Feeding](/cultivation/nutrients/index)** -- Distinguishing nutrient deficiencies from pest damage

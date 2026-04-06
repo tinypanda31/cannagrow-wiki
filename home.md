@@ -1,99 +1,120 @@
 ---
-title: Home
-description: Welcome to CannaGrow — a free, neutral, and comprehensive educational encyclopedia about cannabis.
-published: true
-date: 2026-04-05T22:38:23.176Z
-tags: home, navigation, welcome
-editor: markdown
-dateCreated: 2026-04-05T06:52:30.689Z
+title: Welcome to CannaGrow
+description: A comprehensive, neutral, and scientifically rigorous cannabis encyclopedia covering cultivation, genetics, science, history, law, and culture.
 ---
 
-# Welcome to CannaGrow
+# 🌿 Welcome to CannaGrow
 
-> **Your comprehensive, evidence-based guide to cannabis science, culture, and law.**
+> *The most comprehensive, neutral, and scientifically rigorous cannabis encyclopedia on the web.*
+
+CannaGrow is a **free, open, community-driven educational resource** dedicated to evidence-based cannabis knowledge. Whether you are a cultivator, a patient, a researcher, or simply curious, this encyclopedia provides accurate information free from stigma and advocacy.
 
 ---
 
-## Mission
+## 🚀 Where Should I Start?
 
-CannaGrow is a free, open educational resource dedicated to providing **neutral, accurate, and comprehensive** information about cannabis (*Cannabis sativa*, *Cannabis indica*, *Cannabis ruderalis*). Our goal is to serve students, researchers, medical professionals, cultivators, and curious readers with content grounded in scientific evidence, historical documentation, and transparent sourcing.
+| If you are interested in... | Start Here |
+|-----------------------------|------------|
+| 🧪 **The Science of Cannabis** | [/science/cannabinoids](/science/cannabinoids) |
+| 🌱 **How to Grow Cannabis** | [/cultivation](/cultivation/index) |
+| 🧬 **Genetics & Breeding** | [/genetics/basics](/genetics/basics) |
+| 📊 **Strain Database** | [/strains](/strains/index) |
+| 🍳 **Cooking with Cannabis** | [/consumption/cooking](/consumption/cooking) |
+| 📜 **Cannabis History** | [/history](/history/index) |
+| 🏛️ **Law & Policy** | [/law-policy](/law-policy/index) |
+| ⚖️ **Responsible Use** | [/legal-safety/responsible-use](/legal-safety/responsible-use) |
 
-**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
-
-
----
-
-## Explore CannaGrow
-
-Select a section below to begin exploring:
-
-| Section | Description | Key Topics |
-|---------|-------------|------------|
-| [History](/history/index) | The story of cannabis through human civilization | Ancient use, prohibition era, modern legalization |
-| [Cultivation](/cultivation/index) | Growing cannabis from seed to harvest | Indoor, outdoor, greenhouse, nutrients, pests |
-| [Strains](/strains/index) | Cannabis cultivar profiles and genetics | Indica, sativa, hybrid, landrace, breeding |
-| [Cannabinoids](/science/cannabinoids) | The chemistry of cannabis compounds | THC, CBD, CBG, CBN, the entourage effect |
-| [Extraction](/extraction/index) | Methods for isolating cannabis compounds | Solvent-based, solventless, rosin, distillation |
-| [Consumption](/consumption/index) | Routes of administration and their effects | Smoking, vaping, edibles, topicals, tinctures |
-| [China Glass Guide](/consumption/gear/china-glass-buyers-guide) | Buyer's guide for glass pieces from Chinese manufacturers | Dab rigs, bongs, bubblers, quality inspection |
-| [Science](/science/index) | Research and pharmacology of cannabis | Endocannabinoid system, clinical studies |
-| [Bro Science](/science/bro-science) | Myth debunking and common misconceptions | Indica vs. sativa, flushing, hotboxing |
-| [Sustainability](/sustainability/index) | Environmental and sustainable cultivation | Eco-friendly practices, carbon footprint, waste |
-| [Legal Landscape](/law-policy/index) | Laws, regulations, and responsible use | Global legality, harm reduction, safety guidelines |
-| [Law & Policy](/law-policy/index) | Cannabis law, policy frameworks, and country profiles | Legalization, decriminalization, medical access, regulatory models |
-| [Glossary](/glossary/index) | Cannabis terminology and definitions | Comprehensive index of terms |
+> **New here?** Read [How to Use This Wiki](/about/how-to-use) for a quick orientation guide.
 
 ---
 
-## Why CannaGrow?
+## 📊 By the Numbers
 
-Cannabis is one of the most widely used — and widely misunderstood — plants on Earth. Misinformation abounds in every direction: from exaggerated claims about medical benefits to unfounded fears about safety, from oversimplified "indica vs. sativa" categories to outdated legal information.
-
-CannaGrow exists to cut through the noise. Every article is:
-
-- **Evidence-based** — claims are supported by peer-reviewed research, historical records, or transparently attributed sources
-- **Neutral** — we do not advocate for or against cannabis use; we inform
-- **Comprehensive** — from botany to law, from ancient history to modern extraction techniques
-- **Transparent** — citations are provided, uncertainties are acknowledged, and editorial standards are published openly
-
----
-
-## Getting Started
-
-| If You Are... | Start Here |
-|---------------|-----------|
-| A complete beginner | [How to Use This Wiki](/about/how-to-use) and [Glossary](/glossary/index) |
-| Interested in growing | [Cultivation Overview](/cultivation/index) |
-| Curious about strains | [Strains Index](/strains/index) |
-| Researching compounds | [Cannabinoids Overview](/science/cannabinoids) |
-| Checking legality | [Legal Landscape](/law-policy/index) |
-| Looking for medical info | [Science](/science/index) (with the understanding this is not medical advice) |
+| Metric | Count |
+|--------|-------|
+| **Total Pages** | 315 |
+| **Strain Profiles** | 215 |
+| **Total Words** | ~598,000+ |
+| **Major Sections** | 14 |
+| **Last Updated** | April 2026 |
 
 ---
 
-## Latest Updates
+## 🔬 Featured Sections
 
-<!-- Wiki.js dynamic content can be configured to show recently updated pages here -->
+### 📜 History
+Explore the 4,000+ year journey of cannabis — from ancient cultivation in China through religious use, the prohibition era, and the modern legalization movement.
+- [Ancient Origins](/history/ancient/origins)
+- [Prohibition Era](/history/prohibition/prohibition-era)
+- [Modern Legalization](/history/modern/legalization)
 
-*This section can be configured in Wiki.js to display the most recently edited or created pages.*
+### 🌱 Cultivation
+Master the art and science of growing cannabis. From indoor lighting and environmental control to living soil, nutrients, pest and disease management, harvesting, and curing.
+- [Complete Indoor Grow Guide](/cultivation/indoor/grow-guide)
+- [Complete Outdoor Grow Guide](/cultivation/outdoor/grow-guide)
+- [Water Quality & Irrigation](/cultivation/irrigation)
+- [Equipment Guide](/cultivation/equipment/index)
+
+### 🧬 Genetics & Breeding
+Understand cannabis genetics — genotype vs. phenotype, Mendelian inheritance, chemotype genetics, and the complete methodology of breeding new cultivars.
+- [Genetics Basics](/genetics/basics)
+- [Breeding Techniques](/genetics/breeding)
+- [Advanced Breeding](/genetics/advanced-breeding)
+
+### 📊 Strain Database
+Browse our database of **215 documented strains**, complete with cannabinoid profiles, terpene analysis, growing notes, and effects data.
+- **Indica (70):** [Northern Lights](/strains/indica/northern-lights), [Purple Kush](/strains/indica/purple-kush), [Granddaddy Purple](/strains/indica/granddaddy-purple), and more
+- **Sativa (70):** [Durban Poison](/strains/sativa/durban-poison), [Maui Wowie](/strains/sativa/maui-wowie), [Super Lemon Haze](/strains/sativa/super-lemon-haze), and more
+- **Hybrid (75):** [OG Kush](/strains/hybrid/og-kush), [Gelato](/strains/hybrid/gelato), [Blue Dream](/strains/hybrid/blue-dream), and more
+
+### 🍳 Cooking with Cannabis
+Learn to decarboxylate, infuse butter and oil, dose accurately, substitute in any recipe, and bake a classic infused brownie.
+- [Cooking with Cannabis Guide](/consumption/cooking)
+- [Edibles Deep-Dive](/consumption/edibles/index)
+
+### ⚖️ Law & Policy
+A global overview of cannabis law — from full legalization to strict prohibition. Includes country-by-country analysis and the history of US drug policy.
+- [Law & Policy Index](/law-policy/index)
+- [United States](/law-policy/united-states)
+- [Full Legalization](/law-policy/index)
 
 ---
 
-## Contribute
+## 🆕 Recently Added
 
-CannaGrow is a community project. If you have expertise in cannabis science, cultivation, history, law, or any related field, we welcome your contributions.
+The following sections were added in our most recent content updates:
 
-- Read our [Editorial Guidelines](/about/editorial) to understand our standards
-- Review [How to Contribute](/about/about) for submission processes
-- All content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-**✅ Note** All contributions are reviewed before publication. See our [Editorial Guidelines](/about/editorial) for details on our review process.
-
+| Page | Section | Added |
+|------|---------|-------|
+| [Water Quality & Irrigation](/cultivation/irrigation) | Cultivation | April 2026 |
+| [Equipment: Lighting](/cultivation/equipment/lighting) | Equipment | April 2026 |
+| [Equipment: Environmental Control](/cultivation/equipment/environment) | Equipment | April 2026 |
+| [Equipment: Containers & Media](/cultivation/equipment/containers) | Equipment | April 2026 |
+| [Equipment: Tools & Meters](/cultivation/equipment/tools-meters) | Equipment | April 2026 |
+| [Advanced Breeding](/genetics/advanced-breeding) | Genetics | April 2026 |
+| [Cooking with Cannabis](/consumption/cooking) | Consumption | April 2026 |
+| [Advanced Cultivation Techniques](/cultivation/advanced-techniques) | Cultivation | April 2026 |
+| [Troubleshooting Guide](/cultivation/troubleshooting) | Cultivation | April 2026 |
+| [Pest Identification](/cultivation/pest-identification) | Cultivation | April 2026 |
+| [Disease Identification](/cultivation/disease-identification) | Cultivation | April 2026 |
+| [8 New Strain Profiles](/strains/index) | Strains | April 2026 |
 
 ---
 
-> [!TIP]
-> Use the **search bar** at the top of any page to find specific topics. Try searching for terms like "THC," "terpenes," "indoor growing," or "decriminalization."
+## ⚠️ Important Disclaimers
+
+- **Educational Use Only:** CannaGrow is an educational encyclopedia. Nothing herein constitutes medical, legal, or financial advice.
+- **Check Your Local Laws:** Cannabis regulations vary dramatically by jurisdiction. Always verify your local laws before engaging in cultivation, possession, or consumption.
+- **Science Is Evolving:** Cannabis research is still in its early stages. We prioritize evidence-based science, but understand that medical consensus may evolve over time.
+
 ---
 
-*Last updated: April 2026 | CannaGrow is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+## 🤝 Learn More & Contribute
+
+- **About CannaGrow** — Our mission, editorial standards, and community guidelines: [/about/about](/about/about)
+- **How to Use This Wiki** — Navigation tips, search strategies, and page structure: [/about/how-to-use](/about/how-to-use)
+- **Contribute on GitHub** — All edits are made through our [GitHub repository](https://github.com/tinypanda31/cannagrow-wiki/)
+
+---
+
+*Last Updated: April 2026 | CannaGrow is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

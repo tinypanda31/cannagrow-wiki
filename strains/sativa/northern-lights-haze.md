@@ -75,8 +75,6 @@ Northern Lights #5 x Haze is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet and earthy with a distinct pine backbone. The terpinolene contributes a subtle floral sweetness, while the pinene delivers a clean, fresh pine aroma that connects to the Northern Lights heritage. The caryophyllene adds a peppery edge that provides depth and prevents the profile from being one-dimensionally sweet.
@@ -84,7 +82,6 @@ Northern Lights #5 x Haze is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

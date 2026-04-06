@@ -76,8 +76,6 @@ King Louie XIII is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and tropical with sweet undertones. The Alien Tech fuel character provides a pungent base, while the tropical fruit character from the unknown parent adds a sweet, exotic sweetness. The overall aroma is layered and complex, with earthy depth, tropical brightness, and a sweet finish.
@@ -85,7 +83,6 @@ King Louie XIII is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -78,8 +78,6 @@ Cherry Pie is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet cherry, grape, and earthy with subtle pine undertones. The cherry-grape fruit character inherited from Granddaddy Purple is the dominant aroma, supported by an earthy Kush base and a fresh pine lift. The overall profile is sweet and approachable with meaningful complexity.
@@ -87,7 +85,6 @@ Cherry Pie is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

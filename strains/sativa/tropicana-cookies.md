@@ -75,8 +75,6 @@ Tropicana Cookies is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Intense orange and citrus with sweet, tropical undertones. The limonene expression is among the most pronounced of any strain, producing a genuine, immediate orange-citrus aroma that is immediately recognizable and broadly appealing.
@@ -84,7 +82,6 @@ Tropicana Cookies is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

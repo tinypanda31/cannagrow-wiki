@@ -72,8 +72,6 @@ Strawberry Fields is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet strawberry with earthy undertones. The strawberry aroma is genuine and recognizable, making this one of the more convincing berry-flavored strains. The earthy base prevents the sweetness from being cloying.
@@ -81,7 +79,6 @@ Strawberry Fields is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

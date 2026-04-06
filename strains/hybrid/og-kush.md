@@ -78,8 +78,6 @@ OG Kush is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Fuel, earthy, pine, and skunk with citrus undertones. The aroma is pungent, complex, and instantly recognizable as OG Kush. It is one of the most distinctive and copied aroma profiles in cannabis.
@@ -87,7 +85,6 @@ OG Kush is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

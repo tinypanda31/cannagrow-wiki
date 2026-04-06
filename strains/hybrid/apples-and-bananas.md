@@ -76,8 +76,6 @@ Apples and Bananas is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Fruity, sweet, and tropical with apple and banana notes layered over an earthy-herbal base. The citrus brightness from the Critical Orange Punch parent adds a fresh top note to the deeper tropical banana character from Banana OG.
@@ -85,7 +83,6 @@ Apples and Bananas is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

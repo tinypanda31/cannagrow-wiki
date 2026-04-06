@@ -64,8 +64,6 @@ Solventless extraction relies on physical separation rather than chemical dissol
 
 **💡 Solventless methods are an excellent starting point for those new to extraction. They require minimal equipment and carry no risk of residual solvent contamination.**
 
-:::
-
 **Key solventless techniques:**
 
 - **[Dry Sift & Kief](/extraction/dry-sift-kief)** -- Mechanical separation of trichomes using screens
@@ -74,9 +72,10 @@ Solventless extraction relies on physical separation rather than chemical dissol
 
 ### Solvent-Based Methods Overview
 
-Solvent-based extraction uses a liquid or supercritical fluid to dissolve cannabinoids and terpenes from the plant matrix. These methods typically achieve higher yields and can produce highly refined products, but require specialized equipment and carry greater safety and regulatory considerations. warning
+Solvent-based extraction uses a liquid or supercritical fluid to dissolve cannabinoids and terpenes from the plant matrix. These methods typically achieve higher yields and can produce highly refined products, but require specialized equipment and carry greater safety and regulatory considerations.
+
+**⚠️ Warning**
 Solvent-based extraction -- particularly with hydrocarbons like butane and propane -- carries serious safety risks including fire, explosion, and asphyxiation. Only trained professionals using certified closed-loop equipment should attempt these methods. Always comply with local laws and regulations.
-:::
 
 **Key solvent-based techniques:**
 
@@ -99,8 +98,6 @@ The quality of any extract is fundamentally limited by the quality of the starti
 ### Lab Testing
 
 **ℹ️ In regulated markets, all cannabis extracts must undergo comprehensive laboratory testing before reaching consumers. Always purchase from licensed, tested sources where available.**
-
-:::
 
 Professional lab testing verifies extract quality and safety through several analyses:
 
@@ -139,7 +136,6 @@ Professional lab testing verifies extract quality and safety through several ana
 | CO2 extraction | High-pressure equipment failure | Moderate-High |
 | Distillation | Heat, vacuum equipment, burns | Moderate-High | danger
 Open blasting (using butane in open tubes or containers) is extremely dangerous and has caused numerous fatalities and property damage. This practice should never be attempted. Only certified closed-loop extraction systems operated by trained professionals are acceptable for hydrocarbon extraction.
-:::
 
 ## From Extract to Edible: The Pipeline
 

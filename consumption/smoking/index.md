@@ -23,8 +23,6 @@ When cannabis is lit, the burning material (the "cherry") reaches temperatures o
 
 **ℹ️ Only a portion of the cannabinoids in cannabis are actually delivered to the user when smoking. Research estimates the bioavailability of smoked THC at approximately **25-30%**, meaning roughly a quarter to a third of the THC in the material reaches systemic circulation.**
 
-:::
-
 ## Smoking Methods
 
 ### Joints
@@ -50,7 +48,6 @@ A joint is cannabis rolled in rolling paper, forming a cigarette-like device.
 | **Flax** | Similar to hemp; natural | Slow | Minimal additives |
 | **Bleached (white)** | Chemically whitened | Varies | Bleaching agents (chlorine dioxide) leave trace residues; unbleached (brown) papers are preferred | tip
 Choose unbleached, additive-free rolling papers when possible. Papers labeled "organic," "unbleached," or "natural" are preferable to chemically bleached alternatives. Avoid papers with flavored or colored additives.
-:::
 
 ### Blunts
 
@@ -64,8 +61,6 @@ A blunt is cannabis rolled in a tobacco leaf wrap or tobacco-flavored paper.
 | **Harm reduction** | Use hemp wraps or tobacco-free alternatives to enjoy the blunt format without tobacco exposure |
 
 **⚠️ Blunts made with tobacco leaf wraps introduce nicotine -- an addictive substance -- along with tobacco-specific combustion byproducts. Regular blunt smoking may contribute to nicotine dependence. Tobacco-free hemp wraps are a safer alternative.**
-
-:::
 
 ### Pipes
 
@@ -93,7 +88,6 @@ Bongs filter smoke through water before inhalation, cooling the smoke and trappi
 | **Water filtration effect** | Cools smoke; traps some water-soluble compounds (including some tar and particulates); makes inhalation smoother |
 | **Common misconception** | Water filtration does NOT make smoking "safe" -- combustion byproducts are still present and inhaled | info
 For guidance on sourcing quality glass bongs and pipes from Chinese manufacturers, including quality inspection tips and pricing, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
-:::
 
 ### One-Hitters (Shower Pipes)
 
@@ -139,8 +133,6 @@ When cannabis is burned, the resulting smoke contains hundreds of compounds, man
 
 **ℹ️ While cannabis smoke contains many of the same harmful compounds as tobacco smoke, the epidemiological evidence linking cannabis smoking to cancer is less conclusive than for tobacco. This may be due to different usage patterns (fewer joints smoked per day vs. multiple cigarettes) and potential anti-tumor properties of cannabinoids. However, the absence of conclusive evidence does not mean cannabis smoking is safe -- it means the evidence is not yet definitive. Any inhalation of combustion products carries health risks.**
 
-:::
-
 ## Key Metrics
 
 | Metric | Value | Notes |
@@ -163,7 +155,6 @@ When cannabis is burned, the resulting smoke contains hundreds of compounds, man
 
 ## Harm Reduction for Smoking info
 The most effective harm reduction for smoking is to switch to a non-combustion method such as vaporizing. However, for those who choose to smoke, the following practices reduce risk.
-:::
 
 ### Practical Harm Reduction Tips
 

@@ -76,8 +76,6 @@ Kush Mints is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The body-heavy sedating effects make Kush Mints unsuitable for daytime use or activities requiring alertness.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Mint and earthy with fuel undertones. The Kush earthiness provides a deep, warm base, while the Mints mint character adds a sharp, cooling top note. The fuel character from both parent families ties the profile together with a pungent, diesel-like undertone. The overall aroma is layered, complex, and distinctive.
@@ -85,7 +83,6 @@ Kush Mints is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

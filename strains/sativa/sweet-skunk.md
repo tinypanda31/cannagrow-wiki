@@ -72,8 +72,6 @@ Sweet Skunk is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. As a Skunk #1 phenotype, Sweet Skunk's effects are broadly similar to the parent strain but may vary depending on the specific phenotype expression and growing conditions.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet and skunky with earthy undertones. The classic Skunk pungency is present but softened by elevated sweet terpenes, producing an aroma more balanced and approachable than the aggressively skunky character of standard Skunk #1.
@@ -81,7 +79,6 @@ Sweet Skunk is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

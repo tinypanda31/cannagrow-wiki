@@ -76,8 +76,6 @@ Sour Apple is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Diesel, apple, and citrus with sharp, pungent character. The caryophyllene-dominant fuel base from Sour Diesel is brightened by crisp green apple and fresh citrus notes. The combination is distinctive, with the diesel and apple characters both clearly present.
@@ -85,7 +83,6 @@ Sour Apple is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

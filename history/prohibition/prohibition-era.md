@@ -10,7 +10,7 @@ tags: history, prohibition, anslinger, marihuana tax act, reefer madness, legisl
 
 The prohibition of cannabis in the 20th century represents one of the most dramatic reversals in the history of medicine and public policy. For thousands of years, cannabis had been cultivated, traded, prescribed by physicians, and used across virtually every major civilization. Then, beginning in the early 1900s and accelerating through the 1930s, a coordinated campaign of criminalization transformed cannabis from a legitimate medicine into a feared and prohibited substance. This article examines the historical forces that drove this transformation.
 
-**?? Note** This article covers the prohibition of cannabis from the early 20th century through approximately 1970. For the escalation of drug prohibition, see [The War on Drugs](/history/war-on-drugs). For the legalization movement, see [Modern Legalization](/history/modern-legalization).
+**✅ Note** This article covers the prohibition of cannabis from the early 20th century through approximately 1970. For the escalation of drug prohibition, see [The War on Drugs](/history/war-on-drugs). For the legalization movement, see [Modern Legalization](/history/modern-legalization).
 
 
 ---
@@ -33,7 +33,7 @@ The Mexican Revolution (1910 -- 1920) triggered a significant wave of immigratio
 
 Anti-immigrant sentiment in the southwestern states seized on marihuana use as a marker of cultural difference and a supposed threat. Newspapers in Texas, California, and Arizona began publishing sensational stories about the dangers of "marihuana" -- deliberately using the Mexican spelling to emphasize its association with immigrants.
 
-**?? Important Context** The campaign against "marihuana" was deliberately distinct from the accepted medical use of "cannabis" or "hemp." By using the Mexican term, prohibition advocates created a perception that the dangerous substance was a foreign import, not the familiar pharmacy medicine. This linguistic strategy was central to the prohibition campaign.
+**✅ Important Context** The campaign against "marihuana" was deliberately distinct from the accepted medical use of "cannabis" or "hemp." By using the Mexican term, prohibition advocates created a perception that the dangerous substance was a foreign import, not the familiar pharmacy medicine. This linguistic strategy was central to the prohibition campaign.
 
 
 ### State-Level Prohibition Begins
@@ -104,7 +104,7 @@ The film's claims included:
 
 **None of these claims were supported by scientific evidence then or now.** The film was largely forgotten until its rediscovery in the 1970s, when it became a cult comedy screened on college campuses as an artifact of prohibition-era propaganda.
 
-**?? Historical Context** "Reefer Madness" was not an isolated production. It was part of a broader genre of "exploitation films" that used sensational subject matter to attract audiences. Similar films addressed venereal disease, prostitution, and other taboo topics. What makes "Reefer Madness" historically significant is that its claims were adopted as official government positions and shaped drug policy for decades.
+**✅ Historical Context** "Reefer Madness" was not an isolated production. It was part of a broader genre of "exploitation films" that used sensational subject matter to attract audiences. Similar films addressed venereal disease, prostitution, and other taboo topics. What makes "Reefer Madness" historically significant is that its claims were adopted as official government positions and shaped drug policy for decades.
 
 
 ### Racial Undertones
@@ -311,7 +311,7 @@ The consequences of this prohibition would be felt for the rest of the century a
 
 ---
 
-**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
+**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
 
 
 ---

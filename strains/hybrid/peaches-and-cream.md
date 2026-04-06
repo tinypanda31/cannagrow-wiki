@@ -76,8 +76,6 @@ Peaches and Cream is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Peach and sweet with creamy undertones. The peach character is genuinely fruit-like, providing a sweet, juicy aroma that is layered with the creamy dessert character from the Cookies genetics. The overall smell is indulgent and approachable, with a sweetness that is reminiscent of the namesake dessert.
@@ -85,7 +83,6 @@ Peaches and Cream is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

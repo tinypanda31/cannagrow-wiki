@@ -77,8 +77,6 @@ Sonic Poison is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic effects may be unsuitable for users sensitive to sativa stimulation or those with anxiety.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Citrus and sweet with spicy undertones. The limonene-dominant profile produces a bright, citrusy sweetness that is layered with spicy depth from the caryophyllene. The overall aroma is vibrant and uplifting, with a citrus character that is immediately recognizable and a spicy complexity that keeps the profile from becoming one-dimensional.
@@ -86,7 +84,6 @@ Sonic Poison is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

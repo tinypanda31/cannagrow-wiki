@@ -178,8 +178,6 @@ CO2 extract is **well suited for edible use**, particularly in commercial and la
 
 **ℹ️ **CO2 extract is already partially decarboxylated.** The elevated temperatures used during supercritical CO2 extraction (often 100-200 degrees F / 38-93 degrees C) initiate decarboxylation during the extraction process itself. The extract may arrive 40-70% decarboxylated depending on the exact parameters used.**
 
-:::
-
 For reliable edible dosing, **supplemental decarboxylation is recommended** to ensure full activation:
 
 - Place CO2 extract in a heat-safe glass container
@@ -202,7 +200,6 @@ CO2 extract is **highly concentrated** and requires precise dosing:
 - This yields approximately 45 servings at 10mg THC each
 - **Start with 5-10mg THC equivalent** when consuming CO2 extract-based edibles for the first time warning
 Due to the extreme concentration of CO2 extract, dosing errors are a real risk. Always use a milligram scale or pre-dilute the extract in a carrier oil (such as MCT oil) at a known ratio before incorporating into edibles.
-:::
 
 ### Advantages for Edible Use
 

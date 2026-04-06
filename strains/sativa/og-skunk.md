@@ -75,8 +75,6 @@ OG Skunk is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Bold fuel and skunky with an earthy backbone. The myrcene gives it a deep, herbal quality, while the terpinolene adds a subtle floral layer. The fuel character from OG Kush is prominent, layered over the unmistakable skunky backbone from Skunk #1, creating a pungent, complex aroma.
@@ -84,7 +82,6 @@ OG Skunk is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

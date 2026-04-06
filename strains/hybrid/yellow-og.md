@@ -76,8 +76,6 @@ Yellow OG is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Fuel and citrus with earthy undertones. The OG Kush fuel character is prominent, but the Yellow OG phenotype shifts the balance toward a brighter, citrus-forward expression. The earthy myrcene base provides depth, while the citrus limonene adds a refreshing brightness. The overall aroma is layered, with fuel pungency, citrus brightness, and earthy warmth.
@@ -85,7 +83,6 @@ Yellow OG is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -75,8 +75,6 @@ Jack the Ripper is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Citrus, pine, and peppery with floral undertones. The terpinolene-pinene combination gives it a fresh, bright quality that is immediately recognizable, with the caryophyllene adding a spicy edge.
@@ -84,7 +82,6 @@ Jack the Ripper is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

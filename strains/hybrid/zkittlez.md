@@ -76,8 +76,6 @@ Zkittlez is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Fruity, candy, and tropical with grape and citrus undertones. The aroma is intensely sweet and fruity, closely resembling fruit-flavored candy. It is one of the most candy-like strains in cannabis.
@@ -85,7 +83,6 @@ Zkittlez is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

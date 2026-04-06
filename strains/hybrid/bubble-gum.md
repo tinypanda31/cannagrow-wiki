@@ -77,8 +77,6 @@ Bubble Gum is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet bubblegum and fruity with earthy undertones. The bubblegum character is genuinely candy-like, making it one of the most distinctive aromas in cannabis. The sweet, fruity profile is layered with subtle earthy depth from the myrcene base, creating a complex but approachable aromatic experience.
@@ -86,7 +84,6 @@ Bubble Gum is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

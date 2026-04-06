@@ -130,8 +130,6 @@ This is the most common and accessible decarboxylation method.
 
 **⚠️ **Avoid exceeding 300°F (149°C).** At these temperatures, THC begins degrading to CBN (cannabinol) at a significant rate, and terpenes evaporate rapidly. The resulting material may have reduced potency and altered effects.**
 
-:::
-
 ### Visual and Olfactory Cues
 
 | Stage | Color | Aroma | Texture | Decarb Level |
@@ -178,7 +176,6 @@ Concentrates decarboxylate differently than flower due to their different physic
 | **Live Resin** | Sap/sauce | 220°F (104°C) | 20-30 min | High terpene content — use lower temp to preserve; expect significant aroma |
 | **Live Rosin** | Sap/budder | 220°F (104°C) | 20-30 min | Premium full-spectrum — gentle decarb preserves maximum terpene profile | tip
 **Rosin already receives heat during pressing** (180-220°F for 30 seconds to 3 minutes), so it is often partially decarbed. For edible use, a shorter supplemental decarb (20 minutes at 220°F) is usually sufficient.
-:::
 
 ### Calculating Potency After Decarboxylation
 

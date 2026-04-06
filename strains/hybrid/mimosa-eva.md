@@ -77,8 +77,6 @@ Mimosa is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Bright orange, citrus, and berry with sweet herbal undertones. The orange-citrus aroma inherited from Clementine is the dominant character, while the berry sweetness from Purple Punch adds depth. The overall profile is vibrant, fruity, and approachable.
@@ -86,7 +84,6 @@ Mimosa is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -76,8 +76,6 @@ Marionberry is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The sedating body effects may impair coordination and are not suitable for activities requiring alertness.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Berry-forward with sweet and earthy undertones. The aroma is reminiscent of fresh marionberries -- sweet, slightly tart, with an earthy depth. The myrcene provides an earthy foundation, while the limonene brightens the berry sweetness and adds complexity.
@@ -85,7 +83,6 @@ Marionberry is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -6,7 +6,7 @@ tags: responsible-use, safety, harm-reduction, guidelines
 
 # Responsible Use
 
-**?? Medical and Legal Disclaimer** **This page is educational and does not constitute medical advice.** Cannabis affects individuals differently and carries risks. This information is intended for adults in jurisdictions where cannabis use is legal. If cannabis is illegal where you live, this page does not encourage or facilitate its use. Always consult qualified healthcare professionals for personal health decisions and verify your local laws.
+**✅ Medical and Legal Disclaimer** **This page is educational and does not constitute medical advice.** Cannabis affects individuals differently and carries risks. This information is intended for adults in jurisdictions where cannabis use is legal. If cannabis is illegal where you live, this page does not encourage or facilitate its use. Always consult qualified healthcare professionals for personal health decisions and verify your local laws.
 
 
 ---
@@ -33,7 +33,7 @@ This is the single most important principle for responsible cannabis use, especi
 | **Occasional user (inhalation)** | 2-3 puffs; wait 15 minutes |
 | **Experienced user** | Dose according to personal tolerance, but remain mindful of product variability |
 
-**?? Edibles Require Patience** When consuming edibles, THC is metabolized by the liver into **11-hydroxy-THC**, a metabolite that is more potent and has a longer duration of effect than inhaled THC. Onset can take **30 minutes to 2 hours**, and effects can last **6-12 hours**. Consuming more before feeling the initial effects is the most common cause of overconsumption.
+**✅ Edibles Require Patience** When consuming edibles, THC is metabolized by the liver into **11-hydroxy-THC**, a metabolite that is more potent and has a longer duration of effect than inhaled THC. Onset can take **30 minutes to 2 hours**, and effects can last **6-12 hours**. Consuming more before feeling the initial effects is the most common cause of overconsumption.
 
 
 ### 2. Understand Potency
@@ -53,7 +53,7 @@ Cannabis products vary enormously in potency. Responsible use requires understan
 | **Tinctures** | Variable; check label | Dosing depends on concentration and volume |
 | **Topicals** | Variable; typically non-intoxicating | Generally do not produce psychoactive effects |
 
-**?? Potency Has Increased Dramatically** Average THC potency in cannabis flower has increased from approximately 4% in the 1990s to over 20% in many modern products. This means that dosing guidance from older sources may not apply to today's products. Always check the labeled potency of any regulated product.
+**✅ Potency Has Increased Dramatically** Average THC potency in cannabis flower has increased from approximately 4% in the 1990s to over 20% in many modern products. This means that dosing guidance from older sources may not apply to today's products. Always check the labeled potency of any regulated product.
 
 
 #### THC:CBD Ratio
@@ -68,7 +68,7 @@ The ratio of THC to CBD affects the experience:
 
 ### 3. Do Not Drive Under the Influence
 
-**?? Safety Warning** **Never drive, operate machinery, or engage in activities requiring full coordination and judgment while under the influence of cannabis.** Cannabis impairs:
+**✅ Safety Warning** **Never drive, operate machinery, or engage in activities requiring full coordination and judgment while under the influence of cannabis.** Cannabis impairs:
 
 - Reaction time
 - Motor coordination
@@ -99,7 +99,7 @@ Proper storage protects both the product and the people in your household.
 | **Educate children** | Age-appropriate conversations about not consuming unknown substances |
 | **Edible awareness** | Edibles can resemble regular candy or baked goods; ensure household members know which products contain cannabis |
 
-**?? Poisoning Risk** Cannabis edibles are a leading cause of accidental pediatric cannabis exposure. A child consuming an entire package of edibles can experience significant intoxication requiring medical attention. Always secure cannabis products as you would any medication.
+**✅ Poisoning Risk** Cannabis edibles are a leading cause of accidental pediatric cannabis exposure. A child consuming an entire package of edibles can experience significant intoxication requiring medical attention. Always secure cannabis products as you would any medication.
 
 
 #### Product Preservation
@@ -119,7 +119,7 @@ Proper storage protects both the product and the people in your household.
 | Recreational legal markets | 18-21 years (varies by jurisdiction) |
 | Medical cannabis programs | Any age with physician recommendation and guardian consent |
 
-**?? Adolescent Risk** Research consistently shows that cannabis use during adolescence — when the brain is still developing — is associated with greater risks than adult use, including impacts on cognitive development, educational outcomes, and mental health. See [Harm Reduction](/legal-safety/harm-reduction) for more detail.
+**✅ Adolescent Risk** Research consistently shows that cannabis use during adolescence — when the brain is still developing — is associated with greater risks than adult use, including impacts on cognitive development, educational outcomes, and mental health. See [Harm Reduction](/legal-safety/harm-reduction) for more detail.
 
 
 ---
@@ -156,7 +156,7 @@ If someone has overconsumed:
    - Cannabis was mixed with other substances
    - The person is unresponsive or having difficulty breathing (call emergency services immediately)
 
-**?? Reassurance** The most important intervention for cannabis overconsumption is **reassurance**. Remind the person that the effects are temporary and will pass. Anxiety about the experience often amplifies the experience itself.
+**✅ Reassurance** The most important intervention for cannabis overconsumption is **reassurance**. Remind the person that the effects are temporary and will pass. Anxiety about the experience often amplifies the experience itself.
 
 
 ---
@@ -184,7 +184,7 @@ Regular cannabis use leads to **tolerance** — the body becomes less responsive
 | **Strain rotation** | Switch to lower-THC, higher-CBD products temporarily |
 | **Frequency reduction** | Reduce number of consumption sessions per week |
 
-**?? Tolerance and Health** If you find that you need cannabis to function normally, experience withdrawal symptoms when not using, or are unable to reduce consumption despite wanting to, these may be signs of cannabis use disorder. See [Harm Reduction](/legal-safety/harm-reduction) for information on dependency and when to seek help.
+**✅ Tolerance and Health** If you find that you need cannabis to function normally, experience withdrawal symptoms when not using, or are unable to reduce consumption despite wanting to, these may be signs of cannabis use disorder. See [Harm Reduction](/legal-safety/harm-reduction) for information on dependency and when to seek help.
 
 
 ---
@@ -228,7 +228,7 @@ In jurisdictions without regulated markets, product information may be unreliabl
 - Edible doses may be inconsistent
 - Products may contain undeclared substances
 
-**?? Unregulated Products** If you are in a jurisdiction without a regulated cannabis market, be aware that product quality cannot be independently verified. This increases the risk of overconsumption and exposure to contaminants. When possible, request third-party lab testing results from any source.
+**✅ Unregulated Products** If you are in a jurisdiction without a regulated cannabis market, be aware that product quality cannot be independently verified. This increases the risk of overconsumption and exposure to contaminants. When possible, request third-party lab testing results from any source.
 
 
 ---

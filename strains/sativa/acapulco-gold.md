@@ -72,8 +72,6 @@ Acapulco Gold is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and sweet with distinctive toffee-like caramel notes and subtle citrus undertones. The aroma is warm and inviting, with an earthy depth that distinguishes it from fruit-forward modern hybrids.
@@ -81,7 +79,6 @@ Acapulco Gold is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

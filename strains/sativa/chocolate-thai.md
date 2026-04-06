@@ -72,8 +72,6 @@ Chocolate Thai is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and chocolate-like with spicy undertones. The aroma is warm and dark, reminiscent of dark chocolate and earth, with a distinctive spicy edge that sets it apart from sweet or fruity strains.
@@ -81,7 +79,6 @@ Chocolate Thai is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

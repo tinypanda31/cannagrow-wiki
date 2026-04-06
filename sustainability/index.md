@@ -8,8 +8,6 @@ tags: sustainability, environment, energy, water, waste, organic, carbon-footpri
 
 **ℹ️ This page is part of the **CannaGrow** knowledge base, covering the environmental dimensions of cannabis cultivation and production. For cultivation techniques, see [[/cultivation]], [[/cultivation/indoor]], [[/cultivation/outdoor]], and [[/cultivation/greenhouse]]. For the science of the plant, see [[/science/cannabinoids]] and [[/genetics/breeding]].**
 
-:::
-
 ![Aerial view of a sun-grown cannabis farm with rows of plants under natural sunlight, surrounded by green fields and solar panels](/uploads/images/sustainability/solar-powered-cannabis-farm.jpg)
 
 ---
@@ -38,9 +36,10 @@ The case for sustainability in the cannabis industry is built on multiple conver
 
 - **Moral imperative** — Cannabis is fundamentally a plant-based crop with deep roots in traditional agriculture. An industry built on a plant that many advocates championed for its natural, sustainable qualities has a particular obligation to align its practices with environmental stewardship.
 
-- **Long-term viability** — Unsustainable practices drive up costs, create regulatory risk, and damage public perception. Cultivation methods that work with natural systems rather than against them tend to be more resilient and economically stable over time. tip
+- **Long-term viability** — Unsustainable practices drive up costs, create regulatory risk, and damage public perception. Cultivation methods that work with natural systems rather than against them tend to be more resilient and economically stable over time.
+
+**💡 Tip**
 Sustainability in cannabis is not about choosing between quality and environmental responsibility. Many sustainable practices — such as living soil cultivation, efficient LED lighting, and water recapture — simultaneously improve product quality, reduce operating costs, and minimize environmental impact.
-:::
 
 The pages in this section of CannaGrow provide a comprehensive look at both the challenges and the solutions. Whether you are a cultivator evaluating your environmental footprint, a consumer making informed purchasing decisions, or a researcher studying the intersection of cannabis and ecology, these resources are designed to help you understand the landscape and identify actionable paths forward.
 
@@ -104,8 +103,6 @@ Child-resistant, opaque, resealable packaging is required in most legal cannabis
 
 **⚠️ A single retail cannabis product may use **multiple layers of packaging**: an inner child-resistant container, an outer exit bag, a product label, a tamper-evident seal, and sometimes an additional outer carton. Each layer adds to the environmental footprint, and most of these materials are not recyclable through standard municipal recycling programs.**
 
-:::
-
 | Packaging Component | Typical Material | Recyclability |
 |--------------------|-----------------|---------------|
 | Child-resistant jar | Plastic (PP, PET) | Limited — dark/opaque plastics are rarely accepted |
@@ -162,7 +159,6 @@ The choice of cultivation method is the single most important decision determini
 | **Year-round production** | Yes | Yes (with supplemental systems) | Seasonal only |
 | **Scalability** | High (capital intensive) | High | Limited by climate/land | info
 **No single cultivation method is universally "best" from a sustainability perspective.** Indoor cultivation offers the most control and consistency but at the highest energy cost. Outdoor cultivation has the lowest carbon footprint but faces weather dependency and land use constraints. Greenhouse cultivation represents a middle path, combining natural sunlight with environmental controls. The optimal choice depends on local climate, regulatory environment, market demands, and available capital.
-:::
 
 ### Indoor Cultivation
 
@@ -233,8 +229,6 @@ Early adopters of sustainable practices gain several advantages:
 
 **💡 The regulatory frameworks governing cannabis sustainability are part of a broader and rapidly evolving policy landscape. For an overview of cannabis law and regulatory models worldwide, see the [Law & Policy](/law-policy) section.**
 
-:::
-
 ### Building Sustainability Into the Industry's DNA
 
 Unlike many legacy industries that must retrofit sustainability onto decades-old infrastructure, the cannabis industry has an opportunity to design sustainability into its operations from the ground up. This means:
@@ -279,7 +273,7 @@ The Sustainability section of CannaGrow is organized into the following pages:
 
 Whether operating a small personal garden or a commercial cultivation facility, there are concrete steps every grower can take to reduce the environmental footprint of their cannabis operation.
 
-**?? Quick-Action Items for Cultivators** | Action | Impact | Difficulty |
+**✅ Quick-Action Items for Cultivators** | Action | Impact | Difficulty |
 |--------|--------|------------|
 | **Switch to LED lighting** | 40-60% energy reduction vs. HPS | Moderate (capital investment) |
 | **Implement water recapture and reuse** | Up to 90% water savings with recirculating systems | Moderate |
@@ -345,7 +339,6 @@ Consumers play a critical role in driving sustainability in the cannabis industr
 | **Advocate for regulatory reform on waste requirements** | Push for waste disposal rules that allow composting, recycling, and repurposing instead of mandatory landfilling |
 | **Understand that "organic" cannabis is not yet a regulated label** | Some third-party certifiers exist, but USDA Organic is not available for cannabis due to its Schedule I status; look for certifications like Clean Green, Sun+Earth, or Kind Green | info
 **The "organic" gap in cannabis:** Because cannabis remains a Schedule I controlled substance at the federal level in the United States, it cannot receive USDA Organic certification. This creates a labeling gap where any producer can claim "organic" without third-party verification. Look for independent certifications such as **Clean Green Certified**, **Sun+Earth Certified**, or **Kind Green** to verify sustainable growing claims.
-:::
 
 ### Questions to Ask Your Dispensary
 
@@ -407,8 +400,6 @@ This certification is particularly meaningful for consumers seeking the lowest-c
 
 **⚠️ **No federal organic certification exists for cannabis.** The USDA Organic program is not available for cannabis because the plant remains a Schedule I controlled substance under federal law. This means that unlike produce, meat, or other agricultural products, cannabis cannot carry the USDA Organic seal. Third-party certifications fill this gap, but they are not uniformly regulated, and standards vary between programs. Consumers should understand what each certification covers and verify claims through the certifying body's database.**
 
-:::
-
 | Certification | Focus Areas | Cultivation Methods Covered | Verification |
 |--------------|-------------|---------------------------|--------------|
 | **Clean Green Certified** | Organic practices, water/energy conservation, soil health | Indoor, greenhouse, outdoor | Annual third-party inspection |
@@ -435,6 +426,7 @@ Every cultivation decision carries environmental weight. The lighting system cho
 - **Certifications provide accountability.** Third-party certifications like Clean Green, Sun+Earth, and Kind Green offer verification of sustainability claims in the absence of federal organic standards.
 - **The industry is at a formative stage.** Decisions made now about cultivation practices, packaging standards, and waste management will shape the industry's environmental trajectory for decades.
 
-For deeper exploration of sustainable growing practices, see [[/sustainability/eco-friendly-cultivation]]. For detailed environmental data and analysis, see [[/sustainability/environmental-impact]]. info
+For deeper exploration of sustainable growing practices, see [[/sustainability/eco-friendly-cultivation]]. For detailed environmental data and analysis, see [[/sustainability/environmental-impact]].
+
+**ℹ️ Info**
 **Explore more in CannaGrow:** [[/cultivation]] | [[/cultivation/indoor]] | [[/cultivation/outdoor]] | [[/cultivation/greenhouse]] | [[/cultivation/nutrients]] | [[/cultivation/pests-diseases]] | [[/extraction]] | [[/science/cannabinoids]] | [[/genetics/breeding]] | [[/glossary]]
-:::

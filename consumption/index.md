@@ -17,8 +17,6 @@ For example, if a product contains 10mg of THC and has a bioavailability of 20%,
 
 **ℹ️ Bioavailability varies significantly between consumption methods and between individuals. Factors include body composition, metabolism, tolerance, stomach contents (for edibles), and individual physiology. The figures provided are approximate averages from research studies.**
 
-:::
-
 ## Comparison of All Consumption Methods
 
 | Method | Onset Time | Duration | Bioavailability | Pros | Cons | Relative Harm Level |
@@ -43,7 +41,6 @@ The harm levels above are relative assessments based on current research. Key fa
 | **Moderate** | Some health risks from combustion byproducts or high-concentration exposure | Smoking |
 | **Moderate-High** | Significant risks from high potency concentrations or combustion of concentrates | Dabbing | warning
 These harm assessments refer specifically to the method of consumption and its direct physical health effects. They do not account for impairment-related risks (such as driving under the influence), mental health considerations, dependency potential, or legal consequences. See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive safety guidance.
-:::
 
 ## Choosing a Consumption Method
 
@@ -59,8 +56,6 @@ Recommended starting methods:
 4. **Topicals** -- For localized relief without psychoactive effects
 
 **💡 Regardless of method, the golden rule is **"start low and go slow."** Begin with the lowest possible dose and wait the full onset time before consuming more. This is especially critical with edibles, where delayed onset leads many people to overconsume.**
-
-:::
 
 ### For Medical Patients
 
@@ -102,7 +97,6 @@ Experienced consumers may explore:
 | **High tolerance** | 30-50+ mg | Medical patients or very experienced consumers |
 | **Clinical** | 50-100+ mg | Under medical supervision only | warning
 These are general guidelines. Individual sensitivity varies dramatically. Factors including body weight, metabolism, tolerance, genetics, and even gut microbiome affect how a given dose will affect an individual. Always start at the low end of the range appropriate for your experience level.
-:::
 
 ### CBD Dosing
 

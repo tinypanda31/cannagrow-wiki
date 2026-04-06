@@ -72,8 +72,6 @@ Thai Stick is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, earthy, and spicy with warm undertones. The aroma is rich and layered, combining earthy depth with a distinctive sweetness that sets it apart from purely spicy landraces.
@@ -81,7 +79,6 @@ Thai Stick is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

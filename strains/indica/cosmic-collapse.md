@@ -74,8 +74,6 @@ Cosmic Collapse is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery. Start with a low dose to assess individual tolerance.**
 
-:::
-
 ## Aroma & Flavor
 
 Cosmic Collapse presents a pungent, fuel-forward sensory profile:
@@ -85,7 +83,6 @@ Cosmic Collapse presents a pungent, fuel-forward sensory profile:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

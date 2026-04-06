@@ -77,8 +77,6 @@ Headband is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The signature headband pressure sensation is commonly reported but not universally experienced.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Diesel, lemon, and earthy with pine undertones. The diesel fuel character inherited from Sour Diesel is prominent, while the lemon citrus from both parents adds a bright top note. The earthy OG Kush base provides depth. The overall profile is pungent, complex, and immediately recognizable as a cross of two legendary aromatic strains.
@@ -86,7 +84,6 @@ Headband is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

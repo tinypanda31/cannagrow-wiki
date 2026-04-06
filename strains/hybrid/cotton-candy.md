@@ -76,8 +76,6 @@ Cotton Candy is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, candy-like, and fruity with earthy and citrus undertones. The aroma is reminiscent of spun sugar and fruit, with the Purple Skunk inheritance giving it a pronounced sweetness that is rounded out by the myrcene earthy base from the Power Plant parent.
@@ -85,7 +83,6 @@ Cotton Candy is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -53,8 +53,6 @@ A typical bubble bag set includes the following bags (listed from coarsest to fi
 
 **ℹ️ The 73 and 45 micron bags typically produce the highest quality hash. Trichome heads in this size range are most likely to be intact and pure, yielding full-melt hash suitable for dabbing.**
 
-:::
-
 ### Optional but Recommended
 
 - **Washing machine** -- Dedicated front-loading washing machine (never used for food) provides consistent agitation
@@ -80,7 +78,6 @@ Properly frozen starting material is essential for quality ice-water hash.
 2. Freeze for at least 24-48 hours before washing
 3. Note: cured material typically produces slightly lower yields than fresh frozen tip
 Fresh frozen material -- harvested and immediately frozen without drying or curing -- preserves the maximum terpene profile and is the starting material for [Live Resin](/extraction/live-resin) and [Live Rosin](/extraction/live-rosin).
-:::
 
 ### Step 2: Set Up the Bubble Bags
 
@@ -115,8 +112,6 @@ Agitation dislodges trichome heads from the plant surface. The technique and dur
 
 **⚠️ Over-agitation is one of the most common beginner mistakes. Aggressive or prolonged agitation breaks plant matter into small particles that pass through the screens, contaminating the hash. Gentle, patient agitation produces cleaner results.**
 
-:::
-
 ### Step 5: Settling and Collection
 
 After agitation:
@@ -149,7 +144,6 @@ Proper drying is arguably the most critical factor in producing hash that can be
 5. Drying time: 7-14 days depending on thickness and environmental conditions
 6. Hash is fully dry when it crumbles rather than smears when pressed tip
 Flip or break up the hash periodically during drying to expose all surfaces to air. Uneven drying can leave moist pockets where mold develops.
-:::
 
 ### Freeze Drying (Professional)
 
@@ -235,8 +229,6 @@ Yields vary dramatically based on starting material:
 
 **ℹ️ Yield is only one metric -- quality matters far more than quantity. A small amount of full-melt hash is more valuable than a large amount of contaminated material.**
 
-:::
-
 ## Edible Applications
 
 Ice-water hash is widely used in edible preparation, with lower-grade material (1-3 star) explicitly labeled as "edibles grade" or "food grade" throughout the hash community. This reflects a practical reality: material that is less ideal for dabbing due to plant matter contamination or chlorophyll content performs perfectly well -- and often excellently -- when used as an edible ingredient.
@@ -251,7 +243,6 @@ Ice-water hash is **very well suited for edibles**, particularly the lower star 
 | **3 star** | **Good for edibles** | Moderate purity; fine for edibles, though dabbing-grade material may be better used for concentrates |
 | **4-6 star** | **Premium edibles** | Full-melt hash can absolutely be used for edibles, but the cost-to-benefit ratio is poor -- these grades command premium prices for dabbing | tip
 Using 1-2 star hash for edibles is an excellent way to extract maximum value from your ice-water hash production. The plant matter that makes it unsuitable for clean dabbing does not negatively impact edible experiences.
-:::
 
 ### Why Lower-Grade Hash Works for Edibles
 

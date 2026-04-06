@@ -74,8 +74,6 @@ Dutch Dragon is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Pine-forward with earthy undertones and a spicy edge. The terpinolene contributes a subtle floral sweetness, while the pinene delivers a crisp, clean pine freshness that is immediately recognizable. The caryophyllene adds a peppery warmth that grounds the profile and prevents it from being one-dimensional.
@@ -83,7 +81,6 @@ Dutch Dragon is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

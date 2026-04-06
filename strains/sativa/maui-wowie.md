@@ -72,8 +72,6 @@ Maui Wowie is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. As a landrace strain, Maui Wowie's moderate THC range reflects natural growing conditions rather than modern selective breeding for maximum potency.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Tropical and piney with sweet undertones. The pinene dominance creates a fresh, forest-like aroma layered with sweet tropical fruit notes. The overall scent is reminiscent of a Hawaiian rainforest -- fresh pine, sweet flowers, and warm tropical air.
@@ -81,7 +79,6 @@ Maui Wowie is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -75,8 +75,6 @@ Toad Breath is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, avoid use before driving or operating machinery.**
 
-:::
-
 ## Aroma & Flavor
 
 Toad Breath presents a rich, layered sensory profile:
@@ -86,7 +84,6 @@ Toad Breath presents a rich, layered sensory profile:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

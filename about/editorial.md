@@ -8,7 +8,7 @@ tags: editorial, guidelines, standards, contributing
 
 These guidelines define the editorial standards for all content published on CannaGrow. Every contributor and editor is expected to be familiar with and follow these standards.
 
-**?? Scope** These guidelines apply to **all content** on CannaGrow, including articles, strain profiles, data tables, images, and page descriptions. Content that does not meet these standards will be returned for revision or removed.
+**✅ Scope** These guidelines apply to **all content** on CannaGrow, including articles, strain profiles, data tables, images, and page descriptions. Content that does not meet these standards will be returned for revision or removed.
 
 
 ---
@@ -182,8 +182,10 @@ Use Wiki.js admonition blocks for special content types:
 
 | Block | Syntax | Use Case |
 |-------|--------|----------|
-| Info | `**?? ... :::` | Supplementary context, tips, cross-references |** | Warning | `**?? ... ` | Legal disclaimers, safety concerns, important caveats |** | Danger | ` danger ... :::` | Immediate safety risks (contamination, overconsumption, etc.) |
-| Tip | `::: tip ... :::` | Practical suggestions for readers |
+| Info | `**ℹ️ Info** title + content | Supplementary context, tips, cross-references |
+| Warning | `**⚠️ Warning** title + content | Legal disclaimers, safety concerns, important caveats |
+| Danger | `**🚨 Danger** title + content | Immediate safety risks (contamination, overconsumption, etc.) |
+| Tip | `**💡 Tip** title + content | Practical suggestions for readers |
 
 ### Internal Links
 
@@ -305,7 +307,7 @@ Origin and breeding history.
 - [Related Strain](/strains/strain-name)
 ```
 
-**?? Strain Data Limitations** Cannabinoid and terpene percentages vary by grower, harvest, and testing methodology. Profile data should represent **ranges** from multiple sources, not single test results. Always note your sources.
+**✅ Strain Data Limitations** Cannabinoid and terpene percentages vary by grower, harvest, and testing methodology. Profile data should represent **ranges** from multiple sources, not single test results. Always note your sources.
 
 
 ---
@@ -397,7 +399,7 @@ If you are uncertain whether your content meets these standards:
 3. Open a Discussion on the [GitHub repository](https://github.com/tinypanda31/cannagrow-wiki/) to ask questions
 4. When in doubt, err on the side of caution — cite more, claim less
 
-**?? Remember** The goal of these guidelines is not to restrict expression but to ensure that every reader who visits CannaGrow finds information they can trust. Quality standards protect both the reader and the credibility of the project.
+**✅ Remember** The goal of these guidelines is not to restrict expression but to ensure that every reader who visits CannaGrow finds information they can trust. Quality standards protect both the reader and the credibility of the project.
 
 
 ---

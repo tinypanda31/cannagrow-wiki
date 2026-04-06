@@ -10,8 +10,6 @@ tags: science, myths, debunking, indica, sativa, brain-cells, addiction, edibles
 
 **ℹ️ **Path:** `/science/bro-science` | **Category:** Cannabis Science | **Related:** [[/science/cannabinoids]], [[/science/terpenes]], [[/glossary]]**
 
-:::
-
 ---
 
 ## Myth Quick-Reference Table
@@ -31,7 +29,6 @@ tags: science, myths, debunking, indica, sativa, brain-cells, addiction, edibles
 | 11 | Male plants are completely useless | **False** | Males are essential for breeding, hemp fiber production, and phytoremediation. |
 | 12 | More THC = better weed | **False** | Terpene profile, minor cannabinoids, and balanced ratios often matter more than raw THC percentage. | warning
 **Disclaimer:** This page is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional for medical decisions related to cannabis use. The information presented here is based on current scientific literature and is subject to change as research evolves.
-:::
 
 ---
 
@@ -71,8 +68,6 @@ With this context in mind, let us examine the specific myths and what the scienc
 
 **⚠️ **Myth #1:** Smoking or consuming cannabis kills brain cells (neurons), causing permanent brain damage.**
 
-:::
-
 **Reality:** Decades of neuroimaging research have found no evidence that cannabis use causes brain cell death. This is one of the most persistent and thoroughly debunked myths in cannabis history, yet it remains widely believed — particularly among those who received their drug education during the Reagan-era "Just Say No" campaign.
 
 The scientific evidence against this claim is substantial. Studies using magnetic resonance imaging (MRI) to examine the brains of long-term cannabis users have consistently failed to find significant reductions in brain cell count or structural damage attributable to cannabis exposure. A comprehensive review published in *NeuroImage* examined multiple neuroimaging studies and concluded that while cannabis use may be associated with subtle differences in brain structure (particularly in regions rich with CB1 receptors like the hippocampus), these differences do not equate to cell death or the kind of neurodegeneration implied by "killing brain cells."
@@ -83,17 +78,16 @@ Perhaps the most surprising finding from cannabis neuroscience research is that 
 
 The origin of this myth is well documented. It emerged from a combination of Reagan-era propaganda campaigns and misinterpretation of early animal studies that used extraordinarily high doses of THC — doses far beyond anything a human could realistically consume — and extrapolated the results to typical human use patterns. The "brain cell death" claim was a political tool, not a scientific finding.
 
-**Important nuance:** While cannabis does not kill brain cells, adolescent use *does* raise legitimate scientific concerns. The endocannabinoid system plays a critical role in brain development, particularly during adolescence when neural circuits are still being pruned and refined. Longitudinal studies, including the widely cited work by Meier et al., have found that heavy, persistent cannabis use beginning in adolescence is associated with measurable declines in cognitive function that may not fully recover even after cessation. The mechanism is not brain cell death; it is *developmental disruption* — interference with the normal maturation of neural networks. This is a meaningful distinction with important implications: cannabis may not destroy the brain, but introducing exogenous cannabinoids during a critical developmental window can alter the trajectory of brain maturation in ways that may have lasting consequences. info
+**Important nuance:** While cannabis does not kill brain cells, adolescent use *does* raise legitimate scientific concerns. The endocannabinoid system plays a critical role in brain development, particularly during adolescence when neural circuits are still being pruned and refined. Longitudinal studies, including the widely cited work by Meier et al., have found that heavy, persistent cannabis use beginning in adolescence is associated with measurable declines in cognitive function that may not fully recover even after cessation. The mechanism is not brain cell death; it is *developmental disruption* — interference with the normal maturation of neural networks. This is a meaningful distinction with important implications: cannabis may not destroy the brain, but introducing exogenous cannabinoids during a critical developmental window can alter the trajectory of brain maturation in ways that may have lasting consequences.
+
+**ℹ️ Info**
 **Key Takeaway:** Cannabis does not kill brain cells; temporary cognitive impairment during intoxication is not the same as neuron death, though adolescent use can affect developing brains through developmental disruption rather than cell death.
-:::
 
 ---
 
 ### Myth 2: "Sativa = Energetic, Indica = Couch-Lock"
 
 **⚠️ **Myth #2:** Sativa strains produce an energizing, head-high effect, while indica strains produce a sedating, body-heavy effect.**
-
-:::
 
 **Reality:** This is arguably the single most pervasive myth in modern cannabis culture. Walk into any dispensary in North America, and you will find shelves organized by "sativa" and "indica" labels, with budtenders confidently recommending sativas for daytime energy and indicas for nighttime relaxation. The irony is that this classification system has virtually no scientific basis as a predictor of effects.
 
@@ -112,17 +106,16 @@ Recent consumer studies have further confirmed that chemotype is a better predic
 
 This myth persists because it is simple, intuitive, and convenient. "I want an indica for sleep" is easier than "I want a product with high myrcene, moderate THC, and some CBD." The dispensary industry perpetuates it because it provides a simple taxonomy for products that are, in reality, chemically complex and individually variable. But as the industry matures and consumers become more educated, there is a growing movement toward chemotype-based labeling — organizing products by their actual chemical profiles rather than outdated botanical categories.
 
-For readers interested in the science of how terpenes shape cannabis effects, see [[/science/terpenes]]. For the genetics behind strain classification, see [[/genetics/basics]]. info
+For readers interested in the science of how terpenes shape cannabis effects, see [[/science/terpenes]]. For the genetics behind strain classification, see [[/genetics/basics]].
+
+**ℹ️ Info**
 **Key Takeaway:** Indica and sativa are botanical classifications based on plant structure, not effect predictors; cannabinoid and terpene profiles (chemotype) determine how cannabis feels, not subspecies labels.
-:::
 
 ---
 
 ### Myth 3: "Cannabis Is Completely Non-Addictive"
 
 **⚠️ **Myth #3:** Cannabis is not addictive at all — you can't develop a dependence on it.**
-
-:::
 
 **Reality:** The claim that cannabis is "completely non-addictive" is one of the most well-intentioned but factually incorrect statements in cannabis culture. Many cannabis advocates have repeated this claim as a defensive response to decades of exaggerated anti-cannabis propaganda, but swinging from "cannabis is as addictive as heroin" to "cannabis is completely non-addictive" is not an improvement — it is simply inaccuracy in the opposite direction.
 
@@ -146,17 +139,16 @@ These withdrawal symptoms typically peak within the first week of cessation and 
 
 It is crucial to maintain appropriate perspective here. Cannabis is *less addictive* than many legal substances (alcohol, nicotine, prescription opioids). The majority of cannabis users do not develop dependence. And the severity of cannabis withdrawal, while real, is generally manageable compared to withdrawal from substances like alcohol or benzodiazepines (which can be fatal without medical supervision). However, acknowledging these facts does not require claiming that cannabis dependence is impossible. Honest advocacy for cannabis normalization and legalization is better served by accurate representations of risk than by denial.
 
-For more information on responsible cannabis use and risk reduction, see [[/legal-safety/harm-reduction]]. info
+For more information on responsible cannabis use and risk reduction, see [[/legal-safety/harm-reduction]].
+
+**ℹ️ Info**
 **Key Takeaway:** Cannabis dependence is real — approximately 9-10% of users develop Cannabis Use Disorder, with higher rates among daily users; while less addictive than many substances, "completely non-addictive" is scientifically inaccurate.
-:::
 
 ---
 
 ### Myth 4: "You Can't Overdose on Cannabis"
 
 **⚠️ **Myth #4:** It is physically impossible to overdose on cannabis — you can consume as much as you want without danger.**
-
-:::
 
 **Reality:** This claim contains a kernel of truth that has been dangerously overstated. It is accurate that **there has never been a documented case of a fatal overdose from cannabis alone**. This is a remarkable fact, especially when compared to substances like opioids, alcohol, and benzodiazepines, which kill tens of thousands of people per year through overdose. The reason for this safety margin is rooted in the biology of the endocannabinoid system.
 
@@ -184,17 +176,16 @@ Additionally, there are indirect ways in which cannabis overconsumption can cont
 
 The responsible way to frame this information is: cannabis has an exceptionally high safety margin regarding fatal overdose — higher than almost any other psychoactive substance. However, consuming too much cannabis can produce acute effects that are unpleasant, distressing, and occasionally medically significant. Responsible dosing, particularly with edibles, remains important.
 
-For more on responsible consumption practices, see [[/legal-safety/responsible-use]]. info
+For more on responsible consumption practices, see [[/legal-safety/responsible-use]].
+
+**ℹ️ Info**
 **Key Takeaway:** No fatal cannabis overdoses have ever been documented, but acute overconsumption ("greening out") can cause severe distress and occasionally requires medical attention — responsible dosing still matters.
-:::
 
 ---
 
 ### Myth 5: "Edibles Are Always Stronger and Last Longer"
 
 **⚠️ **Myth #5:** Edible cannabis is always stronger and lasts longer than inhaled cannabis, making it the most potent consumption method.**
-
-:::
 
 **Reality:** This claim is partially true but significantly oversimplified. The relationship between consumption method and potency is more nuanced than "edibles are stronger," and understanding the pharmacology helps consumers make better decisions about dosing.
 
@@ -216,9 +207,10 @@ Additional important nuances:
 - **Dabbing** (inhaling concentrated cannabis extracts) can produce far more intense *acute* effects than any edible simply due to the sheer dose delivered in a single inhalation. A single dab can deliver 50-90 mg of THC in seconds — a dose that would require consuming multiple standard edibles to match. The acute intensity of a dab can exceed the peak intensity of an edible, even if the edible's effects last longer.
 - **Individual variation** in liver enzyme activity (particularly CYP2C9 polymorphisms) means that different people convert THC to 11-hydroxy-THC at different rates, making edibles disproportionately more intense for some users than others.
 
-For detailed information on edible consumption, see [[/consumption/edibles]]. For the science of cannabinoid metabolism, see [[/science/cannabinoids]]. info
+For detailed information on edible consumption, see [[/consumption/edibles]]. For the science of cannabinoid metabolism, see [[/science/cannabinoids]].
+
+**ℹ️ Info**
 **Key Takeaway:** Edibles produce more intense experiences per absorbed milligram due to 11-hydroxy-THC conversion, but total bioavailability is lower than inhalation — "stronger" depends on how you measure it.
-:::
 
 ---
 
@@ -227,8 +219,6 @@ For detailed information on edible consumption, see [[/consumption/edibles]]. Fo
 ### Myth 6: "You Must Flush Nutrients Before Harvest for Better-Tasting Weed"
 
 **⚠️ **Myth #6:** Running plain water (no nutrients) through cannabis plants for 1-2 weeks before harvest "flushes out" excess nutrients and produces better-tasting, smoother-smoking flower.**
-
-:::
 
 **Reality:** The practice of "flushing" — ceasing all nutrient feeding and running only plain water through the growing medium in the final days or weeks before harvest — is one of the most widely debated cultivation practices in the cannabis community. Virtually every experienced grower has an opinion on flushing, and opinions range from "absolutely essential" to "complete waste of time." The scientific evidence, while still limited, leans toward the latter.
 
@@ -245,17 +235,16 @@ So why do some growers swear by flushing? There are several possible explanation
 
 **Practical recommendation:** A short flush period (3-7 days) is unlikely to harm your plants and may provide some benefit in terms of reducing salt buildup in the medium. However, flushing should not be relied upon as a substitute for proper nutrient management throughout the grow. Getting your nutrient levels right during the entire cultivation cycle is far more important than any last-week intervention. And if you want better-tasting cannabis, invest your effort in mastering the post-harvest drying and curing process — that is where the science clearly shows flavor improvements occur.
 
-For more on cannabis nutrient management, see [[/cultivation/nutrients]]. For proper curing techniques, see [[/cultivation/cure-store]]. info
+For more on cannabis nutrient management, see [[/cultivation/nutrients]]. For proper curing techniques, see [[/cultivation/cure-store]].
+
+**ℹ️ Info**
 **Key Takeaway:** Scientific studies show flushing has minimal impact on nutrient content or flavor; proper drying and curing after harvest is the proven method for improving taste and smoothness.
-:::
 
 ---
 
 ### Myth 7: "Adding Molasses/Sugars to Nutrients Boosts Potency or Terpene Production"
 
 **⚠️ **Myth #7:** Feeding cannabis plants molasses, cane sugar, or other sugar sources directly increases the sweetness, potency, or terpene content of the harvested flower.**
-
-:::
 
 **Reality:** This myth is built on a fundamental misunderstanding of plant biology. Cannabis plants, like all green plants, are **autotrophs** — they produce their own sugars through photosynthesis. Using light energy, water, and carbon dioxide, plants synthesize glucose and other carbohydrates in their chloroplasts. They do not absorb and utilize external sugars through their roots to increase their internal sugar content or to boost the production of downstream compounds like terpenes or cannabinoids.
 
@@ -277,17 +266,16 @@ In **hydroponic systems**, the situation is quite different. Hydroponic systems 
 - The organic matter in molasses can alter pH in unpredictable ways.
 - Without a soil ecosystem to process the sugars, the plant simply cannot utilize them.
 
-The claim that sugar makes cannabis buds "sweeter" also misunderstands where the perception of sweetness in cannabis comes from. The "sweet" flavor notes in cannabis are produced by specific **terpenes** — particularly terpinolene, ocimene, and certain sesquiterpenes — and by **flavonoids** present in the plant's resin. These compounds are synthesized by the plant through its own biochemical pathways (the methylerythritol phosphate and mevalonate pathways for terpenes). They are not derived from dietary sugar. A bud's sweetness is determined by its genetics and growing conditions (light intensity, temperature, stress factors), not by the sugar content of its nutrient solution. info
+The claim that sugar makes cannabis buds "sweeter" also misunderstands where the perception of sweetness in cannabis comes from. The "sweet" flavor notes in cannabis are produced by specific **terpenes** — particularly terpinolene, ocimene, and certain sesquiterpenes — and by **flavonoids** present in the plant's resin. These compounds are synthesized by the plant through its own biochemical pathways (the methylerythritol phosphate and mevalonate pathways for terpenes). They are not derived from dietary sugar. A bud's sweetness is determined by its genetics and growing conditions (light intensity, temperature, stress factors), not by the sugar content of its nutrient solution.
+
+**ℹ️ Info**
 **Key Takeaway:** Plants produce their own sugars through photosynthesis; molasses feeds soil microbes in living soil systems but does not directly increase plant potency, terpene production, or bud sweetness.
-:::
 
 ---
 
 ### Myth 8: "All Hemp Is CBD-Rich and Therefore Useless for THC"
 
 **⚠️ **Myth #8:** Hemp plants only contain CBD, have no valuable THC, and are therefore useless for producing meaningful cannabinoid products.**
-
-:::
 
 **Reality:** This myth conflates several distinct concepts — the legal definition of hemp, the chemical composition of different hemp cultivars, and the industrial and medicinal value of hemp-derived products — and arrives at a conclusion that is contradicted by both science and economics.
 
@@ -307,17 +295,16 @@ When these cannabinoids are properly extracted, purified, and third-party tested
 
 Hemp also has enormous value beyond cannabinoids: industrial fiber for textiles and construction (hempcrete), food-grade seeds and seed oil, phytoremediation applications, and paper production. Dismissing hemp as "useless" ignores its role as one of the most versatile agricultural crops known to humanity.
 
-For information on cannabinoid science, see [[/science/cannabinoids]]. For the history of cannabis legalization, see [[/history/modern-legalization]]. info
+For information on cannabinoid science, see [[/science/cannabinoids]]. For the history of cannabis legalization, see [[/history/modern-legalization]].
+
+**ℹ️ Info**
 **Key Takeaway:** Hemp is legally defined by its THC content (≤0.3%), not by CBD levels; it is the primary source for CBD, CBG, and hemp-derived cannabinoid products worth billions of dollars globally.
-:::
 
 ---
 
 ### Myth 9: "THC Always Causes Anxiety and Paranoia"
 
 **⚠️ **Myth #9:** THC invariably produces anxiety, paranoia, and panic — cannabis makes anxiety worse, not better.**
-
-:::
 
 **Reality:** THC's relationship with anxiety is one of the most well-studied topics in cannabis pharmacology, and the evidence paints a picture that is far more complex than "THC causes anxiety." The scientific consensus is that THC exhibits a **biphasic dose response** — meaning its effects at low doses are qualitatively different from its effects at high doses, and in some cases, directly opposite.
 
@@ -336,17 +323,16 @@ Individual factors also play an enormous role in how THC affects anxiety:
 
 The claim that THC "always" causes anxiety is contradicted by both the scientific literature and the lived experience of a substantial portion of cannabis consumers who use the plant specifically for anxiety management. The more accurate statement is: THC can either reduce or increase anxiety depending on dose, CBD content, individual biology, and context. Understanding these variables is essential for responsible and beneficial use.
 
-For more on cannabinoid science, see [[/science/cannabinoids]]. For guidance on responsible use, see [[/legal-safety/responsible-use]]. info
+For more on cannabinoid science, see [[/science/cannabinoids]]. For guidance on responsible use, see [[/legal-safety/responsible-use]].
+
+**ℹ️ Info**
 **Key Takeaway:** THC has a biphasic response to anxiety — low doses can reduce it, high doses can increase it — and CBD significantly modulates THC's anxiogenic potential through negative allosteric modulation of CB1 receptors.
-:::
 
 ---
 
 ### Myth 10: "Cannabis Cures Everything" — The Medical Evidence Reality Check
 
 **⚠️ **Myth #10:** Cannabis is a universal cure-all that can treat or cure virtually any medical condition, from cancer to Alzheimer's to diabetes.**
-
-:::
 
 **Reality:** Cannabis has legitimate, well-documented medical applications, and there is no need to exaggerate them. Doing so undermines the credibility of legitimate cannabis medicine, misleads patients, and provides ammunition for those who wish to dismiss cannabis therapy entirely. An honest assessment of the evidence serves patients and the cannabis community better than inflated claims.
 
@@ -382,9 +368,10 @@ It is important to be honest about this evidence landscape. Cannabis has **real,
 
 Exaggerating claims — particularly the assertion that cannabis "cures cancer" — is not only scientifically dishonest but actively harmful to patients who may delay or forego proven treatments in pursuit of unvalidated alternatives. Responsible cannabis advocacy embraces the real evidence rather than inflating it.
 
-For more on cannabinoid science and medical applications, see [[/science/cannabinoids]]. info
+For more on cannabinoid science and medical applications, see [[/science/cannabinoids]].
+
+**ℹ️ Info**
 **Key Takeaway:** Cannabis has legitimate, evidence-backed medical applications (chronic pain, nausea, epilepsy, MS spasticity) but is not a cure-all; exaggerated claims undermine patient trust and scientific credibility.
-:::
 
 ---
 
@@ -393,8 +380,6 @@ For more on cannabinoid science and medical applications, see [[/science/cannabi
 ### Myth 11: "Male Cannabis Plants Are Completely Useless"
 
 **⚠️ **Myth #11:** Male cannabis plants serve no purpose and should always be destroyed immediately upon identification.**
-
-:::
 
 **Reality:** The dismissal of male cannabis plants is understandable in the context of commercial flower production, where males are genuinely undesirable because they pollinate female plants, causing them to produce seeds instead of the seedless, resin-rich flower (sinsemilla) that consumers want. However, concluding that males are "completely useless" because they are unwanted in one specific context is a significant overgeneralization that ignores the essential roles male plants play in several areas.
 
@@ -408,17 +393,16 @@ For more on cannabinoid science and medical applications, see [[/science/cannabi
 
 **Terpenes and aromatics.** Male cannabis flowers produce terpenes and other aromatic compounds, though in lower concentrations than female flowers. These compounds have potential applications in essential oil production and natural fragrance formulation.
 
-The reflexive destruction of male plants makes sense in the narrow context of maximizing sinsemilla flower yield in a cultivation operation focused on smokable product. But it does not follow that males have no value whatsoever. In breeding, fiber production, environmental remediation, and emerging applications, male cannabis plants are genuinely valuable. info
+The reflexive destruction of male plants makes sense in the narrow context of maximizing sinsemilla flower yield in a cultivation operation focused on smokable product. But it does not follow that males have no value whatsoever. In breeding, fiber production, environmental remediation, and emerging applications, male cannabis plants are genuinely valuable.
+
+**ℹ️ Info**
 **Key Takeaway:** Male plants are essential for breeding, produce superior fiber for textiles, and are effective for phytoremediation — their "uselessness" only applies in the narrow context of sinsemilla flower production.
-:::
 
 ---
 
 ### Myth 12: "More THC = Better Weed"
 
 **⚠️ **Myth #12:** The quality of cannabis is directly proportional to its THC percentage — higher THC always means better, more effective, and more desirable cannabis.**
-
-:::
 
 **Reality:** The cannabis industry's obsession with THC percentage is a relatively recent phenomenon driven by market competition, testing culture, and consumer demand for maximum potency. While THC is undoubtedly the primary psychoactive compound in cannabis, equating THC percentage with overall quality is like equating alcohol percentage with the quality of a fine wine — it captures one dimension of the product while ignoring everything else that makes the experience enjoyable or therapeutically valuable.
 
@@ -436,9 +420,10 @@ Several factors explain why higher THC does not automatically mean better cannab
 
 The most informed approach to evaluating cannabis quality considers the **complete chemical profile**: THC percentage, CBD and minor cannabinoid content, terpene composition, cultivation quality, curing quality, freshness, and — most importantly — how the product actually makes the individual user feel. THC percentage is one data point among many, not the definitive measure of quality.
 
-For more on terpenes, see [[/science/terpenes]]. For cannabinoid science, see [[/science/cannabinoids]]. info
+For more on terpenes, see [[/science/terpenes]]. For cannabinoid science, see [[/science/cannabinoids]].
+
+**ℹ️ Info**
 **Key Takeaway:** THC percentage is one factor among many; terpene diversity, minor cannabinoid ratios, cultivation quality, and individual preference often matter more than raw potency for overall experience quality.
-:::
 
 ---
 

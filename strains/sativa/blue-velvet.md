@@ -75,8 +75,6 @@ Blue Velvet is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet berry with fresh pine undertones and a subtle spicy edge. The terpinolene contributes a floral, fruity sweetness, while the pinene adds a crisp, clean pine freshness. The caryophyllene provides a peppery depth that prevents the profile from being one-dimensionally sweet.
@@ -84,7 +82,6 @@ Blue Velvet is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

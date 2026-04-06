@@ -75,8 +75,6 @@ LA Confidential is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Pine and earthy aromas with skunky undertones. The pinene presence gives it a fresh, sharp quality that is layered over the classic earthy indica base. The aroma is moderately pungent but refined.
@@ -84,7 +82,6 @@ LA Confidential is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

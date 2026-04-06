@@ -72,8 +72,6 @@ Durban Venom is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Despite the "Venom" name, this strain is not inherently more potent or dangerous than similarly classified sativa-dominant hybrids.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet anise and licorice with earthy undertones. The terpinolene-dominant profile from Durban Poison creates the signature sweet, herbal aroma while White Widow adds earthy depth and a faint woody quality.
@@ -81,7 +79,6 @@ Durban Venom is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

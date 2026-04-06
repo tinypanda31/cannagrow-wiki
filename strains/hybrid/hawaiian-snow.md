@@ -76,8 +76,6 @@ Hawaiian Snow is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic cerebral effects may be overwhelming for anxiety-prone users at higher doses.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Tropical and sweet with floral notes. The terpinolene-dominant profile gives it a bright, sweet aroma with noticeable tropical and floral character. The myrcene from the Hawaiian parent adds an earthy foundation, while the floral notes create a distinctive bouquet that sets it apart from more earthy-forward sativas.
@@ -85,7 +83,6 @@ Hawaiian Snow is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

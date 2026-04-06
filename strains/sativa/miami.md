@@ -72,8 +72,6 @@ Miami is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The exact genetic lineage of Miami is undocumented -- phenotype expression may vary between different sources and growers.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Citrus-forward with sweet and tropical undertones. The terpinolene-limonene combination creates a bright, energizing aroma dominated by citrus notes layered with sweet tropical fruit character. The overall scent is fresh, vibrant, and immediately uplifting.
@@ -81,7 +79,6 @@ Miami is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

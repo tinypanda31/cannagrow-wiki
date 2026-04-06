@@ -75,8 +75,6 @@ Purple Haze is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, berry, and earthy with herbal undertones. The myrcene-terpinolene combination gives it a warm, fruity quality with the berry sweetness being the most prominent feature, while the caryophyllene adds an earthy, spicy foundation.
@@ -84,7 +82,6 @@ Purple Haze is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -20,7 +20,7 @@ Our core principles:
 | **Transparency** | Our editorial standards, review processes, and content licensing are published openly. |
 | **Comprehensiveness** | We aim to cover every significant aspect of cannabis-related knowledge. |
 
-**?? Disclaimer** CannaGrow is an **educational resource only**. Nothing published on this site should be construed as medical advice, legal advice, or a recommendation to engage in any activity. Cannabis remains illegal in many jurisdictions. Readers are solely responsible for complying with applicable laws and consulting qualified professionals for personal decisions.
+**✅ Disclaimer** CannaGrow is an **educational resource only**. Nothing published on this site should be construed as medical advice, legal advice, or a recommendation to engage in any activity. Cannabis remains illegal in many jurisdictions. Readers are solely responsible for complying with applicable laws and consulting qualified professionals for personal decisions.
 
 
 ---
@@ -84,7 +84,7 @@ We welcome contributors from all backgrounds:
 | Chemists | Extraction methods, compound profiles, analytical techniques |
 | Enthusiasts with expertise | Terminology, strain documentation, consumption methods |
 
-**?? Note** Credentials are not required to contribute, but all submissions are held to the same editorial standards regardless of the contributor's background. Quality of sourcing and writing matters more than titles.
+**✅ Note** Credentials are not required to contribute, but all submissions are held to the same editorial standards regardless of the contributor's background. Quality of sourcing and writing matters more than titles.
 
 
 ---

@@ -76,8 +76,6 @@ Kandy Kush is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, fuel, and earthy with pine undertones. The OG Kush fuel-earthy base is sweetened by the Trainwreck-derived candy-like character, creating a complex sweet-fuel profile. Limonene adds bright citrus accents.
@@ -85,7 +83,6 @@ Kandy Kush is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -47,8 +47,6 @@ Temperature is critical for ethanol extraction quality:
 
 **💡 Freezing both the plant material and the ethanol before extraction significantly reduces the co-extraction of chlorophyll, lipids, and water-soluble compounds, producing a cleaner crude extract.**
 
-:::
-
 ### Step 3: Wash/Extraction
 
 The chilled ethanol is combined with the prepared cannabis material:
@@ -81,7 +79,6 @@ The ethanol must be removed from the extract, leaving behind concentrated cannab
 | **Distillation** | Boiling and condensing ethanol for recovery | Commercial | $5,000-$50,000+ |
 | **Falling film evaporator** | Continuous thin-film evaporation | Industrial | $20,000-$100,000+ | info
 Ethanol recovery is both economically important and environmentally responsible. Professional systems recover 90-98% of the ethanol used, making it cost-effective to reuse the solvent across multiple batches.
-:::
 
 ### Step 6: Winterization (If Needed)
 
@@ -96,8 +93,6 @@ Ethanol extracts lipids, fats, and waxes from cannabis plant material -- especia
 5. Recover the ethanol from the filtered solution as described above
 
 **💡 Short, cold washes (QWET technique) naturally extract fewer lipids and waxes, reducing or eliminating the need for winterization.**
-
-:::
 
 ## QWET (Quick Wash Ethanol Technique)
 
@@ -161,7 +156,6 @@ The combination of temperature and wash time dramatically affects extract compos
 
 ## Denatured Ethanol Warning warning
 Some ethanol is "denatured" -- additives are mixed in to make it undrinkable, avoiding beverage alcohol taxes. Common denaturants include methanol (toxic), isopropyl alcohol, denatonium benzoate (extremely bitter), and other chemicals. Always use food-grade or lab-grade undenatured ethanol for extraction. Check the product specification before purchasing.
-:::
 
 ## Commercial Ethanol Extraction Systems
 

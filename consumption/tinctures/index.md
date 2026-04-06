@@ -43,8 +43,6 @@ Sublingual administration is the primary method for consuming cannabis tinctures
 
 **💡 For the fastest onset and most efficient absorption, hold the tincture under your tongue for 60-90 seconds before swallowing. This maximizes sublingual absorption while any remaining product is then processed through the digestive system.**
 
-:::
-
 ## Key Metrics
 
 | Metric | Sublingual | Swallowed (Edible-like) |
@@ -75,7 +73,6 @@ Tincture potency is typically labeled as total milligrams of cannabinoids per bo
 | **Quarter dropper** | 0.25 ml | 5-8 drops |
 | **Single drop** | ~0.03-0.05 ml | 1 drop | warning
 Droppers are not perfectly calibrated across manufacturers. Always check the product label for specific mg/ml information and use the provided dropper. When in doubt, start with a fraction of a dropper and wait for effects before consuming more.
-:::
 
 ### Recommended Starting Doses
 

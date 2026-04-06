@@ -54,8 +54,6 @@ The result is a concentrate that typically ranges from 50-80% cannabinoid conten
 
 **ℹ️ PSI at the plate is different from the pressure gauge reading on a hydraulic or pneumatic press. Calculate actual plate PSI by dividing total force (pounds) by the surface area of the material being pressed (square inches). Many press manufacturers provide this calculation.**
 
-:::
-
 ### Filter Bags
 
 Filter bags contain the starting material during pressing, preventing plant matter and contaminants from mixing with the extracted rosin.
@@ -68,7 +66,6 @@ Filter bags contain the starting material during pressing, preventing plant matt
 | **120** | Flower, kief | Fastest | Moderate |
 | **160+** | Flower (no bag use) | Very fast | Lower | tip
 Using a filter bag always improves rosin purity, but it also reduces yield slightly. For the cleanest hash rosin, use 37-micron bags with full-melt ice-water hash.
-:::
 
 ## Temperature and Time Guidelines
 
@@ -122,8 +119,6 @@ Temperature is the most influential variable in rosin pressing. It affects yield
 - If rosin stops flowing and no more is extruding, the press is complete
 
 **💡 Ramping pressure -- starting light and gradually increasing -- prevents the material from "blowing out" (bursting through the parchment or bag edges). This is especially important with flower, which contains significant plant matter.**
-
-:::
 
 **Step 5: Collect the Rosin**
 
@@ -237,7 +232,6 @@ Rosin is **exceptional for edible use**, particularly for patients and consumers
 
 ### Decarboxylation State After Pressing info
 **Rosin is partially decarboxylated from the pressing process.** The heat applied during rosin extraction (typically 160-220 degrees F / 71-104 degrees C) begins the decarboxylation process, but it does not complete it. Rosin typically arrives in a partially activated state -- approximately 30-60% decarboxylated depending on pressing temperature and duration.
-:::
 
 For reliable and consistent edible dosing, **supplemental decarboxylation is recommended**:
 
@@ -264,8 +258,6 @@ Rosin is **highly potent** and requires careful dosing:
 
 **⚠️ Rosin's potency makes overconsumption a real risk. A single gram of rosin can produce dozens of standard edible servings. Always measure carefully and label finished products clearly.**
 
-:::
-
 ### Advantages for Edible Use
 
 - **Solventless:** The cleanest possible edible input -- no solvents, no purging, no residual solvent testing required
@@ -288,7 +280,6 @@ Proper storage preserves rosin quality and extends shelf life:
 | **Handling** | Minimize opening and exposure to air | Oxygen degrades cannabinoids and terpenes |
 | **Shelf life** | 3-6 months refrigerated; 6-12+ months frozen | Quality gradually declines over time | tip
 When removing rosin from the refrigerator or freezer, allow the container to reach room temperature before opening. This prevents condensation from introducing moisture to the concentrate.
-:::
 
 ## Navigation
 

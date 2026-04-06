@@ -76,8 +76,6 @@ Rodelizer is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The energetic effects may be unsuitable for users sensitive to sativa stimulation.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet and earthy with floral undertones. The terpinolene-dominant profile produces a floral, herbal sweetness that is layered with earthy depth. The overall aroma is bright and inviting, with a sweetness that is more floral and herbal than dessert-like. The floral character is the strain's most distinctive feature.
@@ -85,7 +83,6 @@ Rodelizer is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

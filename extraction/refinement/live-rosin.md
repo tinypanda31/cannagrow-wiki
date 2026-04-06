@@ -11,8 +11,6 @@ Live rosin represents the pinnacle of solventless cannabis extraction. It is pro
 
 **ℹ️ Do not confuse live rosin with [Live Resin](/extraction/live-resin). While both are made from fresh frozen material, live resin uses solvents (butane, CO2, ethanol) for extraction, while live rosin uses only ice water, heat, and pressure.**
 
-:::
-
 ## What Is Live Rosin?
 
 Live rosin is a multi-step solventless concentrate:
@@ -37,7 +35,6 @@ The process begins at harvest. Quality live rosin starts with premium cannabis c
 - Seal in bags or containers and freeze immediately at 0 degrees F (-18 degrees C) or colder
 - Maintain the cold chain -- material must never thaw until processing tip
 The cultivar choice is the single most important factor in live rosin quality. Resin-rich cultivars with high trichome density and complex terpene profiles produce dramatically superior live rosin.
-:::
 
 ### Step 2: Ice-Water Hash Production
 
@@ -61,8 +58,6 @@ The dried ice-water hash is pressed into rosin using heat and pressure.
 | **Collection** | Directly into glass jar (not parchment) | Preserving the fresh extract for curing |
 
 **💡 Many producers collect the freshly pressed rosin directly into small glass jars rather than scraping from parchment. This "jar tech" minimizes handling, terpene loss, and contamination.**
-
-:::
 
 ### Step 4: Curing (Optional)
 
@@ -197,7 +192,6 @@ Live rosin can be used for edibles, but like live resin, this involves trade-off
 
 ### Suitability for Edibles info
 **Terpene consideration:** Like live resin, live rosin's premium terpene profile is largely lost during decarboxylation. The volatile terpenes that make live rosin exceptional for dabbing evaporate at decarboxylation temperatures. However, as a solventless full-spectrum extract, live rosin remains one of the highest-quality edible inputs available.
-:::
 
 For patients seeking whole-plant edible experiences, live rosin edibles deliver the complete cannabinoid and (remaining) terpene profile. Even after decarboxylation, some less-volatile terpenes and the full spectrum of cannabinoids, flavonoids, and other plant compounds remain present in the extract.
 

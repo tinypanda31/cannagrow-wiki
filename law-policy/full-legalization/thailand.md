@@ -12,8 +12,6 @@ tags: law-policy, legalization, Thailand, Asia, political instability, tradition
 
 **🚨 **Disclaimer:** This page is provided for educational purposes only and does not constitute legal advice. Cannabis laws change frequently — and Thailand's have changed dramatically. Always verify current law in your jurisdiction and consult qualified legal counsel before taking any action. CannaGrow accepts no liability for actions taken based on this content.**
 
-:::
-
 ---
 
 In June 2022, Thailand became the **first Asian nation to legalize cannabis**, delisting cannabis from the Category 5 narcotics list and opening what was, for a brief period, one of the most liberal cannabis regimes in the world. The reform was implemented through administrative action by the Ministry of Public Health rather than comprehensive legislation, and its initial form featured virtually no possession limits, no age restriction, no home cultivation limits, and no regulatory framework for product safety. Cannabis shops proliferated across Bangkok and tourist centers. Edibles appeared at street stalls and convenience stores without labeling or potency warnings. Thailand had swung from some of the world's harshest drug penalties to one of the most liberal frameworks almost overnight.
@@ -37,7 +35,6 @@ Thailand's cannabis story is significant regardless of its ultimate outcome. The
 
 ## Current Legal Status warning
 **Thailand's cannabis legal status is actively unstable.** The information below reflects the situation as of early 2026, but significant changes may have occurred. Verify current law independently.
-:::
 
 | Parameter | Detail |
 |-----------|--------|

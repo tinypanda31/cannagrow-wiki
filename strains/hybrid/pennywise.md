@@ -76,8 +76,6 @@ Pennywise is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Pennywise is bred for therapeutic use and is generally well-tolerated, but individual responses to CBD:THC ratios vary.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and peppery with sweet undertones. The caryophyllene-dominant profile gives it a spicy, peppery aroma with an earthy foundation from humulene and myrcene. The sweet undertones round out the profile and make it more approachable than purely earthy-peppery strains.
@@ -85,7 +83,6 @@ Pennywise is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

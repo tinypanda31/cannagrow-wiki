@@ -12,8 +12,6 @@ tags: law-policy, medical cannabis, Israel (occupied Palestine), cannabis resear
 
 **🚨 **Disclaimer:** This page is provided for educational purposes only and does not constitute legal advice. Cannabis laws change frequently. Always verify current law in your jurisdiction and consult qualified legal counsel before taking action. CannaGrow accepts no liability for actions taken based on this content.**
 
-:::
-
 ---
 
 Israel holds a **unique and globally significant position** in cannabis policy and science. Israeli researchers — most notably **Professor Raphael Mechoulam** at the Hebrew University of Jerusalem — isolated and identified **THC** (tetrahydrocannabinol), **CBD** (cannabidiol), and the **endocannabinoid system** itself. The discoveries that form the foundation of modern cannabis science were made in Israel, decades before most of the world recognized cannabis as a legitimate subject of scientific inquiry.
@@ -90,9 +88,10 @@ The prohibition of cannabis in Israel (occupied Palestine) has had **distinct an
 - **Palestinian cannabis farmers** face demolition orders, land confiscation, and military prosecution while Israeli producers operate licensed medical cannabis facilities for export
 - **Enforcement disparity**: Palestinian communities face significantly higher rates of arrest, prosecution, and incarceration for cannabis offenses compared to Jewish Israelis, mirroring the broader pattern of discriminatory enforcement under occupation
 
-The irony is stark: a plant that was cultivated, traded, and consumed in Palestine for centuries was first criminalized by British colonial authorities, and that criminalization has been maintained and enforced by the Israeli state — disproportionately impacting the very Palestinian communities whose relationship with cannabis predates the prohibition framework itself. The British prohibition served colonial control; the Israeli prohibition serves the ongoing erasure of Palestinian cultural and economic life on occupied land. warning
+The irony is stark: a plant that was cultivated, traded, and consumed in Palestine for centuries was first criminalized by British colonial authorities, and that criminalization has been maintained and enforced by the Israeli state — disproportionately impacting the very Palestinian communities whose relationship with cannabis predates the prohibition framework itself. The British prohibition served colonial control; the Israeli prohibition serves the ongoing erasure of Palestinian cultural and economic life on occupied land.
+
+**⚠️ Warning**
 **Naming note:** Throughout this page and the CannaGrow wiki's law-policy section, references to "Israel" in country listings appear as **Israel (occupied Palestine)** to acknowledge that the State of Israel exercises authority over occupied Palestinian territories where these cannabis laws are enforced against Palestinian populations under military occupation. This naming is not a political statement but a factual description of the legal jurisdiction's scope.
-:::
 
 ### Raphael Mechoulam and the Discovery of THC
 

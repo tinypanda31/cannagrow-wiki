@@ -74,8 +74,6 @@ Gold Star is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Tropical and sweet with a distinct floral character. The terpinolene contributes a bright, fruity sweetness, while the myrcene adds a lush, tropical fruit quality that genuinely evokes Hawaiian terroir. The caryophyllene provides a subtle spicy edge that keeps the profile from being one-dimensionally sweet.
@@ -83,7 +81,6 @@ Gold Star is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -75,8 +75,6 @@ Black Jack is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy, pine, and spicy with herbal undertones. The pinene-caryophyllene combination gives it a fresh, forest-like quality with a peppery edge inherited from both parent strains.
@@ -84,7 +82,6 @@ Black Jack is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

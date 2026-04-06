@@ -75,8 +75,6 @@ Ghost Train Haze is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. This strain is extremely potent -- not suitable for inexperienced users. Start with a low dose. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Citrus, sour, and pine with earthy undertones. The aroma is bright and sharp, with a sour-citrus edge that is immediately distinctive. The Haze influence adds herbal complexity.
@@ -84,7 +82,6 @@ Ghost Train Haze is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -76,8 +76,6 @@ Gorilla Glue #4 is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy, pine, sour, and chocolate with pungent undertones. The aroma is deep and complex, with a sour-pungent quality layered over an earthy foundation and faint chocolate notes inherited from the Chocolate Diesel parent.
@@ -85,7 +83,6 @@ Gorilla Glue #4 is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

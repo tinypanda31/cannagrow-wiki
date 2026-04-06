@@ -76,8 +76,6 @@ Sage is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The focused cerebral effects may be stimulating for anxiety-prone users at higher doses.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Herbal and pine-forward with earthy undertones. The terpinolene-dominant profile gives it a distinctive herbal, sage-like aroma that is immediately recognizable. The pinene adds a fresh pine character, while the caryophyllene provides a subtle spicy warmth. The overall aroma is clean, fresh, and distinctly herbal.
@@ -85,7 +83,6 @@ Sage is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

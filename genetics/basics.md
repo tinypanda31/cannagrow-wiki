@@ -56,8 +56,6 @@ While genetics set the potential, environmental factors determine how much of th
 
 **💡 **The Genetic Ceiling Principle**: A plant with poor genetics will never produce elite-quality flowers, regardless of how optimized the environment is. Conversely, a plant with elite genetics will underperform if grown in suboptimal conditions. Genetics set the ceiling; environment determines how close the plant reaches it.**
 
-:::
-
 ### The Cultivation-Genetics Relationship
 
 Successful cultivation begins with selecting genetics appropriate for the growing environment and desired outcomes. A cultivator growing in a short outdoor season in a northern climate benefits from fast-flowering or [[/genetics/autoflower-vs-photoperiod|autoflowering]] genetics. A commercial indoor facility with optimized environmental controls may prioritize high-yielding photoperiod cultivars with specific [[/science/terpenes|terpene profiles]]. Understanding genetics allows cultivators to make informed [[/genetics/seeds|seed and clone selection]] decisions rather than relying on marketing claims alone.
@@ -93,7 +91,6 @@ Phenotypic traits in cannabis include:
 - Aroma and flavor profiles
 - Resistance to mold, pests, and environmental stress tip
 **Simple Analogy**: If the genotype is a recipe written in a cookbook, the phenotype is the actual dish served on the plate. The recipe (genotype) dictates what ingredients and steps are possible, but the skill of the cook, the quality of ingredients, and the kitchen conditions (environment) determine how the final dish (phenotype) turns out.
-:::
 
 ### Why Two Seeds from the Same Parents Differ
 
@@ -120,8 +117,6 @@ The pheno-hunting process typically involves:
 
 **ℹ️ Pheno-hunting is why breeders often release a "population" of seeds from the same cross under different names — each named cultivar represents a specific selected phenotype. For example, a breeder may cross Gelato #33 with Sunset Sherbet and grow 200 seeds, then name the top individual "Wedding Cake" while releasing the remaining genetics as an unnamed population. See [[/strains]] for information on named cultivars.**
 
-:::
-
 ### Environmental Influence on Phenotype
 
 The environment plays a profound role in determining which genes are **expressed** (turned on or off) and to what degree. This field of study is called **epigenetics** — changes in gene expression that do not involve changes to the underlying DNA sequence.
@@ -138,7 +133,6 @@ Key environmental factors that influence phenotypic expression in cannabis:
 | **Water stress** | Controlled drought stress can increase resin production as a protective mechanism, but severe stress reduces yield |
 | **Training techniques** | Topping, LST, and ScrOG redistribute auxin hormones, altering branch structure and canopy uniformity without changing genetics | tip
 Environmental factors can modulate the **expression** of genetic traits but cannot create traits that the genotype does not possess. A plant lacking the genetic capacity for high resin production will not become resinous regardless of light intensity or stress techniques. This is why selecting quality genetics is the first and most critical step in cultivation.
-:::
 
 ---
 
@@ -157,8 +151,6 @@ Environmental factors can modulate the **expression** of genetic traits but cann
 | Bread wheat (*T. aestivum*) | 42 | 21 | Hexaploid (6n) |
 
 **ℹ️ The diploid nature of cannabis simplifies genetic analysis compared to polyploid crops like wheat or cotton. However, cannabis does not naturally occur in polyploid forms, and attempts to induce polyploidy (e.g., tetraploid cannabis using colchicine treatment) have been experimental and generally result in reduced fertility.**
-
-:::
 
 ### Genome Size and Composition
 
@@ -220,7 +212,6 @@ Several traits in cannabis exhibit dominant-recessive inheritance patterns, thou
 | **Plant height** | Tall (sativa) | Short (indica) | Polygenic; F1 hybrids are typically intermediate |
 | **Seed coat pattern** | Dark/mottled | Light/solid | Simple Mendelian patterns observed in some breeding studies | info
 The *B* locus (cannabinoid ratio locus) is one of the best-characterized Mendelian loci in cannabis. Plants homozygous for the THC allele (*bb*) produce primarily THCA. Plants homozygous for the CBD allele (*BB*) produce primarily CBDA. Heterozygous plants (*Bb*) produce intermediate THC:CBD ratios, classifying them as Type II chemotypes. This was one of the first cannabis traits demonstrated to follow Mendelian inheritance.
-:::
 
 ### Sex Determination
 
@@ -232,8 +223,6 @@ Cannabis uses an **XY sex-determination system** similar to humans:
 The male parent determines the sex of the offspring because it can contribute either an X or a Y chromosome, while the female parent always contributes an X. This results in an approximately 50:50 sex ratio in seed populations.
 
 **⚠️ **Stress-Induced Hermaphroditism**: While genetic sex is determined by XX/XY chromosomes, environmental stress (light leaks during dark periods, extreme VPD, nutrient toxicity, physical damage, root rot) can cause female plants to develop male flowers (staminate flowers) — a condition called hermaphroditism or "herming." These flowers can produce pollen and fertilize other plants. Some genotypes are more prone to hermaphroditism than others, and this tendency has a genetic component. Modern breeders actively select against hermaphroditic tendencies. See [[/genetics/seeds]] for more on sex identification.**
-
-:::
 
 ### Genetic Recombination and Why Breeding Two High-THC Plants Doesn't Guarantee High-THC Offspring
 
@@ -260,7 +249,6 @@ Polygenic traits in cannabis include:
 - **Disease resistance** — influenced by multiple immune response genes and physical barrier traits
 - **Terpene composition** — influenced by multiple terpene synthase genes and precursor availability tip
 Polygenic traits are best improved through **selective breeding over multiple generations**. By consistently selecting the top performers from each generation and breeding them together, breeders shift the population average in the desired direction — a process called **recurrent selection**. This is analogous to how all major crop plants were improved over thousands of years of agriculture.
-:::
 
 ---
 
@@ -353,8 +341,6 @@ Polygenic traits are best improved through **selective breeding over multiple ge
 
 **ℹ️ *Subsp. ruderalis* is used almost exclusively as a **gene donor for the autoflowering trait**. Breeders cross ruderalis with elite sativa and indica cultivars, then backcross the autoflowering offspring to the elite parent repeatedly over multiple generations to recover the desirable traits while retaining the autoflowering gene. See [[/genetics/autoflower-vs-photoperiod]] for a detailed comparison of these flowering types.**
 
-:::
-
 ### Subspecies Comparison Table
 
 | Characteristic | *subsp. sativa* | *subsp. indica* | *subsp. ruderalis* |
@@ -387,7 +373,6 @@ A **landrace** is a locally adapted, traditional variety of cannabis that evolve
 | Not optimized for maximum yield | Optimized for specific traits (potency, yield, terpene profile) |
 | Historically used by indigenous populations | Commercially distributed worldwide | tip
 **True landraces are becoming increasingly rare**. Decades of hybridization, habitat destruction, international eradication programs, and political instability in traditional cannabis-growing regions have threatened or eliminated many landrace populations. Cannabis preservation organizations and seed banks are actively working to collect, preserve, and document remaining landrace genetics before they are lost.
-:::
 
 ### Why Landraces Are the Genetic Foundation of All Modern Breeding
 
@@ -436,8 +421,6 @@ Key historical periods in landrace collection and hybridization:
 
 **💡 Cultivators interested in preserving genetic diversity should consider growing landrace cultivars alongside modern hybrids. Landraces offer unique genetics not found in the modern hybrid pool and provide valuable genetic diversity for [[/genetics/breeding|breeding programs]]. They also offer insights into how cannabis adapts to specific environmental conditions, which can inform cultivation practices.**
 
-:::
-
 ---
 
 ## The Indica/Sativa Debate
@@ -482,9 +465,10 @@ The cannabis science community has developed more rigorous classification system
 
 **Terpene Profile Classification**: Classifies cultivars by their dominant terpenes (e.g., "myrcene-dominant," "limonene-dominant," "caryophyllene-dominant"), which has a stronger scientific basis for predicting aroma and potentially effects. See [[/science/terpenes]].
 
-**Genetic Lineage Classification**: Classifies cultivars by their documented breeding history and genetic parentage, which provides meaningful information for breeders and cultivators. info
+**Genetic Lineage Classification**: Classifies cultivars by their documented breeding history and genetic parentage, which provides meaningful information for breeders and cultivators.
+
+**ℹ️ Info**
 The scientific consensus is that the indica/sativa distinction should be retired from consumer-facing product descriptions and replaced with information about cannabinoid content, terpene profiles, and documented lineage. However, these terms remain useful within the cultivation and breeding communities for describing plant morphology and growth characteristics. See [[/glossary]] for definitions of key terms.
-:::
 
 For a thorough debunking of the indica/sativa myth and other common cannabis misconceptions, see [[/science/bro-science]].
 
@@ -505,8 +489,6 @@ The **chemotype** (chemical phenotype) classification system categorizes cannabi
 | **Type V** | Cannabinoid-neutral | No significant decarboxylated cannabinoids; may contain THCA/CBDA in raw form | None (or acidic precursors only) | Raw cannabis juice, freshly harvested uncured material |
 
 **ℹ️ The chemotype classification system was originally proposed by Ernest Small and Arthur Hughes in 1973, who described three chemotypes based on THC:CBD ratios. Types IV and V have been added more recently as analytical capabilities improved and interest in minor cannabinoids grew.**
-
-:::
 
 ### Chemotype Details
 
@@ -540,7 +522,6 @@ Understanding chemotype is essential for cultivators because it determines the e
 - **Type IV** cultivars are an emerging market segment with growing demand
 - **Type V** cultivars are grown for industrial hemp (fiber, grain) or for extraction of non-cannabinoid compounds (terpenes, flavonoids) tip
 When selecting [[/genetics/seeds|genetics]] for cultivation, start by identifying the desired chemotype for your market or personal needs. Within a chemotype category, use [[/science/terpenes|terpene profiles]] and documented lineage to differentiate between cultivars. This approach is far more reliable than using indica/sativa labels for selection.
-:::
 
 ---
 
@@ -564,8 +545,6 @@ Manifestations of hybrid vigor in cannabis include:
 - **Uniformity** — F1 individuals from the same cross are more uniform than open-pollinated populations
 
 **💡 Hybrid vigor is strongest in the **F1 generation** (first filial generation — the direct offspring of two distinct parent lines). In subsequent generations (F2, F3, etc.), the vigor typically diminishes as genetic recombination produces more variable offspring. This is why commercial agriculture in many crops relies on F1 hybrid seed — each generation must be recreated by crossing the original parent lines.**
-
-:::
 
 ### Why Nearly All Modern Strains Are Hybrids
 
@@ -602,7 +581,6 @@ DNA fingerprinting uses a set of genetic markers (typically short tandem repeats
 - Intellectual property protection for breeders' proprietary cultivars
 - Legal and regulatory compliance for cultivar tracking info
 The cannabis industry currently lacks a standardized, universally accepted DNA fingerprinting database. Several companies and research institutions maintain proprietary databases, but cross-referencing between databases is limited. This is an active area of development in the industry.
-:::
 
 **Genetic Markers for Cannabinoid Production**
 
@@ -625,8 +603,6 @@ PCR-based sex testing allows cultivators to determine the genetic sex of cannabi
 The test detects Y-chromosome-specific DNA sequences. Plants with the Y-chromosome marker are male (XY); plants without it are female (XX). Accuracy rates exceed 99% when performed correctly.
 
 **💡 For small-scale cultivators, visual sex identification at the pre-flower stage (typically 4–6 weeks into vegetative growth) remains the most practical approach. See [[/genetics/seeds]] for guidance on identifying male and female pre-flowers. PCR-based sex testing is most valuable for large-scale operations where early male removal is economically critical.**
-
-:::
 
 **Genetic Preservation**
 
@@ -659,7 +635,6 @@ As genetic testing costs decrease and reference databases expand, the cannabis i
 - **Reference genome panels**: Comprehensive, publicly available genetic profiles of thousands of cultivars enabling accurate strain verification worldwide
 - **Epigenetic profiling**: Understanding how cultivation practices influence gene expression at the epigenetic level, allowing cultivators to optimize environmental conditions for specific genetic profiles info
 The pace of genetic research in cannabis is accelerating as legalization expands and research restrictions loosen. Cultivators and breeders who understand the fundamentals covered on this page will be well-positioned to leverage these advances as they become commercially available. For deeper exploration of applied breeding genetics, see [[/genetics/breeding]].
-:::
 
 ---
 

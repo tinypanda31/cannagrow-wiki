@@ -72,8 +72,6 @@ Malawi Gold is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Users sensitive to intense cerebral effects should approach with caution.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, earthy, and spicy with a warm, inviting character. The aroma is rich and layered, with a sweetness that distinguishes it from purely earthy landraces.
@@ -81,7 +79,6 @@ Malawi Gold is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

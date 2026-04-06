@@ -13,8 +13,6 @@ Dabbing has become one of the most popular ways to consume cannabis concentrates
 
 **⚠️ Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaporizing) or [Edibles](/consumption/edibles) before considering dabbing.**
 
-:::
-
 ## What Is Dabbing?
 
 A "dab" is a small amount of cannabis concentrate -- typically the size of a grain of rice to a small pea -- that is placed on a heated surface (called a nail or banger), instantly vaporizing the concentrate. The vapor is inhaled through a specialized glass water pipe called a dab rig.
@@ -39,7 +37,6 @@ The process:
 | **Dab tool** | Small implement (metal, glass, or ceramic) for handling concentrates | $3-$20 |
 | **Concentrate container** | Non-stick container for storing concentrates (silicone or glass) | $3-$15 | info
 For guidance on sourcing quality dab rigs, bubblers, and other glass pieces from Chinese manufacturers, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
-:::
 
 ### Nail/Banger Materials
 
@@ -109,8 +106,6 @@ Dabbing temperature is the single most important variable affecting the dabbing 
 
 **💡 Low-temperature dabbing (315-450 degrees F) is widely considered the best approach for flavor and smoothness. It preserves the full terpene profile of the concentrate and produces less irritating vapor. High-temperature dabbing produces bigger clouds but degrades terpenes and creates a harsher experience.**
 
-:::
-
 ### Estimating Temperature Without a Thermometer
 
 When using a torch without an e-nail or infrared thermometer, temperature estimation relies on visual and timing cues:
@@ -122,7 +117,6 @@ When using a torch without an e-nail or infrared thermometer, temperature estima
 | **No visible glow** | 500-600 degrees F (260-316 degrees C) | 30-45 seconds |
 | **Cool to the touch** (not recommended to test) | Near room temperature | 2+ minutes | warning
 Do not rely solely on visual cues for temperature estimation. Using an infrared thermometer or an e-nail with a temperature display is strongly recommended for accurate, consistent dabbing.
-:::
 
 ## The Dabbing Process
 

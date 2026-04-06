@@ -8,8 +8,6 @@ tags: sustainability, organic, living-soil, energy-efficiency, water-conservatio
 
 **ℹ️ **Path:** `/sustainability/eco-friendly-cultivation` | **Part of:** [[/sustainability]] | **Related:** [[/sustainability/environmental-impact]]**
 
-:::
-
 ---
 
 ## Introduction
@@ -18,9 +16,10 @@ Sustainable cannabis cultivation is not just an ethical choice — it is increas
 
 The environmental footprint of cannabis cultivation has drawn increasing scrutiny as the industry matures. Indoor facilities in particular consume significant electricity for lighting, HVAC, and dehumidification. Synthetic nutrient runoff contaminates local waterways. Single-use plastic nutrient bottles and growing media end up in landfills. Pesticide applications harm beneficial insect populations and soil ecosystems. These are not inevitable consequences of growing cannabis — they are the result of specific cultivation choices, and alternative approaches exist at every stage of the growing process.
 
-This page provides practical, actionable guidance for cultivators who want to reduce their environmental footprint without sacrificing yield or quality. Whether you are running a small personal grow, a mid-size greenhouse, or a commercial indoor facility, the strategies below can be adapted to your scale, budget, and regulatory environment. Sustainability is not an all-or-nothing proposition — even incremental improvements compound over time.tip
+This page provides practical, actionable guidance for cultivators who want to reduce their environmental footprint without sacrificing yield or quality. Whether you are running a small personal grow, a mid-size greenhouse, or a commercial indoor facility, the strategies below can be adapted to your scale, budget, and regulatory environment. Sustainability is not an all-or-nothing proposition — even incremental improvements compound over time.
+
+**💡 Tip**
 **Start small.** You do not need to overhaul your entire operation overnight. Pick one or two practices from this guide — switching to organic nutrients, installing drip irrigation, or beginning a composting program — and expand from there. Track your results. Most growers find that sustainable practices pay for themselves within the first year through reduced input costs and improved plant health.
-:::
 
 ---
 
@@ -121,8 +120,6 @@ The soil food web can be organized into trophic levels, each playing a distinct 
 
 **⚠️ **Avoid practices that disrupt the soil food web.** Tilling destroys fungal hyphae networks. Broad-spectrum fungicides and bactericides kill beneficial organisms alongside pathogens. Synthetic salt fertilizers in high concentrations can create osmotic stress for soil microbes. Each of these practices reduces the biological capacity of your soil and pushes the system toward dependency on external inputs.**
 
-:::
-
 ### How to Build Living Soil
 
 Building living soil is a process, not a product. The following practices form the foundation of any living soil program:
@@ -148,9 +145,10 @@ No-till (or low-till) cultivation means growing without mechanically disturbing 
 * **Preserves fungal networks** — Mycorrhizal and saprophytic fungal hyphae form extensive underground networks that are destroyed by tilling. These networks are essential for nutrient transport, water retention, and soil aggregation.
 * **Reduces CO2 release** — Tilling exposes protected soil organic matter to oxygen, accelerating decomposition and releasing stored carbon as CO2. No-till systems retain significantly more carbon in the soil profile.
 * **Builds organic matter over time** — Each cycle adds root mass, root exudates, and top-dressed amendments. Over 3-5 years, no-till beds develop deep, rich, biologically diverse soil that requires fewer external inputs.
-* **Cannabis suitability** — Cannabis is an annual plant, making it well-suited to no-till systems. Many growers run the same soil beds for 5+ years with progressively improving results. Yield and quality often increase with each successive cycle as soil biology matures.tip
+* **Cannabis suitability** — Cannabis is an annual plant, making it well-suited to no-till systems. Many growers run the same soil beds for 5+ years with progressively improving results. Yield and quality often increase with each successive cycle as soil biology matures.
+
+**💡 Tip**
 **Transitioning to no-till:** If your current soil is compacted or degraded, one final deep till to incorporate amendments may be necessary before switching to no-till permanently. After that initial reset, resist the urge to till. Top-dress, water, and let biology do the mixing.
-:::
 
 ### Cover Cropping
 
@@ -166,8 +164,6 @@ Cover crops are plants grown specifically to benefit the soil rather than for ha
 **Terminating cover crops:** Before transplanting cannabis, cover crops must be terminated. Methods include mowing and tilling under (if tilling is acceptable in your system), tarping (covering with black plastic to solarize), crimping (mechanical damage that kills the plants), or natural die-off (winter-killed species in cold climates). Allow 2-4 weeks for terminated cover crops to begin decomposing before transplanting.
 
 **ℹ️ **Hemp as a cover crop:** Industrial hemp (*Cannabis sativa* L. with <0.3% THC) makes an excellent cover crop for cannabis operations. Its deep taproot breaks up compaction, its biomass adds significant organic matter, and its genetic relationship to cannabis means it shares similar mycorrhizal associations. For breeding genetics and hemp cultivation details, see [[/genetics/breeding]].**
-
-:::
 
 ### Cost Comparison: Living Soil Investment
 
@@ -208,7 +204,6 @@ The transition from High-Pressure Sodium (HPS) to Light-Emitting Diode (LED) gro
 | **Quality LED** | 2.7-3.2 | 320-400W | 1,090-1,360 | 50,000-100,000 | Yes (many models) | $768-$960 + fixture (~$300-600) = **$1,068-$1,560** |
 | **Budget LED** | 2.3-2.6 | 380-450W | 1,295-1,530 | 50,000 | No (fixed spectrum) | $912-$1,080 + fixture (~$150-300) = **$1,062-$1,380** |info
 **Note on the table above:** While the 5-year total cost of quality LEDs can appear comparable to HPS in raw electricity + fixture calculations, the real savings come from reduced HVAC load. HPS lights dump ~2,000 BTU/hr of heat into the grow space, requiring proportionally larger (and more energy-hungry) air conditioning. When HVAC savings are included, LEDs typically save $500-$1,500+ per year per room depending on climate and room size.
-:::
 
 ### HVAC Optimization
 
@@ -247,8 +242,6 @@ Many utility companies charge time-of-use (TOU) rates that vary by hour of the d
 Vapor Pressure Deficit (VPD) is the difference between the actual water vapor pressure in the air and the saturation vapor pressure at a given temperature. Targeting specific VPD ranges (rather than arbitrary temperature and humidity setpoints) ensures optimal plant transpiration and growth while avoiding energy waste from over-cooling or over-dehumidifying.
 
 **💡 **VPD efficiency example:** A grow room set to 75°F and 50% RH may be using more energy than necessary to maintain those numbers. If the VPD target for late flower is 1.0-1.5 kPa, the same VPD could be achieved at 78°F and 55% RH — potentially reducing dehumidifier runtime by 20-30% while keeping plants in their optimal transpiration range.**
-
-:::
 
 ### Energy Use Reduction Potential
 
@@ -301,7 +294,6 @@ For outdoor and greenhouse cultivators, rainwater harvesting provides a free, ch
 * Filtration (mesh screen filter before storage; additional filtration before use)
 * Pump and distribution (gravity feed or electric pump to irrigation lines)warning
 **Water quality testing:** Rainwater collected from roofs can contain contaminants from roofing materials, bird droppings, and atmospheric deposition. Test harvested rainwater for heavy metals, bacterial contamination, and pH before using on cannabis crops, especially if the water will be used in hydroponic systems.
-:::
 
 ### Drip Irrigation
 
@@ -459,8 +451,6 @@ When prevention, monitoring, and biological controls are insufficient, targeted 
 
 **⚠️ **Flower-phase caution:** Most foliar sprays (including neem oil, insecticidal soap, and biological fungicides) should NOT be applied to cannabis flowers. Residue on consumable flower products poses potential health risks when inhaled. IPM should keep pest populations below treatment thresholds before the flowering phase begins. If flower-phase treatment is unavoidable, use the least toxic options (beneficial insects, hydrogen peroxide drench) and observe appropriate pre-harvest intervals.**
 
-:::
-
 ### Companion Planting for IPM
 
 Companion planting — growing beneficial plants alongside cannabis — provides passive, continuous pest management:
@@ -491,9 +481,10 @@ Cannabis roots, stems, fan leaves, sugar leaves, and harvest trim represent the 
    * It **accelerates THC degradation**. THC breaks down at sustained temperatures above 131°F, which is relevant in jurisdictions requiring cannabis waste to be rendered "unusable" before composting or disposal.
 3. **Turn regularly** — Turning the pile every 3-7 days reintroduces oxygen, which maintains thermophilic bacterial activity. Without turning, the pile goes anaerobic and begins producing methane.
 4. **Cure** — After the active heating phase (2-4 weeks), allow the compost to cure for 4-8 weeks. During curing, mesophilic organisms complete the decomposition process and the compost stabilizes.
-5. **Screen and use** — Screen finished compost through a 1/2-inch mesh to remove large stems and uncomposted material. The resulting compost is a nutrient-rich soil amendment ready for use in living soil mixes or as top-dressing.info
+5. **Screen and use** — Screen finished compost through a 1/2-inch mesh to remove large stems and uncomposted material. The resulting compost is a nutrient-rich soil amendment ready for use in living soil mixes or as top-dressing.
+
+**ℹ️ Info**
 **Regulatory compliance:** Many jurisdictions require cannabis waste to be rendered "unusable and unrecognizable" before disposal. Hot composting that reaches and maintains 131°F+ for a minimum period (typically 3-15 days, depending on local regulations) satisfies this requirement in many areas while simultaneously producing a valuable soil product. Always verify local regulations before composting cannabis waste.
-:::
 
 ### Growing Media Recycling
 

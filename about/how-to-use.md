@@ -8,7 +8,7 @@ tags: navigation, getting-started, how-to, guide
 
 Welcome to CannaGrow. This page will help you navigate the site, understand its structure, and find the information you need efficiently.
 
-**?? Who This Page Is For** Whether you are a first-time visitor or a returning researcher, this guide covers features and navigation tips that will make your experience smoother.
+**✅ Who This Page Is For** Whether you are a first-time visitor or a returning researcher, this guide covers features and navigation tips that will make your experience smoother.
 
 
 ---
@@ -88,9 +88,10 @@ Citations for claims made in the article.
 
 | Element | What It Looks Like | Purpose |
 |---------|-------------------|---------|
-| **Info boxes** | **?? ... ::: | Supplementary information, tips, or clarifications |** | **Warning boxes** | **?? ...  | Safety concerns, legal disclaimers, or important caveats |** | **Tables** | Pipe-formatted tables | Structured data comparisons (e.g., strain profiles, legal status) |
-| **Internal links** | [Page Name](/path) | Navigate to other CannaGrow pages |
-| **External links** | [Source Name](https://...) | Link to external references and sources |
+| **Bold labels** | `**⚠️ Warning**`, `**ℹ️ Info**`, `**💡 Tip**` | Safety concerns, legal disclaimers, supplementary info, tips |
+| **Tables** | Pipe-formatted tables | Structured data comparisons (e.g., strain profiles, legal status) |
+| **Internal links** | `[Page Name](/path)` | Navigate to other CannaGrow pages |
+| **External links** | `[Source Name](https://...)` | Link to external references and sources |
 | **Image placeholders** | `![Alt text](/path/to/image)` | Suggested images for the page |
 
 ---
@@ -146,7 +147,6 @@ Strain comparison tables appear on several pages, particularly in the [Strains](
 
  warning Note on Strain Data
 Strain characteristics vary significantly between growers, harvests, and testing labs. The values presented represent **typical ranges** reported across multiple sources, not guarantees. Two samples of the same named strain can have very different cannabinoid and terpene profiles depending on growing conditions, harvest timing, and curing methods.
-:::
 
 ---
 
@@ -180,8 +180,8 @@ You will encounter disclaimer boxes throughout CannaGrow. They serve specific pu
 
 | Disclaimer Type | Appearance | Meaning |
 |----------------|-----------|---------|
-| **Legal Disclaimer** | **?? | Information about laws may be outdated or inapplicable to your jurisdiction. Verify locally. |** | **Medical Disclaimer** |  warning | Content is educational only and does not replace professional medical advice. |
-| **Informational Note** | **?? | Supplementary context that is useful but not critical to understanding the main content. |** | **Safety Warning** |  danger | Immediate safety concern requiring reader attention (e.g., risks of overconsumption, contamination). |
+| **Legal Disclaimer** | **✅ | Information about laws may be outdated or inapplicable to your jurisdiction. Verify locally. |** | **Medical Disclaimer** |  warning | Content is educational only and does not replace professional medical advice. |
+| **Informational Note** | **✅ | Supplementary context that is useful but not critical to understanding the main content. |** | **Safety Warning** |  danger | Immediate safety concern requiring reader attention (e.g., risks of overconsumption, contamination). |
 
 ---
 

@@ -73,8 +73,6 @@ White Widow is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. White Widow's high THC range means dosing should be approached carefully, particularly by inexperienced consumers. The balanced hybrid effects mean the experience can shift toward either cerebral energy or body relaxation depending on dose and individual biology.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and woody with pine freshness. The myrcene-dominant profile creates the characteristic earthy, musky aroma layered with pine freshness from pinene and woody depth from caryophyllene. The overall scent is rich, resinous, and complex, with the dense trichome coverage contributing to a particularly aromatic profile.
@@ -82,7 +80,6 @@ White Widow is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

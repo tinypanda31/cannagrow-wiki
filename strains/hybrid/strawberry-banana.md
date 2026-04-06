@@ -76,8 +76,6 @@ Strawberry Banana is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Strawberry, banana, and sweet with fruity smoothie-like character. The myrcene-dominant banana base is sweetened by strawberry-berry notes from limonene, creating a remarkably fruit smoothie-like aroma. The sweetness is prominent and approachable.
@@ -85,7 +83,6 @@ Strawberry Banana is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

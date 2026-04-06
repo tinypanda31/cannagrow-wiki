@@ -75,8 +75,6 @@ Purple Train Wreck is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Spicy and grape with a lemon edge. The terpinolene contributes a floral, slightly fruity sweetness, while the caryophyllene delivers a peppery warmth connecting to the Trainwreck heritage. The grape character from Mendocino Purps is present, and the limonene adds a bright lemon edge that keeps the profile complex and engaging.
@@ -84,7 +82,6 @@ Purple Train Wreck is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

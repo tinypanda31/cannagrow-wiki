@@ -75,8 +75,6 @@ Moby Dick is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy, citrus, and spicy with herbal undertones. The myrcene-caryophyllene combination gives it a warm, organic quality with a bright citrus edge from the terpinolene and limonene.
@@ -84,7 +82,6 @@ Moby Dick is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -86,8 +86,6 @@ Temperature is the single most important variable in vaporizing, affecting flavo
 
 **💡 Many experienced vaporizers start at a low temperature and gradually increase across a session. This approach captures the full range of terpenes (which vaporize at different temperatures) and provides a more complete experience.**
 
-:::
-
 ### Compound Vaporization Temperatures
 
 | Compound | Boiling/Vaporization Point | Notes |
@@ -142,7 +140,6 @@ Pre-filled vape cartridges are popular but carry unique safety considerations.
 | **Pesticide concentration** | Pesticides present in the starting flower can be concentrated in the extract | Purchase lab-tested products from licensed sources |
 | **Counterfeit cartridges** | Fake branding on cartridges containing unknown, potentially dangerous substances | Purchase only from licensed dispensaries; verify packaging | warning
 The 2019 EVALI outbreak was primarily linked to vitamin E acetate in illicit market THC cartridges. Always purchase cartridges from licensed, tested sources. Avoid street cartridges entirely.
-:::
 
 ### Safe Cartridge Practices
 

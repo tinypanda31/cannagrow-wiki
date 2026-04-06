@@ -18,7 +18,7 @@ dateCreated: 2026-04-05T06:52:30.689Z
 
 CannaGrow is a free, open educational resource dedicated to providing **neutral, accurate, and comprehensive** information about cannabis (*Cannabis sativa*, *Cannabis indica*, *Cannabis ruderalis*). Our goal is to serve students, researchers, medical professionals, cultivators, and curious readers with content grounded in scientific evidence, historical documentation, and transparent sourcing.
 
-**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
+**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
 
 
 ---
@@ -87,7 +87,7 @@ CannaGrow is a community project. If you have expertise in cannabis science, cul
 - Review [How to Contribute](/about) for submission processes
 - All content is licensed under [CC BY-NC-SA 4.0](/about)
 
-**?? Note** All contributions are reviewed before publication. See our [Editorial Guidelines](/about/editorial) for details on our review process.
+**✅ Note** All contributions are reviewed before publication. See our [Editorial Guidelines](/about/editorial) for details on our review process.
 
 
 ---

@@ -14,8 +14,6 @@ tags: autoflowering, photoperiod, ruderalis, genetics, cultivation, indoor, outd
 
 **ℹ️ This page is provided for educational and informational purposes only. Cannabis cultivation is subject to local, national, and international laws. Always comply with applicable regulations in your jurisdiction. This content does not constitute medical or legal advice.**
 
-:::
-
 ---
 
 ## Introduction
@@ -139,9 +137,10 @@ A new wave of breeders refined auto genetics significantly. Strains like **Auto 
 
 **Present Day — Modern Autos:**
 
-Today's top autoflowering strains from leading breeders are virtually indistinguishable from photoperiod strains in potency (20-28% THC), terpene complexity, and flower quality. The ruderalis contribution has been minimized to essentially just the auto-flowering gene and compact size.info
+Today's top autoflowering strains from leading breeders are virtually indistinguishable from photoperiod strains in potency (20-28% THC), terpene complexity, and flower quality. The ruderalis contribution has been minimized to essentially just the auto-flowering gene and compact size.
+
+**ℹ️ Info**
 The evolution of autoflowering genetics is one of the most dramatic examples of rapid, directed plant breeding in agricultural history. In approximately 20 years, breeders transformed a small, low-THC subspecies into high-performance autoflowering cultivars that compete directly with photoperiod genetics.
-:::
 
 ---
 
@@ -374,8 +373,6 @@ The legal cannabis industry is increasingly incorporating autoflowering genetics
 
 **ℹ️ The gap between photoperiod and autoflowering quality continues to narrow each year. What once took breeders 20 years to achieve may take only 5-10 years to replicate for the remaining gaps (yield per plant, training tolerance, and climate-specific adaptation).**
 
-:::
-
 ---
 
 ## Making Your Choice
@@ -448,7 +445,6 @@ Consider each of the following questions:
 | Fast genetics evaluation | **Autoflowering** |
 | Running both simultaneously | **Both** — many growers maintain a photoperiod mother room alongside auto flower rooms. |tip
 Many experienced growers run **both** photoperiod and autoflowering genetics simultaneously. Photoperiods provide the deep cultivation experience, breeding capability, and maximum yield potential. Autos provide fast harvests, perpetual cycles, and a safety net if photoperiod crops encounter issues. There is no rule saying you must choose one or the other exclusively.
-:::
 
 ---
 

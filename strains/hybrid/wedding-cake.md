@@ -75,8 +75,6 @@ Wedding Cake is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, vanilla, and earthy with subtle cherry and spicy undertones. The aroma is dessert-like and indulgent, with a noticeable vanilla sweetness that gives the strain its "Wedding Cake" name.
@@ -84,7 +82,6 @@ Wedding Cake is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

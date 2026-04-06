@@ -78,8 +78,6 @@ Tsunami is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy, pine, and flowery with herbal undertones. The earthy base from myrcene is the foundation, while pine from pinene adds a fresh, clean top note. The flowery character from linalool provides sweetness. The overall profile is natural, clean, and approachable.
@@ -87,7 +85,6 @@ Tsunami is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

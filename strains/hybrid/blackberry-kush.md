@@ -76,8 +76,6 @@ Blackberry Kush is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The sedating body effects may impair coordination and are not suitable for activities requiring alertness.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Berry-forward with earthy and sweet undertones. The Blackberry inheritance gives it a recognizable sweet berry aroma, while the Afghani parent adds an earthy, slightly spicy depth that prevents the sweetness from becoming one-dimensional.
@@ -85,7 +83,6 @@ Blackberry Kush is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -75,8 +75,6 @@ Super Skunk is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Bold skunky and earthy with a sweet finish. The myrcene gives it a deep, herbal quality, while the caryophyllene adds a spicy edge that grounds the profile. The terpinolene contributes a subtle floral sweetness that keeps it from being one-dimensionally pungent. The skunky character is pronounced and unmistakable.
@@ -84,7 +82,6 @@ Super Skunk is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

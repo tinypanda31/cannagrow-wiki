@@ -10,7 +10,7 @@ tags: history, ancient, archaeology, prehistory, china, india, egypt, scythians
 
 Cannabis (*Cannabis sativa* L.) is among the oldest cultivated plants on Earth. Long before it was recognized for its psychoactive properties, humans valued cannabis for its extraordinarily strong fibers -- suitable for rope, textiles, and eventually paper. Over millennia, its medicinal and ritual uses emerged across widely separated civilizations, often independently. The archaeological and textual evidence for ancient cannabis use is extensive, spanning every continent except Antarctica.
 
-**?? Note** This article covers the prehistoric and ancient history of cannabis through approximately 500 CE. For later periods, see [Cannabis in the Medieval World](/history/medieval). All dates are approximate and subject to ongoing archaeological revision.
+**✅ Note** This article covers the prehistoric and ancient history of cannabis through approximately 500 CE. For later periods, see [Cannabis in the Medieval World](/history/medieval). All dates are approximate and subject to ongoing archaeological revision.
 
 
 ---
@@ -43,7 +43,7 @@ Chinese tradition attributes the discovery of cannabis's medicinal properties to
 
 The *Shennong Bencao Jing* lists cannabis (*ma fen* 麻蕡) among its 365 medicines, describing it as a substance that, when taken in excess, "produces visions of demons" but when used properly, can treat a range of conditions. This dual recognition of both psychoactive and therapeutic effects is one of the earliest documented in any civilization.
 
-**?? Scholarly Note** The dating of Shennong to 2737 BCE is legendary rather than historical. The *Shennong Bencao Jing* as a text was likely compiled during the Han dynasty, centuries after the legendary date. However, it almost certainly incorporates much older oral medical traditions. Scholars treat it as evidence of ancient Chinese knowledge of cannabis rather than as a literal document from the third millennium BCE.
+**✅ Scholarly Note** The dating of Shennong to 2737 BCE is legendary rather than historical. The *Shennong Bencao Jing* as a text was likely compiled during the Han dynasty, centuries after the legendary date. However, it almost certainly incorporates much older oral medical traditions. Scholars treat it as evidence of ancient Chinese knowledge of cannabis rather than as a literal document from the third millennium BCE.
 
 
 ### Hemp Paper (~200 -- 100 BCE)
@@ -314,7 +314,7 @@ The foundations laid in antiquity would shape humanity's relationship with canna
 
 ---
 
-**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
+**✅ Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
 
 
 ---

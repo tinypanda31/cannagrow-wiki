@@ -72,8 +72,6 @@ Bubba Kush x Haze is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The transition from energetic to relaxing effects means dosing should be approached carefully -- a dose that feels uplifting initially may become more sedating as the experience progresses.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet and earthy with spicy undertones. The Haze genetics contribute a bright, floral sweetness while the Bubba Kush parent adds deep earthy and musky notes. The caryophyllene content introduces a noticeable peppery spice.
@@ -81,7 +79,6 @@ Bubba Kush x Haze is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

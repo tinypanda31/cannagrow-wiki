@@ -75,8 +75,6 @@ Neville's Haze is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The intensely cerebral nature of Neville's Haze may be overwhelming for users sensitive to sativa effects.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, earthy, and spicy with herbal and pine undertones. The terpinolene dominance gives it a floral, almost perfumed quality that is distinctive of original Haze genetics, with the caryophyllene adding a spicy, peppery edge.
@@ -84,7 +82,6 @@ Neville's Haze is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

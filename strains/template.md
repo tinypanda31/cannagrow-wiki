@@ -9,8 +9,6 @@ Every strain page in this database follows a consistent template designed to mak
 
 **ℹ️ **All strain pages use this standard structure.** If you are contributing to this wiki, follow this template for any new strain pages you create.**
 
-:::
-
 ---
 
 ## Template Sections
@@ -38,7 +36,6 @@ A summary table with the most frequently referenced data points:
 | **Yield** | Relative yield expectation (low, moderate, high) with approximate figures |
 | **Growing Difficulty** | Easy, Moderate, or Difficult based on pest/disease resistance, training needs, and environmental sensitivity |warning
 **Quick stats are approximate ranges.** See the sections below on variability and COAs for important context about why these numbers are ranges rather than exact values.
-:::
 
 ### 3. Genetics & Lineage
 
@@ -82,8 +79,6 @@ Lists the dominant and secondary terpenes found in the strain, typically with ap
 
 **ℹ️ **Terpene expression varies with growing conditions.** Temperature, humidity, light spectrum, soil composition, and harvest timing all affect terpene production. The profiles listed represent typical results under standard growing conditions but can vary significantly.**
 
-:::
-
 ### 6. Effects & Experience
 
 Describes commonly reported effects, organized by:
@@ -93,7 +88,6 @@ Describes commonly reported effects, organized by:
 - **Duration** -- How long effects typically last
 - **Intensity** -- General potency characterization (mild, moderate, strong, very strong)warning
 **Effects are self-reported.** Data in this section comes from user surveys, strain reviews, and published literature. Individual experiences vary widely. Factors include dose, tolerance, individual biology, consumption method, setting, and concurrent substance use. These descriptions are not predictions of any individual's experience.
-:::
 
 ### 7. Aroma & Flavor
 

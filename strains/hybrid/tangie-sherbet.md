@@ -76,8 +76,6 @@ Tangie Sherbet is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The initial cerebral effects may be stimulating, while the later body effects can be sedating at higher doses.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Citrus-forward with sweet and berry undertones. The limonene-dominant profile gives it a bright, tangerine-like citrus aroma that is immediately noticeable. The Sherbert genetics add a sweet, berry-rich undertone that rounds out the citrus brightness with dessert-like depth. The overall aroma is layered and complex, with the citrus character being most prominent but the sweet-berry foundation clearly present.
@@ -85,7 +83,6 @@ Tangie Sherbet is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

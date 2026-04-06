@@ -46,8 +46,6 @@ Freshly harvested cannabis plants or branches are trimmed (removing large stems 
 
 **💡 Professional live resin producers often freeze material on-site at the cultivation facility to minimize the time between harvest and freezing. Cold-chain logistics are maintained throughout the entire supply chain.**
 
-:::
-
 ### Step 2: Extraction
 
 Frozen material is extracted using one of several solvent-based methods, all performed at reduced temperatures:
@@ -119,7 +117,6 @@ Live resin commands a significant price premium over cured resin concentrates du
 
 ## Storage Requirements warning
 Live resin must be kept cold to preserve its terpene profile. Exposure to heat, light, and oxygen rapidly degrades the volatile compounds that make live resin special.
-:::
 
 | Factor | Recommendation |
 |--------|---------------|
@@ -175,15 +172,12 @@ This separation occurs naturally as the concentrate ages. The sauce is exception
 
 **ℹ️ Live resin sauce should not be confused with [Live Rosin](/extraction/live-rosin), which is a completely different product made from ice-water hash pressed into rosin. The names are similar but the production methods and products are distinct.**
 
-:::
-
 ## Edible Applications
 
 Live resin can be used for edibles, but the decision to do so involves trade-offs that consumers should understand before committing this premium concentrate to edible preparation.
 
 ### Suitability for Edibles warning
 **Honest assessment:** While live resin can be used for edibles, the premium terpene profile that makes it desirable for dabbing is largely lost during decarboxylation. The elevated temperatures required for decarboxylation (220-240 degrees F / 104-116 degrees C) drive off many of the volatile terpenes that make live resin special. Consider using live resin for edibles only if you have material that is past its prime for dabbing or if you specifically want the full-spectrum cannabinoid profile in your edible product.
-:::
 
 That said, live resin edibles do offer a **full-spectrum cannabinoid experience** that is difficult to achieve with refined extracts. The complete cannabinoid profile -- including minor cannabinoids like CBG, CBC, and CBN -- is preserved through the decarboxylation process, potentially delivering a more nuanced edible effect compared to distillate-based products.
 

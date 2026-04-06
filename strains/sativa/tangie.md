@@ -75,8 +75,6 @@ Tangie is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Intense tangerine, orange, and citrus with sweet and slightly earthy undertones. The citrus aroma is overwhelming and unmistakable -- one of the most intensely citrus-scented strains in cannabis.
@@ -84,7 +82,6 @@ Tangie is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

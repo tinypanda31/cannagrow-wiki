@@ -75,8 +75,6 @@ Skywalker OG is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Spicy, herbal, and jet fuel with citrus undertones. The OG Kush influence is clearly present in the fuel-forward profile, while the Skywalker parent adds herbal and spicy depth. The aroma is pungent and noticeable.
@@ -84,7 +82,6 @@ Skywalker OG is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

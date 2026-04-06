@@ -76,8 +76,6 @@ King's Custody is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and pine-forward with sweet undertones. The myrcene provides an earthy foundation, while the pinene delivers a fresh pine character that is distinctive and regionally characteristic. The sweet undertones round out the profile and add broad palatability.
@@ -85,7 +83,6 @@ King's Custody is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

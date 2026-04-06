@@ -22,8 +22,6 @@ This guide is written for the practical buyer. Whether you are purchasing your f
 
 **ℹ️ **This guide covers:** borosilicate glass water pipes, bongs, dab rigs, bubblers, and pipes manufactured primarily in China. It does not cover hand-blown artist glass, scientific laboratory glassware, or decorative lead crystal glass. For related topics, see [Smoking Methods](/consumption/smoking), [Dabbing](/consumption/dabbing), and the [Glossary](/glossary).**
 
-:::
-
 ---
 
 ## What Is China Glass?
@@ -67,9 +65,10 @@ The key insight: **country of origin is not a reliable proxy for quality.** The 
 
 It is worth noting briefly that Western consumers' dependence on Chinese manufacturing extends far beyond cannabis glassware. Smartphones, electronics, clothing, furniture, kitchenware, pharmaceuticals, and countless other consumer categories are predominantly or exclusively manufactured in China. The cannabis accessories market is no exception — it is simply one node in a globalized manufacturing system that has been decades in the making.
 
-Many Western brands that sell cannabis glassware under their own labels source from the same Chinese factories that produce unbranded China glass. The difference is often branding, packaging, and markup — not manufacturing origin. This is not inherently bad (quality control and customer service matter), but it is important context when evaluating claims about the inferiority of "China glass" as a category. tip
+Many Western brands that sell cannabis glassware under their own labels source from the same Chinese factories that produce unbranded China glass. The difference is often branding, packaging, and markup — not manufacturing origin. This is not inherently bad (quality control and customer service matter), but it is important context when evaluating claims about the inferiority of "China glass" as a category.
+
+**💡 Tip**
 **Related resources:** For background on consumption methods that use glassware, see [Smoking Methods](/consumption/smoking) and [Dabbing Guide](/consumption/dabbing). For definitions of terms used in this guide, consult the [Glossary](/glossary).
-:::
 
 ---
 
@@ -195,9 +194,7 @@ Some extremely cheap China glass pieces — the $5-10 range found at gas station
 
 **⚠️ **Important note on tone:** Claims about "Chinese manufacturing = toxic" have a long and troubling history in US political discourse, often serving as cover for protectionist economic policy and xenophobic narratives. The same rhetoric has been deployed against Chinese textiles, electronics, food products, and pharmaceuticals — frequently without evidence. In many cases, Western companies that manufacture in China to cut costs while selling under American brands have helped perpetuate these narratives to distance themselves from their own supply chain choices. Evaluate claims critically and demand evidence.**
 
-::: info
-**Bottom line:** The lead fearmongering is not supported by evidence. Evaluate glass on visible quality markers — thickness, welds, stability, joint fit — rather than country-of-origin anxiety. For more on safe consumption practices, see [Harm Reduction](/legal-safety/harm-reduction).
-:::
+**ℹ️ Bottom line:** The lead fearmongering is not supported by evidence. Evaluate glass on visible quality markers — thickness, welds, stability, joint fit — rather than country-of-origin anxiety. For more on safe consumption practices, see [Harm Reduction](/legal-safety/harm-reduction).
 
 ---
 
@@ -266,8 +263,6 @@ Designed for someone new to water pipes who wants a functional, stable, easy-to-
 **Why these specs:** A beaker base provides maximum stability — critical for beginners who may knock the piece over. An 18mm joint is the most common size and makes replacement downstems easy to find. A single perc keeps cleaning simple while providing noticeable filtration. Three-pin ice catchers are reliable without overcomplicating the design.
 
 **💡 **Beginner recommendation:** A 12-inch beaker bong with 3-4mm glass, single honeycomb perc, 18mm female joint, and ice catcher, purchased in the $25-35 range, will serve a new smoker excellently. Do not overspend on your first piece — learn what you like first.**
-
-:::
 
 ### Intermediate Bong
 
@@ -367,7 +362,6 @@ Simple hand pipe with no water filtration.
 
 ![Various percolator types found in China glass pieces — honeycomb, showerhead, tree, inline, and matrix — displayed for comparison](/uploads/images/gear/china-glass/percolator-types.jpg) info
 **Not sure what size you need?** Check the [Glossary](/glossary) for definitions of joint sizes, perc types, and other terminology. For broader context on consumption methods, see [Consumption Overview](/consumption).
-:::
 
 ---
 
@@ -429,8 +423,6 @@ Not all borosilicate glass is equal. The two grades most relevant to cannabis gl
 The difference between these grades matters most for dab rigs, which are exposed to direct torch heat (temperatures of 1000-1400 degrees Fahrenheit at the banger). For water pipes used with flower, the difference is negligible — neither grade will experience anything close to their thermal limits during normal use.
 
 **⚠️ **Dabbing safety:** If you are buying a dab rig specifically for high-temperature dabbing, prioritize pieces confirmed to be Grade 3.3 borosilicate. Most quality China glass in the $30+ range is, but it is worth confirming with the seller. For low-temperature dabbing (the preferred method for flavor and health), either grade is perfectly adequate.**
-
-:::
 
 ### Cleaning Safety
 
@@ -622,6 +614,7 @@ The key principles:
 4. **Maintenance matters more than origin.** A well-maintained $35 China glass piece will outlast a neglected $200 Western piece. Clean regularly, handle carefully, store properly.
 5. **Know when to upgrade and when not to.** If function is all you need, China glass is enough. If you want art, collectibility, or artist support, look elsewhere — and know that you are paying for those things, not for superior function.
 
-Buy smart, inspect carefully, and enjoy your glassware responsibly. info
+Buy smart, inspect carefully, and enjoy your glassware responsibly.
+
+**ℹ️ Info**
 **Related guides:** [Smoking Methods](/consumption/smoking) | [Dabbing Guide](/consumption/dabbing) | [Consumption Overview](/consumption) | [Harm Reduction](/legal-safety/harm-reduction) | [Glossary](/glossary)
-:::

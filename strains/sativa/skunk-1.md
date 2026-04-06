@@ -72,8 +72,6 @@ Skunk #1 is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Skunk #1's moderate THC reflects breeding for consistency and balance, not maximum potency.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Pungent, skunky, and earthy with sweet undertones. The high myrcene content creates the characteristic musky, skunky aroma that is immediately recognizable and gave the strain its name. The overall scent is strong, pervasive, and distinctive -- the aroma that established "skunk" as a cannabis descriptor worldwide.
@@ -81,7 +79,6 @@ Skunk #1 is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

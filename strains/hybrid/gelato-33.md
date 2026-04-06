@@ -76,8 +76,6 @@ Gelato #33 is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, fruity, and lavender with dessert-like and subtle earthy undertones. The aroma is rich and layered, with a noticeable sweetness that resembles dessert or confectionery. The lavender floral character is more pronounced in the #33 phenotype than in other Gelato selections, giving it a distinctive aromatic identity.
@@ -85,7 +83,6 @@ Gelato #33 is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

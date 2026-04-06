@@ -77,8 +77,6 @@ Orange Crush is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Bright orange, citrus, and sweet with berry undertones. The orange aroma is the defining characteristic -- clean, vibrant, and unmistakably citrus. The Blueberry inheritance adds a subtle berry sweetness beneath the citrus top note. The overall profile is fresh, fruity, and highly approachable.
@@ -86,7 +84,6 @@ Orange Crush is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -12,8 +12,6 @@ tags: law, policy, United States, federal, state, Schedule I, legalization, expu
 
 **🚨 **Legal Disclaimer: This page is not legal advice.** Cannabis laws change frequently and vary by jurisdiction. Federal law conflicts with state law. Nothing on this page or anywhere in CannaGrow should be relied upon as a substitute for consulting qualified legal counsel or verifying current law in your jurisdiction. CannaGrow accepts no liability for actions taken based on this content. The information below reflects the legal landscape as of the stated date and may be outdated.**
 
-:::
-
 ---
 
 ## Introduction
@@ -60,9 +58,10 @@ The foundation of US federal cannabis law is the **Controlled Substances Act (CS
 2. **No currently accepted medical use in treatment in the United States**
 3. **Lack of accepted safety for use under medical supervision**
 
-Cannabis remains in Schedule I as of this writing — a classification that places it in the same category as heroin, LSD, ecstasy (MDMA), and peyote. Substances classified in less restrictive schedules include cocaine (Schedule II), anabolic steroids (Schedule III), and most prescription medications (Schedules II-V). info
+Cannabis remains in Schedule I as of this writing — a classification that places it in the same category as heroin, LSD, ecstasy (MDMA), and peyote. Substances classified in less restrictive schedules include cocaine (Schedule II), anabolic steroids (Schedule III), and most prescription medications (Schedules II-V).
+
+**ℹ️ Info**
 **Cannabis is the only Schedule I substance that a majority of Americans now support legalizing.** It is also the only Schedule I substance for which the federal government's own administrative law judge recommended rescheduling, for which an FDA-approved drug exists, for which overwhelming clinical evidence of therapeutic utility has accumulated, and for which the Department of Health and Human Services has formally recommended rescheduling. It remains in Schedule I regardless.
-:::
 
 ### The Classification Persists Despite Overwhelming Contradictory Evidence
 
@@ -110,8 +109,6 @@ The hemp exception simultaneously acknowledged that cannabis is not inherently d
 
 **⚠️ **State-by-state details change frequently.** The table below reflects the landscape as of early 2026. Readers must verify current status in their specific state before making decisions.**
 
-:::
-
 ### States by Legal Status
 
 | Status | States/Territories | Date of Effect | Key Details |
@@ -120,7 +117,6 @@ The hemp exception simultaneously acknowledged that cannabis is not inherently d
 | **Medical Only** | Alabama, Florida, Georgia (limited), Kansas (CBD-only), Louisiana, Mississippi, New Hampshire, North Carolina (CBD-only), Oklahoma, Pennsylvania, South Carolina (CBD-only), South Dakota, Tennessee (CBD-only), Texas (limited), Utah, West Virginia, Wisconsin, Wyoming (CBD-only) | 1996 (CA Prop 215 was first medical, now recreational) through present | Qualifying conditions vary enormously. Some states (Oklahoma) have expansive, accessible programs. Others have laws with no functional supply chain. Some CBD-only programs are extremely limited. |
 | **Fully Illegal** | Idaho, Kansas, Nebraska | N/A | No medical, no CBD program (or extremely narrow). All cannabis offenses criminal. Note: Kansas and Nebraska have considered medical legislation; status may change. | info
 **Puerto Rico, Guam, and the US Virgin Islands** have established medical cannabis programs as US territories. Their status differs from both federal law and state law in complex ways.
-:::
 
 ### Map Placeholder
 
@@ -193,8 +189,6 @@ The SAFE Banking Act's repeated failure is not a reflection of opposition to its
 The result is that cannabis businesses routinely face **effective federal tax rates of 40-70%**, compared to the 21% corporate rate for other businesses. This is not a policy choice designed to regulate a specific industry; it is a mechanical consequence of maintaining cannabis in Schedule I while states have legalized its commerce.
 
 **⚠️ Section 280E applies only to cannabis businesses, not to consumers. Personal possession (even in prohibition states) does not trigger 280E consequences. This section affects only licensed businesses operating under state law.**
-
-:::
 
 ### Rescheduling and 280E
 
@@ -419,7 +413,6 @@ The unregulated nature of the hemp-derived cannabinoid market creates significan
 - **Synthetic processes** — Delta-8 and Delta-10 are typically synthesized from CBD using chemical processes that may leave harmful byproducts
 - **THCA flower** — Functionally identical to high-THC cannabis flower but sold without testing, regulation, or age restriction in many jurisdictions warning
 The hemp-derived cannabinoid market is one of the most significant gaps in US drug policy. Intoxicating products that are chemically similar to Schedule I cannabis are widely available with no testing, no age verification, and no regulation — while state-licensed cannabis businesses face the most stringent regulatory requirements in the consumer goods sector.
-:::
 
 ### The DEA's Position
 

@@ -75,8 +75,6 @@ Bubba Kush is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Distinctive coffee and chocolate notes layered over an earthy, kush foundation. The limonene adds a faint citrus sweetness that rounds out the profile. The aroma is rich and pungent but not overwhelmingly loud.
@@ -84,7 +82,6 @@ Bubba Kush is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

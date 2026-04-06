@@ -324,7 +324,7 @@ Common issues:
 
 1. Verify Wiki.js Markdown module is enabled
 2. Check for unclosed code blocks or tables
-3. Ensure admonition syntax is correct (`::: tip`, `::: warning`, etc.)
+3. Ensure admonition syntax is correct (bold labels like **⚠️ Warning**, **ℹ️ Info**)
 4. Test with a simple page first to isolate the issue
 
 ### Git Sync Conflicts

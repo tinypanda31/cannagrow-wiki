@@ -46,8 +46,6 @@ When cannabis topicals are applied:
 
 **ℹ️ Standard cannabis topicals are generally NON-PSYCHOACTIVE. The cannabinoids act locally on skin and underlying tissue receptors without entering systemic circulation in amounts sufficient to reach the brain. This makes topicals suitable for use during work, driving, and other activities where impairment would be a concern.**
 
-:::
-
 ### Common Uses
 
 | Use | Description | Evidence Level |
@@ -181,7 +179,6 @@ Transdermal patches work by:
 
 ## Making Cannabis-Infused Topicals at Home info
 The following is provided for educational purposes. Always comply with applicable laws regarding cannabis possession and processing.
-:::
 
 ### Simple Cannabis-Infused Salve
 

@@ -76,8 +76,6 @@ SFV OG is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Intense fuel, pine, and citrus with earthy undertones. The fuel aroma is the defining characteristic -- sharp, pungent, and unmistakably OG. The pine character adds a fresh counterpoint, while the citrus limonene provides brightness. The overall profile is bold, complex, and deeply OG.
@@ -85,7 +83,6 @@ SFV OG is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

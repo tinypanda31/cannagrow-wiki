@@ -72,8 +72,6 @@ OG Kush Haze is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The transition from energetic to relaxing effects means dosing should be approached carefully -- a dose that feels uplifting initially may become more sedating as the experience progresses.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Fuel-forward with citrus and earthy undertones. The OG Kush genetics contribute the characteristic diesel-and-fuel aroma while the Haze parent adds bright, floral-citrus notes. The overall scent is pungent and complex with fuel, citrus, and earthy layers.
@@ -81,7 +79,6 @@ OG Kush Haze is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

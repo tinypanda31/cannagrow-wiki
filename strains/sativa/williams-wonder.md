@@ -75,8 +75,6 @@ Williams Wonder is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Pine, earthy, and sweet with subtle herbal undertones. The pinene expression gives it a fresh, forest-like quality, while the myrcene adds a smooth sweetness that softens the sharper pine notes.
@@ -84,7 +82,6 @@ Williams Wonder is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -78,8 +78,6 @@ Banana Kush is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Tropical banana, sweet, and earthy with subtle citrus undertones. The banana aroma is the defining characteristic, supported by an earthy Kush base and a sweet fruit top note. The overall profile is approachable and distinctly tropical.
@@ -87,7 +85,6 @@ Banana Kush is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

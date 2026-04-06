@@ -75,8 +75,6 @@ Critical Plus is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and sweet with a pronounced skunky backbone. The myrcene gives it a deep, herbal quality, while the caryophyllene adds a spicy edge that grounds the profile. The terpinolene contributes a subtle floral sweetness that keeps it from being one-dimensionally pungent.
@@ -84,7 +82,6 @@ Critical Plus is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

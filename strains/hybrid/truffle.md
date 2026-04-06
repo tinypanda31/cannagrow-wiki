@@ -77,8 +77,6 @@ Truffle is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, nutty, and earthy with dessert-like and subtle citrus undertones. The aroma is rich and complex, with a sweet dessert character inherited from Wedding Cake, a distinctive nutty note from the Jealousy influence, and an earthy base. The overall profile is luxurious and layered.
@@ -86,7 +84,6 @@ Truffle is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

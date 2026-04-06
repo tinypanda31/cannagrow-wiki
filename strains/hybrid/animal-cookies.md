@@ -77,8 +77,6 @@ Animal Cookies is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the high THC content, inexperienced users may experience overwhelming effects at standard doses.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, diesel, and earthy with subtle fuel undertones. The aroma is bold and complex, with the sweet-cookie character inherited from GSC blending with the fuel-diesel intensity from the Animal Mints side. The overall profile is pungent and noticeable.
@@ -86,7 +84,6 @@ Animal Cookies is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

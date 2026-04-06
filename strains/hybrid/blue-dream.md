@@ -75,8 +75,6 @@ Blue Dream is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Berry, sweet, and herbal with earthy undertones. The Blueberry inheritance gives it a recognizable sweet berry aroma, while the Haze parent adds an herbal, slightly earthy complexity.
@@ -84,7 +82,6 @@ Blue Dream is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -76,8 +76,6 @@ Watermelon Zkittlez is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Fruity, candy, and watermelon with sweet undertones. The Zkittlez candy character provides a sweet, confectionery base, while the watermelon expression adds a juicy, fresh fruit brightness. The overall aroma is layered and indulgent, with a sweetness that is genuinely reminiscent of candy and watermelon.
@@ -85,7 +83,6 @@ Watermelon Zkittlez is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

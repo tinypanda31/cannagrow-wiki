@@ -79,8 +79,6 @@ Harlequin is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. CBD-rich strains like Harlequin produce significantly less intoxication than high-THC strains.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Earthy and sweet with subtle mango and herbal undertones. The aroma is warm and inviting without being overpowering, reflecting the balanced cannabinoid profile.
@@ -88,7 +86,6 @@ Harlequin is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

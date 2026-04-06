@@ -75,8 +75,6 @@ Bubba Pre-98 is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. Due to the deeply sedating nature of this strain, it is not recommended for daytime use or when operating vehicles or machinery.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Coffee, earthy, and sweet with pungent Kush undertones. The myrcene-dominant profile gives it a deep, musky earthiness with a recognizable coffee-like roasted character. Subtle sweet notes from limonene round out the pungent base.
@@ -84,7 +82,6 @@ Bubba Pre-98 is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

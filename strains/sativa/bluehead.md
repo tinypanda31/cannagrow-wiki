@@ -75,8 +75,6 @@ Bluehead is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Berry and citrus with pine undertones. The Blueberry heritage produces a sweet, fruity aroma that is immediately recognizable, while the Haze genetics add a fresh, herbal complexity.
@@ -84,7 +82,6 @@ Bluehead is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

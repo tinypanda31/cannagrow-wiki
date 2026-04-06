@@ -9,8 +9,6 @@ A comprehensive reference of notable cannabis cultivars, organized by type, with
 
 **ℹ️ **Note on Classification** -- The traditional indica/sativa/hybrid classification is a cultural convention, not a scientific one. A plant's effects are determined by its **cannabinoid and terpene profile**, not by its growth morphology. "Indica" plants tend to be shorter and broader-leafed; "sativa" plants tend to be taller and narrower-leafed. However, these morphological differences do not reliably predict psychoactive effects. Always refer to lab-tested cannabinoid and terpene data rather than type labels when evaluating a strain.**
 
-:::
-
 ---
 
 ## Quick Navigation
@@ -237,7 +235,6 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 206 | [Watermelon Zkittlez](/strains/hybrid/watermelon-zkittlez) | Indica-Dominant | 18-24 | <1 | Myrcene, Caryophyllene, Linalool | Fruity, candy-like, relaxing | Evening, flavor enjoyment | Moderate | 55-65 days |
 | 207 | [Yellow OG](/strains/hybrid/yellow-og) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | Golden, classic OG, uplifting | Daytime-to-evening | Moderate | 60-70 days |warning
 **THC and CBD values are approximate ranges** based on typical lab testing data. Actual values vary significantly between phenotypes, growing conditions, harvest timing, curing methods, and testing laboratories. Always consult a Certificate of Analysis (COA) for the specific batch you are evaluating.
-:::
 
 ---
 
@@ -269,8 +266,6 @@ A COA is a document from an independent laboratory that verifies the cannabinoid
 
 **ℹ️ **Total THC calculation:** Total THC = THCA x 0.877 + THC. THCA (tetrahydrocannabinolic acid) is the non-psychoactive precursor that converts to THC through decarboxylation (heating). The 0.877 factor accounts for molecular weight loss during conversion.**
 
-:::
-
 ### Understanding Lab Testing Variability
 
 Different laboratories may report different values for the same sample due to:
@@ -290,7 +285,6 @@ For these reasons, the values on this wiki represent **typical ranges** observed
 **Not Medical Advice** -- Information about therapeutic or medical uses on these pages reflects commonly reported applications and published research. It does not constitute medical advice. Consult a qualified healthcare professional before using cannabis for any therapeutic purpose.
 
 **Legal Status** -- Cannabis laws vary by jurisdiction. Verify the legal status of cannabis in your location before acquiring or cultivating any strain.
-:::
 
 ---
 

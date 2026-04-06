@@ -38,8 +38,6 @@ The edible experience is fundamentally different from inhalation because of the 
 
 **ℹ️ The conversion of THC to 11-hydroxy-THC is the key reason edibles feel so different from inhaled cannabis. 11-hydroxy-THC produces a more intense, body-heavy, and sometimes psychedelic experience compared to inhaled THC. Individual variation in liver enzymes means the degree of conversion varies significantly between people.**
 
-:::
-
 ## Key Metrics
 
 | Metric | Value | Notes |
@@ -53,7 +51,6 @@ The edible experience is fundamentally different from inhalation because of the 
 
 ### THC Dosing for Edibles danger
 The most common mistake with edibles is consuming too much too soon. Because effects are delayed by 30 minutes to 2 hours, many people consume additional doses before the first dose has taken effect, leading to an overwhelmingly intense experience. ALWAYS wait at least 2 full hours before consuming additional edible doses.
-:::
 
 | Experience Level | Single Dose (THC) | Expected Effects |
 |-----------------|-------------------|-----------------|
@@ -102,8 +99,6 @@ This is the single most important rule for edible consumption:
 
 **ℹ️ Raw cannabis contains cannabinoids in their acidic forms (THCA, CBDA), which are NOT psychoactive. Before cannabis can be infused into edibles, it must be **decarboxylated** -- heated to convert THCA into psychoactive THC.**
 
-:::
-
 ### Decarboxylation Process
 
 **Step 1: Grind**
@@ -124,9 +119,10 @@ Bake in a preheated oven at **220-240 degrees F (104-116 degrees C)** for **30-4
 Remove from oven and let cool. The decarboxylated material will be lightly browned and fragrant.
 
 **Step 5: Use**
-The decarboxylated cannabis is now ready to be infused into butter, oil, or other edible carriers. tip
+The decarboxylated cannabis is now ready to be infused into butter, oil, or other edible carriers.
+
+**💡 Tip**
 Decarboxylation produces a noticeable cannabis odor. Ensure adequate ventilation during the process.
-:::
 
 ## Decarboxylating Concentrates for Edibles
 
@@ -149,8 +145,6 @@ The decarboxylation guide above covers flower, but many users make edibles from 
 
 **⚠️ Concentrates are dramatically more potent than flower. One gram of 70% THC concentrate contains approximately 700mg THC -- compared to roughly 175mg THC in one gram of 20% THC flower. **Recalculate your doses accordingly.****
 
-:::
-
 ### Worked Dosing Example with Concentrate
 
 Suppose you have **0.5g of rosin** lab-tested at **65% THC**:
@@ -160,9 +154,10 @@ Suppose you have **0.5g of rosin** lab-tested at **65% THC**:
 3. **Account for infusion efficiency (~70%):** 293mg × 0.70 = **~205mg THC infused**
 4. **Divide by servings:** If you use this to make 20 gummies, each contains **~10mg THC**
 
-At 10mg per gummy, this batch yields approximately **20 standard doses** -- suitable for moderate-experience users. tip
+At 10mg per gummy, this batch yields approximately **20 standard doses** -- suitable for moderate-experience users.
+
+**💡 Tip**
 Always use lab-tested potency values when available. If testing data is unavailable, use conservative potency estimates and start with smaller servings.
-:::
 
 For a deep dive into the decarboxylation process, visit the [full decarboxylation guide](/science/decarboxylation). For information on how these concentrates are produced, see the [extraction overview](/extraction).
 
@@ -182,8 +177,6 @@ Different concentrates bring different qualities to edible preparation. Here is 
 | **Live Resin / Live Rosin** | High (50-75%) | Full terpene profile | Premium full-spectrum edibles | Best flavor and aroma pre-decarb; **terpene loss during decarb is expected**; premium cost. See [Live Resin](/extraction/live-resin) and [Live Rosin](/extraction/live-rosin) |
 
 **ℹ️ For home edible preparation, **rosin**, **hash**, and **kief** are the most practical choices -- they are solventless, accessible, and forgiving to work with. **Distillate** is the easiest to dose precisely but lacks the entourage effect of full-spectrum extracts. **BHO** should only be used if verified lab-tested for residual solvents.**
-
-:::
 
 ## Making Cannabutter (Cannabis-Infused Butter)
 
@@ -215,7 +208,6 @@ To estimate the potency of homemade edibles:
 3. **Account for infusion efficiency:** Not all THC transfers to the butter/oil; assume 60-70% transfer efficiency; so approximately 120mg THC infuses into the butter
 4. **Divide by servings:** If you use this butter to make 24 brownies, each brownie contains approximately 5mg THC warning
 Homemade dosing calculations are approximate. Actual potency depends on many variables including starting material accuracy, decarboxylation completeness, and infusion efficiency. Always start with a small serving and wait 2 hours before consuming more.
-:::
 
 ## Common Edible Mistakes
 
@@ -253,13 +245,10 @@ Edible producers and home preparers should observe standard food safety practice
 
 **⚠️ Cannabinoids degrade over time regardless of storage. THC gradually converts to CBN (cannabinol), which produces more sedating, less euphoric effects. Store edibles in a cool, dark place to slow degradation.**
 
-:::
-
 ## Pet Safety Warning danger
 Dogs are extremely sensitive to THC and can experience severe toxicity from even small amounts of cannabis. Symptoms of THC poisoning in dogs include lethargy, incoordination, dilated pupils, urinary incontinence, tremors, and in severe cases, coma. Cats and other pets are also at risk.
 
 If you suspect your pet has consumed cannabis, contact a veterinarian or animal poison control immediately. Keep ALL cannabis products -- especially edibles that may look like regular food -- securely stored and out of reach of pets.
-:::
 
 ## Safe Storage
 

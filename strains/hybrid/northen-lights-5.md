@@ -76,8 +76,6 @@ Northern Lights #5 is widely reported to produce:
 
 **⚠️ Effects are self-reported and vary by individual, dose, tolerance, and consumption method. Not a prediction of any individual's experience. The sedating body effects may impair coordination and are not suitable for activities requiring alertness.**
 
-:::
-
 ## Aroma & Flavor
 
 - **Smell:** Sweet, earthy, and spicy with pine undertones. The myrcene provides a sweet-earthy foundation, while caryophyllene adds a noticeable spicy warmth. The pinene contributes a fresh pine character that adds brightness and depth. The overall aroma is classic indica -- warm, comforting, and immediately recognizable to experienced users.
@@ -85,7 +83,6 @@ Northern Lights #5 is widely reported to produce:
 
 ## Medical Usesdanger
 **Not Medical Advice** -- The following lists commonly reported therapeutic applications. This does not constitute medical advice. Consult a healthcare professional before using cannabis therapeutically.
-:::
 
 Commonly reported uses include:
 

@@ -6,7 +6,7 @@ tags: harm-reduction, safety, health, risk, evidence-based
 
 # Harm Reduction
 
-**?? Medical Disclaimer** **This page provides educational information only and does not constitute medical advice.** If you have health concerns related to cannabis use, consult a qualified healthcare professional. In a medical emergency, contact your local emergency services immediately.
+**✅ Medical Disclaimer** **This page provides educational information only and does not constitute medical advice.** If you have health concerns related to cannabis use, consult a qualified healthcare professional. In a medical emergency, contact your local emergency services immediately.
 
 
 ---
@@ -101,7 +101,7 @@ Smoking cannabis involves inhaling combustion products, many of which are known 
 | **Tinctures (sublingual)** | **No lung impact** — absorbed under the tongue | Precise dosing possible |
 | **Topicals** | **No lung impact** — applied to skin | Generally non-intoxicating |
 
-**?? Vaporization Is Not Risk-Free** While vaporization reduces exposure to combustion byproducts, the long-term health effects of inhaling vaporized plant material or concentrates are not fully understood. Vaporization is **less harmful** than smoking but not **harmless**.
+**✅ Vaporization Is Not Risk-Free** While vaporization reduces exposure to combustion byproducts, the long-term health effects of inhaling vaporized plant material or concentrates are not fully understood. Vaporization is **less harmful** than smoking but not **harmless**.
 
 
 ### Harm Reduction Guidance for Inhalation
@@ -143,7 +143,7 @@ Cannabis products — particularly those from unregulated markets — may be con
 | **Recall systems** | Products can be traced and recalled | No traceability |
 | **Packaging** | Child-resistant, tamper-evident | Variable; often non-compliant |
 
-**?? Unregulated Market Warning** If you are in a jurisdiction without a regulated cannabis market, you cannot be certain of what any product contains. This is one of the strongest arguments for legalization and regulation — the ability to test and verify product safety.
+**✅ Unregulated Market Warning** If you are in a jurisdiction without a regulated cannabis market, you cannot be certain of what any product contains. This is one of the strongest arguments for legalization and regulation — the ability to test and verify product safety.
 
 
 ### Harm Reduction Guidance
@@ -230,7 +230,7 @@ Cannabis withdrawal is a recognized syndrome in the DSM-5.
 | **Depressed mood** | 1-3 days | 1-2 weeks |
 | **Physical symptoms** (abdominal pain, shakiness, sweating, fever, chills, headache) | Variable | Usually mild; resolves within 1-2 weeks |
 
-**?? Withdrawal Is Not Dangerous** Unlike alcohol or benzodiazepine withdrawal, cannabis withdrawal is not medically dangerous. However, it can be uncomfortable and is a significant barrier to quitting for some individuals.
+**✅ Withdrawal Is Not Dangerous** Unlike alcohol or benzodiazepine withdrawal, cannabis withdrawal is not medically dangerous. However, it can be uncomfortable and is a significant barrier to quitting for some individuals.
 
 
 ### Harm Reduction Guidance

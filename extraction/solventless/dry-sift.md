@@ -34,8 +34,6 @@ The simplest form of kief collection occurs as a byproduct of grinding cannabis 
 
 **💡 A clean, dry grinder produces better kief. Sticky or moist plant material clogs the screen and reduces collection efficiency. Store grinders in a cool, dry place.**
 
-:::
-
 ### Accumulation and Collection
 
 - Kief accumulates gradually in the bottom chamber of a 4-piece grinder
@@ -58,7 +56,6 @@ Purpose-built dry sift screens provide far superior results compared to grinder 
 | 45-70 microns | Smallest trichome heads | Premium grade, lower yield |
 | 25-45 microns | Very small trichomes, some contaminants | Specialized sifting | info
 Smaller micron screens produce purer kief but with lower yields. Many sifters use multiple screens in sequence to separate different grades simultaneously.
-:::
 
 ### Screen Materials
 
@@ -100,8 +97,6 @@ Collection tray (finest particles)
 Start with properly dried and cured cannabis flower or trim. Material that is too moist will clump and clog screens; material that is too dry may shatter into fine plant particles that contaminate the kief. Ideal moisture content allows trichomes to detach cleanly without excessive plant matter breaking off.
 
 **💡 Some practitioners briefly freeze material (15-30 minutes) before sifting. Cold makes trichomes more brittle and easier to separate from the plant surface.**
-
-:::
 
 **Step 2: Load the Screen**
 
@@ -185,7 +180,6 @@ Applying gentle heat along with pressure produces a more pliable, aromatic hash:
 4. Press firmly with a flat object for 5-15 minutes
 5. Unfold and check consistency -- repeat if a firmer texture is desired tip
 Lower temperatures preserve more terpenes. Excessive heat degrades aromatic compounds and can begin decarboxylation prematurely.
-:::
 
 ### Traditional Hand-Rolled Charas
 

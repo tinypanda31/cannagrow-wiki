@@ -73,7 +73,7 @@ Remove from the oven and let cool on the baking sheet for 10-15 minutes. The dec
 |-----------|-------|
 | **Temperature** | 240°F (115°C) |
 | **Time** | 30-40 minutes |
-| **Grind Size** | Coarse (sea salt颗粒) |
+| **Grind Size** | Coarse (sea salt) |
 | **Target Color** | Golden-brown / light tan |
 | **Odor** | Noticeable cannabis aroma; ensure ventilation |
 | **Efficiency** | ~80-90% THCA conversion to THC |

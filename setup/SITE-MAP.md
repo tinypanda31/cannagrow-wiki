@@ -359,7 +359,7 @@
 
 ---
 
-**Total Pages: 295**
+**Total Pages: 303**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

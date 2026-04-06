@@ -1,6 +1,6 @@
 ---
 title: Strain Database Index
-description: Comprehensive reference of 208 cannabis strains with cannabinoid profiles, terpene data, effects, and growing information.
+description: Comprehensive reference of 215 cannabis strains with cannabinoid profiles, terpene data, effects, and growing information.
 ---
 
 # Strain Database
@@ -233,7 +233,15 @@ The table below includes all 208 strains in this database. Use the sortable colu
 | 204 | [Toad](/strains/hybrid/toad) | Hybrid | 18-24 | <1 | Myrcene, Caryophyllene, Linalool | Earthy, balanced, unique | All-purpose, exploration | Moderate | 55-65 days |
 | 205 | [Toxic Waste](/strains/hybrid/toxic-waste) | Hybrid | 21-27 | <1 | Caryophyllene, Myrcene, Limonene | Intense, gassy, hazardous | Evening, extreme potency | Difficult | 60-70 days |
 | 206 | [Watermelon Zkittlez](/strains/hybrid/watermelon-zkittlez) | Indica-Dominant | 18-24 | <1 | Myrcene, Caryophyllene, Linalool | Fruity, candy-like, relaxing | Evening, flavor enjoyment | Moderate | 55-65 days |
-| 207 | [Yellow OG](/strains/hybrid/yellow-og) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | Golden, classic OG, uplifting | Daytime-to-evening | Moderate | 60-70 days |warning
+| 207 | [Yellow OG](/strains/hybrid/yellow-og) | Hybrid | 19-25 | <1 | Myrcene, Caryophyllene, Limonene | Golden, classic OG, uplifting | Daytime-to-evening | Moderate | 60-70 days |
+| 208 | [ACDC](/strains/hybrid/acdc) | Hybrid | 0.3-6 | 15-24 | Myrcene, Caryophyllene, Pinene | Earthy, herbal, mild | Daytime, medical relief | Easy-Moderate | 56-70 days |
+| 209 | [Big Bud](/strains/indica/big-bud) | Indica | 15-20 | <1 | Myrcene, Caryophyllene, Humulene | Earthy, sweet, heavy | Evening, relaxation | Easy | 49-63 days |
+| 210 | [Cannatonic](/strains/hybrid/cannatonic) | Hybrid | 4-8 | 6-17 | Myrcene, Pinene, Caryophyllene | Earthy, citrus, mild | Daytime, balanced relief | Moderate | 56-70 days |
+| 211 | [GMO Cookies](/strains/indica/gmo-cookies) | Indica-Dominant | 22-30 | <1 | Caryophyllene, Humulene, Myrcene | Garlic, onion, diesel | Evening, sedation | Moderate-Difficult | 63-70 days |
+| 212 | [Mango Haze](/strains/sativa/mango-haze) | Sativa-Dominant | 16-22 | <1 | Myrcene, Terpinolene, Caryophyllene | Tropical, mango, sweet | Daytime, creativity | Moderate | 63-77 days |
+| 213 | [NYC Diesel](/strains/sativa/nyc-diesel) | Sativa-Dominant | 15-22 | <1 | Limonene, Myrcene, Caryophyllene | Grapefruit, citrus, fuel | Daytime, energizing | Moderate | 63-84 days |
+| 214 | [Sensi Star](/strains/indica/sensi-star) | Indica | 18-24 | <1 | Myrcene, Caryophyllene, Limonene | Earthy, spicy, resinous | Evening, heavy sedation | Easy-Moderate | 56-63 days |
+| 215 | [Super Sour Diesel](/strains/sativa/super-sour-diesel) | Sativa-Dominant | 20-26 | 2-3 | Limonene, Carene, Caryophyllene | Diesel, sour, citrus | Daytime, cerebral | Moderate | 63-77 days |warning
 **THC and CBD values are approximate ranges** based on typical lab testing data. Actual values vary significantly between phenotypes, growing conditions, harvest timing, curing methods, and testing laboratories. Always consult a Certificate of Analysis (COA) for the specific batch you are evaluating.
 
 ---

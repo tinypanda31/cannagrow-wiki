@@ -50,6 +50,7 @@ Lighting Equipment | `/cultivation/equipment/lighting` | Cultivation |
 Environmental Control Equipment | `/cultivation/equipment/environment` | Cultivation |
 Containers and Growing Media | `/cultivation/equipment/containers` | Cultivation |
 Tools and Meters | `/cultivation/equipment/tools-meters` | Cultivation |
+Water Quality and Irrigation | `/cultivation/irrigation` | Cultivation |
 Harvesting & Drying | `/cultivation/harvest-dry` | Cultivation |
 Curing & Storage | `/cultivation/cure-store` | Cultivation |
 
@@ -370,7 +371,7 @@ Harm Reduction | `/legal-safety/harm-reduction` | Legal |
 
 ---
 
-**Total Pages: 314**
+**Total Pages: 315**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

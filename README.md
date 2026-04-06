@@ -212,7 +212,7 @@ CannaGrow/
 | Sustainability | 3 | ~14,000 |
 | Glossary | 1 | ~6,000 |
 | Setup & Import Docs | 4 | ~12,000 |
-| **Total** | **314** | **~595,000+** |
+| **Total** | **315** | **~598,000+** |
 
 ---
 

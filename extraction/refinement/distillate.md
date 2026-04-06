@@ -262,7 +262,7 @@ Lab results for distillate typically include:
 - [BHO/PHO](/extraction/bho-pho) -- Common distillate feedstock
 - [Ethanol Extraction](/extraction/ethanol) -- Common distillate feedstock
 - [CO2 Extraction](/extraction/co2) -- Common distillate feedstock
-- [Vaporizing](/consumption/vaporizing) -- Vape cartridges use distillate
+- [Vaporizing](/consumption/vaping/index) -- Vape cartridges use distillate
 - [Edibles](/consumption/edibles/index) -- Distillate for edibles
 - [Cannabinoids](/science/cannabinoids) -- Compounds in distillate
 - [Harm Reduction](/legal-safety/harm-reduction) -- Safety guidelines

@@ -22,7 +22,7 @@ For example, if a product contains 10mg of THC and has a bioavailability of 20%,
 | Method | Onset Time | Duration | Bioavailability | Pros | Cons | Relative Harm Level |
 |--------|-----------|----------|----------------|------|------|-------------------|
 | **[Smoking](/consumption/smoking/index)** | 1-5 minutes | 1-3 hours | ~25-30% | Fast onset; easy to titrate; social ritual; accessible | Combustion byproducts; lung irritation; odor | Moderate |
-| **[Vaporizing](/consumption/vaporizing)** | 2-5 minutes | 1-2.5 hours | ~46% | Fewer harmful byproducts; efficient; less odor; precise temperature | Equipment cost; battery safety; cartridge quality concerns | Low-Moderate |
+| **[Vaporizing](/consumption/vaping/index)** | 2-5 minutes | 1-2.5 hours | ~46% | Fewer harmful byproducts; efficient; less odor; precise temperature | Equipment cost; battery safety; cartridge quality concerns | Low-Moderate |
 | **[Dabbing](/consumption/dabbing/index)** | Immediate | 1-3 hours | High (~60-80%) | Extremely potent; efficient; fast onset; flavorful | Very high THC; equipment cost; learning curve; lung irritation at high temps | Moderate-High |
 | **[Edibles](/consumption/edibles/index)** | 30 min - 2 hours | 4-12 hours | ~10-20% | Long-lasting; discrete; no lung exposure; precise doses available | Delayed onset leads to overconsumption; 11-hydroxy-THC can be overwhelming | Low |
 | **[Tinctures/Sublingual](/consumption/tinctures/index)** | 15-45 min | 4-6 hours | ~15-35% | Discreet; precise dosing; fast for non-inhalation; no lung irritation | Taste (can be masked); slower than inhalation; alcohol base may irritate | Low |
@@ -39,8 +39,9 @@ The harm levels above are relative assessments based on current research. Key fa
 | **Low** | Minimal risks; no combustion; some considerations for product quality | Edibles, Tinctures |
 | **Low-Moderate** | Reduced harmful byproducts compared to smoking; equipment safety considerations | Vaporizing (dry herb) |
 | **Moderate** | Some health risks from combustion byproducts or high-concentration exposure | Smoking |
-| **Moderate-High** | Significant risks from high potency concentrations or combustion of concentrates | Dabbing | warning
-These harm assessments refer specifically to the method of consumption and its direct physical health effects. They do not account for impairment-related risks (such as driving under the influence), mental health considerations, dependency potential, or legal consequences. See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive safety guidance.
+| **Moderate-High** | Significant risks from high potency concentrations or combustion of concentrates | Dabbing |
+
+**⚠️ Warning** These harm assessments refer specifically to the method of consumption and its direct physical health effects. They do not account for impairment-related risks (such as driving under the influence), mental health considerations, dependency potential, or legal consequences. See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive safety guidance.
 
 ## Choosing a Consumption Method
 
@@ -95,8 +96,9 @@ Experienced consumers may explore:
 | **Moderate** | 5-15 mg | Standard recreational dose |
 | **Experienced** | 15-30 mg | Strong effects |
 | **High tolerance** | 30-50+ mg | Medical patients or very experienced consumers |
-| **Clinical** | 50-100+ mg | Under medical supervision only | warning
-These are general guidelines. Individual sensitivity varies dramatically. Factors including body weight, metabolism, tolerance, genetics, and even gut microbiome affect how a given dose will affect an individual. Always start at the low end of the range appropriate for your experience level.
+| **Clinical** | 50-100+ mg | Under medical supervision only |
+
+**⚠️ Warning** These are general guidelines. Individual sensitivity varies dramatically. Factors including body weight, metabolism, tolerance, genetics, and even gut microbiome affect how a given dose will affect an individual. Always start at the low end of the range appropriate for your experience level.
 
 ### CBD Dosing
 
@@ -130,7 +132,7 @@ See [Harm Reduction](/legal-safety/harm-reduction) for comprehensive guidance in
 
 ### Consumption Methods
 - [Smoking](/consumption/smoking/index) -- Joints, pipes, bongs, and combustion
-- [Vaporizing](/consumption/vaporizing) -- Dry herb and concentrate vaporizers
+- [Vaporizing](/consumption/vaping/index) -- Dry herb and concentrate vaporizers
 - [Dabbing](/consumption/dabbing/index) -- Concentrate consumption
 - [Edibles](/consumption/edibles/index) -- Food and beverage infusions
 - [Tinctures & Sublingual](/consumption/tinctures/index) -- Liquid extracts

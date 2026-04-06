@@ -11,7 +11,7 @@ Dabbing is the consumption of cannabis concentrates by vaporizing a small amount
 
 Dabbing has become one of the most popular ways to consume cannabis concentrates, offering exceptional potency, efficiency, and flavor when performed correctly. However, the extremely high concentrations involved and the use of high-temperature equipment require knowledge, care, and appropriate safety precautions.
 
-**⚠️ Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaporizing) or [Edibles](/consumption/edibles/index) before considering dabbing.**
+**⚠️ Dabbing involves extremely high-potency cannabis products and high-temperature equipment. It is not recommended for beginners. If you are new to cannabis, explore lower-potency methods like [Vaporizing](/consumption/vaping/index) or [Edibles](/consumption/edibles/index) before considering dabbing.**
 
 ## What Is Dabbing?
 
@@ -35,8 +35,9 @@ The process:
 | **Heat source** | Butane torch or e-nail (electronic heating element) | $10-$30 (torch); $100-$300+ (e-nail) |
 | **Carb cap** | Cover placed over the banger to control airflow and temperature | $5-$50+ |
 | **Dab tool** | Small implement (metal, glass, or ceramic) for handling concentrates | $3-$20 |
-| **Concentrate container** | Non-stick container for storing concentrates (silicone or glass) | $3-$15 | info
-For guidance on sourcing quality dab rigs, bubblers, and other glass pieces from Chinese manufacturers, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
+| **Concentrate container** | Non-stick container for storing concentrates (silicone or glass) | $3-$15 |
+
+**ℹ️ Note** For guidance on sourcing quality dab rigs, bubblers, and other glass pieces from Chinese manufacturers, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
 
 ### Nail/Banger Materials
 
@@ -115,8 +116,9 @@ When using a torch without an e-nail or infrared thermometer, temperature estima
 | **Red-hot** | 900+ degrees F (482+ degrees C) | Immediately |
 | **Fading red glow** | 700-800 degrees F (371-427 degrees C) | 10-15 seconds |
 | **No visible glow** | 500-600 degrees F (260-316 degrees C) | 30-45 seconds |
-| **Cool to the touch** (not recommended to test) | Near room temperature | 2+ minutes | warning
-Do not rely solely on visual cues for temperature estimation. Using an infrared thermometer or an e-nail with a temperature display is strongly recommended for accurate, consistent dabbing.
+| **Cool to the touch** (not recommended to test) | Near room temperature | 2+ minutes |
+
+**⚠️ Warning** Do not rely solely on visual cues for temperature estimation. Using an infrared thermometer or an e-nail with a temperature display is strongly recommended for accurate, consistent dabbing.
 
 ## The Dabbing Process
 
@@ -186,9 +188,7 @@ Do not rely solely on visual cues for temperature estimation. Using an infrared 
 
 ## Beginner Guidelines
 
-**🚨 Danger**
-
-If you have never dabbed before, please read these guidelines carefully. Dabbing is significantly more intense than smoking flower or consuming edibles.
+**🚨 Danger** If you have never dabbed before, please read these guidelines carefully. Dabbing is significantly more intense than smoking flower or consuming edibles.
 
 ### Beginner Safety Rules
 
@@ -257,7 +257,7 @@ See [Extraction](/extraction/index) for information on how concentrates are prod
 ## Navigation
 
 - [Consumption Overview](/consumption/index) -- All consumption methods
-- [Vaporizing](/consumption/vaporizing) -- Lower-potency vaporization
+- [Vaporizing](/consumption/vaping/index) -- Lower-potency vaporization
 - [Smoking](/consumption/smoking/index) -- Flower combustion
 - [Extraction](/extraction/index) -- How concentrates are made
 - [Live Resin](/extraction/live-resin) -- Premium dabbing concentrate

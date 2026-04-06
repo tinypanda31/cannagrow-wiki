@@ -131,7 +131,7 @@ Live resin must be kept cold to preserve its terpene profile. Exposure to heat, 
 | Use | Description |
 |-----|------------|
 | **Dabbing** | Primary consumption method; live resin's terpene profile shines at low dabbing temperatures. See [Dabbing](/consumption/dabbing/index). |
-| **Vaporizing** | Live resin is formulated into vape cartridges for portable consumption. See [Vaporizing](/consumption/vaporizing). |
+| **Vaporizing** | Live resin is formulated into vape cartridges for portable consumption. See [Vaporizing](/consumption/vaping/index). |
 | **Bowl topping** | Small amounts added to flower for enhanced flavor and potency |
 
 ## Quality Indicators

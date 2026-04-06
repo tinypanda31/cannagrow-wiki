@@ -106,9 +106,9 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 **Concentrate** – Any cannabis extract with elevated cannabinoid levels compared to raw flower. Includes hash, rosin, BHO, distillate, and more. See [Extraction](/extraction/index).
 
-**Conduction** – A heating method where material directly contacts a heated surface. Used in some vaporizers. Less even than convection. See [Vaporizing](/consumption/vaporizing).
+**Conduction** – A heating method where material directly contacts a heated surface. Used in some vaporizers. Less even than convection. See [Vaporizing](/consumption/vaping/index).
 
-**Convection** – A heating method where hot air passes through cannabis material. Used in higher-quality vaporizers for more even heating. See [Vaporizing](/consumption/vaporizing).
+**Convection** – A heating method where hot air passes through cannabis material. Used in higher-quality vaporizers for more even heating. See [Vaporizing](/consumption/vaping/index).
 
 **Cotton Mouth** – Slang for dry mouth, a common side effect of THC consumption. THC temporarily affects saliva production.
 
@@ -444,7 +444,7 @@ A comprehensive reference for cannabis-related terminology. Terms are organized 
 
 ## V
 
-**Vaporize / Vaporizing** – Heating cannabis to a temperature that releases cannabinoids and terpenes as vapor without combustion. Produces fewer harmful byproducts than smoking. See [Vaporizing](/consumption/vaporizing).
+**Vaporize / Vaporizing** – Heating cannabis to a temperature that releases cannabinoids and terpenes as vapor without combustion. Produces fewer harmful byproducts than smoking. See [Vaporizing](/consumption/vaping/index).
 
 **Veg (Vegetative)** – The growth stage of cannabis before flowering, characterized by leaf and stem development. Photoperiod plants require 18+ hours of light to remain in veg.
 

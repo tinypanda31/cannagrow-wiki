@@ -7,7 +7,7 @@ description: "Educational overview of cannabis vaporization -- dry herb and conc
 
 Vaporization (vaping) is a cannabis consumption method that heats cannabis material -- either dry herb or concentrated extracts -- to a temperature that releases cannabinoids and terpenes as vapor without reaching the point of combustion (burning). By avoiding combustion, vaporizing significantly reduces the intake of harmful byproducts associated with smoking.
 
-![Dry herb vaporizer](/uploads/images/consumption/vaporizing.jpg)
+![Dry herb vaporizer](/uploads/images/consumption/vaping.jpg)
 
 Vaporizing has become increasingly popular as a safer alternative to smoking and as a precise, efficient way to consume both flower and concentrates.
 

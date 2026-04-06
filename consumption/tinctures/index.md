@@ -71,8 +71,9 @@ Tincture potency is typically labeled as total milligrams of cannabinoids per bo
 | **Full dropper (1ml standard)** | 1.0 ml | 20-30 drops (varies by dropper and liquid viscosity) |
 | **Half dropper** | 0.5 ml | 10-15 drops |
 | **Quarter dropper** | 0.25 ml | 5-8 drops |
-| **Single drop** | ~0.03-0.05 ml | 1 drop | warning
-Droppers are not perfectly calibrated across manufacturers. Always check the product label for specific mg/ml information and use the provided dropper. When in doubt, start with a fraction of a dropper and wait for effects before consuming more.
+| **Single drop** | ~0.03-0.05 ml | 1 drop |
+
+**⚠️ Warning** Droppers are not perfectly calibrated across manufacturers. Always check the product label for specific mg/ml information and use the provided dropper. When in doubt, start with a fraction of a dropper and wait for effects before consuming more.
 
 ### Recommended Starting Doses
 

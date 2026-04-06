@@ -1,5 +1,4 @@
 ---
-path: /consumption/gear/china-glass
 title: China Glass Buyer's Guide
 description: A practical guide to buying Chinese-made borosilicate glass water pipes — what to look for, what to avoid, specs by use case, price ranges, safety, and maintenance.
 ---

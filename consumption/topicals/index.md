@@ -177,8 +177,9 @@ Transdermal patches work by:
 | **Variable absorption** | Individual skin characteristics affect delivery rate |
 | **Psychoactive risk** (THC patches) | May produce unintended intoxication |
 
-## Making Cannabis-Infused Topicals at Home info
-The following is provided for educational purposes. Always comply with applicable laws regarding cannabis possession and processing.
+## Making Cannabis-Infused Topicals at Home
+
+**ℹ️ Note** The following is provided for educational purposes. Always comply with applicable laws regarding cannabis possession and processing.
 
 ### Simple Cannabis-Infused Salve
 

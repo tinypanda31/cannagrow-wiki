@@ -46,8 +46,9 @@ A joint is cannabis rolled in rolling paper, forming a cigarette-like device.
 | **Rice** | Thin, clean burn; nearly tasteless | Slow-moderate | Minimal additives; clean combustion |
 | **Wood pulp** | Thick, easy to roll | Moderate | May contain more additives |
 | **Flax** | Similar to hemp; natural | Slow | Minimal additives |
-| **Bleached (white)** | Chemically whitened | Varies | Bleaching agents (chlorine dioxide) leave trace residues; unbleached (brown) papers are preferred | tip
-Choose unbleached, additive-free rolling papers when possible. Papers labeled "organic," "unbleached," or "natural" are preferable to chemically bleached alternatives. Avoid papers with flavored or colored additives.
+| **Bleached (white)** | Chemically whitened | Varies | Bleaching agents (chlorine dioxide) leave trace residues; unbleached (brown) papers are preferred |
+
+**💡 Tip** Choose unbleached, additive-free rolling papers when possible. Papers labeled "organic," "unbleached," or "natural" are preferable to chemically bleached alternatives. Avoid papers with flavored or colored additives.
 
 ### Blunts
 
@@ -86,8 +87,9 @@ Bongs filter smoke through water before inhalation, cooling the smoke and trappi
 | **Duration** | 1-3 hours |
 | **Bioavailability** | ~25-30% (similar to other smoking methods; water filtration does not significantly increase cannabinoid delivery) |
 | **Water filtration effect** | Cools smoke; traps some water-soluble compounds (including some tar and particulates); makes inhalation smoother |
-| **Common misconception** | Water filtration does NOT make smoking "safe" -- combustion byproducts are still present and inhaled | info
-For guidance on sourcing quality glass bongs and pipes from Chinese manufacturers, including quality inspection tips and pricing, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
+| **Common misconception** | Water filtration does NOT make smoking "safe" -- combustion byproducts are still present and inhaled |
+
+**ℹ️ Note** For guidance on sourcing quality glass bongs and pipes from Chinese manufacturers, including quality inspection tips and pricing, see the [China Glass Buyer's Guide](/consumption/gear/china-glass-buyers-guide).
 
 ### One-Hitters (Shower Pipes)
 
@@ -153,8 +155,9 @@ When cannabis is burned, the resulting smoke contains hundreds of compounds, man
 | Inexpensive | May trigger coughing, especially for beginners |
 | Familiar and well-understood | Rolling skill required for joints/blunts |
 
-## Harm Reduction for Smoking info
-The most effective harm reduction for smoking is to switch to a non-combustion method such as vaporizing. However, for those who choose to smoke, the following practices reduce risk.
+## Harm Reduction for Smoking
+
+**ℹ️ Note** The most effective harm reduction for smoking is to switch to a non-combustion method such as [vaporizing](/consumption/vaping/index). However, for those who choose to smoke, the following practices reduce risk.
 
 ### Practical Harm Reduction Tips
 
@@ -167,7 +170,7 @@ The most effective harm reduction for smoking is to switch to a non-combustion m
 | **Use unbleached papers** | Reduces exposure to bleaching chemical residues |
 | **Choose glass pipes** | Glass doesn't shed particles or add chemical flavors |
 | **Clean equipment regularly** | Resin buildup harbors bacteria and mold |
-| **Consider dry herb vaporizing** | Heats cannabis below combustion temperature, significantly reducing harmful byproducts. See [Vaporizing](/consumption/vaporizing). |
+| **Consider dry herb vaporizing** | Heats cannabis below combustion temperature, significantly reducing harmful byproducts. See [Vaporizing](/consumption/vaping/index). |
 | **Avoid deep inhalation and breath-holding** | Increases tar deposition in the lungs |
 | **Limit frequency** | Reduces cumulative exposure to combustion products |
 
@@ -200,7 +203,7 @@ Clean equipment provides a smoother, cleaner experience and reduces the inhalati
 ## Navigation
 
 - [Consumption Overview](/consumption/index) -- All consumption methods
-- [Vaporizing](/consumption/vaporizing) -- Safer alternative to smoking
+- [Vaporizing](/consumption/vaping/index) -- Safer alternative to smoking
 - [Dabbing](/consumption/dabbing/index) -- Concentrate consumption
 - [Edibles](/consumption/edibles/index) -- Non-inhalation alternative
 - [Cannabinoids](/science/cannabinoids) -- Compounds delivered by smoking

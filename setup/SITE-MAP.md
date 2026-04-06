@@ -297,7 +297,7 @@
 |---|-----------|------|----------|
 | 247 | Consumption Overview | `/consumption` | Consumption |
 | 248 | Smoking | `/consumption/smoking` | Consumption |
-| 249 | Vaporizing | `/consumption/vaporizing` | Consumption |
+| 249 | Vaporizing | `/consumption/vaping` | Consumption |
 | 250 | Edibles | `/consumption/edibles` | Consumption |
 | 251 | Tinctures & Sublingual | `/consumption/tinctures` | Consumption |
 | 252 | Topicals & Transdermals | `/consumption/topicals` | Consumption |

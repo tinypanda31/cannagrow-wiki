@@ -49,8 +49,9 @@ The edible experience is fundamentally different from inhalation because of the 
 
 ## Dosing Guide
 
-### THC Dosing for Edibles danger
-The most common mistake with edibles is consuming too much too soon. Because effects are delayed by 30 minutes to 2 hours, many people consume additional doses before the first dose has taken effect, leading to an overwhelmingly intense experience. ALWAYS wait at least 2 full hours before consuming additional edible doses.
+### THC Dosing for Edibles
+
+**🚨 Danger** The most common mistake with edibles is consuming too much too soon. Because effects are delayed by 30 minutes to 2 hours, many people consume additional doses before the first dose has taken effect, leading to an overwhelmingly intense experience. ALWAYS wait at least 2 full hours before consuming additional edible doses.
 
 | Experience Level | Single Dose (THC) | Expected Effects |
 |-----------------|-------------------|-----------------|
@@ -206,8 +207,9 @@ To estimate the potency of homemade edibles:
 1. **Determine THC content of starting material:** If your flower tests at 20% THC, then 1 gram contains approximately 200mg THC
 2. **Account for decarboxylation efficiency:** Approximately 80-90% of THCA converts to THC; so 1g of 20% flower yields approximately 175mg THC
 3. **Account for infusion efficiency:** Not all THC transfers to the butter/oil; assume 60-70% transfer efficiency; so approximately 120mg THC infuses into the butter
-4. **Divide by servings:** If you use this butter to make 24 brownies, each brownie contains approximately 5mg THC warning
-Homemade dosing calculations are approximate. Actual potency depends on many variables including starting material accuracy, decarboxylation completeness, and infusion efficiency. Always start with a small serving and wait 2 hours before consuming more.
+4. **Divide by servings:** If you use this butter to make 24 brownies, each brownie contains approximately 5mg THC
+
+**⚠️ Warning** Homemade dosing calculations are approximate. Actual potency depends on many variables including starting material accuracy, decarboxylation completeness, and infusion efficiency. Always start with a small serving and wait 2 hours before consuming more.
 
 ## Common Edible Mistakes
 
@@ -245,8 +247,9 @@ Edible producers and home preparers should observe standard food safety practice
 
 **⚠️ Cannabinoids degrade over time regardless of storage. THC gradually converts to CBN (cannabinol), which produces more sedating, less euphoric effects. Store edibles in a cool, dark place to slow degradation.**
 
-## Pet Safety Warning danger
-Dogs are extremely sensitive to THC and can experience severe toxicity from even small amounts of cannabis. Symptoms of THC poisoning in dogs include lethargy, incoordination, dilated pupils, urinary incontinence, tremors, and in severe cases, coma. Cats and other pets are also at risk.
+## Pet Safety Warning
+
+**🚨 Danger** Dogs are extremely sensitive to THC and can experience severe toxicity from even small amounts of cannabis. Symptoms of THC poisoning in dogs include lethargy, incoordination, dilated pupils, urinary incontinence, tremors, and in severe cases, coma. Cats and other pets are also at risk.
 
 If you suspect your pet has consumed cannabis, contact a veterinarian or animal poison control immediately. Keep ALL cannabis products -- especially edibles that may look like regular food -- securely stored and out of reach of pets.
 
@@ -289,7 +292,7 @@ If you suspect your pet has consumed cannabis, contact a veterinarian or animal 
 - [Consumption Overview](/consumption/index) -- All consumption methods
 - [Tinctures](/consumption/tinctures/index) -- Liquid alternative to edibles
 - [Smoking](/consumption/smoking/index) -- Inhalation alternative
-- [Vaporizing](/consumption/vaporizing) -- Inhalation alternative
+- [Vaporizing](/consumption/vaping/index) -- Inhalation alternative
 - [Cannabinoids](/science/cannabinoids) -- THC, CBD, and 11-hydroxy-THC
 - [Extraction](/extraction/index) -- How edible concentrates are made
 - [Harm Reduction](/legal-safety/harm-reduction) -- Comprehensive safety guidance

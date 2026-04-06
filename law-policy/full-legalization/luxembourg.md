@@ -30,7 +30,7 @@ The reform was driven by a coalition government led by the Democratic Party (Par
 | [[/law-policy/full-legalization/malta]] | Cannabis law in Malta — the first EU nation to legalize |
 | [[/law-policy/full-legalization/germany]] | Cannabis law in Germany — the largest EU economy to legalize |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/legal-safety/legal]] | Legal rights and harm reduction |
+| [[/law-policy]] | Legal rights and harm reduction |
 | [[/glossary]] | Cannabis terminology and definitions |
 
 ---

@@ -18,9 +18,8 @@ dateCreated: 2026-04-05T06:52:30.689Z
 
 CannaGrow is a free, open educational resource dedicated to providing **neutral, accurate, and comprehensive** information about cannabis (*Cannabis sativa*, *Cannabis indica*, *Cannabis ruderalis*). Our goal is to serve students, researchers, medical professionals, cultivators, and curious readers with content grounded in scientific evidence, historical documentation, and transparent sourcing.
 
-::: warning Disclaimer
-This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
-:::
+**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
+
 
 ---
 
@@ -40,7 +39,7 @@ Select a section below to begin exploring:
 | [Science](/science) | Research and pharmacology of cannabis | Endocannabinoid system, clinical studies |
 | [Bro Science](/science/bro-science) | Myth debunking and common misconceptions | Indica vs. sativa, flushing, hotboxing |
 | [Sustainability](/sustainability) | Environmental and sustainable cultivation | Eco-friendly practices, carbon footprint, waste |
-| [Legal & Safety](/legal-safety/legal) | Laws, regulations, and responsible use | Global legality, harm reduction, safety guidelines |
+| [Legal Landscape](/law-policy) | Laws, regulations, and responsible use | Global legality, harm reduction, safety guidelines |
 | [Law & Policy](/law-policy) | Cannabis law, policy frameworks, and country profiles | Legalization, decriminalization, medical access, regulatory models |
 | [Glossary](/glossary) | Cannabis terminology and definitions | Comprehensive index of terms |
 
@@ -67,7 +66,7 @@ CannaGrow exists to cut through the noise. Every article is:
 | Interested in growing | [Cultivation Overview](/cultivation) |
 | Curious about strains | [Strains Index](/strains) |
 | Researching compounds | [Cannabinoids Overview](/science/cannabinoids) |
-| Checking legality | [Legal Landscape](/legal-safety/legal) |
+| Checking legality | [Legal Landscape](/law-policy) |
 | Looking for medical info | [Science](/science) (with the understanding this is not medical advice) |
 
 ---
@@ -88,9 +87,8 @@ CannaGrow is a community project. If you have expertise in cannabis science, cul
 - Review [How to Contribute](/about) for submission processes
 - All content is licensed under [CC BY-NC-SA 4.0](/about)
 
-::: info Note
-All contributions are reviewed before publication. See our [Editorial Guidelines](/about/editorial) for details on our review process.
-:::
+**?? Note** All contributions are reviewed before publication. See our [Editorial Guidelines](/about/editorial) for details on our review process.
+
 
 ---
 

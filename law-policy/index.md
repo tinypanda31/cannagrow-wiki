@@ -259,7 +259,7 @@ As more nations legalize, the diplomatic cost of maintaining prohibition increas
 
 | Section | Description |
 |---------|-------------|
-| [[/legal-safety/legal]] | Legal rights and harm reduction strategies for cannabis consumers |
+| [[/law-policy]] | Legal rights and harm reduction strategies for cannabis consumers |
 | [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
 | [[/sustainability]] | Environmental and sustainability considerations in cannabis |
 | [[/glossary]] | Cannabis terminology and definitions |
@@ -293,7 +293,7 @@ Decriminalization does not always mean decriminalization in practice. Multiple s
 
 Some nations have complex federalism issues where national law differs from state, provincial, or municipal enforcement. The United States is the most prominent example (see [[/law-policy/united-states]]), but Germany also presents federalism dynamics in its implementation of the 2024 legalization law. Understanding the applicable jurisdiction requires understanding which level of government controls which aspects of cannabis policy.
 
-### International Travel
+### International Travel and Border Crossings
 
 Cannabis that is legal in one nation **remains illegal to transport across borders**. International travel with cannabis is illegal even between two nations that have both legalized. This includes:
 
@@ -302,7 +302,26 @@ Cannabis that is legal in one nation **remains illegal to transport across borde
 - Mailing cannabis internationally (a federal drug trafficking offense in most countries)
 - Possessing cannabis in international waters or airspace (subject to flag state law and international treaty)
 
+| Scenario | Legal Risk |
+|----------|-----------|
+| Flying internationally with cannabis | **Very High** — federal and international law violations |
+| Driving across borders with cannabis | **Very High** — border crossings enforce federal law |
+| Mailing cannabis across state/national borders | **Very High** — postal service is federal jurisdiction; adds trafficking charges |
+| Possessing cannabis on federal property (US) | **High** — federal land (national parks, military bases) enforces federal law regardless of state legality |
+
 Border crossings remain a particular risk area, as border authorities operate under national (not subnational) law and may have expanded search powers.
+
+### Hemp and CBD Legality
+
+The legal status of hemp-derived products has created a complex sub-category of cannabis law:
+
+| Region | Status |
+|--------|--------|
+| **United States** | 2018 Farm Bill legalized hemp (< 0.3% delta-9 THC) federally. CBD from hemp is federally legal, but FDA regulates CBD in food/supplements. Delta-8 THC exists in a legal gray area. |
+| **European Union** | Hemp legal if THC < 0.3% and cultivar is on EU approved list. CBD legal in most countries under Novel Food regulations. EU Court of Justice ruled (2020) that CBD is not a narcotic under EU law. |
+| **United Kingdom** | CBD legal as Novel Food; THC limited to < 0.2%. |
+| **Australia** | Low-dose CBD available over-the-counter; higher doses require prescription. |
+| **Japan** | CBD legal; THC strictly prohibited with severe penalties. |
 
 ### Consult Legal Professionals
 
@@ -386,7 +405,7 @@ Until these measures accompany legalization, the transition from prohibition to 
 ### Related Pages
 
 - [[/legal-safety/harm-reduction]] — Practical guidance for safer cannabis use
-- [[/legal-safety/legal]] — Understanding your legal rights
+- [[/law-policy]] — Understanding your legal rights
 - [[/sustainability]] — Environmental and social sustainability in cannabis
 - [[/history/war-on-drugs]] — The War on Dogs and its lasting impact
 - [[/history/modern-legalization]] — How legalization movements emerged

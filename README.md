@@ -200,7 +200,7 @@ CannaGrow/
 | Section | Pages | Word Count (approx.) |
 |---------|-------|---------------------|
 | Core (Home, About, Editorial) | 4 | ~8,000 |
-| Legal & Safety | 3 | ~10,000 |
+| Legal & Safety (Responsible Use, Harm Reduction) | 2 | ~8,000 |
 | History | 6 | ~16,500 |
 | Cultivation | 12 | ~28,000 |
 | Strains (208 strains) | 210 | ~230,000 |
@@ -208,11 +208,11 @@ CannaGrow/
 | Extraction | 10 | ~24,000 |
 | Consumption | 7 | ~18,000 |
 | Science (Cannabinoids, Terpenes, Decarboxylation, Bro Science) | 4 | ~20,000 |
-| Law & Policy (Overview, US, 17 country profiles) | 19 | ~45,000 |
+| Law & Policy (consolidated; US + 17 country profiles) | 19 | ~50,000 |
 | Sustainability | 3 | ~14,000 |
 | Glossary | 1 | ~6,000 |
 | Setup & Import Docs | 4 | ~12,000 |
-| **Total** | **286** | **~485,000+** |
+| **Total** | **285** | **~485,000+** |
 
 ---
 
@@ -325,14 +325,15 @@ See `setup/SITE-MAP.md` for the complete hierarchical listing of all 286 pages.
 
 ## 🤝 Contributing
 
-This wiki is designed for community contribution:
+All contributions are made through the GitHub repository, as Wiki.js 2.x does not handle in-platform edits reliably:
 
-1. Follow the editorial guidelines in `about/editorial.md`
-2. Use the strain template from `strains/template.md`
-3. Maintain neutral, evidence-based tone
-4. Include proper internal links
-5. Add tags and categories
-6. Submit changes via Git pull request (if using Git-backed storage)
+1. Go to [https://github.com/tinypanda31/cannagrow-wiki/](https://github.com/tinypanda31/cannagrow-wiki/)
+2. Fork the repo or request collaborator access
+3. Follow the editorial guidelines in `about/editorial.md`
+4. Use the strain template from `strains/template.md`
+5. Maintain neutral, evidence-based tone
+6. Include proper internal links and tags
+7. Submit a Pull Request for editorial review
 
 ---
 

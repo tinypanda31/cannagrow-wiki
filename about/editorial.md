@@ -8,9 +8,8 @@ tags: editorial, guidelines, standards, contributing
 
 These guidelines define the editorial standards for all content published on CannaGrow. Every contributor and editor is expected to be familiar with and follow these standards.
 
-::: warning Scope
-These guidelines apply to **all content** on CannaGrow, including articles, strain profiles, data tables, images, and page descriptions. Content that does not meet these standards will be returned for revision or removed.
-:::
+**?? Scope** These guidelines apply to **all content** on CannaGrow, including articles, strain profiles, data tables, images, and page descriptions. Content that does not meet these standards will be returned for revision or removed.
+
 
 ---
 
@@ -183,9 +182,7 @@ Use Wiki.js admonition blocks for special content types:
 
 | Block | Syntax | Use Case |
 |-------|--------|----------|
-| Info | `::: info ... :::` | Supplementary context, tips, cross-references |
-| Warning | `::: warning ... :::` | Legal disclaimers, safety concerns, important caveats |
-| Danger | `::: danger ... :::` | Immediate safety risks (contamination, overconsumption, etc.) |
+| Info | `**?? ... :::` | Supplementary context, tips, cross-references |** | Warning | `**?? ... ` | Legal disclaimers, safety concerns, important caveats |** | Danger | ` danger ... :::` | Immediate safety risks (contamination, overconsumption, etc.) |
 | Tip | `::: tip ... :::` | Practical suggestions for readers |
 
 ### Internal Links
@@ -308,17 +305,29 @@ Origin and breeding history.
 - [Related Strain](/strains/strain-name)
 ```
 
-::: warning Strain Data Limitations
-Cannabinoid and terpene percentages vary by grower, harvest, and testing methodology. Profile data should represent **ranges** from multiple sources, not single test results. Always note your sources.
-:::
+**?? Strain Data Limitations** Cannabinoid and terpene percentages vary by grower, harvest, and testing methodology. Profile data should represent **ranges** from multiple sources, not single test results. Always note your sources.
+
 
 ---
 
 ## 7. Review Process
 
+### How to Contribute Edits via GitHub
+
+Wiki.js 2.x does not handle in-platform user edits reliably. **All edits to CannaGrow are made through the GitHub repository**, and then synced to the live wiki via Git storage.
+
+**To submit an edit, new page, or correction:**
+
+1. Go to the [CannaGrow GitHub repository](https://github.com/tinypanda31/cannagrow-wiki/)
+2. **Fork the repo** (or request collaborator access if you are a regular contributor)
+3. Make your changes to the relevant `.md` file, or create a new one
+4. Commit your changes with a clear message explaining what you changed and why
+5. Open a **Pull Request** to the `main` branch
+6. An editor will review your changes before they are merged and synced to the live wiki
+
 ### How Edits Are Reviewed
 
-1. **Submission** — A contributor creates or edits a page and submits it for review
+1. **Submission** — A contributor opens a Pull Request on GitHub with their proposed changes
 2. **Initial check** — An editor verifies the submission meets basic formatting and NPOV requirements
 3. **Substantive review** — An editor with relevant expertise evaluates:
    - Accuracy of factual claims
@@ -326,9 +335,9 @@ Cannabinoid and terpene percentages vary by grower, harvest, and testing methodo
    - Completeness of coverage
    - Adherence to tone and style guidelines
    - Appropriateness of images and data
-4. **Feedback** — The editor provides specific feedback on any issues found
-5. **Revision** — The contributor addresses feedback and resubmits
-6. **Publication** — Once all standards are met, the page is published
+4. **Feedback** — The editor provides specific feedback via Pull Request comments
+5. **Revision** — The contributor addresses feedback and updates the PR
+6. **Merge & Sync** — Once approved, the PR is merged and Wiki.js pulls the updated content from GitHub
 
 ### Review Criteria Checklist
 
@@ -338,7 +347,7 @@ Cannabinoid and terpene percentages vary by grower, harvest, and testing methodo
 - [ ] Tone is educational and objective
 - [ ] Formatting follows Markdown standards
 - [ ] Internal links to relevant CannaGrow pages included
-- [ ] Disclaimer boxes present where required (medical, legal)
+- [ ] Disclaimer sections present where required (medical, legal)
 - [ ] Images properly attributed and licensed
 - [ ] Strain profiles (if applicable) follow template
 - [ ] No promotion of illegal activity
@@ -356,8 +365,6 @@ The following content is not permitted on CannaGrow:
 
 | Content Type | Reason |
 |-------------|--------|
-| Instructions for manufacturing illegal substances in jurisdictions where they are illegal | Legal liability and ethical responsibility |
-| Source information for obtaining cannabis illegally | Promotion of illegal activity |
 | Unverified medical claims presented as fact | Misinformation risk |
 | Personal anecdotes presented as evidence | Not verifiable or generalizable |
 | Defamatory content about individuals or organizations | Legal and ethical liability |
@@ -387,12 +394,11 @@ If you are uncertain whether your content meets these standards:
 
 1. Review this document carefully
 2. Check comparable published pages for examples
-3. Ask a more experienced contributor or editor
+3. Open a Discussion on the [GitHub repository](https://github.com/tinypanda31/cannagrow-wiki/) to ask questions
 4. When in doubt, err on the side of caution — cite more, claim less
 
-::: info Remember
-The goal of these guidelines is not to restrict expression but to ensure that every reader who visits CannaGrow finds information they can trust. Quality standards protect both the reader and the credibility of the project.
-:::
+**?? Remember** The goal of these guidelines is not to restrict expression but to ensure that every reader who visits CannaGrow finds information they can trust. Quality standards protect both the reader and the credibility of the project.
+
 
 ---
 

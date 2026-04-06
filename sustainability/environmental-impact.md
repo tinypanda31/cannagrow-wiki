@@ -621,7 +621,7 @@ The environmental footprint of the cannabis industry is substantial — driven p
 The path forward requires coordinated action from regulators, cultivators, equipment manufacturers, certifiers, researchers, and consumers. The most impactful single action is the transition from indoor HPS cultivation to more energy-efficient methods — whether that means LED-equipped indoor facilities, greenhouse operations, or outdoor sun-grown production. Regulatory reform of waste and packaging requirements represents the second highest-impact lever.
 
 :::tip
-For practical guidance on implementing sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation). For background on regulatory frameworks, see [Legal & Safety](/legal-safety/legal). For definitions of technical terms used throughout this page, consult the [Glossary](/glossary).
+For practical guidance on implementing sustainable cultivation practices, see [Eco-Friendly Cultivation](/sustainability/eco-friendly-cultivation). For background on regulatory frameworks, see [Legal Landscape](/law-policy). For definitions of technical terms used throughout this page, consult the [Glossary](/glossary).
 :::
 
 :::note Related Topics
@@ -631,7 +631,7 @@ For practical guidance on implementing sustainable cultivation practices, see [E
 - [Greenhouse Cultivation](/cultivation/greenhouse) — Greenhouse design and operation
 - [Outdoor Cultivation](/cultivation/outdoor) — Sun-grown cannabis cultivation
 - [Extraction Methods](/extraction) — Cannabis extraction technologies and processes
-- [Legal & Safety Framework](/legal-safety/legal) — Regulatory landscape for cannabis
+- [Legal Landscape](/law-policy) — Regulatory landscape for cannabis
 - [Glossary](/glossary) — Cannabis industry terminology
 :::
 

@@ -31,7 +31,7 @@ Canada's legalization also carried international significance. As a G7 nation, a
 | [[/law-policy/full-legalization/germany]] | Cannabis law in Germany — the largest EU economy to legalize |
 | [[/history/modern-legalization]] | The modern legalization movement |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
-| [[/legal-safety/legal]] | Legal rights and harm reduction |
+| [[/law-policy]] | Legal rights and harm reduction |
 | [[/glossary]] | Cannabis terminology and definitions |
 
 ---

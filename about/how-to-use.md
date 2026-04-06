@@ -8,9 +8,8 @@ tags: navigation, getting-started, how-to, guide
 
 Welcome to CannaGrow. This page will help you navigate the site, understand its structure, and find the information you need efficiently.
 
-::: info Who This Page Is For
-Whether you are a first-time visitor or a returning researcher, this guide covers features and navigation tips that will make your experience smoother.
-:::
+**?? Who This Page Is For** Whether you are a first-time visitor or a returning researcher, this guide covers features and navigation tips that will make your experience smoother.
+
 
 ---
 
@@ -89,9 +88,7 @@ Citations for claims made in the article.
 
 | Element | What It Looks Like | Purpose |
 |---------|-------------------|---------|
-| **Info boxes** | ::: info ... ::: | Supplementary information, tips, or clarifications |
-| **Warning boxes** | ::: warning ... ::: | Safety concerns, legal disclaimers, or important caveats |
-| **Tables** | Pipe-formatted tables | Structured data comparisons (e.g., strain profiles, legal status) |
+| **Info boxes** | **?? ... ::: | Supplementary information, tips, or clarifications |** | **Warning boxes** | **?? ...  | Safety concerns, legal disclaimers, or important caveats |** | **Tables** | Pipe-formatted tables | Structured data comparisons (e.g., strain profiles, legal status) |
 | **Internal links** | [Page Name](/path) | Navigate to other CannaGrow pages |
 | **External links** | [Source Name](https://...) | Link to external references and sources |
 | **Image placeholders** | `![Alt text](/path/to/image)` | Suggested images for the page |
@@ -147,7 +144,7 @@ Strain comparison tables appear on several pages, particularly in the [Strains](
 | **Flavor Profile** | Commonly reported taste and aroma descriptors |
 | **Effects** | Commonly reported effects (subjective, not medical claims) |
 
-::: warning Note on Strain Data
+ warning Note on Strain Data
 Strain characteristics vary significantly between growers, harvests, and testing labs. The values presented represent **typical ranges** reported across multiple sources, not guarantees. Two samples of the same named strain can have very different cannabinoid and terpene profiles depending on growing conditions, harvest timing, and curing methods.
 :::
 
@@ -159,7 +156,7 @@ If you are new to cannabis or to CannaGrow, start here:
 
 1. **Read the Glossary first** — Familiarize yourself with key terms before diving into technical content
 2. **Start with overview pages** — Pages like [Cannabinoids Overview](/science/cannabinoids) and [Consumption Overview](/consumption) provide foundations before you explore specifics
-3. **Use the Legal page** — Before any practical engagement with cannabis, read the [Legal Landscape](/legal-safety/legal) to understand your local context
+3. **Use the Legal page** — Before any practical engagement with cannabis, read the [Legal Landscape](/law-policy) to understand your local context
 4. **Follow internal links** — Pages are interconnected. Use links to discover related topics naturally
 5. **Bookmark the Home page** — The [Home](/home) page serves as a hub with quick links to every major section
 
@@ -173,7 +170,7 @@ For researchers, cultivators, and experienced readers:
 2. **Use tags for cross-cutting research** — Tags like `chemistry` or `medical` span multiple sections and can surface relevant content you might otherwise miss
 3. **Compare tables across pages** — Data tables in different sections may present complementary information (e.g., cannabinoid profiles vs. extraction yields)
 4. **Review edit histories** — If your wiki instance supports it, review page histories to see how content has evolved and what sources have been added
-5. **Contribute corrections** — If you spot outdated or inaccurate information, flag it or submit a correction per our [Editorial Guidelines](/about/editorial)
+5. **Contribute corrections** — All edits are made through our [GitHub repository](https://github.com/tinypanda31/cannagrow-wiki/). Open a Pull Request or issue with your proposed correction per our [Editorial Guidelines](/about/editorial)
 
 ---
 
@@ -183,10 +180,8 @@ You will encounter disclaimer boxes throughout CannaGrow. They serve specific pu
 
 | Disclaimer Type | Appearance | Meaning |
 |----------------|-----------|---------|
-| **Legal Disclaimer** | ::: warning | Information about laws may be outdated or inapplicable to your jurisdiction. Verify locally. |
-| **Medical Disclaimer** | ::: warning | Content is educational only and does not replace professional medical advice. |
-| **Informational Note** | ::: info | Supplementary context that is useful but not critical to understanding the main content. |
-| **Safety Warning** | ::: danger | Immediate safety concern requiring reader attention (e.g., risks of overconsumption, contamination). |
+| **Legal Disclaimer** | **?? | Information about laws may be outdated or inapplicable to your jurisdiction. Verify locally. |** | **Medical Disclaimer** |  warning | Content is educational only and does not replace professional medical advice. |
+| **Informational Note** | **?? | Supplementary context that is useful but not critical to understanding the main content. |** | **Safety Warning** |  danger | Immediate safety concern requiring reader attention (e.g., risks of overconsumption, contamination). |
 
 ---
 

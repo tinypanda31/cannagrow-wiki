@@ -10,9 +10,8 @@ tags: history, overview, timeline, navigation
 
 Cannabis (*Cannabis sativa* L.) holds a unique place in human history. No other plant has been cultivated so continuously, across so many cultures, for so many different purposes -- as a source of fiber, as medicine, as a sacrament, as a commodity, as a criminalized substance, and finally as a legal industry. The history of cannabis is inseparable from the history of civilization itself.
 
-::: info Note
-This section provides a scholarly, evidence-based overview of cannabis history from prehistory to the present. Articles are organized chronologically and thematically. All claims are grounded in historical documentation, archaeological evidence, or peer-reviewed research.
-:::
+**?? Note** This section provides a scholarly, evidence-based overview of cannabis history from prehistory to the present. Articles are organized chronologically and thematically. All claims are grounded in historical documentation, archaeological evidence, or peer-reviewed research.
+
 
 ---
 
@@ -36,9 +35,8 @@ Each era page provides in-depth coverage of the period, including primary source
 
 ### Ancient Origins
 
-::: info [Ancient Origins](/history/ancient-origins)
-Cannabis in prehistory and ancient civilizations -- from the earliest hemp rope found in Taiwan (~8000 BCE) through the classical empires of China, India, Egypt, Persia, and the Scythian steppes. Explore the archaeological record and historical texts that document cannabis's role as fiber, medicine, and sacrament.
-:::
+**?? [Ancient Origins](/history/ancient-origins)** Cannabis in prehistory and ancient civilizations -- from the earliest hemp rope found in Taiwan (~8000 BCE) through the classical empires of China, India, Egypt, Persia, and the Scythian steppes. Explore the archaeological record and historical texts that document cannabis's role as fiber, medicine, and sacrament.
+
 
 **Key topics:**
 
@@ -52,9 +50,8 @@ Cannabis in prehistory and ancient civilizations -- from the earliest hemp rope 
 
 ### Medieval World
 
-::: info [Cannabis in the Medieval World](/history/medieval)
-From the fall of Rome through the early modern period, cannabis remained essential to global economies. The Islamic world developed concentrated preparations (hashish), while European empires relied on hemp for naval cordage and textiles. The 19th century brought cannabis into Western medicine through the work of Irish and French physicians.
-:::
+**?? [Cannabis in the Medieval World](/history/medieval)** From the fall of Rome through the early modern period, cannabis remained essential to global economies. The Islamic world developed concentrated preparations (hashish), while European empires relied on hemp for naval cordage and textiles. The 19th century brought cannabis into Western medicine through the work of Irish and French physicians.
+
 
 **Key topics:**
 
@@ -67,9 +64,8 @@ From the fall of Rome through the early modern period, cannabis remained essenti
 
 ### Prohibition Era
 
-::: warning [The Prohibition Era](/history/prohibition-era)
-The early 20th century saw a dramatic reversal. Through a combination of racial politics, media manipulation, and economic competition, cannabis was criminalized across the Western world. The Marihuana Tax Act of 1937 effectively prohibited cannabis in the United States, and other nations followed.
-:::
+**?? [The Prohibition Era](/history/prohibition-era)** The early 20th century saw a dramatic reversal. Through a combination of racial politics, media manipulation, and economic competition, cannabis was criminalized across the Western world. The Marihuana Tax Act of 1937 effectively prohibited cannabis in the United States, and other nations followed.
+
 
 **Key topics:**
 
@@ -82,9 +78,8 @@ The early 20th century saw a dramatic reversal. Through a combination of racial 
 
 ### War on Drugs
 
-::: warning [The War on Drugs](/history/war-on-drugs)
-President Nixon's 1971 declaration of a "War on Drugs" escalated prohibition to unprecedented levels. Schedule I classification under the Controlled Substances Act restricted research, fueled mass incarceration, and produced stark racial disparities in enforcement -- while the medical cannabis movement began to organize in response.
-:::
+**?? [The War on Drugs](/history/war-on-drugs)** President Nixon's 1971 declaration of a "War on Drugs" escalated prohibition to unprecedented levels. Schedule I classification under the Controlled Substances Act restricted research, fueled mass incarceration, and produced stark racial disparities in enforcement -- while the medical cannabis movement began to organize in response.
+
 
 **Key topics:**
 
@@ -98,9 +93,8 @@ President Nixon's 1971 declaration of a "War on Drugs" escalated prohibition to 
 
 ### Modern Legalization & Renaissance
 
-::: tip [Modern Legalization & Renaissance](/history/modern-legalization)
-Beginning with California's Proposition 215 in 1996, a global movement to legalize cannabis has transformed the legal landscape. Uruguay became the first country to legalize nationally in 2013, Canada followed in 2018, and European nations including Germany have moved toward reform. The CBD boom and accelerating research have sparked a scientific renaissance.
-:::
+**?? [Modern Legalization & Renaissance](/history/modern-legalization)** Beginning with California's Proposition 215 in 1996, a global movement to legalize cannabis has transformed the legal landscape. Uruguay became the first country to legalize nationally in 2013, Canada followed in 2018, and European nations including Germany have moved toward reform. The CBD boom and accelerating research have sparked a scientific renaissance.
+
 
 **Key topics:**
 
@@ -148,7 +142,7 @@ Understanding this history provides essential context for current debates around
 
 | Page | Description |
 |------|-------------|
-| [Legal Landscape](/legal-safety/legal) | Current global cannabis legality by country and jurisdiction |
+| [Legal Landscape](/law-policy) | Current global cannabis legality by country and jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | THC, CBD, and the chemistry of cannabis compounds |
 | [Strains Index](/strains) | Landrace varieties and modern cultivars with historical context |
 | [Consumption Methods](/consumption) | Routes of administration and their historical evolution |
@@ -169,9 +163,8 @@ For readers interested in deeper historical research, the following sources are 
 
 ---
 
-::: warning Disclaimer
-This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/legal-safety/legal) page for current information.
-:::
+**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/law-policy) page for current information.
+
 
 ---
 

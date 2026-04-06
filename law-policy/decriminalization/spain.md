@@ -33,7 +33,7 @@ Spain also has one of **Europe's highest cannabis usage rates**, a fact that has
 | [[/law-policy/decriminalization/netherlands]] | Cannabis law in the Netherlands — the coffee shop model |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/legal-safety/legal]] | Legal rights and harm reduction |
+| [[/law-policy]] | Legal rights and harm reduction |
 | [[/glossary]] | Cannabis terminology and definitions |
 
 ---

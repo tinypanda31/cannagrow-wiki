@@ -31,7 +31,7 @@ Germany's approach is notable for its deliberate, experimental design. Rather th
 | [[/law-policy/full-legalization/canada]] | Cannabis law in Canada — the first G7 nation to legalize |
 | [[/law-policy/full-legalization/malta]] | Cannabis law in Malta — the first EU nation to legalize |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/legal-safety/legal]] | Legal rights and harm reduction |
+| [[/law-policy]] | Legal rights and harm reduction |
 | [[/glossary]] | Cannabis terminology and definitions |
 
 ---

@@ -344,13 +344,12 @@
 ## Legal & Safety
 | # | Page Title | Path | Category |
 |---|-----------|------|----------|
-| 283 | Legal Landscape | `/legal-safety/legal` | Legal |
-| 284 | Responsible Use | `/legal-safety/responsible-use` | Legal |
-| 285 | Harm Reduction | `/legal-safety/harm-reduction` | Legal |
+| 283 | Responsible Use | `/legal-safety/responsible-use` | Legal |
+| 284 | Harm Reduction | `/legal-safety/harm-reduction` | Legal |
 
 ---
 
-**Total Pages: 286**
+**Total Pages: 285**
 
 ### Tag Structure
 - **By Type:** `history`, `cultivation`, `genetics`, `strain`, `extraction`, `consumption`, `science`, `sustainability`, `reference`, `legal`

@@ -41,7 +41,7 @@ This page maps the full complexity of US cannabis law: the federal framework, th
 | [[/history/prohibition-era]] | How cannabis prohibition emerged in the US |
 | [[/history/war-on-drugs]] | The War on Dogs and its domestic and global impact |
 | [[/history/modern-legalization]] | The modern movement toward legalization |
-| [[/legal-safety/legal]] | Legal rights and harm reduction |
+| [[/law-policy]] | Legal rights and harm reduction |
 | [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
 | [[/glossary]] | Cannabis terminology and definitions |
 | [[/science/cannabinoids]] | Cannabinoid science and research |
@@ -550,7 +550,7 @@ These are not peripheral questions. They are the central questions of US cannabi
 | [[/history/prohibition-era]] | How cannabis prohibition emerged in the US |
 | [[/history/war-on-drugs]] | The War on Drugs and its domestic and global impact |
 | [[/history/modern-legalization]] | The modern movement toward legalization |
-| [[/legal-safety/legal]] | Understanding your legal rights |
+| [[/law-policy]] | Understanding your legal rights |
 | [[/legal-safety/harm-reduction]] | Practical harm reduction guidance |
 | [[/glossary]] | Cannabis terminology and definitions |
 | [[/science/cannabinoids]] | Cannabinoid science and research |

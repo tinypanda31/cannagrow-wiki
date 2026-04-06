@@ -14,9 +14,8 @@ dateCreated: 2026-04-05T19:25:37.745Z
 
 The modern cannabis legalization movement has achieved in three decades what abolitionists, suffragists, and civil rights activists worked generations to accomplish. Beginning with California's Proposition 215 in 1996, a wave of state-level, national, and international reforms has transformed cannabis from a criminalized substance into a legal, regulated, and increasingly mainstream product. This article traces the movement from its patient-driven origins through the accelerating reforms of the 2020s.
 
-::: info Note
-This article covers the legalization movement from 1996 through the 2020s. For the prohibition that preceded it, see [The Prohibition Era](/history/prohibition-era) and [The War on Drugs](/history/war-on-drugs). Current legal status by jurisdiction is covered in the [Legal Landscape](/legal-safety/legal) page.
-:::
+**?? Note** This article covers the legalization movement from 1996 through the 2020s. For the prohibition that preceded it, see [The Prohibition Era](/history/prohibition-era) and [The War on Drugs](/history/war-on-drugs). Current legal status by jurisdiction is covered in the [Legal Landscape](/law-policy) page.
+
 
 ---
 
@@ -531,7 +530,7 @@ For detailed, up-to-date legal information on specific countries and policy mode
 |------|-------------|
 | [The Prohibition Era](/history/prohibition-era) | How cannabis became criminalized |
 | [The War on Drugs](/history/war-on-drugs) | Escalation of prohibition and its consequences |
-| [Legal Landscape](/legal-safety/legal) | Current global cannabis legality by jurisdiction |
+| [Legal Landscape](/law-policy) | Current global cannabis legality by jurisdiction |
 | [Cannabinoids Overview](/science/cannabinoids) | THC, CBD, and the chemistry of cannabis |
 | [Strains Index](/strains) | Cultivars driving the legal industry |
 | [Cultivation](/cultivation) | Modern growing techniques for the legal market |
@@ -554,9 +553,8 @@ For detailed, up-to-date legal information on specific countries and policy mode
 
 ---
 
-::: warning Disclaimer
-This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/legal-safety/legal) page for current information.
-:::
+**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here. See the [Legal Landscape](/law-policy) page for current information.
+
 
 ---
 

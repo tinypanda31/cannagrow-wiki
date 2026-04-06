@@ -34,7 +34,7 @@ The irony is that the UK has **one of Europe's highest cannabis usage rates**. D
 | [[/law-policy/medical/colombia]] | Cannabis law in Colombia — export-oriented medical framework |
 | [[/history/war-on-drugs]] | The War on Drugs and its global impact |
 | [[/history/modern-legalization]] | The modern legalization movement |
-| [[/legal-safety/legal]] | Legal rights and harm reduction |
+| [[/law-policy]] | Legal rights and harm reduction |
 | [[/glossary]] | Cannabis terminology and definitions |
 
 ---

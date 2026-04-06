@@ -10,9 +10,8 @@ tags: history, medieval, islamic world, hemp industry, victorian medicine, colon
 
 The period from the fall of the Western Roman Empire (c. 500 CE) through the early 19th century encompasses some of the most consequential developments in cannabis history. During this millennium and a half, cannabis served as the backbone of European naval power through the hemp industry, became central to Islamic cultural and intellectual life through hashish, spread to sub-Saharan Africa and the Americas, and entered the Western medical establishment as a recognized therapeutic agent. This era laid the groundwork for both the prohibition movement of the 20th century and the modern medical cannabis movement that would follow.
 
-::: info Note
-This article covers cannabis history from approximately 500 CE through the early 19th century. For the ancient period, see [Ancient Origins](/history/ancient-origins). For the prohibition era, see [The Prohibition Era](/history/prohibition-era).
-:::
+**?? Note** This article covers cannabis history from approximately 500 CE through the early 19th century. For the ancient period, see [Ancient Origins](/history/ancient-origins). For the prohibition era, see [The Prohibition Era](/history/prohibition-era).
+
 
 ---
 
@@ -315,9 +314,8 @@ Everything was in place for cannabis to continue its gradual integration into mo
 
 ---
 
-::: warning Disclaimer
-This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
-:::
+**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
+
 
 ---
 

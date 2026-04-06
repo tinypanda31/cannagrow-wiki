@@ -20,9 +20,8 @@ Our core principles:
 | **Transparency** | Our editorial standards, review processes, and content licensing are published openly. |
 | **Comprehensiveness** | We aim to cover every significant aspect of cannabis-related knowledge. |
 
-::: warning Disclaimer
-CannaGrow is an **educational resource only**. Nothing published on this site should be construed as medical advice, legal advice, or a recommendation to engage in any activity. Cannabis remains illegal in many jurisdictions. Readers are solely responsible for complying with applicable laws and consulting qualified professionals for personal decisions.
-:::
+**?? Disclaimer** CannaGrow is an **educational resource only**. Nothing published on this site should be construed as medical advice, legal advice, or a recommendation to engage in any activity. Cannabis remains illegal in many jurisdictions. Readers are solely responsible for complying with applicable laws and consulting qualified professionals for personal decisions.
+
 
 ---
 
@@ -38,7 +37,7 @@ CannaGrow's content is organized into the following major sections:
 - **[Extraction](/extraction)** — Methods for isolating and concentrating cannabis compounds
 - **[Consumption](/consumption)** — Routes of administration, pharmacokinetics, and effects
 - **[Science](/science)** — The endocannabinoid system, clinical research, and pharmacology
-- **[Legal & Safety](/legal-safety/legal)** — Global legality, harm reduction, and responsible use
+- **[Legal Landscape](/law-policy)** — Global legality, harm reduction, and responsible use
 - **[Glossary](/glossary)** — Comprehensive cannabis terminology
 
 ---
@@ -59,16 +58,17 @@ For full details, see the [Editorial Guidelines](/about/editorial) page.
 
 ## How to Contribute
 
-CannaGrow welcomes contributions from anyone with relevant knowledge or experience. Here is how to get started:
+CannaGrow welcomes contributions from anyone with relevant knowledge or experience. Because Wiki.js 2.x does not handle in-platform editing reliably, **all contributions are made through our GitHub repository**.
 
 ### Step-by-Step
 
-1. **Create an account** — Registration is required to edit. Contact an administrator for access.
-2. **Read the guidelines** — Familiarize yourself with our [Editorial Guidelines](/about/editorial) before writing.
-3. **Choose a topic** — Check existing pages to avoid duplication. Use the [Glossary](/glossary) to find gaps.
-4. **Draft your content** — Follow the formatting standards described in our editorial guide.
-5. **Submit for review** — All edits pass through editorial review before publication.
-6. **Revise if needed** — Editors may request changes to ensure compliance with our standards.
+1. **Go to the repository** — Visit [https://github.com/tinypanda31/cannagrow-wiki/](https://github.com/tinypanda31/cannagrow-wiki/)
+2. **Fork the repo** (or request collaborator access for regular contributors)
+3. **Read the guidelines** — Familiarize yourself with our [Editorial Guidelines](/about/editorial) before writing
+4. **Choose a topic** — Check existing pages to avoid duplication. Use the [Glossary](/glossary) to find gaps
+5. **Draft your content** — Follow the formatting standards described in our editorial guide. Create or edit the relevant `.md` file
+6. **Open a Pull Request** — Submit your changes for editorial review
+7. **Revise if needed** — Editors may request changes via PR comments to ensure compliance with our standards
 
 ### Who Can Contribute?
 
@@ -84,9 +84,8 @@ We welcome contributors from all backgrounds:
 | Chemists | Extraction methods, compound profiles, analytical techniques |
 | Enthusiasts with expertise | Terminology, strain documentation, consumption methods |
 
-::: info Note
-Credentials are not required to contribute, but all submissions are held to the same editorial standards regardless of the contributor's background. Quality of sourcing and writing matters more than titles.
-:::
+**?? Note** Credentials are not required to contribute, but all submissions are held to the same editorial standards regardless of the contributor's background. Quality of sourcing and writing matters more than titles.
+
 
 ---
 
@@ -133,10 +132,10 @@ CannaGrow is committed to maintaining a respectful, productive environment for a
 CannaGrow is managed by an editorial team responsible for:
 
 - Setting and enforcing editorial standards
-- Reviewing and approving new content
-- Managing the contributor review and onboarding process
+- Reviewing and approving Pull Requests on GitHub
+- Managing contributor onboarding and collaborator access
 - Ensuring legal compliance (licensing, disclaimers, third-party content attribution)
-- Maintaining site infrastructure and organization
+- Maintaining site infrastructure, Git sync, and organization
 
 Editorial decisions are made collaboratively. Major policy changes are discussed openly with contributors before implementation.
 
@@ -145,8 +144,8 @@ Editorial decisions are made collaboratively. Major policy changes are discussed
 ## Contact
 
 - **Editorial inquiries**: See the [Editorial Guidelines](/about/editorial) page
+- **Contributions**: Open a Pull Request or Discussion on the [GitHub repository](https://github.com/tinypanda31/cannagrow-wiki/)
 - **Technical issues**: Contact a site administrator
-- **General questions**: Use the site's built-in discussion or comment features
 
 ---
 

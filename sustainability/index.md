@@ -283,8 +283,7 @@ The Sustainability section of CannaGrow is organized into the following pages:
 
 Whether operating a small personal garden or a commercial cultivation facility, there are concrete steps every grower can take to reduce the environmental footprint of their cannabis operation.
 
-::: tip Quick-Action Items for Cultivators
-| Action | Impact | Difficulty |
+**?? Quick-Action Items for Cultivators** | Action | Impact | Difficulty |
 |--------|--------|------------|
 | **Switch to LED lighting** | 40-60% energy reduction vs. HPS | Moderate (capital investment) |
 | **Implement water recapture and reuse** | Up to 90% water savings with recirculating systems | Moderate |
@@ -295,7 +294,7 @@ Whether operating a small personal garden or a commercial cultivation facility, 
 | **Consider greenhouse or outdoor cultivation** | Dramatically reduces energy footprint | Major (facility change) |
 | **Track energy and water use** | Identifies reduction opportunities and trends | Easy |
 | **Support regenerative agriculture practices** | Builds long-term soil health and ecosystem resilience | Moderate |
-:::
+
 
 ### Lighting
 

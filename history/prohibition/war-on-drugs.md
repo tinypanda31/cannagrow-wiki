@@ -10,9 +10,8 @@ tags: history, war on drugs, nixon, controlled substances act, mass incarceratio
 
 The phrase "War on Drugs" encapsulates the most aggressive and consequential escalation of drug prohibition in world history. Beginning with President Richard Nixon's formal declaration in 1971, the United States -- and subsequently much of the world -- pursued a strategy of criminalization, incarceration, and interdiction that would cost trillions of dollars, imprison millions of people, devastate communities of color, and suppress scientific research on cannabis for an entire generation. Yet this same period also witnessed the birth of the medical cannabis movement that would ultimately begin to reverse the prohibition established in the 1930s.
 
-::: info Note
-This article covers the War on Drugs from 1970 through approximately 2000. For the earlier prohibition period, see [The Prohibition Era](/history/prohibition-era). For the legalization movement, see [Modern Legalization](/history/modern-legalization).
-:::
+**?? Note** This article covers the War on Drugs from 1970 through approximately 2000. For the earlier prohibition period, see [The Prohibition Era](/history/prohibition-era). For the legalization movement, see [Modern Legalization](/history/modern-legalization).
+
 
 ---
 
@@ -68,9 +67,8 @@ President Nixon publicly **rejected** the Shafer Commission's findings before th
 
 This episode is one of the most revealing moments in drug policy history: a president appointed a commission to study cannabis, the commission recommended decriminalization based on evidence, and the president rejected the findings because they conflicted with his predetermined policy position.
 
-::: info Historical Significance
-The Shafer Commission episode demonstrates that the escalation of the War on Drugs was not driven by scientific evidence or public health considerations. The commission's own research contradicted the administration's position, yet the policy continued unchanged. This pattern would repeat throughout the War on Drugs era.
-:::
+**?? Historical Significance** The Shafer Commission episode demonstrates that the escalation of the War on Drugs was not driven by scientific evidence or public health considerations. The commission's own research contradicted the administration's position, yet the policy continued unchanged. This pattern would repeat throughout the War on Drugs era.
+
 
 ---
 
@@ -369,7 +367,7 @@ The policies enacted during the War on Drugs era continue to shape cannabis law 
 |------|-------------|
 | [The Prohibition Era](/history/prohibition-era) | The foundations of cannabis criminalization |
 | [Modern Legalization](/history/modern-legalization) | The reversal of prohibition beginning in 1996 |
-| [Legal Landscape](/legal-safety/legal) | Current global cannabis legality |
+| [Legal Landscape](/law-policy) | Current global cannabis legality |
 | [Cannabinoids Overview](/science/cannabinoids) | The compounds whose research was suppressed |
 | [Science](/science) | Modern research that the War on Drugs delayed |
 
@@ -395,9 +393,8 @@ The policies enacted during the War on Drugs era continue to shape cannabis law 
 
 ---
 
-::: warning Disclaimer
-This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
-:::
+**?? Disclaimer** This wiki is provided **strictly for educational purposes**. Nothing on this site constitutes medical, legal, or professional advice. Cannabis laws vary by jurisdiction and change frequently. Always consult qualified professionals and verify your local laws before taking any action based on information found here.
+
 
 ---
 
